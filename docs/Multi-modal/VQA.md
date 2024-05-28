@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763v1](http://arxiv.org/abs/2405.15763v1)|null|
-|**2024-05-24**|**Sparse Expansion and Neuronal Disentanglement**|Shashata Sawmya et.al.|[2405.15756v1](http://arxiv.org/abs/2405.15756v1)|null|
-|**2024-05-24**|**Data Reconstruction: When You See It and When You Don't**|Edith Cohen et.al.|[2405.15753v1](http://arxiv.org/abs/2405.15753v1)|null|
-|**2024-05-24**|**Characterizing Discourse Group Roles in Inquiry-based University Science Labs**|Tong Wan et.al.|[2405.15746v1](http://arxiv.org/abs/2405.15746v1)|null|
-|**2024-05-24**|**Understanding the differences in Foundation Models: Attention, State Space Models, and Recurrent Neural Networks**|Jerome Sieber et.al.|[2405.15731v1](http://arxiv.org/abs/2405.15731v1)|[link](https://github.com/intelligentcontrolsystems/dsf-mqar)|
-|**2024-05-24**|**Dynamic Latent-Factor Model with High-Dimensional Asset Characteristics**|Adam Baybutt et.al.|[2405.15721v1](http://arxiv.org/abs/2405.15721v1)|null|
-|**2024-05-24**|**Understanding the Star Formation Efficiency in Dense Gas: Initial Results from the CAFFEINE Survey with ArTéMiS**|M. Mattern et.al.|[2405.15713v1](http://arxiv.org/abs/2405.15713v1)|null|
-|**2024-05-24**|**realSEUDO for real-time calcium imaging analysis**|Iuliia Dmitrieva et.al.|[2405.15701v1](http://arxiv.org/abs/2405.15701v1)|null|
-|**2024-05-24**|**Simulation-based inference of radio millisecond pulsars in globular clusters**|Joanna Berteaud et.al.|[2405.15691v1](http://arxiv.org/abs/2405.15691v1)|null|
-|**2024-05-24**|**Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models**|Yongsheng Yu et.al.|[2405.15687v1](http://arxiv.org/abs/2405.15687v1)|null|
-|**2024-05-24**|**Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models**|Yue Zhang et.al.|[2405.15684v1](http://arxiv.org/abs/2405.15684v1)|null|
-|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677v1](http://arxiv.org/abs/2405.15677v1)|null|
-|**2024-05-24**|**Post-selection inference for quantifying uncertainty in changes in variance**|Rachel Carrington et.al.|[2405.15670v1](http://arxiv.org/abs/2405.15670v1)|null|
-|**2024-05-24**|**Enhancing Reentry Support Programs Through Digital Literacy Integration**|Aakash Gautam et.al.|[2405.15669v1](http://arxiv.org/abs/2405.15669v1)|null|
-|**2024-05-24**|**Class Machine Unlearning for Complex Data via Concepts Inference and Data Poisoning**|Wenhan Chang et.al.|[2405.15662v1](http://arxiv.org/abs/2405.15662v1)|null|
-|**2024-05-24**|**Spin-down of a pulsar with a yielding crust**|Denis Nikolaevich Sob'yanin et.al.|[2405.15659v1](http://arxiv.org/abs/2405.15659v1)|null|
-|**2024-05-24**|**Fourier--Stieltjes category for twisted groupoid actions**|Alcides Buss et.al.|[2405.15653v1](http://arxiv.org/abs/2405.15653v1)|null|
-|**2024-05-24**|**M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models**|Hongyu Wang et.al.|[2405.15638v1](http://arxiv.org/abs/2405.15638v1)|[link](https://github.com/m4u-benchmark/m4u)|
-|**2024-05-24**|**Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning**|Thomas De Min et.al.|[2405.15633v1](http://arxiv.org/abs/2405.15633v1)|[link](https://github.com/tdemin16/multi-lane)|
-|**2024-05-24**|**DiffCalib: Reformulating Monocular Camera Calibration as Diffusion-Based Dense Incident Map Generation**|Xiankang He et.al.|[2405.15619v1](http://arxiv.org/abs/2405.15619v1)|null|
-|**2024-05-24**|**Fast-PGM: Fast Probabilistic Graphical Model Learning and Inference**|Jiantong Jiang et.al.|[2405.15605v1](http://arxiv.org/abs/2405.15605v1)|[link](https://github.com/jjiantong/fastpgm)|
-|**2024-05-24**|**Text Generation: A Systematic Literature Review of Tasks, Evaluation, and Challenges**|Jonas Becker et.al.|[2405.15604v1](http://arxiv.org/abs/2405.15604v1)|null|
-|**2024-05-24**|**On the Computational Landscape of Replicable Learning**|Alkis Kalavasis et.al.|[2405.15599v1](http://arxiv.org/abs/2405.15599v1)|null|
-|**2024-05-24**|**Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2405.15574v1](http://arxiv.org/abs/2405.15574v1)|[link](https://github.com/byungkwanlee/meteor)|
-|**2024-05-24**|**RCInvestigator: Towards Better Investigation of Anomaly Root Causes in Cloud Computing Systems**|Shuhan Liu et.al.|[2405.15571v1](http://arxiv.org/abs/2405.15571v1)|null|
-|**2024-05-24**|**SEP: Self-Enhanced Prompt Tuning for Visual-Language Model**|Hantao Yao et.al.|[2405.15549v1](http://arxiv.org/abs/2405.15549v1)|[link](https://github.com/htyao89/sep)|
-|**2024-05-24**|**Mosaic Memory: Fuzzy Duplication in Copyright Traps for Large Language Models**|Igor Shilov et.al.|[2405.15523v1](http://arxiv.org/abs/2405.15523v1)|null|
-|**2024-05-24**|**A Preference-oriented Diversity Model Based on Mutual-information in Re-ranking for E-commerce Search**|Huimu Wang et.al.|[2405.15521v1](http://arxiv.org/abs/2405.15521v1)|null|
-|**2024-05-24**|**On the Convexity and Reliability of the Bethe Free Energy Approximation**|Harald Leisenberger et.al.|[2405.15514v1](http://arxiv.org/abs/2405.15514v1)|null|
-|**2024-05-24**|**Seismic fragility curves fitting revisited: ordinal regression models and their generalization**|Libo Chen et.al.|[2405.15513v1](http://arxiv.org/abs/2405.15513v1)|null|
+|**2024-05-27**|**Matryoshka Multimodal Models**|Mu Cai et.al.|[2405.17430v1](http://arxiv.org/abs/2405.17430v1)|null|
+|**2024-05-27**|**Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**|Kuan-Chih Huang et.al.|[2405.17427v1](http://arxiv.org/abs/2405.17427v1)|[link](https://github.com/kuanchihhuang/reason3d)|
+|**2024-05-27**|**Survival of the Fittest Representation: A Case Study with Modular Addition**|Xiaoman Delores Ding et.al.|[2405.17420v1](http://arxiv.org/abs/2405.17420v1)|null|
+|**2024-05-27**|**Towards One Model for Classical Dimensionality Reduction: A Probabilistic Perspective on UMAP and t-SNE**|Aditya Ravuri et.al.|[2405.17412v1](http://arxiv.org/abs/2405.17412v1)|null|
+|**2024-05-27**|**The Peripatetic Hater: Predicting Movement Among Hate Subreddits**|Daniel Hickey et.al.|[2405.17410v1](http://arxiv.org/abs/2405.17410v1)|null|
+|**2024-05-27**|**THREAD: Thinking Deeper with Recursive Spawning**|Philip Schroeder et.al.|[2405.17402v1](http://arxiv.org/abs/2405.17402v1)|null|
+|**2024-05-27**|**Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models**|ShengYun Peng et.al.|[2405.17374v1](http://arxiv.org/abs/2405.17374v1)|null|
+|**2024-05-27**|**Exploring and steering the moral compass of Large Language Models**|Alejandro Tlaie et.al.|[2405.17345v1](http://arxiv.org/abs/2405.17345v1)|null|
+|**2024-05-27**|**$Ω$-Results for Exponential Sums Related to Maass Cusp Forms for $\mathrm{SL}_3(\mathbb Z)$**|Jesse Jääsaari et.al.|[2405.17340v1](http://arxiv.org/abs/2405.17340v1)|null|
+|**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337v1](http://arxiv.org/abs/2405.17337v1)|null|
+|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336v1](http://arxiv.org/abs/2405.17336v1)|null|
+|**2024-05-27**|**Exploring hidden priors when interpreting gravitational wave and electromagnetic probes of the nuclear equation of state**|Atul Kedia et.al.|[2405.17326v1](http://arxiv.org/abs/2405.17326v1)|null|
+|**2024-05-27**|**Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association**|Tingwei Liu et.al.|[2405.17323v1](http://arxiv.org/abs/2405.17323v1)|null|
+|**2024-05-27**|**All-day Depth Completion**|Vadim Ezhov et.al.|[2405.17315v1](http://arxiv.org/abs/2405.17315v1)|null|
+|**2024-05-27**|**The interpolation problem: When can you pass a curve of a given type through N random points in space?**|Eric Larson et.al.|[2405.17313v1](http://arxiv.org/abs/2405.17313v1)|null|
+|**2024-05-27**|**On the equilibrium solutions in a model for electro-energy-reaction-diffusion systems**|Katharina Hopf et.al.|[2405.17289v1](http://arxiv.org/abs/2405.17289v1)|null|
+|**2024-05-27**|**Asymptotics of extensions of simple $\mathbb Q$-algebras**|Fabian Gundlach et.al.|[2405.17286v1](http://arxiv.org/abs/2405.17286v1)|null|
+|**2024-05-27**|**An extension of Krishnan's central limit theorem to the Brown-Thompson groups**|Valeriano Aiello et.al.|[2405.17275v1](http://arxiv.org/abs/2405.17275v1)|null|
+|**2024-05-27**|**Dissociation and isomerization following ionization of ethylene: insights from non-adiabatic dynamics simulations**|Lina Fransén et.al.|[2405.17266v1](http://arxiv.org/abs/2405.17266v1)|null|
+|**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261v1](http://arxiv.org/abs/2405.17261v1)|null|
+|**2024-05-27**|**The state learner -- a super learner for right-censored data**|Anders Munch et.al.|[2405.17259v1](http://arxiv.org/abs/2405.17259v1)|null|
+|**2024-05-27**|**Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference**|Shengyuan Ye et.al.|[2405.17245v1](http://arxiv.org/abs/2405.17245v1)|null|
+|**2024-05-27**|**The mean solar butterfly diagram and poloidal field generation rate at the surface of the Sun**|Simon Cloutier et.al.|[2405.17185v1](http://arxiv.org/abs/2405.17185v1)|null|
+|**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181v1](http://arxiv.org/abs/2405.17181v1)|null|
+|**2024-05-27**|**Statistical Mechanism Design: Robust Pricing, Estimation, and Inference**|Duarte Gonçalves et.al.|[2405.17178v1](http://arxiv.org/abs/2405.17178v1)|null|
+|**2024-05-27**|**Iteration problem for several chaos in non-autonomous discrete system**|Hongbo Zeng et.al.|[2405.17173v1](http://arxiv.org/abs/2405.17173v1)|null|
+|**2024-05-27**|**Partitioning complete geometric graphs into plane subgraphs**|Adrian Dumitrescu et.al.|[2405.17172v1](http://arxiv.org/abs/2405.17172v1)|null|
+|**2024-05-27**|**Gravitational Wave Cosmology: Be Careful of the Black Hole Mass Spectrum**|Grégoire Pierra et.al.|[2405.17161v1](http://arxiv.org/abs/2405.17161v1)|null|
+|**2024-05-27**|**Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP**|Vagrant Gautam et.al.|[2405.17159v1](http://arxiv.org/abs/2405.17159v1)|null|
+|**2024-05-27**|**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution**|Yong Liu et.al.|[2405.17158v1](http://arxiv.org/abs/2405.17158v1)|[link](https://github.com/yongliuy/patchscaler)|
