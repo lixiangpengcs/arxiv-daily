@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-27**|**Matryoshka Multimodal Models**|Mu Cai et.al.|[2405.17430v1](http://arxiv.org/abs/2405.17430v1)|null|
-|**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2405.17429v1](http://arxiv.org/abs/2405.17429v1)|[link](https://github.com/huang-yh/gaussianformer)|
-|**2024-05-27**|**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**|Zhuoling Li et.al.|[2405.17424v1](http://arxiv.org/abs/2405.17424v1)|null|
-|**2024-05-27**|**Privacy-Aware Visual Language Models**|Laurens Samson et.al.|[2405.17423v1](http://arxiv.org/abs/2405.17423v1)|null|
-|**2024-05-27**|**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**|Hao Dong et.al.|[2405.17419v1](http://arxiv.org/abs/2405.17419v1)|[link](https://github.com/donghao51/multiood)|
-|**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414v1](http://arxiv.org/abs/2405.17414v1)|null|
-|**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405v1](http://arxiv.org/abs/2405.17405v1)|null|
-|**2024-05-27**|**RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control**|Litu Rout et.al.|[2405.17401v1](http://arxiv.org/abs/2405.17401v1)|null|
-|**2024-05-27**|**EASI-Tex: Edge-Aware Mesh Texturing from Single Image**|Sai Raj Kishore Perla et.al.|[2405.17393v1](http://arxiv.org/abs/2405.17393v1)|null|
-|**2024-05-27**|**Non-Unitary Quantum Machine Learning**|Jamie Heredge et.al.|[2405.17388v1](http://arxiv.org/abs/2405.17388v1)|null|
-|**2024-05-27**|**Thermalization and Criticality on an Analog-Digital Quantum Simulator**|Trond I. Andersen et.al.|[2405.17385v1](http://arxiv.org/abs/2405.17385v1)|null|
-|**2024-05-27**|**Model-Agnostic Zeroth-Order Policy Optimization for Meta-Learning of Ergodic Linear Quadratic Regulators**|Yunian Pan et.al.|[2405.17370v1](http://arxiv.org/abs/2405.17370v1)|null|
-|**2024-05-27**|**Predict joint angle of body parts based on sequence pattern recognition**|Amin Ahmadi Kasani et.al.|[2405.17369v1](http://arxiv.org/abs/2405.17369v1)|null|
-|**2024-05-27**|**DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Refocusing,Defocus Rendering and Blur Removal**|Yujie Wang et.al.|[2405.17351v1](http://arxiv.org/abs/2405.17351v1)|null|
-|**2024-05-27**|**Prompt Optimization with Human Feedback**|Xiaoqiang Lin et.al.|[2405.17346v1](http://arxiv.org/abs/2405.17346v1)|[link](https://github.com/xqlin98/apohf)|
-|**2024-05-27**|**Searching for signatures of new physics in $B \to K \, ν\, \overlineν$ to distinguish between Dirac and Majorana neutrinos**|C. S. Kim et.al.|[2405.17341v1](http://arxiv.org/abs/2405.17341v1)|null|
-|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336v1](http://arxiv.org/abs/2405.17336v1)|null|
-|**2024-05-27**|**Refraction FWI of a circular shot OBN acquisition in the Brazilian pre-salt region**|Sérgio Luiz E. F. da Silva et.al.|[2405.17330v1](http://arxiv.org/abs/2405.17330v1)|null|
-|**2024-05-27**|**Novel Approaches for ML-Assisted Particle Track Reconstruction and Hit Clustering**|Uraz Odyurt et.al.|[2405.17325v1](http://arxiv.org/abs/2405.17325v1)|null|
-|**2024-05-27**|**Tracking Small Birds by Detection Candidate Region Filtering and Detection History-aware Association**|Tingwei Liu et.al.|[2405.17323v1](http://arxiv.org/abs/2405.17323v1)|null|
-|**2024-05-27**|**All-day Depth Completion**|Vadim Ezhov et.al.|[2405.17315v1](http://arxiv.org/abs/2405.17315v1)|null|
-|**2024-05-27**|**Controllable Longer Image Animation with Diffusion Models**|Qiang Wang et.al.|[2405.17306v2](http://arxiv.org/abs/2405.17306v2)|null|
-|**2024-05-27**|**Simplicity Bias of Two-Layer Networks beyond Linearly Separable Data**|Nikita Tsoy et.al.|[2405.17299v1](http://arxiv.org/abs/2405.17299v1)|null|
-|**2024-05-27**|**In-sensor Computing ANN Capacitive Sensors**|Guihua Zhao et.al.|[2405.17295v1](http://arxiv.org/abs/2405.17295v1)|null|
-|**2024-05-27**|**ReStorEdge: An edge computing system with reuse semantics**|Adrian-Cristian Nicolaescu et.al.|[2405.17263v2](http://arxiv.org/abs/2405.17263v2)|null|
-|**2024-05-27**|**Does Diffusion Beat GAN in Image Super Resolution?**|Denis Kuznedelev et.al.|[2405.17261v1](http://arxiv.org/abs/2405.17261v1)|null|
-|**2024-05-27**|**GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping**|Junyoung Seo et.al.|[2405.17251v1](http://arxiv.org/abs/2405.17251v1)|null|
-|**2024-05-27**|**An Introduction to Vision-Language Modeling**|Florian Bordes et.al.|[2405.17247v1](http://arxiv.org/abs/2405.17247v1)|null|
-|**2024-05-27**|**NeurTV: Total Variation on the Neural Domain**|Yisi Luo et.al.|[2405.17241v1](http://arxiv.org/abs/2405.17241v1)|null|
-|**2024-05-27**|**Content-Style Decoupling for Unsupervised Makeup Transfer without Generating Pseudo Ground Truth**|Zhaoyang Sun et.al.|[2405.17240v1](http://arxiv.org/abs/2405.17240v1)|[link](https://github.com/snowfallingplum/csd-mt)|
+|**2024-05-28**|**Notes on Applicability of GPT-4 to Document Understanding**|Łukasz Borchmann et.al.|[2405.18433v1](http://arxiv.org/abs/2405.18433v1)|null|
+|**2024-05-28**|**ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention**|Bencheng Liao et.al.|[2405.18425v1](http://arxiv.org/abs/2405.18425v1)|[link](https://github.com/hustvl/vig)|
+|**2024-05-28**|**3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting**|Qihang Zhang et.al.|[2405.18424v1](http://arxiv.org/abs/2405.18424v1)|null|
+|**2024-05-28**|**JWST-TST High Contrast: JWST/NIRCam observations of the young giant planet $β$ Pic b**|Jens Kammerer et.al.|[2405.18422v1](http://arxiv.org/abs/2405.18422v1)|null|
+|**2024-05-28**|**3D StreetUnveiler with Semantic-Aware 2DGS**|Jingwei Xu et.al.|[2405.18416v1](http://arxiv.org/abs/2405.18416v1)|null|
+|**2024-05-28**|**Why are Visually-Grounded Language Models Bad at Image Classification?**|Yuhui Zhang et.al.|[2405.18415v1](http://arxiv.org/abs/2405.18415v1)|[link](https://github.com/yuhui-zh15/vlmclassifier)|
+|**2024-05-28**|**Towards a Sampling Theory for Implicit Neural Representations**|Mahrokh Najaf et.al.|[2405.18410v1](http://arxiv.org/abs/2405.18410v1)|null|
+|**2024-05-28**|**Phased Consistency Model**|Fu-Yun Wang et.al.|[2405.18407v1](http://arxiv.org/abs/2405.18407v1)|null|
+|**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405v1](http://arxiv.org/abs/2405.18405v1)|null|
+|**2024-05-28**|**Stability of the Parabolic Picard Sheaf**|C. Arusha et.al.|[2405.18389v1](http://arxiv.org/abs/2405.18389v1)|null|
+|**2024-05-28**|**Brain Tumor Segmentation (BraTS) Challenge 2024: Meningioma Radiotherapy Planning Automated Segmentation**|Dominic LaBella et.al.|[2405.18383v1](http://arxiv.org/abs/2405.18383v1)|null|
+|**2024-05-28**|**The 2024 Brain Tumor Segmentation (BraTS) Challenge: Glioma Segmentation on Post-treatment MRI**|Maria Correia de Verdier et.al.|[2405.18368v1](http://arxiv.org/abs/2405.18368v1)|null|
+|**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361v1](http://arxiv.org/abs/2405.18361v1)|null|
+|**2024-05-28**|**MMCTAgent: Multi-modal Critical Thinking Agent Framework for Complex Visual Reasoning**|Somnath Kumar et.al.|[2405.18358v1](http://arxiv.org/abs/2405.18358v1)|null|
+|**2024-05-28**|**Universal and Extensible Language-Vision Models for Organ Segmentation and Tumor Detection from Abdominal Computed Tomography**|Jie Liu et.al.|[2405.18356v1](http://arxiv.org/abs/2405.18356v1)|[link](https://github.com/ljwztc/clip-driven-universal-model)|
+|**2024-05-28**|**On in-silico estimation of left ventricular end-diastolic pressure from cardiac strains**|Emilio A. Mendiola et.al.|[2405.18343v1](http://arxiv.org/abs/2405.18343v1)|null|
+|**2024-05-28**|**Frustratingly Easy Test-Time Adaptation of Vision-Language Models**|Matteo Farina et.al.|[2405.18330v1](http://arxiv.org/abs/2405.18330v1)|[link](https://github.com/farinamatteo/zero)|
+|**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326v1](http://arxiv.org/abs/2405.18326v1)|null|
+|**2024-05-28**|**Self-Supervised Learning Based Handwriting Verification**|Mihir Chauhan et.al.|[2405.18320v1](http://arxiv.org/abs/2405.18320v1)|[link](https://github.com/mihir2/ssl-hv)|
+|**2024-05-28**|**Hybrid Multi-Head Physics-informed Neural Network for Depth Estimation in Terahertz Imaging**|Mingjun Xiang et.al.|[2405.18317v1](http://arxiv.org/abs/2405.18317v1)|null|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304v1](http://arxiv.org/abs/2405.18304v1)|[link](https://github.com/virobo-15/mgcc)|
+|**2024-05-28**|**Deep Learning Innovations for Underwater Waste Detection: An In-Depth Analysis**|Jaskaran Singh Walia et.al.|[2405.18299v1](http://arxiv.org/abs/2405.18299v1)|null|
+|**2024-05-28**|**CT-based brain ventricle segmentation via diffusion Schrödinger Bridge without target domain ground truths**|Reihaneh Teimouri et.al.|[2405.18267v1](http://arxiv.org/abs/2405.18267v1)|null|
+|**2024-05-28**|**Text-only Synthesis for Image Captioning**|Qing Zhou et.al.|[2405.18258v1](http://arxiv.org/abs/2405.18258v1)|null|
+|**2024-05-28**|**MSPE: Multi-Scale Patch Embedding Prompts Vision Transformers to Any Resolution**|Wenzhuo Liu et.al.|[2405.18240v1](http://arxiv.org/abs/2405.18240v1)|null|
+|**2024-05-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al.|[2405.18224v1](http://arxiv.org/abs/2405.18224v1)|null|
+|**2024-05-28**|**Observation and manipulation of charge carrier distribution at the SiO$_2$/Si interface**|Maria M. Martins et.al.|[2405.18211v1](http://arxiv.org/abs/2405.18211v1)|null|
+|**2024-05-28**|**Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning**|Vitalis Vosylius et.al.|[2405.18196v1](http://arxiv.org/abs/2405.18196v1)|null|
+|**2024-05-28**|**AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario**|Yuhan Li et.al.|[2405.18172v1](http://arxiv.org/abs/2405.18172v1)|null|
+|**2024-05-28**|**Confidence-aware multi-modality learning for eye disease screening**|Ke Zou et.al.|[2405.18167v1](http://arxiv.org/abs/2405.18167v1)|[link](https://github.com/cocofeat/eyemost)|

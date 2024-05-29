@@ -2,9 +2,15 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-28**|**The influence of solvent on surface adsorption and desorption**|Ardavan Farahvash et.al.|[2405.18263v1](http://arxiv.org/abs/2405.18263v1)|null|
+|**2024-05-28**|**The Knesset Corpus: An Annotated Corpus of Hebrew Parliamentary Proceedings**|Gili Goldin et.al.|[2405.18115v1](http://arxiv.org/abs/2405.18115v1)|null|
+|**2024-05-28**|**HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning**|Shengchao Hu et.al.|[2405.18080v1](http://arxiv.org/abs/2405.18080v1)|null|
+|**2024-05-28**|**SkinCAP: A Multi-modal Dermatology Dataset Annotated with Rich Medical Captions**|Juexiao Zhou et.al.|[2405.18004v1](http://arxiv.org/abs/2405.18004v1)|null|
+|**2024-05-28**|**Towards robust prediction of material properties for nuclear reactor design under scarce data -- a study in creep rupture property**|Yu Chen et.al.|[2405.17862v1](http://arxiv.org/abs/2405.17862v1)|null|
 |**2024-05-27**|**A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning**|Abdulaziz Almuzairee et.al.|[2405.17416v1](http://arxiv.org/abs/2405.17416v1)|null|
 |**2024-05-27**|**Model-Agnostic Zeroth-Order Policy Optimization for Meta-Learning of Ergodic Linear Quadratic Regulators**|Yunian Pan et.al.|[2405.17370v1](http://arxiv.org/abs/2405.17370v1)|null|
 |**2024-05-27**|**The state learner -- a super learner for right-censored data**|Anders Munch et.al.|[2405.17259v1](http://arxiv.org/abs/2405.17259v1)|null|
+|**2024-05-27**|**Time Elastic Neural Networks**|Pierre-François Marteau et.al.|[2405.17516v1](http://arxiv.org/abs/2405.17516v1)|null|
 |**2024-05-27**|**Pretraining with Random Noise for Fast and Robust Learning without Weight Transport**|Jeonghwan Cheon et.al.|[2405.16731v1](http://arxiv.org/abs/2405.16731v1)|null|
 |**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719v1](http://arxiv.org/abs/2405.16719v1)|null|
 |**2024-05-26**|**A CMDP-within-online framework for Meta-Safe Reinforcement Learning**|Vanshaj Khattar et.al.|[2405.16601v1](http://arxiv.org/abs/2405.16601v1)|null|
@@ -26,9 +32,3 @@
 |**2024-05-24**|**Leveraging Unknown Objects to Construct Labeled-Unlabeled Meta-Relationships for Zero-Shot Object Navigation**|Yanwei Zheng et.al.|[2405.15222v2](http://arxiv.org/abs/2405.15222v2)|null|
 |**2024-05-24**|**Meta-meshing and triangulating lattice structures at a large scale**|Qiang Zou et.al.|[2405.15197v1](http://arxiv.org/abs/2405.15197v1)|null|
 |**2024-05-24**|**Towards Better Understanding of In-Context Learning Ability from In-Context Uncertainty Quantification**|Shang Liu et.al.|[2405.15115v1](http://arxiv.org/abs/2405.15115v1)|null|
-|**2024-05-23**|**Fault Tolerant ML: Efficient Meta-Aggregation and Synchronous Training**|Tehila Dahan et.al.|[2405.14759v1](http://arxiv.org/abs/2405.14759v1)|null|
-|**2024-05-23**|**Iterative Causal Segmentation: Filling the Gap between Market Segmentation and Marketing Strategy**|Kaihua Ding et.al.|[2405.14743v1](http://arxiv.org/abs/2405.14743v1)|null|
-|**2024-05-23**|**Circuit realization of topological physics**|Huanhuan Yang et.al.|[2405.14643v1](http://arxiv.org/abs/2405.14643v1)|null|
-|**2024-05-23**|**Deep Learning Classification of Photoplethysmogram Signal for Hypertension Levels**|Nida Nasir et.al.|[2405.14556v1](http://arxiv.org/abs/2405.14556v1)|null|
-|**2024-05-23**|**AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2**|Simon Damm et.al.|[2405.14529v1](http://arxiv.org/abs/2405.14529v1)|null|
-|**2024-05-23**|**Unraveling overoptimism and publication bias in ML-driven science**|Pouria Saidi et.al.|[2405.14422v1](http://arxiv.org/abs/2405.14422v1)|null|

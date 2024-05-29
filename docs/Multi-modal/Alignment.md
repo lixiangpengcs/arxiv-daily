@@ -2,33 +2,33 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-27**|**Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving**|Shaoyuan Xie et.al.|[2405.17426v1](http://arxiv.org/abs/2405.17426v1)|[link](https://github.com/Daniel-xsy/RoboBEV)|
-|**2024-05-27**|**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**|Hao Dong et.al.|[2405.17419v1](http://arxiv.org/abs/2405.17419v1)|[link](https://github.com/donghao51/multiood)|
-|**2024-05-27**|**Fusing uncalibrated IMUs and handheld smartphone video to reconstruct knee kinematics**|J. D. Peiffer et.al.|[2405.17368v1](http://arxiv.org/abs/2405.17368v1)|null|
-|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336v1](http://arxiv.org/abs/2405.17336v1)|null|
-|**2024-05-27**|**All-day Depth Completion**|Vadim Ezhov et.al.|[2405.17315v1](http://arxiv.org/abs/2405.17315v1)|null|
-|**2024-05-27**|**On The Implicit Large Eddy Simulation of Turbomachinery Flows Using The Flux Reconstruction Method**|Feng Wang et.al.|[2405.17288v1](http://arxiv.org/abs/2405.17288v1)|null|
-|**2024-05-27**|**Large Language Models (LLMs): Deployment, Tokenomics and Sustainability**|Haiwei Dong et.al.|[2405.17147v1](http://arxiv.org/abs/2405.17147v1)|null|
-|**2024-05-27**|**Compressed-Language Models for Understanding Compressed File Formats: a JPEG Exploration**|Juan C. Pérez et.al.|[2405.17146v1](http://arxiv.org/abs/2405.17146v1)|null|
-|**2024-05-27**|**LLM-Optic: Unveiling the Capabilities of Large Language Models for Universal Visual Grounding**|Haoyu Zhao et.al.|[2405.17104v2](http://arxiv.org/abs/2405.17104v2)|null|
-|**2024-05-27**|**Ultrafilter extensions of bounded graphs are elementary**|Zalán Molnár et.al.|[2405.17101v1](http://arxiv.org/abs/2405.17101v1)|null|
-|**2024-05-27**|**Evaluation of Multi-task Uncertainties in Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[2405.17097v1](http://arxiv.org/abs/2405.17097v1)|null|
-|**2024-05-27**|**WirelessLLM: Empowering Large Language Models Towards Wireless Intelligence**|Jiawei Shao et.al.|[2405.17053v1](http://arxiv.org/abs/2405.17053v1)|null|
-|**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030v1](http://arxiv.org/abs/2405.17030v1)|null|
-|**2024-05-27**|**Supervised Batch Normalization**|Bilal Faye et.al.|[2405.17027v1](http://arxiv.org/abs/2405.17027v1)|null|
-|**2024-05-27**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013v2](http://arxiv.org/abs/2405.17013v2)|null|
-|**2024-05-27**|**Mitigating Noisy Correspondence by Geometrical Structure Consistency Learning**|Zihua Zhao et.al.|[2405.16996v1](http://arxiv.org/abs/2405.16996v1)|null|
-|**2024-05-27**|**Collective Perception Datasets for Autonomous Driving: A Comprehensive Review**|Sven Teufel et.al.|[2405.16973v1](http://arxiv.org/abs/2405.16973v1)|null|
-|**2024-05-27**|**PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models**|Yitong Li et.al.|[2405.16942v1](http://arxiv.org/abs/2405.16942v1)|null|
-|**2024-05-27**|**VoCoT: Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models**|Zejun Li et.al.|[2405.16919v2](http://arxiv.org/abs/2405.16919v2)|[link](https://github.com/rupertluo/vocot)|
-|**2024-05-27**|**Hawk: Learning to Understand Open-World Video Anomalies**|Jiaqi Tang et.al.|[2405.16886v1](http://arxiv.org/abs/2405.16886v1)|null|
-|**2024-05-27**|**ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2405.16873v1](http://arxiv.org/abs/2405.16873v1)|null|
-|**2024-05-27**|**Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2405.16869v1](http://arxiv.org/abs/2405.16869v1)|[link](https://github.com/zjukg/momok)|
-|**2024-05-27**|**A re-calibration method for object detection with multi-modal alignment bias in autonomous driving**|Zhihang Song et.al.|[2405.16848v1](http://arxiv.org/abs/2405.16848v1)|null|
-|**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823v1](http://arxiv.org/abs/2405.16823v1)|null|
-|**2024-05-27**|**NoteLLM-2: Multimodal Large Representation Models for Recommendation**|Chao Zhang et.al.|[2405.16789v1](http://arxiv.org/abs/2405.16789v1)|null|
-|**2024-05-27**|**Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning**|Youqi Pan et.al.|[2405.16754v1](http://arxiv.org/abs/2405.16754v1)|null|
-|**2024-05-26**|**Towards Multi-Task Multi-Modal Models: A Video Generative Perspective**|Lijun Yu et.al.|[2405.16728v1](http://arxiv.org/abs/2405.16728v1)|null|
-|**2024-05-26**|**The AI-DEC: A Card-based Design Method for User-centered AI Explanations**|Christine P Lee et.al.|[2405.16711v1](http://arxiv.org/abs/2405.16711v1)|null|
-|**2024-05-26**|**Detail-Enhanced Intra- and Inter-modal Interaction for Audio-Visual Emotion Recognition**|Tong Shi et.al.|[2405.16701v1](http://arxiv.org/abs/2405.16701v1)|null|
-|**2024-05-26**|**Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models**|Hanwen Liang et.al.|[2405.16645v1](http://arxiv.org/abs/2405.16645v1)|null|
+|**2024-05-28**|**On the Origin of Llamas: Model Tree Heritage Recovery**|Eliahu Horwitz et.al.|[2405.18432v1](http://arxiv.org/abs/2405.18432v1)|null|
+|**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405v1](http://arxiv.org/abs/2405.18405v1)|null|
+|**2024-05-28**|**MMCTAgent: Multi-modal Critical Thinking Agent Framework for Complex Visual Reasoning**|Somnath Kumar et.al.|[2405.18358v1](http://arxiv.org/abs/2405.18358v1)|null|
+|**2024-05-28**|**Dataset Growth**|Ziheng Qin et.al.|[2405.18347v1](http://arxiv.org/abs/2405.18347v1)|null|
+|**2024-05-28**|**DSDL: Data Set Description Language for Bridging Modalities and Tasks in AI Data**|Bin Wang et.al.|[2405.18315v1](http://arxiv.org/abs/2405.18315v1)|[link](https://github.com/opendatalab/dsdl-sdk)|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304v1](http://arxiv.org/abs/2405.18304v1)|[link](https://github.com/virobo-15/mgcc)|
+|**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|null|
+|**2024-05-28**|**NeRAF: 3D Scene Infused Neural Radiance and Acoustic Fields**|Amandine Brunetto et.al.|[2405.18213v1](http://arxiv.org/abs/2405.18213v1)|null|
+|**2024-05-28**|**Confidence-aware multi-modality learning for eye disease screening**|Ke Zou et.al.|[2405.18167v1](http://arxiv.org/abs/2405.18167v1)|[link](https://github.com/cocofeat/eyemost)|
+|**2024-05-28**|**Self-Supervised Dual Contouring**|Ramana Sundararaman et.al.|[2405.18131v1](http://arxiv.org/abs/2405.18131v1)|null|
+|**2024-05-28**|**Text Modality Oriented Image Feature Extraction for Detecting Diffusion-based DeepFake**|Di Yang et.al.|[2405.18071v1](http://arxiv.org/abs/2405.18071v1)|null|
+|**2024-05-28**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014v1](http://arxiv.org/abs/2405.18014v1)|null|
+|**2024-05-28**|**Flow-Assisted Motion Learning Network for Weakly-Supervised Group Activity Recognition**|Muhammad Adi Nugroho et.al.|[2405.18012v1](http://arxiv.org/abs/2405.18012v1)|null|
+|**2024-05-28**|**SkinCAP: A Multi-modal Dermatology Dataset Annotated with Rich Medical Captions**|Juexiao Zhou et.al.|[2405.18004v1](http://arxiv.org/abs/2405.18004v1)|null|
+|**2024-05-28**|**Attention-based sequential recommendation system using multimodal data**|Hyungtaik Oh et.al.|[2405.17959v1](http://arxiv.org/abs/2405.17959v1)|null|
+|**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942v1](http://arxiv.org/abs/2405.17942v1)|null|
+|**2024-05-28**|**The Evolution of Multimodal Model Architectures**|Shakti N. Wadekar et.al.|[2405.17927v1](http://arxiv.org/abs/2405.17927v1)|null|
+|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|null|
+|**2024-05-28**|**Enhancing Emotion Recognition in Conversation through Emotional Cross-Modal Fusion and Inter-class Contrastive Learning**|Haoxiang Shi et.al.|[2405.17900v1](http://arxiv.org/abs/2405.17900v1)|null|
+|**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894v1](http://arxiv.org/abs/2405.17894v1)|null|
+|**2024-05-28**|**Sparsity- and Hybridity-Inspired Visual Parameter-Efficient Fine-Tuning for Medical Diagnosis**|Mingyuan Liu et.al.|[2405.17877v1](http://arxiv.org/abs/2405.17877v1)|null|
+|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871v1](http://arxiv.org/abs/2405.17871v1)|null|
+|**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842v1](http://arxiv.org/abs/2405.17842v1)|null|
+|**2024-05-28**|**mTREE: Multi-Level Text-Guided Representation End-to-End Learning for Whole Slide Image Analysis**|Quan Liu et.al.|[2405.17824v1](http://arxiv.org/abs/2405.17824v1)|null|
+|**2024-05-28**|**Hyperspectral and multispectral image fusion with arbitrary resolution through self-supervised representations**|Ting Wang et.al.|[2405.17818v1](http://arxiv.org/abs/2405.17818v1)|null|
+|**2024-05-28**|**RREH: Reconstruction Relations Embedded Hashing for Semi-Paired Cross-Modal Retrieval**|Jianzong Wang et.al.|[2405.17777v1](http://arxiv.org/abs/2405.17777v1)|null|
+|**2024-05-28**|**Towards a Generalist and Blind RGB-X Tracker**|Yuedong Tan et.al.|[2405.17773v1](http://arxiv.org/abs/2405.17773v1)|null|
+|**2024-05-28**|**SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals**|Rahul Thapa et.al.|[2405.17766v1](http://arxiv.org/abs/2405.17766v1)|null|
+|**2024-05-28**|**MMPareto: Boosting Multimodal Learning with Innocent Unimodal Assistance**|Yake Wei et.al.|[2405.17730v1](http://arxiv.org/abs/2405.17730v1)|[link](https://github.com/gewu-lab/mmpareto_icml2024)|
+|**2024-05-27**|**TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability**|Fengji Ma et.al.|[2405.17678v1](http://arxiv.org/abs/2405.17678v1)|null|
