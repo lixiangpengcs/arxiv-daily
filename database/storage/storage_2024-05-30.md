@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-30 20:17:00 Asia/Shanghai
+ Automated deployment @ 2024-05-30 20:45:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,74 +8,6 @@
 ### Vision-Language
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Image Caption
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335v1](http://arxiv.org/abs/2405.19335v1)|null|
-|**2024-05-29**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334v1](http://arxiv.org/abs/2405.19334v1)|[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)|
-|**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333v1](http://arxiv.org/abs/2405.19333v1)|null|
-|**2024-05-29**|**X-ray and Radio campaign of the Z-source GX 340+0: discovery of X-ray polarization and its implications**|Yash Bhargava et.al.|[2405.19324v1](http://arxiv.org/abs/2405.19324v1)|null|
-|**2024-05-29**|**Matryoshka Query Transformer for Large Vision-Language Models**|Wenbo Hu et.al.|[2405.19315v1](http://arxiv.org/abs/2405.19315v1)|[link](https://github.com/gordonhu608/mqt-llava)|
-|**2024-05-29**|**SDPRLayers: Certifiable Backpropagation Through Polynomial Optimization Problems in Robotics**|Connor Holmes et.al.|[2405.19309v1](http://arxiv.org/abs/2405.19309v1)|null|
-|**2024-05-29**|**Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare**|Hanwei Zhu et.al.|[2405.19298v1](http://arxiv.org/abs/2405.19298v1)|null|
-|**2024-05-29**|**Stoichiometric reconstruction of the Al$_{2}$O$_{3}$(0001) surface**|Johanna I. Hütner et.al.|[2405.19263v1](http://arxiv.org/abs/2405.19263v1)|null|
-|**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237v1](http://arxiv.org/abs/2405.19237v1)|[link](https://github.com/ruchikachavhan/concept-prune)|
-|**2024-05-29**|**DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots**|Maria Stamatopoulou et.al.|[2405.19232v1](http://arxiv.org/abs/2405.19232v1)|null|
-|**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226v1](http://arxiv.org/abs/2405.19226v1)|null|
-|**2024-05-29**|**A study on the adequacy of common IQA measures for medical images**|Anna Breger et.al.|[2405.19224v1](http://arxiv.org/abs/2405.19224v1)|null|
-|**2024-05-29**|**Domain adaptation in small-scale and heterogeneous biological datasets**|Seyedmehdi Orouji et.al.|[2405.19221v1](http://arxiv.org/abs/2405.19221v1)|null|
-|**2024-05-29**|**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos**|Ziyang Wang et.al.|[2405.19209v1](http://arxiv.org/abs/2405.19209v1)|[link](https://github.com/Ziyang412/VideoTree)|
-|**2024-05-29**|**Contrastive-Adversarial and Diffusion: Exploring pre-training and fine-tuning strategies for sulcal identification**|Michail Mamalakis et.al.|[2405.19204v1](http://arxiv.org/abs/2405.19204v1)|null|
-|**2024-05-29**|**Going beyond compositional generalization, DDPMs can produce zero-shot interpolation**|Justin Deschenaux et.al.|[2405.19201v1](http://arxiv.org/abs/2405.19201v1)|[link](https://github.com/jdeschena/ddpm-zero-shot-interpolation)|
-|**2024-05-29**|**Exploring the redundancy of Radon transform using a set of partial derivative equations: Could we precisely reconstruct the image from a sparse-view projection without any image prior?**|Xuanqin Mou et.al.|[2405.19200v1](http://arxiv.org/abs/2405.19200v1)|null|
-|**2024-05-29**|**LOGO: Video Text Spotting with Language Collaboration and Glyph Perception Model**|Hongen Liu et.al.|[2405.19194v1](http://arxiv.org/abs/2405.19194v1)|null|
-|**2024-05-29**|**Personalized Interiors at Scale: Leveraging AI for Efficient and Customizable Design Solutions**|Kaiwen Zhou et.al.|[2405.19188v1](http://arxiv.org/abs/2405.19188v1)|null|
-|**2024-05-29**|**MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification**|Laura Fieback et.al.|[2405.19186v1](http://arxiv.org/abs/2405.19186v1)|null|
-|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183v1](http://arxiv.org/abs/2405.19183v1)|null|
-|**2024-05-29**|**The ethical situation of DALL-E 2**|Eduard Hogea et.al.|[2405.19176v1](http://arxiv.org/abs/2405.19176v1)|null|
-|**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173v1](http://arxiv.org/abs/2405.19173v1)|null|
-|**2024-05-29**|**Precision microfluidic control of neuronal ensembles in cultured cortical networks**|Hakuba Murota et.al.|[2405.19159v1](http://arxiv.org/abs/2405.19159v1)|null|
-|**2024-05-29**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149v1](http://arxiv.org/abs/2405.19149v1)|null|
-|**2024-05-29**|**I Bet You Did Not Mean That: Testing Semantic Importance via Betting**|Jacopo Teneggi et.al.|[2405.19146v1](http://arxiv.org/abs/2405.19146v1)|null|
-|**2024-05-29**|**Identification of defects and the origins of surface noise on hydrogen-terminated (100) diamond**|Yi-Ying Sung et.al.|[2405.19140v1](http://arxiv.org/abs/2405.19140v1)|null|
-|**2024-05-29**|**ChartFormer: A Large Vision Language Model for Converting Chart Images into Tactile Accessible SVGs**|Omar Moured et.al.|[2405.19117v1](http://arxiv.org/abs/2405.19117v1)|[link](https://github.com/nsothman/chartformer)|
-|**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112v1](http://arxiv.org/abs/2405.19112v1)|null|
-|**2024-05-29**|**Alt4Blind: A User Interface to Simplify Charts Alt-Text Creation**|Omar Moured et.al.|[2405.19111v1](http://arxiv.org/abs/2405.19111v1)|null|
-
-### Alignment
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335v1](http://arxiv.org/abs/2405.19335v1)|null|
-|**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333v1](http://arxiv.org/abs/2405.19333v1)|null|
-|**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255v1](http://arxiv.org/abs/2405.19255v1)|null|
-|**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226v1](http://arxiv.org/abs/2405.19226v1)|null|
-|**2024-05-29**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149v1](http://arxiv.org/abs/2405.19149v1)|null|
-|**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112v1](http://arxiv.org/abs/2405.19112v1)|null|
-|**2024-05-29**|**Faithful Chart Summarization with ChaTS-Pi**|Syrine Krichene et.al.|[2405.19094v1](http://arxiv.org/abs/2405.19094v1)|null|
-|**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076v1](http://arxiv.org/abs/2405.19076v1)|null|
-|**2024-05-29**|**SynerGraph: An Integrated Graph Convolution Network for Multimodal Recommendation**|Mert Burabak et.al.|[2405.19031v1](http://arxiv.org/abs/2405.19031v1)|null|
-|**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009v1](http://arxiv.org/abs/2405.19009v1)|[link](https://github.com/jihaonew/uta)|
-|**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang et.al.|[2405.18959v1](http://arxiv.org/abs/2405.18959v1)|null|
-|**2024-05-29**|**RGB-T Object Detection via Group Shuffled Multi-receptive Attention and Multi-modal Supervision**|Jinzhong Wang et.al.|[2405.18955v1](http://arxiv.org/abs/2405.18955v1)|null|
-|**2024-05-29**|**Federated Continual Learning Goes Online: Leveraging Uncertainty for Modality-Agnostic Class-Incremental Learning**|Giuseppe Serra et.al.|[2405.18925v1](http://arxiv.org/abs/2405.18925v1)|null|
-|**2024-05-29**|**Topological Perspectives on Optimal Multimodal Embedding Spaces**|Abdul Aziz A. B et.al.|[2405.18867v1](http://arxiv.org/abs/2405.18867v1)|null|
-|**2024-05-29**|**SFANet: Spatial-Frequency Attention Network for Weather Forecasting**|Jiaze Wang et.al.|[2405.18849v1](http://arxiv.org/abs/2405.18849v1)|null|
-|**2024-05-29**|**Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation**|Zelin Peng et.al.|[2405.18840v1](http://arxiv.org/abs/2405.18840v1)|null|
-|**2024-05-29**|**Evaluating Zero-Shot GPT-4V Performance on 3D Visual Question Answering Benchmarks**|Simranjit Singh et.al.|[2405.18831v1](http://arxiv.org/abs/2405.18831v1)|null|
-|**2024-05-29**|**MindSemantix: Deciphering Brain Visual Experiences with a Brain-Language Model**|Ziqi Ren et.al.|[2405.18812v1](http://arxiv.org/abs/2405.18812v1)|null|
-|**2024-05-29**|**SketchTriplet: Self-Supervised Scenarized Sketch-Text-Image Triplet Generation**|Zhenbei Wu et.al.|[2405.18801v1](http://arxiv.org/abs/2405.18801v1)|null|
-|**2024-05-29**|**On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization**|Jordi Armengol-Estapé et.al.|[2405.18751v1](http://arxiv.org/abs/2405.18751v1)|null|
-|**2024-05-29**|**Gemini & Physical World: Large Language Models Can Estimate the Intensity of Earthquake Shaking from Multi-Modal Social Media Posts**|S. Mostafa Mousavi et.al.|[2405.18732v1](http://arxiv.org/abs/2405.18732v1)|null|
-|**2024-05-29**|**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**|Bingqian Lin et.al.|[2405.18721v1](http://arxiv.org/abs/2405.18721v1)|[link](https://github.com/expectorlin/console)|
-|**2024-05-29**|**Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction**|Xuehao Gao et.al.|[2405.18700v1](http://arxiv.org/abs/2405.18700v1)|null|
-|**2024-05-29**|**Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**|Vicky Zayats et.al.|[2405.18669v1](http://arxiv.org/abs/2405.18669v1)|null|
-|**2024-05-28**|**CAVACHON: a hierarchical variational autoencoder to integrate multi-modal single-cell data**|Ping-Han Hsieh et.al.|[2405.18655v1](http://arxiv.org/abs/2405.18655v1)|[link](https://github.com/kuijjerlab/cavachon)|
-|**2024-05-28**|**Actuators À La Mode: Modal Actuations for Soft Body Locomotion**|Otman Benchekroun et.al.|[2405.18609v1](http://arxiv.org/abs/2405.18609v1)|null|
-|**2024-05-28**|**Identification of multi-component LOFAR sources with multi-modal deep learning**|Lara Alegre et.al.|[2405.18584v1](http://arxiv.org/abs/2405.18584v1)|null|
-|**2024-05-28**|**SpecTra: Enhancing the Code Translation Ability of Language Models by Generating Multi-Modal Specifications**|Vikram Nitin et.al.|[2405.18574v1](http://arxiv.org/abs/2405.18574v1)|null|
-|**2024-05-28**|**Its Not a Modality Gap: Characterizing and Addressing the Contrastive Gap**|Abrar Fahim et.al.|[2405.18570v1](http://arxiv.org/abs/2405.18570v1)|null|
-|**2024-05-28**|**TripletMix: Triplet Data Augmentation for 3D Understanding**|Jiaze Wang et.al.|[2405.18523v1](http://arxiv.org/abs/2405.18523v1)|null|
 
 ### VQA
 |Publish Date|Title|Authors|PDF|Code|
@@ -145,6 +77,74 @@
 |**2024-05-28**|**Its Not a Modality Gap: Characterizing and Addressing the Contrastive Gap**|Abrar Fahim et.al.|[2405.18570v1](http://arxiv.org/abs/2405.18570v1)|null|
 |**2024-05-28**|**TripletMix: Triplet Data Augmentation for 3D Understanding**|Jiaze Wang et.al.|[2405.18523v1](http://arxiv.org/abs/2405.18523v1)|null|
 
+### Alignment
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335v1](http://arxiv.org/abs/2405.19335v1)|null|
+|**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333v1](http://arxiv.org/abs/2405.19333v1)|null|
+|**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255v1](http://arxiv.org/abs/2405.19255v1)|null|
+|**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226v1](http://arxiv.org/abs/2405.19226v1)|null|
+|**2024-05-29**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149v1](http://arxiv.org/abs/2405.19149v1)|null|
+|**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112v1](http://arxiv.org/abs/2405.19112v1)|null|
+|**2024-05-29**|**Faithful Chart Summarization with ChaTS-Pi**|Syrine Krichene et.al.|[2405.19094v1](http://arxiv.org/abs/2405.19094v1)|null|
+|**2024-05-29**|**Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design**|Markus J. Buehler et.al.|[2405.19076v1](http://arxiv.org/abs/2405.19076v1)|null|
+|**2024-05-29**|**SynerGraph: An Integrated Graph Convolution Network for Multimodal Recommendation**|Mert Burabak et.al.|[2405.19031v1](http://arxiv.org/abs/2405.19031v1)|null|
+|**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009v1](http://arxiv.org/abs/2405.19009v1)|[link](https://github.com/jihaonew/uta)|
+|**2024-05-29**|**Transcending Fusion: A Multi-Scale Alignment Method for Remote Sensing Image-Text Retrieval**|Rui Yang et.al.|[2405.18959v1](http://arxiv.org/abs/2405.18959v1)|null|
+|**2024-05-29**|**RGB-T Object Detection via Group Shuffled Multi-receptive Attention and Multi-modal Supervision**|Jinzhong Wang et.al.|[2405.18955v1](http://arxiv.org/abs/2405.18955v1)|null|
+|**2024-05-29**|**Federated Continual Learning Goes Online: Leveraging Uncertainty for Modality-Agnostic Class-Incremental Learning**|Giuseppe Serra et.al.|[2405.18925v1](http://arxiv.org/abs/2405.18925v1)|null|
+|**2024-05-29**|**Topological Perspectives on Optimal Multimodal Embedding Spaces**|Abdul Aziz A. B et.al.|[2405.18867v1](http://arxiv.org/abs/2405.18867v1)|null|
+|**2024-05-29**|**SFANet: Spatial-Frequency Attention Network for Weather Forecasting**|Jiaze Wang et.al.|[2405.18849v1](http://arxiv.org/abs/2405.18849v1)|null|
+|**2024-05-29**|**Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation**|Zelin Peng et.al.|[2405.18840v1](http://arxiv.org/abs/2405.18840v1)|null|
+|**2024-05-29**|**Evaluating Zero-Shot GPT-4V Performance on 3D Visual Question Answering Benchmarks**|Simranjit Singh et.al.|[2405.18831v1](http://arxiv.org/abs/2405.18831v1)|null|
+|**2024-05-29**|**MindSemantix: Deciphering Brain Visual Experiences with a Brain-Language Model**|Ziqi Ren et.al.|[2405.18812v1](http://arxiv.org/abs/2405.18812v1)|null|
+|**2024-05-29**|**SketchTriplet: Self-Supervised Scenarized Sketch-Text-Image Triplet Generation**|Zhenbei Wu et.al.|[2405.18801v1](http://arxiv.org/abs/2405.18801v1)|null|
+|**2024-05-29**|**On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization**|Jordi Armengol-Estapé et.al.|[2405.18751v1](http://arxiv.org/abs/2405.18751v1)|null|
+|**2024-05-29**|**Gemini & Physical World: Large Language Models Can Estimate the Intensity of Earthquake Shaking from Multi-Modal Social Media Posts**|S. Mostafa Mousavi et.al.|[2405.18732v1](http://arxiv.org/abs/2405.18732v1)|null|
+|**2024-05-29**|**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**|Bingqian Lin et.al.|[2405.18721v1](http://arxiv.org/abs/2405.18721v1)|[link](https://github.com/expectorlin/console)|
+|**2024-05-29**|**Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction**|Xuehao Gao et.al.|[2405.18700v1](http://arxiv.org/abs/2405.18700v1)|null|
+|**2024-05-29**|**Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**|Vicky Zayats et.al.|[2405.18669v1](http://arxiv.org/abs/2405.18669v1)|null|
+|**2024-05-28**|**CAVACHON: a hierarchical variational autoencoder to integrate multi-modal single-cell data**|Ping-Han Hsieh et.al.|[2405.18655v1](http://arxiv.org/abs/2405.18655v1)|[link](https://github.com/kuijjerlab/cavachon)|
+|**2024-05-28**|**Actuators À La Mode: Modal Actuations for Soft Body Locomotion**|Otman Benchekroun et.al.|[2405.18609v1](http://arxiv.org/abs/2405.18609v1)|null|
+|**2024-05-28**|**Identification of multi-component LOFAR sources with multi-modal deep learning**|Lara Alegre et.al.|[2405.18584v1](http://arxiv.org/abs/2405.18584v1)|null|
+|**2024-05-28**|**SpecTra: Enhancing the Code Translation Ability of Language Models by Generating Multi-Modal Specifications**|Vikram Nitin et.al.|[2405.18574v1](http://arxiv.org/abs/2405.18574v1)|null|
+|**2024-05-28**|**Its Not a Modality Gap: Characterizing and Addressing the Contrastive Gap**|Abrar Fahim et.al.|[2405.18570v1](http://arxiv.org/abs/2405.18570v1)|null|
+|**2024-05-28**|**TripletMix: Triplet Data Augmentation for 3D Understanding**|Jiaze Wang et.al.|[2405.18523v1](http://arxiv.org/abs/2405.18523v1)|null|
+
+### Image Caption
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335v1](http://arxiv.org/abs/2405.19335v1)|null|
+|**2024-05-29**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334v1](http://arxiv.org/abs/2405.19334v1)|[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)|
+|**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333v1](http://arxiv.org/abs/2405.19333v1)|null|
+|**2024-05-29**|**X-ray and Radio campaign of the Z-source GX 340+0: discovery of X-ray polarization and its implications**|Yash Bhargava et.al.|[2405.19324v1](http://arxiv.org/abs/2405.19324v1)|null|
+|**2024-05-29**|**Matryoshka Query Transformer for Large Vision-Language Models**|Wenbo Hu et.al.|[2405.19315v1](http://arxiv.org/abs/2405.19315v1)|[link](https://github.com/gordonhu608/mqt-llava)|
+|**2024-05-29**|**SDPRLayers: Certifiable Backpropagation Through Polynomial Optimization Problems in Robotics**|Connor Holmes et.al.|[2405.19309v1](http://arxiv.org/abs/2405.19309v1)|null|
+|**2024-05-29**|**Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare**|Hanwei Zhu et.al.|[2405.19298v1](http://arxiv.org/abs/2405.19298v1)|null|
+|**2024-05-29**|**Stoichiometric reconstruction of the Al$_{2}$O$_{3}$(0001) surface**|Johanna I. Hütner et.al.|[2405.19263v1](http://arxiv.org/abs/2405.19263v1)|null|
+|**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237v1](http://arxiv.org/abs/2405.19237v1)|[link](https://github.com/ruchikachavhan/concept-prune)|
+|**2024-05-29**|**DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots**|Maria Stamatopoulou et.al.|[2405.19232v1](http://arxiv.org/abs/2405.19232v1)|null|
+|**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226v1](http://arxiv.org/abs/2405.19226v1)|null|
+|**2024-05-29**|**A study on the adequacy of common IQA measures for medical images**|Anna Breger et.al.|[2405.19224v1](http://arxiv.org/abs/2405.19224v1)|null|
+|**2024-05-29**|**Domain adaptation in small-scale and heterogeneous biological datasets**|Seyedmehdi Orouji et.al.|[2405.19221v1](http://arxiv.org/abs/2405.19221v1)|null|
+|**2024-05-29**|**VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos**|Ziyang Wang et.al.|[2405.19209v1](http://arxiv.org/abs/2405.19209v1)|[link](https://github.com/Ziyang412/VideoTree)|
+|**2024-05-29**|**Contrastive-Adversarial and Diffusion: Exploring pre-training and fine-tuning strategies for sulcal identification**|Michail Mamalakis et.al.|[2405.19204v1](http://arxiv.org/abs/2405.19204v1)|null|
+|**2024-05-29**|**Going beyond compositional generalization, DDPMs can produce zero-shot interpolation**|Justin Deschenaux et.al.|[2405.19201v1](http://arxiv.org/abs/2405.19201v1)|[link](https://github.com/jdeschena/ddpm-zero-shot-interpolation)|
+|**2024-05-29**|**Exploring the redundancy of Radon transform using a set of partial derivative equations: Could we precisely reconstruct the image from a sparse-view projection without any image prior?**|Xuanqin Mou et.al.|[2405.19200v1](http://arxiv.org/abs/2405.19200v1)|null|
+|**2024-05-29**|**LOGO: Video Text Spotting with Language Collaboration and Glyph Perception Model**|Hongen Liu et.al.|[2405.19194v1](http://arxiv.org/abs/2405.19194v1)|null|
+|**2024-05-29**|**Personalized Interiors at Scale: Leveraging AI for Efficient and Customizable Design Solutions**|Kaiwen Zhou et.al.|[2405.19188v1](http://arxiv.org/abs/2405.19188v1)|null|
+|**2024-05-29**|**MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification**|Laura Fieback et.al.|[2405.19186v1](http://arxiv.org/abs/2405.19186v1)|null|
+|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183v1](http://arxiv.org/abs/2405.19183v1)|null|
+|**2024-05-29**|**The ethical situation of DALL-E 2**|Eduard Hogea et.al.|[2405.19176v1](http://arxiv.org/abs/2405.19176v1)|null|
+|**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173v1](http://arxiv.org/abs/2405.19173v1)|null|
+|**2024-05-29**|**Precision microfluidic control of neuronal ensembles in cultured cortical networks**|Hakuba Murota et.al.|[2405.19159v1](http://arxiv.org/abs/2405.19159v1)|null|
+|**2024-05-29**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149v1](http://arxiv.org/abs/2405.19149v1)|null|
+|**2024-05-29**|**I Bet You Did Not Mean That: Testing Semantic Importance via Betting**|Jacopo Teneggi et.al.|[2405.19146v1](http://arxiv.org/abs/2405.19146v1)|null|
+|**2024-05-29**|**Identification of defects and the origins of surface noise on hydrogen-terminated (100) diamond**|Yi-Ying Sung et.al.|[2405.19140v1](http://arxiv.org/abs/2405.19140v1)|null|
+|**2024-05-29**|**ChartFormer: A Large Vision Language Model for Converting Chart Images into Tactile Accessible SVGs**|Omar Moured et.al.|[2405.19117v1](http://arxiv.org/abs/2405.19117v1)|[link](https://github.com/nsothman/chartformer)|
+|**2024-05-29**|**Reconstructing Interpretable Features in Computational Super-Resolution microscopy via Regularized Latent Search**|Marzieh Gheisari et.al.|[2405.19112v1](http://arxiv.org/abs/2405.19112v1)|null|
+|**2024-05-29**|**Alt4Blind: A User Interface to Simplify Charts Alt-Text Creation**|Omar Moured et.al.|[2405.19111v1](http://arxiv.org/abs/2405.19111v1)|null|
+
 ### Text and Image Generation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -181,7 +181,7 @@
 
 ## Few-shot Learning
 
-### Few-shot Learning
+### One-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335v1](http://arxiv.org/abs/2405.19335v1)|null|
@@ -249,7 +249,7 @@
 |**2024-05-24**|**Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction**|Zeyu Wang et.al.|[2405.15544v1](http://arxiv.org/abs/2405.15544v1)|[link](https://github.com/Vencent-Won/KRGTS-public)|
 |**2024-05-24**|**Finding Induced Subgraphs from Graphs with Small Mim-Width**|Yota Otachi et.al.|[2405.15492v1](http://arxiv.org/abs/2405.15492v1)|null|
 
-### One-shot Learning
+### Few-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335v1](http://arxiv.org/abs/2405.19335v1)|null|
