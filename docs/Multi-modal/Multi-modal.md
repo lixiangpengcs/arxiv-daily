@@ -24,7 +24,7 @@
 |**2024-05-29**|**On the Limits of Multi-modal Meta-Learning with Auxiliary Task Modulation Using Conditional Batch Normalization**|Jordi Armengol-Estapé et.al.|[2405.18751v1](http://arxiv.org/abs/2405.18751v1)|null|
 |**2024-05-29**|**Gemini & Physical World: Large Language Models Can Estimate the Intensity of Earthquake Shaking from Multi-Modal Social Media Posts**|S. Mostafa Mousavi et.al.|[2405.18732v1](http://arxiv.org/abs/2405.18732v1)|null|
 |**2024-05-29**|**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**|Bingqian Lin et.al.|[2405.18721v1](http://arxiv.org/abs/2405.18721v1)|[link](https://github.com/expectorlin/console)|
-|**2024-05-29**|**Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction**|Xuehao Gao et.al.|[2405.18700v1](http://arxiv.org/abs/2405.18700v1)|null|
+|**2024-05-29**|**Multi-Condition Latent Diffusion Network for Scene-Aware Neural Human Motion Prediction**|Xuehao Gao et.al.|[2405.18700v2](http://arxiv.org/abs/2405.18700v2)|null|
 |**2024-05-29**|**Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**|Vicky Zayats et.al.|[2405.18669v1](http://arxiv.org/abs/2405.18669v1)|null|
 |**2024-05-28**|**CAVACHON: a hierarchical variational autoencoder to integrate multi-modal single-cell data**|Ping-Han Hsieh et.al.|[2405.18655v1](http://arxiv.org/abs/2405.18655v1)|[link](https://github.com/kuijjerlab/cavachon)|
 |**2024-05-28**|**Actuators À La Mode: Modal Actuations for Soft Body Locomotion**|Otman Benchekroun et.al.|[2405.18609v1](http://arxiv.org/abs/2405.18609v1)|null|

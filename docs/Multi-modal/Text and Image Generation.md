@@ -8,7 +8,7 @@
 |**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332v1](http://arxiv.org/abs/2405.19332v1)|[link](https://github.com/shenao-zhang/selm)|
 |**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331v1](http://arxiv.org/abs/2405.19331v1)|null|
 |**2024-05-29**|**Barium stars as tracers of s-process nucleosynthesis in AGB stars III. Systematic deviations from the AGB models**|B. Világos et.al.|[2405.19330v1](http://arxiv.org/abs/2405.19330v1)|null|
-|**2024-05-29**|**Ion Correlation-Driven Hysteretic Adhesion and Repulsion between Opposing Polyelectrolyte Brushes**|Chao Duan et.al.|[2405.19329v1](http://arxiv.org/abs/2405.19329v1)|null|
+|**2024-05-29**|**Ion Correlation-Driven Hysteretic Adhesion and Repulsion between Opposing Polyelectrolyte Brushes**|Chao Duan et.al.|[2405.19329v2](http://arxiv.org/abs/2405.19329v2)|null|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328v1](http://arxiv.org/abs/2405.19328v1)|null|
 |**2024-05-29**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327v1](http://arxiv.org/abs/2405.19327v1)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326v1](http://arxiv.org/abs/2405.19326v1)|null|
