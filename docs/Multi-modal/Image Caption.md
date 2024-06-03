@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343v1](http://arxiv.org/abs/2405.20343v1)|null|
-|**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340v1](http://arxiv.org/abs/2405.20340v1)|null|
-|**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339v1](http://arxiv.org/abs/2405.20339v1)|null|
-|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334v1](http://arxiv.org/abs/2405.20334v1)|null|
-|**2024-05-30**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330v2](http://arxiv.org/abs/2405.20330v2)|null|
-|**2024-05-30**|**GECO: Generative Image-to-3D within a SECOnd**|Chen Wang et.al.|[2405.20327v1](http://arxiv.org/abs/2405.20327v1)|null|
-|**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324v1](http://arxiv.org/abs/2405.20324v1)|null|
-|**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320v1](http://arxiv.org/abs/2405.20320v1)|[link](https://github.com/sangyun884/rfpp)|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
-|**2024-05-30**|**Scaling White-Box Transformers for Vision**|Jinrui Yang et.al.|[2405.20299v2](http://arxiv.org/abs/2405.20299v2)|null|
-|**2024-05-30**|**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**|Chaoyang Wang et.al.|[2405.20282v1](http://arxiv.org/abs/2405.20282v1)|[link](https://github.com/wang-chaoyang/semflow)|
-|**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279v1](http://arxiv.org/abs/2405.20279v1)|[link](https://github.com/ailab-cvc/cv-vae)|
-|**2024-05-30**|**Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable**|Martin Bertran et.al.|[2405.20272v1](http://arxiv.org/abs/2405.20272v1)|null|
-|**2024-05-30**|**ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**|Massimo Bini et.al.|[2405.20271v1](http://arxiv.org/abs/2405.20271v1)|[link](https://github.com/mwbini/ether)|
-|**2024-05-30**|**Image-to-Joint Inverse Kinematic of a Supportive Continuum Arm Using Deep Learning**|Shayan Sepahvand et.al.|[2405.20248v1](http://arxiv.org/abs/2405.20248v1)|null|
-|**2024-05-30**|**Training-efficient density quantum machine learning**|Brian Coyle et.al.|[2405.20237v1](http://arxiv.org/abs/2405.20237v1)|null|
-|**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233v1](http://arxiv.org/abs/2405.20233v1)|[link](https://github.com/ironjr/grokfast)|
-|**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222v1](http://arxiv.org/abs/2405.20222v1)|null|
-|**2024-05-30**|**Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback**|Sanghyeon Na et.al.|[2405.20216v1](http://arxiv.org/abs/2405.20216v1)|null|
-|**2024-05-30**|**PostDoc: Generating Poster from a Long Multimodal Document Using Deep Submodular Optimization**|Vijay Jaisankar et.al.|[2405.20213v1](http://arxiv.org/abs/2405.20213v1)|null|
-|**2024-05-30**|**The unexpected uses of a bowling pin: anisotropic flow in fixed-target $^{208}$Pb+$^{20}$Ne collisions as a probe of quark-gluon plasma**|Giuliano Giacalone et.al.|[2405.20210v1](http://arxiv.org/abs/2405.20210v1)|null|
-|**2024-05-30**|**Jina CLIP: Your CLIP Model Is Also Your Text Retriever**|Andreas Koukounas et.al.|[2405.20204v1](http://arxiv.org/abs/2405.20204v1)|null|
-|**2024-05-30**|**Conic Section on the Sky: Shadows of Linearly Superrotated Black Holes**|Feng-Li Lin et.al.|[2405.20181v1](http://arxiv.org/abs/2405.20181v1)|null|
-|**2024-05-30**|**Transformers and Slot Encoding for Sample Efficient Physical World Modelling**|Francesco Petri et.al.|[2405.20180v1](http://arxiv.org/abs/2405.20180v1)|[link](https://github.com/torchipeppo/transformers-and-slot-encoding-for-wm)|
-|**2024-05-30**|**An Analysis of AGN-Driven Outflows in the Seyfert 1 Galaxy NGC 3227**|Julia Falcone et.al.|[2405.20162v1](http://arxiv.org/abs/2405.20162v1)|null|
-|**2024-05-30**|**Landslide mapping from Sentinel-2 imagery through change detection**|Tommaso Monopoli et.al.|[2405.20161v1](http://arxiv.org/abs/2405.20161v1)|[link](https://github.com/links-ads/igarss-landslide-delineation)|
-|**2024-05-30**|**Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals**|Phillip Howard et.al.|[2405.20152v1](http://arxiv.org/abs/2405.20152v1)|null|
-|**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141v1](http://arxiv.org/abs/2405.20141v1)|null|
-|**2024-05-30**|**A Multimodal Dangerous State Recognition and Early Warning System for Elderly with Intermittent Dementia**|Liyun Deng et.al.|[2405.20136v1](http://arxiv.org/abs/2405.20136v1)|null|
-|**2024-05-30**|**Federated and Transfer Learning for Cancer Detection Based on Image Analysis**|Amine Bechar et.al.|[2405.20126v1](http://arxiv.org/abs/2405.20126v1)|null|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Latent Intrinsics Emerge from Training to Relight**|Xiao Zhang et.al.|[2405.21074v1](http://arxiv.org/abs/2405.21074v1)|null|
+|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059v1](http://arxiv.org/abs/2405.21059v1)|null|
+|**2024-05-31**|**The First Billion Years, According to JWST**|Angela Adamo et.al.|[2405.21054v1](http://arxiv.org/abs/2405.21054v1)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050v1](http://arxiv.org/abs/2405.21050v1)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048v1](http://arxiv.org/abs/2405.21048v1)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
+|**2024-05-31**|**Photoinduced Charge Transfer in Transition Metal Dichalcogenide Quantum Dots**|Arun Singh Patel et.al.|[2405.21035v1](http://arxiv.org/abs/2405.21035v1)|null|
+|**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022v1](http://arxiv.org/abs/2405.21022v1)|null|
+|**2024-05-31**|**Beyond Conventional Parametric Modeling: Data-Driven Framework for Estimation and Prediction of Time Activity Curves in Dynamic PET Imaging**|Niloufar Zakariaei et.al.|[2405.21021v1](http://arxiv.org/abs/2405.21021v1)|null|
+|**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016v1](http://arxiv.org/abs/2405.21016v1)|null|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v1](http://arxiv.org/abs/2405.21013v1)|null|
+|**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991v1](http://arxiv.org/abs/2405.20991v1)|[link](https://github.com/kth-rpl/detect_vlm)|
+|**2024-05-31**|**Early Stopping Criteria for Training Generative Adversarial Networks in Biomedical Imaging**|Muhammad Muneeb Saad et.al.|[2405.20987v1](http://arxiv.org/abs/2405.20987v1)|null|
+|**2024-05-31**|**Generative Adversarial Networks in Ultrasound Imaging: Extending Field of View Beyond Conventional Limits**|Matej Gazda et.al.|[2405.20981v1](http://arxiv.org/abs/2405.20981v1)|null|
+|**2024-05-31**|**Neural Gaussian Scale-Space Fields**|Felix Mujkanovic et.al.|[2405.20980v1](http://arxiv.org/abs/2405.20980v1)|null|
+|**2024-05-31**|**Tsang's resolution enhancement method for imaging with focused illumination**|Alexander Duplinskiy et.al.|[2405.20979v1](http://arxiv.org/abs/2405.20979v1)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|[link](https://github.com/gfnorg/diffusion-finetuning)|
+|**2024-05-31**|**snompy: a package for modelling scattering-type scanning near-field optical microscopy**|Tom Vincent et.al.|[2405.20948v1](http://arxiv.org/abs/2405.20948v1)|null|
+|**2024-05-31**|**Standard model of electromagnetism and chirality in crystals**|R. Winkler et.al.|[2405.20940v1](http://arxiv.org/abs/2405.20940v1)|null|
+|**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910v1](http://arxiv.org/abs/2405.20910v1)|null|
+|**2024-05-31**|**Enhancing Vision Models for Text-Heavy Content Understanding and Interaction**|Adithya TG et.al.|[2405.20906v1](http://arxiv.org/abs/2405.20906v1)|null|
+|**2024-05-31**|**Existence of solutions to k-Wave models of nonlinear ultrasound propagation in biological tissue**|Ben Cox et.al.|[2405.20894v1](http://arxiv.org/abs/2405.20894v1)|null|
+|**2024-05-31**|**Constraining Gluonic Contact Interaction of a Neutrino-philic Dark Fermion at Hadron Colliders and Direct Detection Experiments**|Kai Ma et.al.|[2405.20890v1](http://arxiv.org/abs/2405.20890v1)|null|
+|**2024-05-31**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881v1](http://arxiv.org/abs/2405.20881v1)|null|
+|**2024-05-31**|**Investigating Calibration and Corruption Robustness of Post-hoc Pruned Perception CNNs: An Image Classification Benchmark Study**|Pallavi Mitra et.al.|[2405.20876v1](http://arxiv.org/abs/2405.20876v1)|null|
+|**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851v1](http://arxiv.org/abs/2405.20851v1)|[link](https://github.com/megvii-research/megfaceanimate)|
+|**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846v1](http://arxiv.org/abs/2405.20846v1)|null|
+|**2024-05-31**|**Analysis of clinical, dosimetric and radiomic features for predicting local failure after stereotactic radiotherapy of brain metastases in malignant melanoma**|Nanna E. Hartong et.al.|[2405.20825v1](http://arxiv.org/abs/2405.20825v1)|null|
+|**2024-05-31**|**Context-aware Difference Distilling for Multi-change Captioning**|Yunbin Tu et.al.|[2405.20810v1](http://arxiv.org/abs/2405.20810v1)|null|

@@ -2,33 +2,33 @@
 ### Large-Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343v1](http://arxiv.org/abs/2405.20343v1)|null|
-|**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341v1](http://arxiv.org/abs/2405.20341v1)|[link](https://github.com/talreiss/coldfusion)|
-|**2024-05-30**|**Evaluating Approximations of Count Distributions and Forecasts for Poisson-Lindley Integer Autoregressive Processes**|Rachel D. Gidaro et.al.|[2405.20342v1](http://arxiv.org/abs/2405.20342v1)|null|
-|**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340v1](http://arxiv.org/abs/2405.20340v1)|null|
-|**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339v1](http://arxiv.org/abs/2405.20339v1)|null|
-|**2024-05-30**|**Mixed finite element methods for fourth order obstacle problems in linearised elasticity**|Paolo Piersanti et.al.|[2405.20338v1](http://arxiv.org/abs/2405.20338v1)|null|
-|**2024-05-30**|**OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**|Lening Wang et.al.|[2405.20337v1](http://arxiv.org/abs/2405.20337v1)|[link](https://github.com/wzzheng/occsora)|
-|**2024-05-30**|**RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**|Jiaben Chen et.al.|[2405.20336v1](http://arxiv.org/abs/2405.20336v1)|null|
-|**2024-05-30**|**Xwin-LM: Strong and Scalable Alignment Practice for LLMs**|Bolin Ni et.al.|[2405.20335v1](http://arxiv.org/abs/2405.20335v1)|[link](https://github.com/xwin-lm/xwin-lm)|
-|**2024-05-30**|**VividDream: Generating 3D Scene with Ambient Dynamics**|Yao-Chih Lee et.al.|[2405.20334v1](http://arxiv.org/abs/2405.20334v1)|null|
-|**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333v1](http://arxiv.org/abs/2405.20333v1)|null|
-|**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
-|**2024-05-30**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330v2](http://arxiv.org/abs/2405.20330v2)|null|
-|**2024-05-30**|**Did Binary Neutron Star Merger GW170817 Leave Behind A Long-lived Neutron Star?**|Marcus DuPont et.al.|[2405.20329v1](http://arxiv.org/abs/2405.20329v1)|null|
-|**2024-05-30**|**mRNA secondary structure prediction using utility-scale quantum computers**|Dimitris Alevras et.al.|[2405.20328v1](http://arxiv.org/abs/2405.20328v1)|null|
-|**2024-05-30**|**GECO: Generative Image-to-3D within a SECOnd**|Chen Wang et.al.|[2405.20327v1](http://arxiv.org/abs/2405.20327v1)|null|
-|**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325v1](http://arxiv.org/abs/2405.20325v1)|null|
-|**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324v1](http://arxiv.org/abs/2405.20324v1)|null|
-|**2024-05-30**|**$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323v1](http://arxiv.org/abs/2405.20323v1)|[link](https://github.com/nnanhuang/s3gaussian)|
-|**2024-05-30**|**Vision-based Manipulation from Single Human Video with Open-World Object Graphs**|Yifeng Zhu et.al.|[2405.20321v1](http://arxiv.org/abs/2405.20321v1)|null|
-|**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320v1](http://arxiv.org/abs/2405.20320v1)|[link](https://github.com/sangyun884/rfpp)|
-|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v2](http://arxiv.org/abs/2405.20319v2)|null|
-|**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318v1](http://arxiv.org/abs/2405.20318v1)|[link](https://github.com/roberto-ceraolo/causal-quest)|
-|**2024-05-30**|**The COS-Holes Survey: Connecting Galaxy Black Hole Mass with the State of the CGM**|Samantha L. Garza et.al.|[2405.20316v1](http://arxiv.org/abs/2405.20316v1)|null|
-|**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315v1](http://arxiv.org/abs/2405.20315v1)|[link](https://github.com/open-compass/anah)|
-|**2024-05-30**|**S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**|Wei Zhong et.al.|[2405.20314v1](http://arxiv.org/abs/2405.20314v1)|null|
-|**2024-05-30**|**Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Backbone Generation**|Guillaume Huguet et.al.|[2405.20313v1](http://arxiv.org/abs/2405.20313v1)|null|
-|**2024-05-30**|**Active Dwarf Galaxy Database I: Overlap between active galactic nuclei selected by different techniques**|Erik J. Wasleske et.al.|[2405.20312v1](http://arxiv.org/abs/2405.20312v1)|null|
-|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310v2](http://arxiv.org/abs/2405.20310v2)|null|
-|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309v1](http://arxiv.org/abs/2405.20309v1)|null|
+|**2024-05-31**|**The Velocity Dispersion Function for Quiescent Galaxies in Massive Clusters from IllustrisTNG**|Jubee Sohn et.al.|[2405.21076v1](http://arxiv.org/abs/2405.21076v1)|null|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Toward Quantum Analogue Simulation of Many-Body Supersymmetry with Rydberg Atom Arrays**|Hrushikesh Sable et.al.|[2405.21073v1](http://arxiv.org/abs/2405.21073v1)|null|
+|**2024-05-31**|**Fast inspirals and the treatment of orbital resonances**|Philip Lynch et.al.|[2405.21072v1](http://arxiv.org/abs/2405.21072v1)|null|
+|**2024-05-31**|**Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights**|Xin Wen et.al.|[2405.21070v1](http://arxiv.org/abs/2405.21070v1)|[link](https://github.com/cvmi-lab/clip-beyond-tail)|
+|**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068v1](http://arxiv.org/abs/2405.21068v1)|null|
+|**2024-05-31**|**Brightening and Fading in the Youngest Galactic Supernova Remnant G1.9+0.3: 13 years of monitoring with the Chandra X-ray Observatory**|Kazimierz J. Borkowski et.al.|[2405.21067v1](http://arxiv.org/abs/2405.21067v1)|null|
+|**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066v1](http://arxiv.org/abs/2405.21066v1)|null|
+|**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
+|**2024-05-31**|**Neural Network Verification with Branch-and-Bound for General Nonlinearities**|Zhouxing Shi et.al.|[2405.21063v1](http://arxiv.org/abs/2405.21063v1)|null|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060v1](http://arxiv.org/abs/2405.21060v1)|null|
+|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059v1](http://arxiv.org/abs/2405.21059v1)|null|
+|**2024-05-31**|**On the number of Regge trajectories for dual amplitudes**|Christopher Eckner et.al.|[2405.21057v1](http://arxiv.org/abs/2405.21057v1)|null|
+|**2024-05-31**|**Factors Influencing Performance of Students in Software Automated Test Tools Course**|Susmita Haldar et.al.|[2405.21055v1](http://arxiv.org/abs/2405.21055v1)|null|
+|**2024-05-31**|**RydbergGPT**|David Fitzek et.al.|[2405.21052v1](http://arxiv.org/abs/2405.21052v1)|null|
+|**2024-05-31**|**Good Modelling Software Practices**|Carsten Lemmen et.al.|[2405.21051v1](http://arxiv.org/abs/2405.21051v1)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050v1](http://arxiv.org/abs/2405.21050v1)|null|
+|**2024-05-31**|**Boil-off of red supergiants: mass loss and type II-P supernovae**|Jim Fuller et.al.|[2405.21049v1](http://arxiv.org/abs/2405.21049v1)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048v1](http://arxiv.org/abs/2405.21048v1)|null|
+|**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047v1](http://arxiv.org/abs/2405.21047v1)|null|
+|**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046v1](http://arxiv.org/abs/2405.21046v1)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
+|**2024-05-31**|**Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation**|Fengdi Che et.al.|[2405.21043v1](http://arxiv.org/abs/2405.21043v1)|null|
+|**2024-05-31**|**Comparing information content of representation spaces for disentanglement with VAE ensembles**|Kieran A. Murphy et.al.|[2405.21042v1](http://arxiv.org/abs/2405.21042v1)|[link](https://github.com/murphyka/representation-space-info-comparison)|
+|**2024-05-31**|**Direct Alignment of Language Models via Quality-Aware Self-Refinement**|Runsheng Yu et.al.|[2405.21040v1](http://arxiv.org/abs/2405.21040v1)|null|
+|**2024-05-31**|**Fibonacci sequence and Pythagorean triples in the composition of functions for integer solutions from certain operator**|Pablo José Vega Esparza et.al.|[2405.21039v1](http://arxiv.org/abs/2405.21039v1)|null|
+|**2024-05-31**|**A Multi-wavelength, Multi-epoch Monitoring Campaign of Accretion Variability in T Tauri Stars from the ODYSSEUS Survey. I. HST FUV and NUV Spectra**|John Wendeborn et.al.|[2405.21038v1](http://arxiv.org/abs/2405.21038v1)|null|
+|**2024-05-31**|**Introducing sgboost: A Practical Guide and Implementation of sparse-group boosting in R**|Fabian Obster et.al.|[2405.21037v1](http://arxiv.org/abs/2405.21037v1)|null|
+|**2024-05-31**|**A-PETE: Adaptive Prototype Explanations of Tree Ensembles**|Jacek Karolczak et.al.|[2405.21036v1](http://arxiv.org/abs/2405.21036v1)|null|
+|**2024-05-31**|**3D simulations of convective shell Neon-burning in a massive star**|C. Georgy et.al.|[2405.21033v1](http://arxiv.org/abs/2405.21033v1)|null|

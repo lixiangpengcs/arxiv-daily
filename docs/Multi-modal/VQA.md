@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339v1](http://arxiv.org/abs/2405.20339v1)|null|
-|**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333v1](http://arxiv.org/abs/2405.20333v1)|null|
-|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319v2](http://arxiv.org/abs/2405.20319v2)|null|
-|**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318v1](http://arxiv.org/abs/2405.20318v1)|[link](https://github.com/roberto-ceraolo/causal-quest)|
-|**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315v1](http://arxiv.org/abs/2405.20315v1)|[link](https://github.com/open-compass/anah)|
-|**2024-05-30**|**S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**|Wei Zhong et.al.|[2405.20314v1](http://arxiv.org/abs/2405.20314v1)|null|
-|**2024-05-30**|**A consistency test of the cosmological model at the epoch of recombination using DESI BAO and Planck measurements**|Levon Pogosian et.al.|[2405.20306v1](http://arxiv.org/abs/2405.20306v1)|null|
-|**2024-05-30**|**Truthful Budget Aggregation: Beyond Moving-Phantom Mechanisms**|Mark de Berg et.al.|[2405.20303v1](http://arxiv.org/abs/2405.20303v1)|null|
-|**2024-05-30**|**Scaling White-Box Transformers for Vision**|Jinrui Yang et.al.|[2405.20299v2](http://arxiv.org/abs/2405.20299v2)|null|
-|**2024-05-30**|**How (not) to Build Quantum PKE in Minicrypt**|Longcheng Li et.al.|[2405.20295v1](http://arxiv.org/abs/2405.20295v1)|null|
-|**2024-05-30**|**DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2405.20289v1](http://arxiv.org/abs/2405.20289v1)|null|
-|**2024-05-30**|**Pre-train and Refine: Towards Higher Efficiency in K-Agnostic Community Detection without Quality Degradation**|Meng Qin et.al.|[2405.20277v1](http://arxiv.org/abs/2405.20277v1)|null|
-|**2024-05-30**|**ETHER: Efficient Finetuning of Large-Scale Models with Hyperplane Reflections**|Massimo Bini et.al.|[2405.20271v1](http://arxiv.org/abs/2405.20271v1)|[link](https://github.com/mwbini/ether)|
-|**2024-05-30**|**Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization**|Yuchi Liu et.al.|[2405.20252v1](http://arxiv.org/abs/2405.20252v1)|[link](https://github.com/liuyvchi/HMAW)|
-|**2024-05-30**|**The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof**|Derek Lim et.al.|[2405.20231v1](http://arxiv.org/abs/2405.20231v1)|null|
-|**2024-05-30**|**Unified Explanations in Machine Learning Models: A Perturbation Approach**|Jacob Dineen et.al.|[2405.20200v1](http://arxiv.org/abs/2405.20200v1)|[link](https://github.com/jacobdineen/hiccs2021)|
-|**2024-05-30**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192v1](http://arxiv.org/abs/2405.20192v1)|[link](https://github.com/pixas/TAIA_LLM)|
-|**2024-05-30**|**Aharonov-Bohm flux and dual gaps effects on energy levels in graphene magnetic quantum dots**|Fatima Belokda et.al.|[2405.20186v1](http://arxiv.org/abs/2405.20186v1)|null|
-|**2024-05-30**|**Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning CodeLLMs**|Zichao Hu et.al.|[2405.20179v1](http://arxiv.org/abs/2405.20179v1)|null|
-|**2024-05-30**|**Reasoning about concepts with LLMs: Inconsistencies abound**|Rosario Uceda-Sosa et.al.|[2405.20163v1](http://arxiv.org/abs/2405.20163v1)|null|
-|**2024-05-30**|**Uncovering Bias in Large Vision-Language Models at Scale with Counterfactuals**|Phillip Howard et.al.|[2405.20152v1](http://arxiv.org/abs/2405.20152v1)|null|
-|**2024-05-30**|**Accounting for Mismatch Error in Small Area Estimation with Linked Data**|Enrico Fabrizi et.al.|[2405.20149v1](http://arxiv.org/abs/2405.20149v1)|null|
-|**2024-05-30**|**Can the a.c.s. notion and the GLT theory handle approximated PDEs/FDEs with either moving or unbounded domains?**|Andrea Adriani et.al.|[2405.20150v1](http://arxiv.org/abs/2405.20150v1)|null|
-|**2024-05-30**|**SLE and its partition function in multiply connected domains via the Gaussian Free Field and restriction measures**|Juhan Aru et.al.|[2405.20148v1](http://arxiv.org/abs/2405.20148v1)|null|
-|**2024-05-30**|**Supermassive black holes and very high-energy neutrinos: the case of NGC 1068**|P. Padovani et.al.|[2405.20146v1](http://arxiv.org/abs/2405.20146v1)|null|
-|**2024-05-30**|**The key science drivers for the Atacama Large Aperture Submillimeter Telescope (AtLAST)**|Mark Booth et.al.|[2405.20140v1](http://arxiv.org/abs/2405.20140v1)|null|
-|**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139v1](http://arxiv.org/abs/2405.20139v1)|null|
-|**2024-05-30**|**Classifying the Polish semigroup topologies on the symmetric inverse monoid**|Serhii Bardyla et.al.|[2405.20134v1](http://arxiv.org/abs/2405.20134v1)|null|
-|**2024-05-30**|**Infinite 3D Landmarks: Improving Continuous 2D Facial Landmark Detection**|Prashanth Chandran et.al.|[2405.20117v1](http://arxiv.org/abs/2405.20117v1)|null|
-|**2024-05-30**|**Personalized Predictions from Population Level Experiments: A Study on Alzheimer's Disease**|Dennis Shen et.al.|[2405.20088v1](http://arxiv.org/abs/2405.20088v1)|null|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Toward Quantum Analogue Simulation of Many-Body Supersymmetry with Rydberg Atom Arrays**|Hrushikesh Sable et.al.|[2405.21073v1](http://arxiv.org/abs/2405.21073v1)|null|
+|**2024-05-31**|**The First Billion Years, According to JWST**|Angela Adamo et.al.|[2405.21054v1](http://arxiv.org/abs/2405.21054v1)|null|
+|**2024-05-31**|**RydbergGPT**|David Fitzek et.al.|[2405.21052v1](http://arxiv.org/abs/2405.21052v1)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
+|**2024-05-31**|**LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**|Elias Stengel-Eskin et.al.|[2405.21028v1](http://arxiv.org/abs/2405.21028v1)|[link](https://github.com/esteng/pragmatic_calibration)|
+|**2024-05-31**|**A note on oriented percolation with inhomogeneities and strict inequalities**|Bernardo N. B. de Lima et.al.|[2405.21026v1](http://arxiv.org/abs/2405.21026v1)|null|
+|**2024-05-31**|**Towards a Fluid computer**|Robert Cardona et.al.|[2405.20999v1](http://arxiv.org/abs/2405.20999v1)|null|
+|**2024-05-31**|**Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise**|Jean Barbier et.al.|[2405.20993v1](http://arxiv.org/abs/2405.20993v1)|null|
+|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985v1](http://arxiv.org/abs/2405.20985v1)|null|
+|**2024-05-31**|**Matrix Rationalization via Partial Orders**|Agnes Totschnig et.al.|[2405.20976v1](http://arxiv.org/abs/2405.20976v1)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|[link](https://github.com/gfnorg/diffusion-finetuning)|
+|**2024-05-31**|**Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames**|Valentina Pyatkin et.al.|[2405.20967v1](http://arxiv.org/abs/2405.20967v1)|null|
+|**2024-05-31**|**Aligning Multiclass Neural Network Classifier Criterion with Task Performance via $F_β$-Score**|Nathan Tsoi et.al.|[2405.20954v1](http://arxiv.org/abs/2405.20954v1)|null|
+|**2024-05-31**|**Bayesian Deep Generative Models for Replicated Networks with Multiscale Overlapping Clusters**|Yuren Zhou et.al.|[2405.20936v1](http://arxiv.org/abs/2405.20936v1)|null|
+|**2024-05-31**|**Effective Interplay between Sparsity and Quantization: From Theory to Practice**|Simla Burcu Harma et.al.|[2405.20935v1](http://arxiv.org/abs/2405.20935v1)|null|
+|**2024-05-31**|**Addressing misconceptions in university physics: A review and experiences from quantum physics educators**|Shayan Majidy et.al.|[2405.20923v1](http://arxiv.org/abs/2405.20923v1)|null|
+|**2024-05-31**|**Flexible inference in heterogeneous and attributed multilayer networks**|Martina Contisciani et.al.|[2405.20918v1](http://arxiv.org/abs/2405.20918v1)|null|
+|**2024-05-31**|**Fast yet Safe: Early-Exiting with Risk Control**|Metod Jazbec et.al.|[2405.20915v1](http://arxiv.org/abs/2405.20915v1)|null|
+|**2024-05-31**|**VENI, VINDy, VICI: a variational reduced-order modeling framework with uncertainty quantification**|Paolo Conti et.al.|[2405.20905v1](http://arxiv.org/abs/2405.20905v1)|null|
+|**2024-05-31**|**Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization**|Tianyue Wu et.al.|[2405.20883v1](http://arxiv.org/abs/2405.20883v1)|null|
+|**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869v1](http://arxiv.org/abs/2405.20869v1)|null|
+|**2024-05-31**|**Maximum Bipartite Matching in $n^{2+o(1)}$ Time via a Combinatorial Algorithm**|Julia Chuzhoy et.al.|[2405.20861v1](http://arxiv.org/abs/2405.20861v1)|null|
+|**2024-05-31**|**clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents**|Anne Beyer et.al.|[2405.20859v1](http://arxiv.org/abs/2405.20859v1)|null|
+|**2024-05-31**|**Locally Stationary Distributions: A Framework for Analyzing Slow-Mixing Markov Chains**|Kuikui Liu et.al.|[2405.20849v1](http://arxiv.org/abs/2405.20849v1)|null|
+|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v1](http://arxiv.org/abs/2405.20835v1)|null|
+|**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834v1](http://arxiv.org/abs/2405.20834v1)|null|
+|**2024-05-31**|**Rethinking Open-World Semi-Supervised Learning: Distribution Mismatch and Inductive Inference**|Seongheon Park et.al.|[2405.20829v1](http://arxiv.org/abs/2405.20829v1)|null|
+|**2024-05-31**|**Inflation Determinants in Argentina (2004-2022)**|Pablo de la Vega et.al.|[2405.20822v1](http://arxiv.org/abs/2405.20822v1)|null|
+|**2024-05-31**|**Optimally Improving Cooperative Learning in a Social Setting**|Shahrzad Haddadan et.al.|[2405.20808v1](http://arxiv.org/abs/2405.20808v1)|null|

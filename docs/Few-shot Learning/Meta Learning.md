@@ -2,6 +2,8 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791v1](http://arxiv.org/abs/2405.20791v1)|null|
+|**2024-05-30**|**Asteroid Kamo`oalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance**|Yifei Jiao et.al.|[2405.20411v1](http://arxiv.org/abs/2405.20411v1)|null|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033v1](http://arxiv.org/abs/2405.20033v1)|null|
 |**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|[link](https://github.com/minttusofia/video_language_critic)|
@@ -30,5 +32,3 @@
 |**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719v1](http://arxiv.org/abs/2405.16719v1)|null|
 |**2024-05-26**|**A CMDP-within-online framework for Meta-Safe Reinforcement Learning**|Vanshaj Khattar et.al.|[2405.16601v1](http://arxiv.org/abs/2405.16601v1)|null|
 |**2024-05-26**|**Task Groupings Regularization: Data-Free Meta-Learning with Heterogeneous Pre-trained Models**|Yongxian Wei et.al.|[2405.16560v1](http://arxiv.org/abs/2405.16560v1)|null|
-|**2024-05-26**|**Past, Present, and Future of Citation Practices in HCI**|Jonas Oppenlaender et.al.|[2405.16526v1](http://arxiv.org/abs/2405.16526v1)|null|
-|**2024-05-26**|**Meta-Task Planning for Language Agents**|Cong Zhang et.al.|[2405.16510v3](http://arxiv.org/abs/2405.16510v3)|null|
