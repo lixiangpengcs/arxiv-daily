@@ -12,7 +12,7 @@
 |**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066v1](http://arxiv.org/abs/2405.21066v1)|null|
 |**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
 |**2024-05-31**|**Neural Network Verification with Branch-and-Bound for General Nonlinearities**|Zhouxing Shi et.al.|[2405.21063v1](http://arxiv.org/abs/2405.21063v1)|null|
-|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060v1](http://arxiv.org/abs/2405.21060v1)|null|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060v1](http://arxiv.org/abs/2405.21060v1)|[link](https://github.com/state-spaces/mamba)|
 |**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059v1](http://arxiv.org/abs/2405.21059v1)|null|
 |**2024-05-31**|**On the number of Regge trajectories for dual amplitudes**|Christopher Eckner et.al.|[2405.21057v1](http://arxiv.org/abs/2405.21057v1)|null|
 |**2024-05-31**|**Factors Influencing Performance of Students in Software Automated Test Tools Course**|Susmita Haldar et.al.|[2405.21055v1](http://arxiv.org/abs/2405.21055v1)|null|

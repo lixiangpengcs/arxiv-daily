@@ -19,7 +19,7 @@
 |**2024-05-30**|**An FBG-based Stiffness Estimation Sensor for In-vivo Diagnostics**|Behnam Moradkhani et.al.|[2405.20509v1](http://arxiv.org/abs/2405.20509v1)|null|
 |**2024-05-30**|**Is Synthetic Data all We Need? Benchmarking the Robustness of Models Trained with Synthetic Images**|Krishnakant Singh et.al.|[2405.20469v1](http://arxiv.org/abs/2405.20469v1)|null|
 |**2024-05-30**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Yi Wang et.al.|[2405.20462v1](http://arxiv.org/abs/2405.20462v1)|null|
-|**2024-05-30**|**Knockout: A simple way to handle missing inputs**|Minh Nguyen et.al.|[2405.20448v1](http://arxiv.org/abs/2405.20448v1)|null|
+|**2024-05-30**|**Knockout: A simple way to handle missing inputs**|Minh Nguyen et.al.|[2405.20448v2](http://arxiv.org/abs/2405.20448v2)|null|
 |**2024-05-30**|**Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA**|Qianqi Yan et.al.|[2405.20421v1](http://arxiv.org/abs/2405.20421v1)|[link](https://github.com/eric-ai-lab/probmed)|
 |**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340v1](http://arxiv.org/abs/2405.20340v1)|null|
 |**2024-05-30**|**RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**|Jiaben Chen et.al.|[2405.20336v1](http://arxiv.org/abs/2405.20336v1)|null|

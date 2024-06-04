@@ -5,8 +5,8 @@
 |**2024-05-31**|**Generalization Beyond Data Imbalance: A Controlled Study on CLIP for Transferable Insights**|Xin Wen et.al.|[2405.21070v1](http://arxiv.org/abs/2405.21070v1)|[link](https://github.com/cvmi-lab/clip-beyond-tail)|
 |**2024-05-31**|**Recurrent neural networks: vanishing and exploding gradients are not the end of the story**|Nicolas Zucchet et.al.|[2405.21064v1](http://arxiv.org/abs/2405.21064v1)|null|
 |**2024-05-31**|**Neural Network Verification with Branch-and-Bound for General Nonlinearities**|Zhouxing Shi et.al.|[2405.21063v1](http://arxiv.org/abs/2405.21063v1)|null|
-|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061v1](http://arxiv.org/abs/2405.21061v1)|[link](https://github.com/icm1018/geaet)|
-|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060v1](http://arxiv.org/abs/2405.21060v1)|null|
+|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061v2](http://arxiv.org/abs/2405.21061v2)|[link](https://github.com/icm1018/geaet)|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060v1](http://arxiv.org/abs/2405.21060v1)|[link](https://github.com/state-spaces/mamba)|
 |**2024-05-31**|**An Organic Weed Control Prototype using Directed Energy and Deep Learning**|Deng Cao et.al.|[2405.21056v1](http://arxiv.org/abs/2405.21056v1)|null|
 |**2024-05-31**|**Factors Influencing Performance of Students in Software Automated Test Tools Course**|Susmita Haldar et.al.|[2405.21055v1](http://arxiv.org/abs/2405.21055v1)|null|
 |**2024-05-31**|**RydbergGPT**|David Fitzek et.al.|[2405.21052v1](http://arxiv.org/abs/2405.21052v1)|null|

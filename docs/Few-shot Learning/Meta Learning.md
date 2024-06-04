@@ -2,6 +2,7 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-31**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027v2](http://arxiv.org/abs/2405.21027v2)|null|
 |**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791v1](http://arxiv.org/abs/2405.20791v1)|null|
 |**2024-05-30**|**Asteroid Kamo`oalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance**|Yifei Jiao et.al.|[2405.20411v1](http://arxiv.org/abs/2405.20411v1)|null|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
@@ -31,4 +32,3 @@
 |**2024-05-27**|**Pretraining with Random Noise for Fast and Robust Learning without Weight Transport**|Jeonghwan Cheon et.al.|[2405.16731v1](http://arxiv.org/abs/2405.16731v1)|null|
 |**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719v1](http://arxiv.org/abs/2405.16719v1)|null|
 |**2024-05-26**|**A CMDP-within-online framework for Meta-Safe Reinforcement Learning**|Vanshaj Khattar et.al.|[2405.16601v1](http://arxiv.org/abs/2405.16601v1)|null|
-|**2024-05-26**|**Task Groupings Regularization: Data-Free Meta-Learning with Heterogeneous Pre-trained Models**|Yongxian Wei et.al.|[2405.16560v1](http://arxiv.org/abs/2405.16560v1)|null|
