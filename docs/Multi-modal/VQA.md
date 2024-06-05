@@ -27,7 +27,7 @@
 |**2024-05-31**|**Maximum Bipartite Matching in $n^{2+o(1)}$ Time via a Combinatorial Algorithm**|Julia Chuzhoy et.al.|[2405.20861v1](http://arxiv.org/abs/2405.20861v1)|null|
 |**2024-05-31**|**clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents**|Anne Beyer et.al.|[2405.20859v1](http://arxiv.org/abs/2405.20859v1)|null|
 |**2024-05-31**|**Locally Stationary Distributions: A Framework for Analyzing Slow-Mixing Markov Chains**|Kuikui Liu et.al.|[2405.20849v1](http://arxiv.org/abs/2405.20849v1)|null|
-|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v1](http://arxiv.org/abs/2405.20835v1)|null|
+|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v2](http://arxiv.org/abs/2405.20835v2)|null|
 |**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834v1](http://arxiv.org/abs/2405.20834v1)|null|
 |**2024-05-31**|**Rethinking Open-World Semi-Supervised Learning: Distribution Mismatch and Inductive Inference**|Seongheon Park et.al.|[2405.20829v1](http://arxiv.org/abs/2405.20829v1)|null|
 |**2024-05-31**|**Inflation Determinants in Argentina (2004-2022)**|Pablo de la Vega et.al.|[2405.20822v1](http://arxiv.org/abs/2405.20822v1)|null|

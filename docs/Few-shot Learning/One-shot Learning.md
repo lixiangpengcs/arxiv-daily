@@ -27,7 +27,7 @@
 |**2024-05-31**|**Improved Techniques for Optimization-Based Jailbreaking on Large Language Models**|Xiaojun Jia et.al.|[2405.21018v1](http://arxiv.org/abs/2405.21018v1)|[link](https://github.com/jiaxiaojunqaq/i-gcg)|
 |**2024-05-31**|**Generating Triangulations and Fibrations with Reinforcement Learning**|Per Berglund et.al.|[2405.21017v1](http://arxiv.org/abs/2405.21017v1)|null|
 |**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016v1](http://arxiv.org/abs/2405.21016v1)|null|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v2](http://arxiv.org/abs/2405.21013v2)|null|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v3](http://arxiv.org/abs/2405.21013v3)|null|
 |**2024-05-31**|**G-Transformer for Conditional Average Potential Outcome Estimation over Time**|Konstantin Hess et.al.|[2405.21012v1](http://arxiv.org/abs/2405.21012v1)|null|
 |**2024-05-31**|**MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**|Saif Mahmud et.al.|[2405.21004v1](http://arxiv.org/abs/2405.21004v1)|null|
 |**2024-05-31**|**Explaining Predictions by Characteristic Rules**|Amr Alkhatib et.al.|[2405.21003v1](http://arxiv.org/abs/2405.21003v1)|[link](https://github.com/amrmalkhatib/cega)|

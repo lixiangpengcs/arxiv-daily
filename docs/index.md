@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-04 21:00:45 Asia/Shanghai
+ Automated deployment @ 2024-06-05 08:41:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,74 +8,6 @@
 ### Vision-Language
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### VQA
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
-|**2024-05-31**|**Toward Quantum Analogue Simulation of Many-Body Supersymmetry with Rydberg Atom Arrays**|Hrushikesh Sable et.al.|[2405.21073v1](http://arxiv.org/abs/2405.21073v1)|null|
-|**2024-05-31**|**The First Billion Years, According to JWST**|Angela Adamo et.al.|[2405.21054v1](http://arxiv.org/abs/2405.21054v1)|null|
-|**2024-05-31**|**RydbergGPT**|David Fitzek et.al.|[2405.21052v1](http://arxiv.org/abs/2405.21052v1)|null|
-|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
-|**2024-05-31**|**LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**|Elias Stengel-Eskin et.al.|[2405.21028v1](http://arxiv.org/abs/2405.21028v1)|[link](https://github.com/esteng/pragmatic_calibration)|
-|**2024-05-31**|**A note on oriented percolation with inhomogeneities and strict inequalities**|Bernardo N. B. de Lima et.al.|[2405.21026v1](http://arxiv.org/abs/2405.21026v1)|null|
-|**2024-05-31**|**Towards a Fluid computer**|Robert Cardona et.al.|[2405.20999v1](http://arxiv.org/abs/2405.20999v1)|null|
-|**2024-05-31**|**Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise**|Jean Barbier et.al.|[2405.20993v1](http://arxiv.org/abs/2405.20993v1)|null|
-|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985v1](http://arxiv.org/abs/2405.20985v1)|null|
-|**2024-05-31**|**Matrix Rationalization via Partial Orders**|Agnes Totschnig et.al.|[2405.20976v1](http://arxiv.org/abs/2405.20976v1)|null|
-|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|[link](https://github.com/gfnorg/diffusion-finetuning)|
-|**2024-05-31**|**Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames**|Valentina Pyatkin et.al.|[2405.20967v1](http://arxiv.org/abs/2405.20967v1)|null|
-|**2024-05-31**|**Aligning Multiclass Neural Network Classifier Criterion with Task Performance via $F_β$-Score**|Nathan Tsoi et.al.|[2405.20954v1](http://arxiv.org/abs/2405.20954v1)|null|
-|**2024-05-31**|**Bayesian Deep Generative Models for Replicated Networks with Multiscale Overlapping Clusters**|Yuren Zhou et.al.|[2405.20936v1](http://arxiv.org/abs/2405.20936v1)|null|
-|**2024-05-31**|**Effective Interplay between Sparsity and Quantization: From Theory to Practice**|Simla Burcu Harma et.al.|[2405.20935v1](http://arxiv.org/abs/2405.20935v1)|null|
-|**2024-05-31**|**Addressing misconceptions in university physics: A review and experiences from quantum physics educators**|Shayan Majidy et.al.|[2405.20923v1](http://arxiv.org/abs/2405.20923v1)|null|
-|**2024-05-31**|**Flexible inference in heterogeneous and attributed multilayer networks**|Martina Contisciani et.al.|[2405.20918v1](http://arxiv.org/abs/2405.20918v1)|null|
-|**2024-05-31**|**Fast yet Safe: Early-Exiting with Risk Control**|Metod Jazbec et.al.|[2405.20915v1](http://arxiv.org/abs/2405.20915v1)|null|
-|**2024-05-31**|**VENI, VINDy, VICI: a variational reduced-order modeling framework with uncertainty quantification**|Paolo Conti et.al.|[2405.20905v1](http://arxiv.org/abs/2405.20905v1)|null|
-|**2024-05-31**|**Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization**|Tianyue Wu et.al.|[2405.20883v1](http://arxiv.org/abs/2405.20883v1)|null|
-|**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869v1](http://arxiv.org/abs/2405.20869v1)|null|
-|**2024-05-31**|**Maximum Bipartite Matching in $n^{2+o(1)}$ Time via a Combinatorial Algorithm**|Julia Chuzhoy et.al.|[2405.20861v1](http://arxiv.org/abs/2405.20861v1)|null|
-|**2024-05-31**|**clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents**|Anne Beyer et.al.|[2405.20859v1](http://arxiv.org/abs/2405.20859v1)|null|
-|**2024-05-31**|**Locally Stationary Distributions: A Framework for Analyzing Slow-Mixing Markov Chains**|Kuikui Liu et.al.|[2405.20849v1](http://arxiv.org/abs/2405.20849v1)|null|
-|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v1](http://arxiv.org/abs/2405.20835v1)|null|
-|**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834v1](http://arxiv.org/abs/2405.20834v1)|null|
-|**2024-05-31**|**Rethinking Open-World Semi-Supervised Learning: Distribution Mismatch and Inductive Inference**|Seongheon Park et.al.|[2405.20829v1](http://arxiv.org/abs/2405.20829v1)|null|
-|**2024-05-31**|**Inflation Determinants in Argentina (2004-2022)**|Pablo de la Vega et.al.|[2405.20822v1](http://arxiv.org/abs/2405.20822v1)|null|
-|**2024-05-31**|**Optimally Improving Cooperative Learning in a Social Setting**|Shahrzad Haddadan et.al.|[2405.20808v1](http://arxiv.org/abs/2405.20808v1)|null|
-
-### Image Caption
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
-|**2024-05-31**|**Latent Intrinsics Emerge from Training to Relight**|Xiao Zhang et.al.|[2405.21074v1](http://arxiv.org/abs/2405.21074v1)|null|
-|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059v1](http://arxiv.org/abs/2405.21059v1)|null|
-|**2024-05-31**|**The First Billion Years, According to JWST**|Angela Adamo et.al.|[2405.21054v1](http://arxiv.org/abs/2405.21054v1)|null|
-|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050v1](http://arxiv.org/abs/2405.21050v1)|null|
-|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048v1](http://arxiv.org/abs/2405.21048v1)|null|
-|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
-|**2024-05-31**|**Photoinduced Charge Transfer in Transition Metal Dichalcogenide Quantum Dots**|Arun Singh Patel et.al.|[2405.21035v1](http://arxiv.org/abs/2405.21035v1)|null|
-|**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022v1](http://arxiv.org/abs/2405.21022v1)|null|
-|**2024-05-31**|**Beyond Conventional Parametric Modeling: Data-Driven Framework for Estimation and Prediction of Time Activity Curves in Dynamic PET Imaging**|Niloufar Zakariaei et.al.|[2405.21021v1](http://arxiv.org/abs/2405.21021v1)|null|
-|**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016v1](http://arxiv.org/abs/2405.21016v1)|null|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v2](http://arxiv.org/abs/2405.21013v2)|null|
-|**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991v1](http://arxiv.org/abs/2405.20991v1)|[link](https://github.com/kth-rpl/detect_vlm)|
-|**2024-05-31**|**Early Stopping Criteria for Training Generative Adversarial Networks in Biomedical Imaging**|Muhammad Muneeb Saad et.al.|[2405.20987v1](http://arxiv.org/abs/2405.20987v1)|null|
-|**2024-05-31**|**Generative Adversarial Networks in Ultrasound Imaging: Extending Field of View Beyond Conventional Limits**|Matej Gazda et.al.|[2405.20981v1](http://arxiv.org/abs/2405.20981v1)|null|
-|**2024-05-31**|**Neural Gaussian Scale-Space Fields**|Felix Mujkanovic et.al.|[2405.20980v1](http://arxiv.org/abs/2405.20980v1)|null|
-|**2024-05-31**|**Tsang's resolution enhancement method for imaging with focused illumination**|Alexander Duplinskiy et.al.|[2405.20979v1](http://arxiv.org/abs/2405.20979v1)|null|
-|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|[link](https://github.com/gfnorg/diffusion-finetuning)|
-|**2024-05-31**|**snompy: a package for modelling scattering-type scanning near-field optical microscopy**|Tom Vincent et.al.|[2405.20948v1](http://arxiv.org/abs/2405.20948v1)|null|
-|**2024-05-31**|**Standard model of electromagnetism and chirality in crystals**|R. Winkler et.al.|[2405.20940v1](http://arxiv.org/abs/2405.20940v1)|null|
-|**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910v1](http://arxiv.org/abs/2405.20910v1)|null|
-|**2024-05-31**|**Enhancing Vision Models for Text-Heavy Content Understanding and Interaction**|Adithya TG et.al.|[2405.20906v1](http://arxiv.org/abs/2405.20906v1)|null|
-|**2024-05-31**|**Existence of solutions to k-Wave models of nonlinear ultrasound propagation in biological tissue**|Ben Cox et.al.|[2405.20894v1](http://arxiv.org/abs/2405.20894v1)|null|
-|**2024-05-31**|**Constraining Gluonic Contact Interaction of a Neutrino-philic Dark Fermion at Hadron Colliders and Direct Detection Experiments**|Kai Ma et.al.|[2405.20890v1](http://arxiv.org/abs/2405.20890v1)|null|
-|**2024-05-31**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881v2](http://arxiv.org/abs/2405.20881v2)|null|
-|**2024-05-31**|**Investigating Calibration and Corruption Robustness of Post-hoc Pruned Perception CNNs: An Image Classification Benchmark Study**|Pallavi Mitra et.al.|[2405.20876v1](http://arxiv.org/abs/2405.20876v1)|null|
-|**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851v1](http://arxiv.org/abs/2405.20851v1)|[link](https://github.com/megvii-research/megfaceanimate)|
-|**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846v1](http://arxiv.org/abs/2405.20846v1)|null|
-|**2024-05-31**|**Analysis of clinical, dosimetric and radiomic features for predicting local failure after stereotactic radiotherapy of brain metastases in malignant melanoma**|Nanna E. Hartong et.al.|[2405.20825v1](http://arxiv.org/abs/2405.20825v1)|null|
-|**2024-05-31**|**Context-aware Difference Distilling for Multi-change Captioning**|Yunbin Tu et.al.|[2405.20810v1](http://arxiv.org/abs/2405.20810v1)|null|
 
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
@@ -110,6 +42,74 @@
 |**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|[link](https://github.com/minttusofia/video_language_critic)|
 |**2024-05-30**|**MM-Lego: Modular Biomedical Multimodal Models with Minimal Fine-Tuning**|Konstantin Hemker et.al.|[2405.19950v1](http://arxiv.org/abs/2405.19950v1)|null|
 |**2024-05-30**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917v2](http://arxiv.org/abs/2405.19917v2)|null|
+
+### VQA
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Toward Quantum Analogue Simulation of Many-Body Supersymmetry with Rydberg Atom Arrays**|Hrushikesh Sable et.al.|[2405.21073v1](http://arxiv.org/abs/2405.21073v1)|null|
+|**2024-05-31**|**The First Billion Years, According to JWST**|Angela Adamo et.al.|[2405.21054v1](http://arxiv.org/abs/2405.21054v1)|null|
+|**2024-05-31**|**RydbergGPT**|David Fitzek et.al.|[2405.21052v1](http://arxiv.org/abs/2405.21052v1)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
+|**2024-05-31**|**LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**|Elias Stengel-Eskin et.al.|[2405.21028v1](http://arxiv.org/abs/2405.21028v1)|[link](https://github.com/esteng/pragmatic_calibration)|
+|**2024-05-31**|**A note on oriented percolation with inhomogeneities and strict inequalities**|Bernardo N. B. de Lima et.al.|[2405.21026v1](http://arxiv.org/abs/2405.21026v1)|null|
+|**2024-05-31**|**Towards a Fluid computer**|Robert Cardona et.al.|[2405.20999v1](http://arxiv.org/abs/2405.20999v1)|null|
+|**2024-05-31**|**Information limits and Thouless-Anderson-Palmer equations for spiked matrix models with structured noise**|Jean Barbier et.al.|[2405.20993v1](http://arxiv.org/abs/2405.20993v1)|null|
+|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985v1](http://arxiv.org/abs/2405.20985v1)|null|
+|**2024-05-31**|**Matrix Rationalization via Partial Orders**|Agnes Totschnig et.al.|[2405.20976v1](http://arxiv.org/abs/2405.20976v1)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|[link](https://github.com/gfnorg/diffusion-finetuning)|
+|**2024-05-31**|**Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames**|Valentina Pyatkin et.al.|[2405.20967v1](http://arxiv.org/abs/2405.20967v1)|null|
+|**2024-05-31**|**Aligning Multiclass Neural Network Classifier Criterion with Task Performance via $F_β$-Score**|Nathan Tsoi et.al.|[2405.20954v1](http://arxiv.org/abs/2405.20954v1)|null|
+|**2024-05-31**|**Bayesian Deep Generative Models for Replicated Networks with Multiscale Overlapping Clusters**|Yuren Zhou et.al.|[2405.20936v1](http://arxiv.org/abs/2405.20936v1)|null|
+|**2024-05-31**|**Effective Interplay between Sparsity and Quantization: From Theory to Practice**|Simla Burcu Harma et.al.|[2405.20935v1](http://arxiv.org/abs/2405.20935v1)|null|
+|**2024-05-31**|**Addressing misconceptions in university physics: A review and experiences from quantum physics educators**|Shayan Majidy et.al.|[2405.20923v1](http://arxiv.org/abs/2405.20923v1)|null|
+|**2024-05-31**|**Flexible inference in heterogeneous and attributed multilayer networks**|Martina Contisciani et.al.|[2405.20918v1](http://arxiv.org/abs/2405.20918v1)|null|
+|**2024-05-31**|**Fast yet Safe: Early-Exiting with Risk Control**|Metod Jazbec et.al.|[2405.20915v1](http://arxiv.org/abs/2405.20915v1)|null|
+|**2024-05-31**|**VENI, VINDy, VICI: a variational reduced-order modeling framework with uncertainty quantification**|Paolo Conti et.al.|[2405.20905v1](http://arxiv.org/abs/2405.20905v1)|null|
+|**2024-05-31**|**Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization**|Tianyue Wu et.al.|[2405.20883v1](http://arxiv.org/abs/2405.20883v1)|null|
+|**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869v1](http://arxiv.org/abs/2405.20869v1)|null|
+|**2024-05-31**|**Maximum Bipartite Matching in $n^{2+o(1)}$ Time via a Combinatorial Algorithm**|Julia Chuzhoy et.al.|[2405.20861v1](http://arxiv.org/abs/2405.20861v1)|null|
+|**2024-05-31**|**clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents**|Anne Beyer et.al.|[2405.20859v1](http://arxiv.org/abs/2405.20859v1)|null|
+|**2024-05-31**|**Locally Stationary Distributions: A Framework for Analyzing Slow-Mixing Markov Chains**|Kuikui Liu et.al.|[2405.20849v1](http://arxiv.org/abs/2405.20849v1)|null|
+|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835v2](http://arxiv.org/abs/2405.20835v2)|null|
+|**2024-05-31**|**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**|Cheng Tan et.al.|[2405.20834v1](http://arxiv.org/abs/2405.20834v1)|null|
+|**2024-05-31**|**Rethinking Open-World Semi-Supervised Learning: Distribution Mismatch and Inductive Inference**|Seongheon Park et.al.|[2405.20829v1](http://arxiv.org/abs/2405.20829v1)|null|
+|**2024-05-31**|**Inflation Determinants in Argentina (2004-2022)**|Pablo de la Vega et.al.|[2405.20822v1](http://arxiv.org/abs/2405.20822v1)|null|
+|**2024-05-31**|**Optimally Improving Cooperative Learning in a Social Setting**|Shahrzad Haddadan et.al.|[2405.20808v1](http://arxiv.org/abs/2405.20808v1)|null|
+
+### Image Caption
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075v1](http://arxiv.org/abs/2405.21075v1)|null|
+|**2024-05-31**|**Latent Intrinsics Emerge from Training to Relight**|Xiao Zhang et.al.|[2405.21074v1](http://arxiv.org/abs/2405.21074v1)|null|
+|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059v1](http://arxiv.org/abs/2405.21059v1)|null|
+|**2024-05-31**|**The First Billion Years, According to JWST**|Angela Adamo et.al.|[2405.21054v1](http://arxiv.org/abs/2405.21054v1)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050v1](http://arxiv.org/abs/2405.21050v1)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048v1](http://arxiv.org/abs/2405.21048v1)|null|
+|**2024-05-31**|**An Attention-Based Multi-Context Convolutional Encoder-Decoder Neural Network for Work Zone Traffic Impact Prediction**|Qinhua Jiang et.al.|[2405.21045v1](http://arxiv.org/abs/2405.21045v1)|null|
+|**2024-05-31**|**Photoinduced Charge Transfer in Transition Metal Dichalcogenide Quantum Dots**|Arun Singh Patel et.al.|[2405.21035v1](http://arxiv.org/abs/2405.21035v1)|null|
+|**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022v1](http://arxiv.org/abs/2405.21022v1)|null|
+|**2024-05-31**|**Beyond Conventional Parametric Modeling: Data-Driven Framework for Estimation and Prediction of Time Activity Curves in Dynamic PET Imaging**|Niloufar Zakariaei et.al.|[2405.21021v1](http://arxiv.org/abs/2405.21021v1)|null|
+|**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016v1](http://arxiv.org/abs/2405.21016v1)|null|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v3](http://arxiv.org/abs/2405.21013v3)|null|
+|**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991v1](http://arxiv.org/abs/2405.20991v1)|[link](https://github.com/kth-rpl/detect_vlm)|
+|**2024-05-31**|**Early Stopping Criteria for Training Generative Adversarial Networks in Biomedical Imaging**|Muhammad Muneeb Saad et.al.|[2405.20987v1](http://arxiv.org/abs/2405.20987v1)|null|
+|**2024-05-31**|**Generative Adversarial Networks in Ultrasound Imaging: Extending Field of View Beyond Conventional Limits**|Matej Gazda et.al.|[2405.20981v1](http://arxiv.org/abs/2405.20981v1)|null|
+|**2024-05-31**|**Neural Gaussian Scale-Space Fields**|Felix Mujkanovic et.al.|[2405.20980v1](http://arxiv.org/abs/2405.20980v1)|null|
+|**2024-05-31**|**Tsang's resolution enhancement method for imaging with focused illumination**|Alexander Duplinskiy et.al.|[2405.20979v1](http://arxiv.org/abs/2405.20979v1)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971v1](http://arxiv.org/abs/2405.20971v1)|[link](https://github.com/gfnorg/diffusion-finetuning)|
+|**2024-05-31**|**snompy: a package for modelling scattering-type scanning near-field optical microscopy**|Tom Vincent et.al.|[2405.20948v1](http://arxiv.org/abs/2405.20948v1)|null|
+|**2024-05-31**|**Standard model of electromagnetism and chirality in crystals**|R. Winkler et.al.|[2405.20940v1](http://arxiv.org/abs/2405.20940v1)|null|
+|**2024-05-31**|**Predicting ptychography probe positions using single-shot phase retrieval neural network**|Ming Du et.al.|[2405.20910v1](http://arxiv.org/abs/2405.20910v1)|null|
+|**2024-05-31**|**Enhancing Vision Models for Text-Heavy Content Understanding and Interaction**|Adithya TG et.al.|[2405.20906v1](http://arxiv.org/abs/2405.20906v1)|null|
+|**2024-05-31**|**Existence of solutions to k-Wave models of nonlinear ultrasound propagation in biological tissue**|Ben Cox et.al.|[2405.20894v1](http://arxiv.org/abs/2405.20894v1)|null|
+|**2024-05-31**|**Constraining Gluonic Contact Interaction of a Neutrino-philic Dark Fermion at Hadron Colliders and Direct Detection Experiments**|Kai Ma et.al.|[2405.20890v1](http://arxiv.org/abs/2405.20890v1)|null|
+|**2024-05-31**|**S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**|Haolong Ma et.al.|[2405.20881v2](http://arxiv.org/abs/2405.20881v2)|null|
+|**2024-05-31**|**Investigating Calibration and Corruption Robustness of Post-hoc Pruned Perception CNNs: An Image Classification Benchmark Study**|Pallavi Mitra et.al.|[2405.20876v1](http://arxiv.org/abs/2405.20876v1)|null|
+|**2024-05-31**|**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**|Shurong Yang et.al.|[2405.20851v1](http://arxiv.org/abs/2405.20851v1)|[link](https://github.com/megvii-research/megfaceanimate)|
+|**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846v1](http://arxiv.org/abs/2405.20846v1)|null|
+|**2024-05-31**|**Analysis of clinical, dosimetric and radiomic features for predicting local failure after stereotactic radiotherapy of brain metastases in malignant melanoma**|Nanna E. Hartong et.al.|[2405.20825v1](http://arxiv.org/abs/2405.20825v1)|null|
+|**2024-05-31**|**Context-aware Difference Distilling for Multi-change Captioning**|Yunbin Tu et.al.|[2405.20810v1](http://arxiv.org/abs/2405.20810v1)|null|
 
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
@@ -209,7 +209,7 @@
 |**2024-05-31**|**Improved Techniques for Optimization-Based Jailbreaking on Large Language Models**|Xiaojun Jia et.al.|[2405.21018v1](http://arxiv.org/abs/2405.21018v1)|[link](https://github.com/jiaxiaojunqaq/i-gcg)|
 |**2024-05-31**|**Generating Triangulations and Fibrations with Reinforcement Learning**|Per Berglund et.al.|[2405.21017v1](http://arxiv.org/abs/2405.21017v1)|null|
 |**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016v1](http://arxiv.org/abs/2405.21016v1)|null|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v2](http://arxiv.org/abs/2405.21013v2)|null|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v3](http://arxiv.org/abs/2405.21013v3)|null|
 |**2024-05-31**|**G-Transformer for Conditional Average Potential Outcome Estimation over Time**|Konstantin Hess et.al.|[2405.21012v1](http://arxiv.org/abs/2405.21012v1)|null|
 |**2024-05-31**|**MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**|Saif Mahmud et.al.|[2405.21004v1](http://arxiv.org/abs/2405.21004v1)|null|
 |**2024-05-31**|**Explaining Predictions by Characteristic Rules**|Amr Alkhatib et.al.|[2405.21003v1](http://arxiv.org/abs/2405.21003v1)|[link](https://github.com/amrmalkhatib/cega)|
@@ -277,7 +277,7 @@
 |**2024-05-31**|**Improved Techniques for Optimization-Based Jailbreaking on Large Language Models**|Xiaojun Jia et.al.|[2405.21018v1](http://arxiv.org/abs/2405.21018v1)|[link](https://github.com/jiaxiaojunqaq/i-gcg)|
 |**2024-05-31**|**Generating Triangulations and Fibrations with Reinforcement Learning**|Per Berglund et.al.|[2405.21017v1](http://arxiv.org/abs/2405.21017v1)|null|
 |**2024-05-31**|**MpoxSLDNet: A Novel CNN Model for Detecting Monkeypox Lesions and Performance Comparison with Pre-trained Models**|Fatema Jannat Dihan et.al.|[2405.21016v1](http://arxiv.org/abs/2405.21016v1)|null|
-|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v2](http://arxiv.org/abs/2405.21013v2)|null|
+|**2024-05-31**|**StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond**|Pengyuan Lyu et.al.|[2405.21013v3](http://arxiv.org/abs/2405.21013v3)|null|
 |**2024-05-31**|**G-Transformer for Conditional Average Potential Outcome Estimation over Time**|Konstantin Hess et.al.|[2405.21012v1](http://arxiv.org/abs/2405.21012v1)|null|
 |**2024-05-31**|**MunchSonic: Tracking Fine-grained Dietary Actions through Active Acoustic Sensing on Eyeglasses**|Saif Mahmud et.al.|[2405.21004v1](http://arxiv.org/abs/2405.21004v1)|null|
 |**2024-05-31**|**Explaining Predictions by Characteristic Rules**|Amr Alkhatib et.al.|[2405.21003v1](http://arxiv.org/abs/2405.21003v1)|[link](https://github.com/amrmalkhatib/cega)|
