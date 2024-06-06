@@ -2,33 +2,33 @@
 ### One-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550v1](http://arxiv.org/abs/2406.02550v1)|[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)|
-|**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547v1](http://arxiv.org/abs/2406.02547v1)|[link](https://github.com/showlab/VisInContext)|
-|**2024-06-04**|**Robust and highly scalable estimation of directional couplings from time-shifted signals**|Luca Ambrogioni et.al.|[2406.02545v1](http://arxiv.org/abs/2406.02545v1)|null|
-|**2024-06-04**|**To Believe or Not to Believe Your LLM**|Yasin Abbasi Yadkori et.al.|[2406.02543v1](http://arxiv.org/abs/2406.02543v1)|null|
-|**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542v1](http://arxiv.org/abs/2406.02542v1)|null|
-|**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539v1](http://arxiv.org/abs/2406.02539v1)|null|
-|**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537v1](http://arxiv.org/abs/2406.02537v1)|null|
-|**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536v1](http://arxiv.org/abs/2406.02536v1)|null|
-|**2024-06-04**|**Enhancing 2D Representation Learning with a 3D Prior**|Mehmet Aygün et.al.|[2406.02535v1](http://arxiv.org/abs/2406.02535v1)|null|
-|**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534v1](http://arxiv.org/abs/2406.02534v1)|null|
-|**2024-06-04**|**SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition**|Van Minh Nguyen et.al.|[2406.02533v1](http://arxiv.org/abs/2406.02533v1)|null|
-|**2024-06-04**|**ReLUs Are Sufficient for Learning Implicit Neural Representations**|Joseph Shenouda et.al.|[2406.02529v1](http://arxiv.org/abs/2406.02529v1)|[link](https://github.com/joeshenouda/relu-inrs)|
-|**2024-06-04**|**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**|Soroush Nasiriany et.al.|[2406.02523v1](http://arxiv.org/abs/2406.02523v1)|null|
-|**2024-06-04**|**Uncertainty of Joint Neural Contextual Bandit**|Hongbo Guo et.al.|[2406.02515v1](http://arxiv.org/abs/2406.02515v1)|null|
-|**2024-06-04**|**Fairness-Optimized Synthetic EHR Generation for Arbitrary Downstream Predictive Tasks**|Mirza Farhan Bin Tarek et.al.|[2406.02510v1](http://arxiv.org/abs/2406.02510v1)|[link](https://github.com/healthylaife/fairsynth)|
-|**2024-06-04**|**Guiding a Diffusion Model with a Bad Version of Itself**|Tero Karras et.al.|[2406.02507v1](http://arxiv.org/abs/2406.02507v1)|null|
-|**2024-06-04**|**An Open-Source Tool for Mapping War Destruction at Scale in Ukraine using Sentinel-1 Time Series**|Olivier Dietrich et.al.|[2406.02506v1](http://arxiv.org/abs/2406.02506v1)|null|
-|**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500v1](http://arxiv.org/abs/2406.02500v1)|null|
-|**2024-06-04**|**Dropout MPC: An Ensemble Neural MPC Approach for Systems with Learned Dynamics**|Spyridon Syntakas et.al.|[2406.02497v1](http://arxiv.org/abs/2406.02497v1)|null|
-|**2024-06-04**|**Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability**|Kunpeng Xu et.al.|[2406.02496v1](http://arxiv.org/abs/2406.02496v1)|null|
-|**2024-06-04**|**Ai-Sampler: Adversarial Learning of Markov kernels with involutive maps**|Evgenii Egorov et.al.|[2406.02490v1](http://arxiv.org/abs/2406.02490v1)|null|
-|**2024-06-04**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486v2](http://arxiv.org/abs/2406.02486v2)|[link](https://github.com/remigenet/TKAT)|
-|**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477v1](http://arxiv.org/abs/2406.02477v1)|null|
-|**2024-06-04**|**Meta-Designing Quantum Experiments with Language Models**|Sören Arlt et.al.|[2406.02470v1](http://arxiv.org/abs/2406.02470v1)|null|
-|**2024-06-04**|**Landscape-Aware Growing: The Power of a Little LAG**|Stefani Karp et.al.|[2406.02469v1](http://arxiv.org/abs/2406.02469v1)|null|
-|**2024-06-04**|**DL-KDD: Dual-Light Knowledge Distillation for Action Recognition in the Dark**|Chi-Jui Chang et.al.|[2406.02468v1](http://arxiv.org/abs/2406.02468v1)|null|
-|**2024-06-04**|**An Empirical Study into Clustering of Unseen Datasets with Self-Supervised Encoders**|Scott C. Lowe et.al.|[2406.02465v1](http://arxiv.org/abs/2406.02465v1)|[link](https://github.com/scottclowe/zs-ssl-clustering)|
-|**2024-06-04**|**Meta-Learners for Partially-Identified Treatment Effects Across Multiple Environments**|Jonas Schweisthal et.al.|[2406.02464v1](http://arxiv.org/abs/2406.02464v1)|[link](https://github.com/jschweisthal/boundmetalearners)|
-|**2024-06-04**|**Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems**|Jason Hu et.al.|[2406.02462v1](http://arxiv.org/abs/2406.02462v1)|null|
-|**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458v1](http://arxiv.org/abs/2406.02458v1)|null|
+|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|
+|**2024-06-05**|**Grokking Modular Polynomials**|Darshil Doshi et.al.|[2406.03495v1](http://arxiv.org/abs/2406.03495v1)|null|
+|**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et.al.|[2406.03494v1](http://arxiv.org/abs/2406.03494v1)|null|
+|**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486v1](http://arxiv.org/abs/2406.03486v1)|null|
+|**2024-06-05**|**Highway Value Iteration Networks**|Yuhui Wang et.al.|[2406.03485v1](http://arxiv.org/abs/2406.03485v1)|null|
+|**2024-06-05**|**QJL: 1-Bit Quantized JL Transform for KV Cache Quantization with Zero Overhead**|Amir Zandieh et.al.|[2406.03482v1](http://arxiv.org/abs/2406.03482v1)|[link](https://github.com/amirzandieh/qjl)|
+|**2024-06-05**|**Unpacking Approaches to Learning and Teaching Machine Learning in K-12 Education: Transparency, Ethics, and Design Activities**|Luis Morales-Navarro et.al.|[2406.03480v1](http://arxiv.org/abs/2406.03480v1)|null|
+|**2024-06-05**|**MODABS: Multi-Objective Learning for Dynamic Aspect-Based Summarization**|Xiaobo Guo et.al.|[2406.03479v1](http://arxiv.org/abs/2406.03479v1)|null|
+|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478v1](http://arxiv.org/abs/2406.03478v1)|null|
+|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476v1](http://arxiv.org/abs/2406.03476v1)|null|
+|**2024-06-05**|**Solving Differential Equations using Physics-Informed Deep Equilibrium Models**|Bruno Machado Pacheco et.al.|[2406.03472v1](http://arxiv.org/abs/2406.03472v1)|null|
+|**2024-06-05**|**Parallel Quantum Computing Simulations via Quantum Accelerator Platform Virtualization**|Daniel Claudino et.al.|[2406.03466v1](http://arxiv.org/abs/2406.03466v1)|null|
+|**2024-06-05**|**Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**|Haoyu Han et.al.|[2406.03464v1](http://arxiv.org/abs/2406.03464v1)|null|
+|**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
+|**2024-06-05**|**The PESQetarian: On the Relevance of Goodhart's Law for Speech Enhancement**|Danilo de Oliveira et.al.|[2406.03460v1](http://arxiv.org/abs/2406.03460v1)|null|
+|**2024-06-05**|**Distributional Adversarial Loss**|Saba Ahmadi et.al.|[2406.03458v1](http://arxiv.org/abs/2406.03458v1)|null|
+|**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|
+|**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445v1](http://arxiv.org/abs/2406.03445v1)|null|
+|**2024-06-05**|**Are language models rational? The case of coherence norms and belief revision**|Thomas Hofweber et.al.|[2406.03442v1](http://arxiv.org/abs/2406.03442v1)|null|
+|**2024-06-05**|**Cycles of Thought: Measuring LLM Confidence through Stable Explanations**|Evan Becker et.al.|[2406.03441v1](http://arxiv.org/abs/2406.03441v1)|null|
+|**2024-06-05**|**Transfer Learning for Latent Variable Network Models**|Akhil Jalan et.al.|[2406.03437v1](http://arxiv.org/abs/2406.03437v1)|null|
+|**2024-06-05**|**Unified PAC-Bayesian Study of Pessimism for Offline Policy Learning with Regularized Importance Sampling**|Imad Aouali et.al.|[2406.03434v1](http://arxiv.org/abs/2406.03434v1)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
+|**2024-06-05**|**HelloFresh: LLM Evaluations on Streams of Real-World Human Editorial Actions across X Community Notes and Wikipedia edits**|Tim Franzmeyer et.al.|[2406.03428v1](http://arxiv.org/abs/2406.03428v1)|null|
+|**2024-06-05**|**CoFie: Learning Compact Neural Surface Representations with Coordinate Fields**|Hanwen Jiang et.al.|[2406.03417v1](http://arxiv.org/abs/2406.03417v1)|null|
+|**2024-06-05**|**Methods for Class-Imbalanced Learning with Support Vector Machines: A Review and an Empirical Evaluation**|Salim rezvani et.al.|[2406.03398v1](http://arxiv.org/abs/2406.03398v1)|null|
+|**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397v1](http://arxiv.org/abs/2406.03397v1)|null|
+|**2024-06-05**|**Noisy Data Visualization using Functional Data Analysis**|Haozhe Chen et.al.|[2406.03396v1](http://arxiv.org/abs/2406.03396v1)|null|
+|**2024-06-05**|**Gaussian Representation for Deformable Image Registration**|Jihe Li et.al.|[2406.03394v1](http://arxiv.org/abs/2406.03394v1)|null|

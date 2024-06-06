@@ -2,6 +2,23 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
+|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
+|**2024-06-05**|**Rethinking Programming Paradigms in the QC-HPC Context**|Silvina Caino-Lores et.al.|[2406.03330v1](http://arxiv.org/abs/2406.03330v1)|null|
+|**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
+|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
+|**2024-06-05**|**A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**|Zicheng Zhang et.al.|[2406.03070v1](http://arxiv.org/abs/2406.03070v1)|[link](https://github.com/q-future/a-bench)|
+|**2024-06-05**|**Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision**|Minglei Li et.al.|[2406.03051v1](http://arxiv.org/abs/2406.03051v1)|null|
+|**2024-06-05**|**Population Transformer: Learning Population-level Representations of Intracranial Activity**|Geeling Chau et.al.|[2406.03044v1](http://arxiv.org/abs/2406.03044v1)|null|
+|**2024-06-05**|**Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**|Man Liu et.al.|[2406.03032v1](http://arxiv.org/abs/2406.03032v1)|null|
+|**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015v1](http://arxiv.org/abs/2406.03015v1)|null|
+|**2024-06-05**|**Evaluation of data inconsistency for multi-modal sentiment analysis**|Yufei Wang et.al.|[2406.03004v1](http://arxiv.org/abs/2406.03004v1)|null|
+|**2024-06-05**|**Predicting Genetic Mutation from Whole Slide Images via Biomedical-Linguistic Knowledge Enhanced Multi-label Classification**|Gexin Huang et.al.|[2406.02990v1](http://arxiv.org/abs/2406.02990v1)|[link](https://github.com/gexinh/bpgt)|
+|**2024-06-05**|**AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection**|Trevine Oorloff et.al.|[2406.02951v1](http://arxiv.org/abs/2406.02951v1)|null|
+|**2024-06-05**|**Radiomics-guided Multimodal Self-attention Network for Predicting Pathological Complete Response in Breast MRI**|Jonghun Kim et.al.|[2406.02936v1](http://arxiv.org/abs/2406.02936v1)|null|
+|**2024-06-05**|**PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM**|Tao Yang et.al.|[2406.02884v1](http://arxiv.org/abs/2406.02884v1)|[link](https://github.com/posterllava/posterllava)|
+|**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844v1](http://arxiv.org/abs/2406.02844v1)|null|
 |**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547v1](http://arxiv.org/abs/2406.02547v1)|[link](https://github.com/showlab/VisInContext)|
 |**2024-06-04**|**AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**|Peiyu Liang et.al.|[2406.02348v1](http://arxiv.org/abs/2406.02348v1)|null|
 |**2024-06-04**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345v1](http://arxiv.org/abs/2406.02345v1)|null|
@@ -14,21 +31,4 @@
 |**2024-06-04**|**Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts**|Haodong Hong et.al.|[2406.02208v1](http://arxiv.org/abs/2406.02208v1)|[link](https://github.com/honghd16/vln-mp)|
 |**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202v1](http://arxiv.org/abs/2406.02202v1)|null|
 |**2024-06-04**|**One-Shot Federated Learning with Bayesian Pseudocoresets**|Tim d'Hondt et.al.|[2406.02177v1](http://arxiv.org/abs/2406.02177v1)|null|
-|**2024-06-04**|**Hybrid-Dynamic Ehrenfeucht-Fraïssé Games**|Guillermo Badia et.al.|[2406.02094v1](http://arxiv.org/abs/2406.02094v1)|null|
-|**2024-06-04**|**Foundations of logic programming in hybrid-dynamic quantum logic**|Daniel Gaina et.al.|[2406.02085v1](http://arxiv.org/abs/2406.02085v1)|null|
-|**2024-06-04**|**An agent-based model of modal choice with perception biases and habits**|Carole Adam et.al.|[2406.02063v1](http://arxiv.org/abs/2406.02063v1)|null|
-|**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
-|**2024-06-04**|**Dealing with All-stage Missing Modality: Towards A Universal Model with Robust Reconstruction and Personalization**|Yunpeng Zhao et.al.|[2406.01987v1](http://arxiv.org/abs/2406.01987v1)|null|
-|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v2](http://arxiv.org/abs/2406.01934v2)|null|
-|**2024-06-04**|**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**|Junho Kim et.al.|[2406.01920v1](http://arxiv.org/abs/2406.01920v1)|null|
-|**2024-06-04**|**GOMAA-Geo: GOal Modality Agnostic Active Geo-localization**|Anindya Sarkar et.al.|[2406.01917v1](http://arxiv.org/abs/2406.01917v1)|null|
-|**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906v1](http://arxiv.org/abs/2406.01906v1)|[link](https://github.com/chain-mao/progeo)|
-|**2024-06-03**|**L-MAGIC: Language Model Assisted Generation of Images with Coherence**|Zhipeng Cai et.al.|[2406.01843v1](http://arxiv.org/abs/2406.01843v1)|[link](https://github.com/intellabs/mmpano)|
-|**2024-06-03**|**Hybrid-Learning Video Moment Retrieval across Multi-Domain Labels**|Weitong Cai et.al.|[2406.01791v1](http://arxiv.org/abs/2406.01791v1)|null|
-|**2024-06-03**|**PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**|Yupeng Zheng et.al.|[2406.01587v2](http://arxiv.org/abs/2406.01587v2)|null|
-|**2024-06-03**|**MAD: Multi-Alignment MEG-to-Text Decoding**|Yiqian Yang et.al.|[2406.01512v1](http://arxiv.org/abs/2406.01512v1)|null|
-|**2024-06-03**|**Modal Separability of Fixpoint Formulae**|Jean Christoph Jung et.al.|[2406.01497v1](http://arxiv.org/abs/2406.01497v1)|null|
-|**2024-06-03**|**DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention**|Yang Liu et.al.|[2406.01489v2](http://arxiv.org/abs/2406.01489v2)|null|
-|**2024-06-03**|**Corps: A Core Calculus of Hierarchical Choreographic Programming**|Andrew K. Hirsch et.al.|[2406.01456v1](http://arxiv.org/abs/2406.01456v1)|null|
-|**2024-06-03**|**Automatic Fused Multimodal Deep Learning for Plant Identification**|Alfreds Lapkovskis et.al.|[2406.01455v1](http://arxiv.org/abs/2406.01455v1)|[link](https://github.com/alfredslapkovskis/multimodalplantclassifier)|
-|**2024-06-03**|**Mixture of Rationale: Multi-Modal Reasoning Mixture for Visual Question Answering**|Tao Li et.al.|[2406.01402v1](http://arxiv.org/abs/2406.01402v1)|null|
+|**2024-06-04**|**Modeling PROTAC Degradation Activity with Machine Learning**|Stefano Ribes et.al.|[2406.02637v1](http://arxiv.org/abs/2406.02637v1)|null|

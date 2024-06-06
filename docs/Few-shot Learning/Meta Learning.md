@@ -2,6 +2,8 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v1](http://arxiv.org/abs/2406.03248v1)|[link](https://github.com/xiaoyu-sz/llmasevaluator)|
+|**2024-06-05**|**Sparse two-stage Bayesian meta-analysis for individualized treatments**|Junwei Shen et.al.|[2406.03056v1](http://arxiv.org/abs/2406.03056v1)|null|
 |**2024-06-04**|**Meta-Designing Quantum Experiments with Language Models**|Sören Arlt et.al.|[2406.02470v1](http://arxiv.org/abs/2406.02470v1)|null|
 |**2024-06-04**|**Meta-Learners for Partially-Identified Treatment Effects Across Multiple Environments**|Jonas Schweisthal et.al.|[2406.02464v1](http://arxiv.org/abs/2406.02464v1)|[link](https://github.com/jschweisthal/boundmetalearners)|
 |**2024-06-04**|**System-Aware Neural ODE Processes for Few-Shot Bayesian Optimization**|Jixiang Qing et.al.|[2406.02352v1](http://arxiv.org/abs/2406.02352v1)|null|
@@ -30,5 +32,3 @@
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033v1](http://arxiv.org/abs/2405.20033v1)|[link](https://github.com/moldis-group/cebeconf)|
 |**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|[link](https://github.com/minttusofia/video_language_critic)|
-|**2024-05-30**|**A Triumvirate of AI Driven Theoretical Discovery**|Yang-Hui He et.al.|[2405.19973v1](http://arxiv.org/abs/2405.19973v1)|null|
-|**2024-05-30**|**Collective Variable Free Transition Path Sampling with Generative Flow Network**|Kiyoung Seong et.al.|[2405.19961v2](http://arxiv.org/abs/2405.19961v2)|null|
