@@ -26,7 +26,7 @@
 |**2024-06-04**|**Parameterized Non-circular Deviation from the Kerr Paradigm and Its Observational Signatures: Extreme Mass Ratio Inspirals and Lense-Thirring Effect**|Rajes Ghosh et.al.|[2406.02454v1](http://arxiv.org/abs/2406.02454v1)|null|
 |**2024-06-04**|**Negative-polarity nanosecond-pulsed cryogenic plasma in liquid nitrogen**|Danil Dobrynin et.al.|[2406.02452v1](http://arxiv.org/abs/2406.02452v1)|null|
 |**2024-06-04**|**Generative Active Learning for Long-tailed Instance Segmentation**|Muzhi Zhu et.al.|[2406.02435v1](http://arxiv.org/abs/2406.02435v1)|[link](https://github.com/aim-uofa/DiverGen)|
-|**2024-06-04**|**IterMask2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI**|Ziyun Liang et.al.|[2406.02422v1](http://arxiv.org/abs/2406.02422v1)|null|
+|**2024-06-04**|**IterMask2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI**|Ziyun Liang et.al.|[2406.02422v2](http://arxiv.org/abs/2406.02422v2)|null|
 |**2024-06-04**|**WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections**|Yuze Wang et.al.|[2406.02407v1](http://arxiv.org/abs/2406.02407v1)|null|
 |**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395v1](http://arxiv.org/abs/2406.02395v1)|[link](https://github.com/easonxiao-888/grootvl)|
 |**2024-06-04**|**Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images**|Xinyang Pu et.al.|[2406.02385v1](http://arxiv.org/abs/2406.02385v1)|[link](https://github.com/fudanxu/lora-det)|

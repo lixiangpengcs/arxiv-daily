@@ -5,7 +5,7 @@
 |**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547v1](http://arxiv.org/abs/2406.02547v1)|[link](https://github.com/showlab/VisInContext)|
 |**2024-06-04**|**AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**|Peiyu Liang et.al.|[2406.02348v1](http://arxiv.org/abs/2406.02348v1)|null|
 |**2024-06-04**|**Progressive Confident Masking Attention Network for Audio-Visual Segmentation**|Yuxuan Wang et.al.|[2406.02345v1](http://arxiv.org/abs/2406.02345v1)|null|
-|**2024-06-04**|**Incorporating Navigation Context into Inland Vessel Trajectory Prediction: A Gaussian Mixture Model and Transformer Approach**|Kathrin Donandt et.al.|[2406.02344v1](http://arxiv.org/abs/2406.02344v1)|null|
+|**2024-06-04**|**Incorporating Navigation Context into Inland Vessel Trajectory Prediction: A Gaussian Mixture Model and Transformer Approach**|Kathrin Donandt et.al.|[2406.02344v2](http://arxiv.org/abs/2406.02344v2)|null|
 |**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318v1](http://arxiv.org/abs/2406.02318v1)|null|
 |**2024-06-04**|**Multimodal Resonance in Strongly Coupled Inductor Arrays**|Robert R. Hughes et.al.|[2406.02312v1](http://arxiv.org/abs/2406.02312v1)|null|
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263v1](http://arxiv.org/abs/2406.02263v1)|null|
@@ -19,7 +19,7 @@
 |**2024-06-04**|**An agent-based model of modal choice with perception biases and habits**|Carole Adam et.al.|[2406.02063v1](http://arxiv.org/abs/2406.02063v1)|null|
 |**2024-06-04**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030v2](http://arxiv.org/abs/2406.02030v2)|null|
 |**2024-06-04**|**Dealing with All-stage Missing Modality: Towards A Universal Model with Robust Reconstruction and Personalization**|Yunpeng Zhao et.al.|[2406.01987v1](http://arxiv.org/abs/2406.01987v1)|null|
-|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v1](http://arxiv.org/abs/2406.01934v1)|null|
+|**2024-06-04**|**Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking**|Zefeng Zhang et.al.|[2406.01934v2](http://arxiv.org/abs/2406.01934v2)|null|
 |**2024-06-04**|**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**|Junho Kim et.al.|[2406.01920v1](http://arxiv.org/abs/2406.01920v1)|null|
 |**2024-06-04**|**GOMAA-Geo: GOal Modality Agnostic Active Geo-localization**|Anindya Sarkar et.al.|[2406.01917v1](http://arxiv.org/abs/2406.01917v1)|null|
 |**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906v1](http://arxiv.org/abs/2406.01906v1)|[link](https://github.com/chain-mao/progeo)|

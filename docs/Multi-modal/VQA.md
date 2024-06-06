@@ -17,7 +17,7 @@
 |**2024-06-04**|**Explainable Deep Learning Analysis for Raga Identification in Indian Art Music**|Parampreet Singh et.al.|[2406.02443v1](http://arxiv.org/abs/2406.02443v1)|[link](https://github.com/parampreetsingh97/pim_v1_exai)|
 |**2024-06-04**|**Coresets for Multiple $\ell_p$ Regression**|David P. Woodruff et.al.|[2406.02432v1](http://arxiv.org/abs/2406.02432v1)|null|
 |**2024-06-04**|**Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning**|Depeng Li et.al.|[2406.02428v1](http://arxiv.org/abs/2406.02428v1)|null|
-|**2024-06-04**|**IterMask2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI**|Ziyun Liang et.al.|[2406.02422v1](http://arxiv.org/abs/2406.02422v1)|null|
+|**2024-06-04**|**IterMask2: Iterative Unsupervised Anomaly Segmentation via Spatial and Frequency Masking for Brain Lesions in MRI**|Ziyun Liang et.al.|[2406.02422v2](http://arxiv.org/abs/2406.02422v2)|null|
 |**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416v1](http://arxiv.org/abs/2406.02416v1)|[link](https://github.com/apple/pfl-research)|
 |**2024-06-04**|**21cmSense v2: A modular, open-source 21cm sensitivity calculator**|Steven G. Murray et.al.|[2406.02415v1](http://arxiv.org/abs/2406.02415v1)|null|
 |**2024-06-04**|**Can a Few Decide for Many? The Metric Distortion of Sortition**|Ioannis Caragiannis et.al.|[2406.02400v1](http://arxiv.org/abs/2406.02400v1)|null|
@@ -29,6 +29,6 @@
 |**2024-06-04**|**Learning dynamical models from stochastic trajectories**|Pierre Ronceray et.al.|[2406.02363v1](http://arxiv.org/abs/2406.02363v1)|null|
 |**2024-06-04**|**The complexity of approximate (coarse) correlated equilibrium for incomplete information games**|Binghui Peng et.al.|[2406.02357v1](http://arxiv.org/abs/2406.02357v1)|null|
 |**2024-06-04**|**A compact stellarator-tokamak hybrid**|S. A. Henneberg et.al.|[2406.02353v1](http://arxiv.org/abs/2406.02353v1)|null|
-|**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v1](http://arxiv.org/abs/2406.02350v1)|[link](https://github.com/stephen-smj/llamacare)|
+|**2024-06-04**|**LlamaCare: A Large Medical Language Model for Enhancing Healthcare Knowledge Sharing**|Maojun Sun et.al.|[2406.02350v2](http://arxiv.org/abs/2406.02350v2)|[link](https://github.com/stephen-smj/llamacare)|
 |**2024-06-04**|**Extended Mind Transformers**|Phoebe Klett et.al.|[2406.02332v1](http://arxiv.org/abs/2406.02332v1)|null|
 |**2024-06-04**|**Translation Deserves Better: Analyzing Translation Artifacts in Cross-lingual Visual Question Answering**|ChaeHun Park et.al.|[2406.02331v1](http://arxiv.org/abs/2406.02331v1)|null|
