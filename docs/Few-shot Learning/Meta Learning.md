@@ -17,7 +17,7 @@
 |**2024-06-03**|**Reciprocal Reward Influence Encourages Cooperation From Self-Interested Agents**|John L. Zhou et.al.|[2406.01641v1](http://arxiv.org/abs/2406.01641v1)|null|
 |**2024-06-02**|**Volichenko-type metasymmetry of braided Majorana qubits**|Francesco Toppan et.al.|[2406.00876v1](http://arxiv.org/abs/2406.00876v1)|null|
 |**2024-06-02**|**Shared-unique Features and Task-aware Prioritized Sampling on Multi-task Reinforcement Learning**|Po-Shao Lin et.al.|[2406.00761v1](http://arxiv.org/abs/2406.00761v1)|null|
-|**2024-06-02**|**FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning**|Yuwei Fu et.al.|[2406.00645v1](http://arxiv.org/abs/2406.00645v1)|[link](https://github.com/fuyw/furl)|
+|**2024-06-02**|**FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning**|Yuwei Fu et.al.|[2406.00645v2](http://arxiv.org/abs/2406.00645v2)|[link](https://github.com/fuyw/furl)|
 |**2024-06-02**|**Auditing for Racial Discrimination in the Delivery of Education Ads**|Basileal Imana et.al.|[2406.00591v1](http://arxiv.org/abs/2406.00591v1)|null|
 |**2024-06-01**|**Multi-objective Neural Architecture Search by Learning Search Space Partitions**|Yiyang Zhao et.al.|[2406.00291v1](http://arxiv.org/abs/2406.00291v1)|null|
 |**2024-06-01**|**Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data**|Jintai Chen et.al.|[2406.00281v1](http://arxiv.org/abs/2406.00281v1)|null|
@@ -28,7 +28,7 @@
 |**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791v1](http://arxiv.org/abs/2405.20791v1)|null|
 |**2024-05-30**|**Asteroid Kamo`oalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance**|Yifei Jiao et.al.|[2405.20411v1](http://arxiv.org/abs/2405.20411v1)|null|
 |**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
-|**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033v1](http://arxiv.org/abs/2405.20033v1)|null|
+|**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033v1](http://arxiv.org/abs/2405.20033v1)|[link](https://github.com/moldis-group/cebeconf)|
 |**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|[link](https://github.com/minttusofia/video_language_critic)|
 |**2024-05-30**|**A Triumvirate of AI Driven Theoretical Discovery**|Yang-Hui He et.al.|[2405.19973v1](http://arxiv.org/abs/2405.19973v1)|null|
 |**2024-05-30**|**Collective Variable Free Transition Path Sampling with Generative Flow Network**|Kiyoung Seong et.al.|[2405.19961v2](http://arxiv.org/abs/2405.19961v2)|null|
