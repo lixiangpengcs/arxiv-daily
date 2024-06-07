@@ -2,6 +2,16 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models**|Ling Yang et.al.|[2406.04271v1](http://arxiv.org/abs/2406.04271v1)|[link](https://github.com/yangling0818/buffer-of-thought-llm)|
+|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v1](http://arxiv.org/abs/2406.04240v1)|null|
+|**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216v1](http://arxiv.org/abs/2406.04216v1)|null|
+|**2024-06-06**|**Towards Principled Superhuman AI for Multiplayer Symmetric Games**|Jiawei Ge et.al.|[2406.04201v1](http://arxiv.org/abs/2406.04201v1)|null|
+|**2024-06-06**|**A novel robust meta-analysis model using the $t$ distribution for outlier accommodation and detection**|Yue Wang et.al.|[2406.04150v1](http://arxiv.org/abs/2406.04150v1)|null|
+|**2024-06-06**|**A likelihood-based sensitivity analysis for addressing publication bias in meta-analysis of diagnostic studies using exact likelihood**|Taojun Hu et.al.|[2406.04095v1](http://arxiv.org/abs/2406.04095v1)|null|
+|**2024-06-06**|**Generalized Wedderburn Rank Reduction**|Oskar Kędzierski et.al.|[2406.03992v1](http://arxiv.org/abs/2406.03992v1)|null|
+|**2024-06-06**|**How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?**|Anushka Singh et.al.|[2406.03893v1](http://arxiv.org/abs/2406.03893v1)|null|
+|**2024-06-06**|**Meta-learning for Positive-unlabeled Classification**|Atsutoshi Kumagai et.al.|[2406.03680v1](http://arxiv.org/abs/2406.03680v1)|null|
+|**2024-06-05**|**BEACON: A Bayesian Optimization Strategy for Novelty Search in Expensive Black-Box Systems**|Wei-Ting Tang et.al.|[2406.03616v1](http://arxiv.org/abs/2406.03616v1)|null|
 |**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v2](http://arxiv.org/abs/2406.03248v2)|[link](https://github.com/xiaoyu-sz/llmasevaluator)|
 |**2024-06-05**|**Sparse two-stage Bayesian meta-analysis for individualized treatments**|Junwei Shen et.al.|[2406.03056v1](http://arxiv.org/abs/2406.03056v1)|null|
 |**2024-06-04**|**Meta-Designing Quantum Experiments with Language Models**|Sören Arlt et.al.|[2406.02470v1](http://arxiv.org/abs/2406.02470v1)|null|
@@ -22,13 +32,3 @@
 |**2024-06-02**|**FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning**|Yuwei Fu et.al.|[2406.00645v2](http://arxiv.org/abs/2406.00645v2)|[link](https://github.com/fuyw/furl)|
 |**2024-06-02**|**Auditing for Racial Discrimination in the Delivery of Education Ads**|Basileal Imana et.al.|[2406.00591v1](http://arxiv.org/abs/2406.00591v1)|null|
 |**2024-06-01**|**Multi-objective Neural Architecture Search by Learning Search Space Partitions**|Yiyang Zhao et.al.|[2406.00291v1](http://arxiv.org/abs/2406.00291v1)|null|
-|**2024-06-01**|**Cross-Table Pretraining towards a Universal Function Space for Heterogeneous Tabular Data**|Jintai Chen et.al.|[2406.00281v1](http://arxiv.org/abs/2406.00281v1)|null|
-|**2024-06-01**|**Privacy Challenges in Meta-Learning: An Investigation on Model-Agnostic Meta-Learning**|Mina Rafiei et.al.|[2406.00249v1](http://arxiv.org/abs/2406.00249v1)|null|
-|**2024-05-31**|**Entangled Relations: Leveraging NLI and Meta-analysis to Enhance Biomedical Relation Extraction**|William Hogan et.al.|[2406.00226v1](http://arxiv.org/abs/2406.00226v1)|null|
-|**2024-05-31**|**$μ$LO: Compute-Efficient Meta-Generalization of Learned Optimizers**|Benjamin Thérien et.al.|[2406.00153v1](http://arxiv.org/abs/2406.00153v1)|null|
-|**2024-05-31**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027v2](http://arxiv.org/abs/2405.21027v2)|null|
-|**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791v1](http://arxiv.org/abs/2405.20791v1)|null|
-|**2024-05-30**|**Asteroid Kamo`oalewa's journey from the lunar Giordano Bruno crater to Earth 1:1 resonance**|Yifei Jiao et.al.|[2405.20411v1](http://arxiv.org/abs/2405.20411v1)|null|
-|**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331v1](http://arxiv.org/abs/2405.20331v1)|[link](https://github.com/lkopf/cosy)|
-|**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033v1](http://arxiv.org/abs/2405.20033v1)|[link](https://github.com/moldis-group/cebeconf)|
-|**2024-05-30**|**Video-Language Critic: Transferable Reward Functions for Language-Conditioned Robotics**|Minttu Alakuijala et.al.|[2405.19988v1](http://arxiv.org/abs/2405.19988v1)|[link](https://github.com/minttusofia/video_language_critic)|

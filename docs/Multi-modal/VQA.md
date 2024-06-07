@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496v1](http://arxiv.org/abs/2406.03496v1)|null|
-|**2024-06-05**|**The Logarithmic Memristor-Based Bayesian Machine**|Clément Turck et.al.|[2406.03492v1](http://arxiv.org/abs/2406.03492v1)|null|
-|**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487v1](http://arxiv.org/abs/2406.03487v1)|null|
-|**2024-06-05**|**Gaussian Copula Models for Nonignorable Missing Data Using Auxiliary Marginal Quantiles**|Joseph Feldman et.al.|[2406.03463v1](http://arxiv.org/abs/2406.03463v1)|null|
-|**2024-06-05**|**Mission Design for Unmanned Aerial Vehicles using Hybrid Probabilistic Logic Program**|Simon Kohaut et.al.|[2406.03454v1](http://arxiv.org/abs/2406.03454v1)|null|
-|**2024-06-05**|**Towards the essence of Šoltés' problem**|Stijn Cambie et.al.|[2406.03451v1](http://arxiv.org/abs/2406.03451v1)|null|
-|**2024-06-05**|**Are language models rational? The case of coherence norms and belief revision**|Thomas Hofweber et.al.|[2406.03442v1](http://arxiv.org/abs/2406.03442v1)|null|
-|**2024-06-05**|**Cell divisions imprint long lasting elastic strain fields in epithelial tissues**|Ali Tahaei et.al.|[2406.03433v1](http://arxiv.org/abs/2406.03433v1)|null|
-|**2024-06-05**|**Bayesian inference for scale mixtures of skew-normal linear models under the centered parameterization**|João Victor B. de Freitas et.al.|[2406.03432v1](http://arxiv.org/abs/2406.03432v1)|null|
-|**2024-06-05**|**Causal Inference from Competing Treatments**|Ana-Andreea Stoica et.al.|[2406.03422v1](http://arxiv.org/abs/2406.03422v1)|null|
-|**2024-06-05**|**Post-hoc Part-prototype Networks**|Andong Tan et.al.|[2406.03421v1](http://arxiv.org/abs/2406.03421v1)|null|
-|**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411v1](http://arxiv.org/abs/2406.03411v1)|[link](https://github.com/saehyung-lee/plugir)|
-|**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397v1](http://arxiv.org/abs/2406.03397v1)|null|
-|**2024-06-05**|**Discrete Autoregressive Switching Processes in Sparse Graphical Modeling of Multivariate Time Series Data**|Beniamino Hadj-Amar et.al.|[2406.03385v1](http://arxiv.org/abs/2406.03385v1)|null|
-|**2024-06-05**|**Maximal information at the edge of stability in excitatory-inhibitory neural populations**|Giacomo Barzon et.al.|[2406.03380v1](http://arxiv.org/abs/2406.03380v1)|null|
-|**2024-06-05**|**Training of Physical Neural Networks**|Ali Momeni et.al.|[2406.03372v1](http://arxiv.org/abs/2406.03372v1)|null|
-|**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369v1](http://arxiv.org/abs/2406.03369v1)|null|
-|**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368v1](http://arxiv.org/abs/2406.03368v1)|null|
-|**2024-06-05**|**What Matters in Hierarchical Search for Combinatorial Reasoning Problems?**|Michał Zawalski et.al.|[2406.03361v1](http://arxiv.org/abs/2406.03361v1)|null|
-|**2024-06-05**|**Bayesian Quantile Estimation and Regression with Martingale Posteriors**|Edwin Fong et.al.|[2406.03358v1](http://arxiv.org/abs/2406.03358v1)|null|
-|**2024-06-05**|**Position: A Call to Action for a Human-Centered AutoML Paradigm**|Marius Lindauer et.al.|[2406.03348v1](http://arxiv.org/abs/2406.03348v1)|null|
-|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344v1](http://arxiv.org/abs/2406.03344v1)|null|
-|**2024-06-05**|**Relative-belief inference in quantum information theory**|Y. S. Teo et.al.|[2406.03343v1](http://arxiv.org/abs/2406.03343v1)|null|
-|**2024-06-05**|**Understanding and measuring software engineer behavior: What can we learn from the behavioral sciences?**|Allysson Allex Araújo et.al.|[2406.03342v1](http://arxiv.org/abs/2406.03342v1)|null|
-|**2024-06-05**|**Tackling GenAI Copyright Issues: Originality Estimation and Genericization**|Hiroaki Chiba-Okabe et.al.|[2406.03341v1](http://arxiv.org/abs/2406.03341v1)|null|
-|**2024-06-05**|**Analyzing and Estimating Support for U.S. Presidential Candidates in Twitter Polls**|Stephen Scarano et.al.|[2406.03340v1](http://arxiv.org/abs/2406.03340v1)|null|
-|**2024-06-05**|**Reparameterization invariance in approximate Bayesian inference**|Hrittik Roy et.al.|[2406.03334v1](http://arxiv.org/abs/2406.03334v1)|null|
-|**2024-06-05**|**Interpreting Mass and Radius Measurements of Neutron Stars with Dark Matter Halos**|Shafayat Shawqi et.al.|[2406.03332v1](http://arxiv.org/abs/2406.03332v1)|null|
-|**2024-06-05**|**Effects of Mosaic Crystal Instrument Functions on X-ray Thomson Scattering Diagnostics**|Thomas Gawne et.al.|[2406.03301v1](http://arxiv.org/abs/2406.03301v1)|null|
-|**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298v1](http://arxiv.org/abs/2406.03298v1)|[link](https://github.com/yorklyb/LiDAR-SFM)|
+|**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339v1](http://arxiv.org/abs/2406.04339v1)|null|
+|**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|[link](https://github.com/peterljq/parsimonious-concept-engineering)|
+|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
+|**2024-06-06**|**ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization**|Luca Eyring et.al.|[2406.04312v1](http://arxiv.org/abs/2406.04312v1)|null|
+|**2024-06-06**|**Approximation-Aware Bayesian Optimization**|Natalie Maus et.al.|[2406.04308v1](http://arxiv.org/abs/2406.04308v1)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306v1](http://arxiv.org/abs/2406.04306v1)|null|
+|**2024-06-06**|**On the Legendrian realisation of parametric families of knots**|Javier Martínez-Aguinaga et.al.|[2406.04293v1](http://arxiv.org/abs/2406.04293v1)|null|
+|**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291v1](http://arxiv.org/abs/2406.04291v1)|null|
+|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v1](http://arxiv.org/abs/2406.04289v1)|null|
+|**2024-06-06**|**What is Dataset Distillation Learning?**|William Yang et.al.|[2406.04284v1](http://arxiv.org/abs/2406.04284v1)|null|
+|**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249v1](http://arxiv.org/abs/2406.04249v1)|null|
+|**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|
+|**2024-06-06**|**FairytaleQA Translated: Enabling Educational Question and Answer Generation in Less-Resourced Languages**|Bernardo Leite et.al.|[2406.04233v1](http://arxiv.org/abs/2406.04233v1)|[link](https://github.com/bernardoleite/fairytaleqa-translated)|
+|**2024-06-06**|**Quantifying Misalignment Between Agents**|Aidan Kierans et.al.|[2406.04231v1](http://arxiv.org/abs/2406.04231v1)|null|
+|**2024-06-06**|**mCSQA: Multilingual Commonsense Reasoning Dataset with Unified Creation Strategy by Language Models and Humans**|Yusuke Sakai et.al.|[2406.04215v1](http://arxiv.org/abs/2406.04215v1)|null|
+|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
+|**2024-06-06**|**Towards Principled Superhuman AI for Multiplayer Symmetric Games**|Jiawei Ge et.al.|[2406.04201v1](http://arxiv.org/abs/2406.04201v1)|null|
+|**2024-06-06**|**A Multiscale Perspective on Maximum Marginal Likelihood Estimation**|O. Deniz Akyildiz et.al.|[2406.04187v1](http://arxiv.org/abs/2406.04187v1)|null|
+|**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178v1](http://arxiv.org/abs/2406.04178v1)|null|
+|**2024-06-06**|**An explanation for the absence of echoes in black hole light curve autocorrelations**|Alejandro Cárdenas-Avendaño et.al.|[2406.04176v1](http://arxiv.org/abs/2406.04176v1)|null|
+|**2024-06-06**|**Photometric Classification of Stars Around the Milky Way's Central Black Hole: I. Central Parsec**|E. Gallego-Cano et.al.|[2406.04166v1](http://arxiv.org/abs/2406.04166v1)|null|
+|**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
+|**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|null|
+|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v1](http://arxiv.org/abs/2406.04127v1)|null|
+|**2024-06-06**|**On the Tensor Property of Bernstein-Sato Polynomial**|Quan Shi et.al.|[2406.04121v1](http://arxiv.org/abs/2406.04121v1)|null|
+|**2024-06-06**|**Light Curve Models of Convective Common Envelopes**|N. Noughani et.al.|[2406.04118v1](http://arxiv.org/abs/2406.04118v1)|null|
+|**2024-06-06**|**Uncovering Limitations of Large Language Models in Information Seeking from Tables**|Chaoxu Pang et.al.|[2406.04113v1](http://arxiv.org/abs/2406.04113v1)|null|
+|**2024-06-06**|**Chromatic Topological Data Analysis**|Sebastiano Cultrera di Montesano et.al.|[2406.04102v1](http://arxiv.org/abs/2406.04102v1)|null|
+|**2024-06-06**|**Variational Prior Replacement in Bayesian Inference and Inversion**|Xuebin Zhao et.al.|[2406.04072v1](http://arxiv.org/abs/2406.04072v1)|null|
+|**2024-06-06**|**Watching Popular Musicians Learn by Ear: A Hypothesis-Generating Study of Human-Recording Interactions in YouTube Videos**|Christopher Liscio et.al.|[2406.04058v1](http://arxiv.org/abs/2406.04058v1)|null|
