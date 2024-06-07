@@ -2,7 +2,7 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v1](http://arxiv.org/abs/2406.03248v1)|[link](https://github.com/xiaoyu-sz/llmasevaluator)|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248v2](http://arxiv.org/abs/2406.03248v2)|[link](https://github.com/xiaoyu-sz/llmasevaluator)|
 |**2024-06-05**|**Sparse two-stage Bayesian meta-analysis for individualized treatments**|Junwei Shen et.al.|[2406.03056v1](http://arxiv.org/abs/2406.03056v1)|null|
 |**2024-06-04**|**Meta-Designing Quantum Experiments with Language Models**|Sören Arlt et.al.|[2406.02470v1](http://arxiv.org/abs/2406.02470v1)|null|
 |**2024-06-04**|**Meta-Learners for Partially-Identified Treatment Effects Across Multiple Environments**|Jonas Schweisthal et.al.|[2406.02464v1](http://arxiv.org/abs/2406.02464v1)|[link](https://github.com/jschweisthal/boundmetalearners)|

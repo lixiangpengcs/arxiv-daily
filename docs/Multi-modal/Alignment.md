@@ -9,7 +9,7 @@
 |**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
 |**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
 |**2024-06-05**|**A-Bench: Are LMMs Masters at Evaluating AI-generated Images?**|Zicheng Zhang et.al.|[2406.03070v1](http://arxiv.org/abs/2406.03070v1)|[link](https://github.com/q-future/a-bench)|
-|**2024-06-05**|**Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision**|Minglei Li et.al.|[2406.03051v1](http://arxiv.org/abs/2406.03051v1)|null|
+|**2024-06-05**|**Adapter-X: A Novel General Parameter-Efficient Fine-Tuning Framework for Vision**|Minglei Li et.al.|[2406.03051v2](http://arxiv.org/abs/2406.03051v2)|null|
 |**2024-06-05**|**Population Transformer: Learning Population-level Representations of Intracranial Activity**|Geeling Chau et.al.|[2406.03044v1](http://arxiv.org/abs/2406.03044v1)|null|
 |**2024-06-05**|**Instructing Prompt-to-Prompt Generation for Zero-Shot Learning**|Man Liu et.al.|[2406.03032v1](http://arxiv.org/abs/2406.03032v1)|null|
 |**2024-06-05**|**Balancing Performance and Efficiency in Zero-shot Robotic Navigation**|Dmytro Kuzmenko et.al.|[2406.03015v1](http://arxiv.org/abs/2406.03015v1)|null|

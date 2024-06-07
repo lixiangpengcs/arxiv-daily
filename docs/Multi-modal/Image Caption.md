@@ -26,7 +26,7 @@
 |**2024-06-05**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280v1](http://arxiv.org/abs/2406.03280v1)|null|
 |**2024-06-05**|**Image Copy-Move Forgery Detection and Localization Scheme: How to Avoid Missed Detection and False Alarm**|Li Jiang et.al.|[2406.03271v1](http://arxiv.org/abs/2406.03271v1)|[link](https://github.com/LUZW1998/CMFDL)|
 |**2024-06-05**|**Relative Entropy for the Numerical Diffusive Limit of the Linear Jin-Xin System**|Marianne Bessemoulin-Chatard et.al.|[2406.03268v1](http://arxiv.org/abs/2406.03268v1)|null|
-|**2024-06-05**|**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**|Jiangning Zhang et.al.|[2406.03262v1](http://arxiv.org/abs/2406.03262v1)|[link](https://github.com/zhangzjn/ader)|
+|**2024-06-05**|**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**|Jiangning Zhang et.al.|[2406.03262v2](http://arxiv.org/abs/2406.03262v2)|[link](https://github.com/zhangzjn/ader)|
 |**2024-06-05**|**On the Maximal Local Disparity of Fairness-Aware Classifiers**|Jinqiu Jin et.al.|[2406.03255v1](http://arxiv.org/abs/2406.03255v1)|null|
 |**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250v1](http://arxiv.org/abs/2406.03250v1)|null|
 |**2024-06-05**|**Interactive Image Selection and Training for Brain Tumor Segmentation Network**|Matheus A. Cerqueira et.al.|[2406.03225v1](http://arxiv.org/abs/2406.03225v1)|null|
