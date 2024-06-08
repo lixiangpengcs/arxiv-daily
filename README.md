@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-08 09:44:53 Asia/Shanghai
+ Automated deployment @ 2024-06-08 20:15:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,74 +8,6 @@
 ### Vision-Language
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Multi-modal
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
-|**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|null|
-|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
-|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|[link](https://github.com/flagopen/flagembedding)|
-|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278v1](http://arxiv.org/abs/2406.04278v1)|null|
-|**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|
-|**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230v1](http://arxiv.org/abs/2406.04230v1)|[link](https://github.com/spaceml-org/m3leo)|
-|**2024-06-06**|**Aligning Agents like Large Language Models**|Adam Jelley et.al.|[2406.04208v1](http://arxiv.org/abs/2406.04208v1)|null|
-|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
-|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
-|**2024-06-06**|**Learned Feature Importance Scores for Automated Feature Engineering**|Yihe Dong et.al.|[2406.04153v1](http://arxiv.org/abs/2406.04153v1)|null|
-|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031v1](http://arxiv.org/abs/2406.04031v1)|null|
-|**2024-06-06**|**American Sign Language Handshapes Reflect Pressures for Communicative Efficiency**|Kayo Yin et.al.|[2406.04024v1](http://arxiv.org/abs/2406.04024v1)|null|
-|**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
-|**2024-06-06**|**POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models**|Jianben He et.al.|[2406.03843v1](http://arxiv.org/abs/2406.03843v1)|null|
-|**2024-06-06**|**Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation**|Ning Cheng et.al.|[2406.03813v1](http://arxiv.org/abs/2406.03813v1)|null|
-|**2024-06-06**|**Low-Rank Similarity Mining for Multimodal Dataset Distillation**|Yue Xu et.al.|[2406.03793v1](http://arxiv.org/abs/2406.03793v1)|[link](https://github.com/silicx/lors_distill)|
-|**2024-06-06**|**VisLTR: Visualization-in-the-Loop Table Reasoning**|Jianing Hao et.al.|[2406.03753v1](http://arxiv.org/abs/2406.03753v1)|null|
-|**2024-06-06**|**Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**|Xin Wang et.al.|[2406.03721v1](http://arxiv.org/abs/2406.03721v1)|null|
-|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
-|**2024-06-06**|**Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model**|Jinlong Xue et.al.|[2406.03706v1](http://arxiv.org/abs/2406.03706v1)|null|
-|**2024-06-06**|**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**|Meishan Zhang et.al.|[2406.03701v1](http://arxiv.org/abs/2406.03701v1)|null|
-|**2024-06-05**|**Discovering Bias in Latent Space: An Unsupervised Debiasing Approach**|Dyah Adila et.al.|[2406.03631v1](http://arxiv.org/abs/2406.03631v1)|null|
-|**2024-06-05**|**Two-dimensional Kripke Semantics II: Stability and Completeness**|G. A. Kavvos et.al.|[2406.03578v1](http://arxiv.org/abs/2406.03578v1)|null|
-|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
-|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
-|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
-|**2024-06-05**|**Rethinking Programming Paradigms in the QC-HPC Context**|Silvina Caino-Lores et.al.|[2406.03330v1](http://arxiv.org/abs/2406.03330v1)|null|
-|**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
-|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
-
-### Alignment
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
-|**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|null|
-|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
-|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|[link](https://github.com/flagopen/flagembedding)|
-|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278v1](http://arxiv.org/abs/2406.04278v1)|null|
-|**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|
-|**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230v1](http://arxiv.org/abs/2406.04230v1)|[link](https://github.com/spaceml-org/m3leo)|
-|**2024-06-06**|**Aligning Agents like Large Language Models**|Adam Jelley et.al.|[2406.04208v1](http://arxiv.org/abs/2406.04208v1)|null|
-|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
-|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
-|**2024-06-06**|**Learned Feature Importance Scores for Automated Feature Engineering**|Yihe Dong et.al.|[2406.04153v1](http://arxiv.org/abs/2406.04153v1)|null|
-|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031v1](http://arxiv.org/abs/2406.04031v1)|null|
-|**2024-06-06**|**American Sign Language Handshapes Reflect Pressures for Communicative Efficiency**|Kayo Yin et.al.|[2406.04024v1](http://arxiv.org/abs/2406.04024v1)|null|
-|**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
-|**2024-06-06**|**POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models**|Jianben He et.al.|[2406.03843v1](http://arxiv.org/abs/2406.03843v1)|null|
-|**2024-06-06**|**Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation**|Ning Cheng et.al.|[2406.03813v1](http://arxiv.org/abs/2406.03813v1)|null|
-|**2024-06-06**|**Low-Rank Similarity Mining for Multimodal Dataset Distillation**|Yue Xu et.al.|[2406.03793v1](http://arxiv.org/abs/2406.03793v1)|[link](https://github.com/silicx/lors_distill)|
-|**2024-06-06**|**VisLTR: Visualization-in-the-Loop Table Reasoning**|Jianing Hao et.al.|[2406.03753v1](http://arxiv.org/abs/2406.03753v1)|null|
-|**2024-06-06**|**Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**|Xin Wang et.al.|[2406.03721v1](http://arxiv.org/abs/2406.03721v1)|null|
-|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
-|**2024-06-06**|**Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model**|Jinlong Xue et.al.|[2406.03706v1](http://arxiv.org/abs/2406.03706v1)|null|
-|**2024-06-06**|**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**|Meishan Zhang et.al.|[2406.03701v1](http://arxiv.org/abs/2406.03701v1)|null|
-|**2024-06-05**|**Discovering Bias in Latent Space: An Unsupervised Debiasing Approach**|Dyah Adila et.al.|[2406.03631v1](http://arxiv.org/abs/2406.03631v1)|null|
-|**2024-06-05**|**Two-dimensional Kripke Semantics II: Stability and Completeness**|G. A. Kavvos et.al.|[2406.03578v1](http://arxiv.org/abs/2406.03578v1)|null|
-|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
-|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
-|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
-|**2024-06-05**|**Rethinking Programming Paradigms in the QC-HPC Context**|Silvina Caino-Lores et.al.|[2406.03330v1](http://arxiv.org/abs/2406.03330v1)|null|
-|**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
-|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
 
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
@@ -111,39 +43,39 @@
 |**2024-06-06**|**CDMamba: Remote Sensing Image Change Detection with Mamba**|Haotian Zhang et.al.|[2406.04207v1](http://arxiv.org/abs/2406.04207v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
 
-### VQA
+### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339v1](http://arxiv.org/abs/2406.04339v1)|null|
-|**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|[link](https://github.com/peterljq/parsimonious-concept-engineering)|
-|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
-|**2024-06-06**|**ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization**|Luca Eyring et.al.|[2406.04312v1](http://arxiv.org/abs/2406.04312v1)|null|
-|**2024-06-06**|**Approximation-Aware Bayesian Optimization**|Natalie Maus et.al.|[2406.04308v1](http://arxiv.org/abs/2406.04308v1)|null|
-|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306v1](http://arxiv.org/abs/2406.04306v1)|null|
-|**2024-06-06**|**On the Legendrian realisation of parametric families of knots**|Javier Martínez-Aguinaga et.al.|[2406.04293v1](http://arxiv.org/abs/2406.04293v1)|null|
-|**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291v1](http://arxiv.org/abs/2406.04291v1)|null|
-|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v1](http://arxiv.org/abs/2406.04289v1)|null|
-|**2024-06-06**|**What is Dataset Distillation Learning?**|William Yang et.al.|[2406.04284v1](http://arxiv.org/abs/2406.04284v1)|null|
-|**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249v1](http://arxiv.org/abs/2406.04249v1)|null|
+|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
+|**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|null|
+|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
+|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|[link](https://github.com/flagopen/flagembedding)|
+|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278v1](http://arxiv.org/abs/2406.04278v1)|null|
 |**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|
-|**2024-06-06**|**FairytaleQA Translated: Enabling Educational Question and Answer Generation in Less-Resourced Languages**|Bernardo Leite et.al.|[2406.04233v1](http://arxiv.org/abs/2406.04233v1)|[link](https://github.com/bernardoleite/fairytaleqa-translated)|
-|**2024-06-06**|**Quantifying Misalignment Between Agents**|Aidan Kierans et.al.|[2406.04231v1](http://arxiv.org/abs/2406.04231v1)|null|
-|**2024-06-06**|**mCSQA: Multilingual Commonsense Reasoning Dataset with Unified Creation Strategy by Language Models and Humans**|Yusuke Sakai et.al.|[2406.04215v1](http://arxiv.org/abs/2406.04215v1)|null|
+|**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230v1](http://arxiv.org/abs/2406.04230v1)|[link](https://github.com/spaceml-org/m3leo)|
+|**2024-06-06**|**Aligning Agents like Large Language Models**|Adam Jelley et.al.|[2406.04208v1](http://arxiv.org/abs/2406.04208v1)|null|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
-|**2024-06-06**|**Towards Principled Superhuman AI for Multiplayer Symmetric Games**|Jiawei Ge et.al.|[2406.04201v1](http://arxiv.org/abs/2406.04201v1)|null|
-|**2024-06-06**|**A Multiscale Perspective on Maximum Marginal Likelihood Estimation**|O. Deniz Akyildiz et.al.|[2406.04187v1](http://arxiv.org/abs/2406.04187v1)|null|
-|**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178v1](http://arxiv.org/abs/2406.04178v1)|null|
-|**2024-06-06**|**An explanation for the absence of echoes in black hole light curve autocorrelations**|Alejandro Cárdenas-Avendaño et.al.|[2406.04176v1](http://arxiv.org/abs/2406.04176v1)|null|
-|**2024-06-06**|**Photometric Classification of Stars Around the Milky Way's Central Black Hole: I. Central Parsec**|E. Gallego-Cano et.al.|[2406.04166v1](http://arxiv.org/abs/2406.04166v1)|null|
-|**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
-|**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|null|
-|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v1](http://arxiv.org/abs/2406.04127v1)|null|
-|**2024-06-06**|**On the Tensor Property of Bernstein-Sato Polynomial**|Quan Shi et.al.|[2406.04121v1](http://arxiv.org/abs/2406.04121v1)|null|
-|**2024-06-06**|**Light Curve Models of Convective Common Envelopes**|N. Noughani et.al.|[2406.04118v1](http://arxiv.org/abs/2406.04118v1)|null|
-|**2024-06-06**|**Uncovering Limitations of Large Language Models in Information Seeking from Tables**|Chaoxu Pang et.al.|[2406.04113v1](http://arxiv.org/abs/2406.04113v1)|null|
-|**2024-06-06**|**Chromatic Topological Data Analysis**|Sebastiano Cultrera di Montesano et.al.|[2406.04102v1](http://arxiv.org/abs/2406.04102v1)|null|
-|**2024-06-06**|**Variational Prior Replacement in Bayesian Inference and Inversion**|Xuebin Zhao et.al.|[2406.04072v1](http://arxiv.org/abs/2406.04072v1)|null|
-|**2024-06-06**|**Watching Popular Musicians Learn by Ear: A Hypothesis-Generating Study of Human-Recording Interactions in YouTube Videos**|Christopher Liscio et.al.|[2406.04058v1](http://arxiv.org/abs/2406.04058v1)|null|
+|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
+|**2024-06-06**|**Learned Feature Importance Scores for Automated Feature Engineering**|Yihe Dong et.al.|[2406.04153v1](http://arxiv.org/abs/2406.04153v1)|null|
+|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031v1](http://arxiv.org/abs/2406.04031v1)|null|
+|**2024-06-06**|**American Sign Language Handshapes Reflect Pressures for Communicative Efficiency**|Kayo Yin et.al.|[2406.04024v1](http://arxiv.org/abs/2406.04024v1)|null|
+|**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
+|**2024-06-06**|**POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models**|Jianben He et.al.|[2406.03843v1](http://arxiv.org/abs/2406.03843v1)|null|
+|**2024-06-06**|**Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation**|Ning Cheng et.al.|[2406.03813v1](http://arxiv.org/abs/2406.03813v1)|null|
+|**2024-06-06**|**Low-Rank Similarity Mining for Multimodal Dataset Distillation**|Yue Xu et.al.|[2406.03793v1](http://arxiv.org/abs/2406.03793v1)|[link](https://github.com/silicx/lors_distill)|
+|**2024-06-06**|**VisLTR: Visualization-in-the-Loop Table Reasoning**|Jianing Hao et.al.|[2406.03753v1](http://arxiv.org/abs/2406.03753v1)|null|
+|**2024-06-06**|**Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**|Xin Wang et.al.|[2406.03721v1](http://arxiv.org/abs/2406.03721v1)|null|
+|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
+|**2024-06-06**|**Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model**|Jinlong Xue et.al.|[2406.03706v1](http://arxiv.org/abs/2406.03706v1)|null|
+|**2024-06-06**|**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**|Meishan Zhang et.al.|[2406.03701v1](http://arxiv.org/abs/2406.03701v1)|null|
+|**2024-06-05**|**Discovering Bias in Latent Space: An Unsupervised Debiasing Approach**|Dyah Adila et.al.|[2406.03631v1](http://arxiv.org/abs/2406.03631v1)|null|
+|**2024-06-05**|**Two-dimensional Kripke Semantics II: Stability and Completeness**|G. A. Kavvos et.al.|[2406.03578v1](http://arxiv.org/abs/2406.03578v1)|null|
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
+|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
+|**2024-06-05**|**Rethinking Programming Paradigms in the QC-HPC Context**|Silvina Caino-Lores et.al.|[2406.03330v1](http://arxiv.org/abs/2406.03330v1)|null|
+|**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
+|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
 
 ### Text and Image Generation
 |Publish Date|Title|Authors|PDF|Code|
@@ -179,9 +111,77 @@
 |**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
 |**2024-06-06**|**Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking**|Jiyao Zhang et.al.|[2406.04316v1](http://arxiv.org/abs/2406.04316v1)|null|
 
+### Alignment
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
+|**2024-06-06**|**Adaptive Sampling of k-Space in Magnetic Resonance for Rapid Pathology Prediction**|Chen-Yu Yen et.al.|[2406.04318v1](http://arxiv.org/abs/2406.04318v1)|null|
+|**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
+|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|[link](https://github.com/flagopen/flagembedding)|
+|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278v1](http://arxiv.org/abs/2406.04278v1)|null|
+|**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|
+|**2024-06-06**|**M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and RGB Data**|Matthew J Allen et.al.|[2406.04230v1](http://arxiv.org/abs/2406.04230v1)|[link](https://github.com/spaceml-org/m3leo)|
+|**2024-06-06**|**Aligning Agents like Large Language Models**|Adam Jelley et.al.|[2406.04208v1](http://arxiv.org/abs/2406.04208v1)|null|
+|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
+|**2024-06-06**|**Sparse Multi-baseline SAR Cross-modal 3D Reconstruction of Vehicle Targets**|Da Li et.al.|[2406.04158v1](http://arxiv.org/abs/2406.04158v1)|null|
+|**2024-06-06**|**Learned Feature Importance Scores for Automated Feature Engineering**|Yihe Dong et.al.|[2406.04153v1](http://arxiv.org/abs/2406.04153v1)|null|
+|**2024-06-06**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031v1](http://arxiv.org/abs/2406.04031v1)|null|
+|**2024-06-06**|**American Sign Language Handshapes Reflect Pressures for Communicative Efficiency**|Kayo Yin et.al.|[2406.04024v1](http://arxiv.org/abs/2406.04024v1)|null|
+|**2024-06-06**|**MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition**|Stefan Gerd Fritsch et.al.|[2406.03857v1](http://arxiv.org/abs/2406.03857v1)|null|
+|**2024-06-06**|**POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models**|Jianben He et.al.|[2406.03843v1](http://arxiv.org/abs/2406.03843v1)|null|
+|**2024-06-06**|**Touch100k: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation**|Ning Cheng et.al.|[2406.03813v1](http://arxiv.org/abs/2406.03813v1)|null|
+|**2024-06-06**|**Low-Rank Similarity Mining for Multimodal Dataset Distillation**|Yue Xu et.al.|[2406.03793v1](http://arxiv.org/abs/2406.03793v1)|[link](https://github.com/silicx/lors_distill)|
+|**2024-06-06**|**VisLTR: Visualization-in-the-Loop Table Reasoning**|Jianing Hao et.al.|[2406.03753v1](http://arxiv.org/abs/2406.03753v1)|null|
+|**2024-06-06**|**Attribute-Aware Implicit Modality Alignment for Text Attribute Person Search**|Xin Wang et.al.|[2406.03721v1](http://arxiv.org/abs/2406.03721v1)|null|
+|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712v1](http://arxiv.org/abs/2406.03712v1)|null|
+|**2024-06-06**|**Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model**|Jinlong Xue et.al.|[2406.03706v1](http://arxiv.org/abs/2406.03706v1)|null|
+|**2024-06-06**|**Recognizing Everything from All Modalities at Once: Grounded Multimodal Universal Information Extraction**|Meishan Zhang et.al.|[2406.03701v1](http://arxiv.org/abs/2406.03701v1)|null|
+|**2024-06-05**|**Discovering Bias in Latent Space: An Unsupervised Debiasing Approach**|Dyah Adila et.al.|[2406.03631v1](http://arxiv.org/abs/2406.03631v1)|null|
+|**2024-06-05**|**Two-dimensional Kripke Semantics II: Stability and Completeness**|G. A. Kavvos et.al.|[2406.03578v1](http://arxiv.org/abs/2406.03578v1)|null|
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461v1](http://arxiv.org/abs/2406.03461v1)|null|
+|**2024-06-05**|**Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input**|Joachim Ott et.al.|[2406.03439v1](http://arxiv.org/abs/2406.03439v1)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
+|**2024-06-05**|**Rethinking Programming Paradigms in the QC-HPC Context**|Silvina Caino-Lores et.al.|[2406.03330v1](http://arxiv.org/abs/2406.03330v1)|null|
+|**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
+|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
+
+### VQA
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339v1](http://arxiv.org/abs/2406.04339v1)|null|
+|**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331v1](http://arxiv.org/abs/2406.04331v1)|[link](https://github.com/peterljq/parsimonious-concept-engineering)|
+|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317v1](http://arxiv.org/abs/2406.04317v1)|null|
+|**2024-06-06**|**ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization**|Luca Eyring et.al.|[2406.04312v1](http://arxiv.org/abs/2406.04312v1)|null|
+|**2024-06-06**|**Approximation-Aware Bayesian Optimization**|Natalie Maus et.al.|[2406.04308v1](http://arxiv.org/abs/2406.04308v1)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306v1](http://arxiv.org/abs/2406.04306v1)|null|
+|**2024-06-06**|**On the Legendrian realisation of parametric families of knots**|Javier Martínez-Aguinaga et.al.|[2406.04293v1](http://arxiv.org/abs/2406.04293v1)|null|
+|**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291v1](http://arxiv.org/abs/2406.04291v1)|null|
+|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v1](http://arxiv.org/abs/2406.04289v1)|null|
+|**2024-06-06**|**What is Dataset Distillation Learning?**|William Yang et.al.|[2406.04284v1](http://arxiv.org/abs/2406.04284v1)|null|
+|**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249v1](http://arxiv.org/abs/2406.04249v1)|null|
+|**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|
+|**2024-06-06**|**FairytaleQA Translated: Enabling Educational Question and Answer Generation in Less-Resourced Languages**|Bernardo Leite et.al.|[2406.04233v1](http://arxiv.org/abs/2406.04233v1)|[link](https://github.com/bernardoleite/fairytaleqa-translated)|
+|**2024-06-06**|**Quantifying Misalignment Between Agents**|Aidan Kierans et.al.|[2406.04231v1](http://arxiv.org/abs/2406.04231v1)|null|
+|**2024-06-06**|**mCSQA: Multilingual Commonsense Reasoning Dataset with Unified Creation Strategy by Language Models and Humans**|Yusuke Sakai et.al.|[2406.04215v1](http://arxiv.org/abs/2406.04215v1)|null|
+|**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206v1](http://arxiv.org/abs/2406.04206v1)|null|
+|**2024-06-06**|**Towards Principled Superhuman AI for Multiplayer Symmetric Games**|Jiawei Ge et.al.|[2406.04201v1](http://arxiv.org/abs/2406.04201v1)|null|
+|**2024-06-06**|**A Multiscale Perspective on Maximum Marginal Likelihood Estimation**|O. Deniz Akyildiz et.al.|[2406.04187v1](http://arxiv.org/abs/2406.04187v1)|null|
+|**2024-06-06**|**Encoding Semantic Priors into the Weights of Implicit Neural Representation**|Zhicheng Cai et.al.|[2406.04178v1](http://arxiv.org/abs/2406.04178v1)|null|
+|**2024-06-06**|**An explanation for the absence of echoes in black hole light curve autocorrelations**|Alejandro Cárdenas-Avendaño et.al.|[2406.04176v1](http://arxiv.org/abs/2406.04176v1)|null|
+|**2024-06-06**|**Photometric Classification of Stars Around the Milky Way's Central Black Hole: I. Central Parsec**|E. Gallego-Cano et.al.|[2406.04166v1](http://arxiv.org/abs/2406.04166v1)|null|
+|**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
+|**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|null|
+|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v1](http://arxiv.org/abs/2406.04127v1)|null|
+|**2024-06-06**|**On the Tensor Property of Bernstein-Sato Polynomial**|Quan Shi et.al.|[2406.04121v1](http://arxiv.org/abs/2406.04121v1)|null|
+|**2024-06-06**|**Light Curve Models of Convective Common Envelopes**|N. Noughani et.al.|[2406.04118v1](http://arxiv.org/abs/2406.04118v1)|null|
+|**2024-06-06**|**Uncovering Limitations of Large Language Models in Information Seeking from Tables**|Chaoxu Pang et.al.|[2406.04113v1](http://arxiv.org/abs/2406.04113v1)|null|
+|**2024-06-06**|**Chromatic Topological Data Analysis**|Sebastiano Cultrera di Montesano et.al.|[2406.04102v1](http://arxiv.org/abs/2406.04102v1)|null|
+|**2024-06-06**|**Variational Prior Replacement in Bayesian Inference and Inversion**|Xuebin Zhao et.al.|[2406.04072v1](http://arxiv.org/abs/2406.04072v1)|null|
+|**2024-06-06**|**Watching Popular Musicians Learn by Ear: A Hypothesis-Generating Study of Human-Recording Interactions in YouTube Videos**|Christopher Liscio et.al.|[2406.04058v1](http://arxiv.org/abs/2406.04058v1)|null|
+
 ## Few-shot Learning
 
-### Few-shot Learning
+### One-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
@@ -249,7 +249,7 @@
 |**2024-06-02**|**Auditing for Racial Discrimination in the Delivery of Education Ads**|Basileal Imana et.al.|[2406.00591v1](http://arxiv.org/abs/2406.00591v1)|null|
 |**2024-06-01**|**Multi-objective Neural Architecture Search by Learning Search Space Partitions**|Yiyang Zhao et.al.|[2406.00291v1](http://arxiv.org/abs/2406.00291v1)|null|
 
-### One-shot Learning
+### Few-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|[link](https://github.com/opengvlab/de-focus-attention-networks)|
