@@ -21,7 +21,7 @@
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|[link](https://github.com/flagopen/flagembedding)|
 |**2024-06-06**|**SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.|[2406.04287v1](http://arxiv.org/abs/2406.04287v1)|null|
 |**2024-06-06**|**MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding**|Junjie Zhou et.al.|[2406.04264v1](http://arxiv.org/abs/2406.04264v1)|null|
-|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v1](http://arxiv.org/abs/2406.04254v1)|null|
+|**2024-06-06**|**GeoGen: Geometry-Aware Generative Modeling via Signed Distance Functions**|Salvatore Esposito et.al.|[2406.04254v2](http://arxiv.org/abs/2406.04254v2)|null|
 |**2024-06-06**|**Sub-nanometer depth resolution and single dopant visualization achieved by tilt-coupled multislice electron ptychography**|Zehao Dong et.al.|[2406.04252v1](http://arxiv.org/abs/2406.04252v1)|null|
 |**2024-06-06**|**Localized Gaussian Point Management**|Haosen Yang et.al.|[2406.04251v1](http://arxiv.org/abs/2406.04251v1)|null|
 |**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249v1](http://arxiv.org/abs/2406.04249v1)|null|

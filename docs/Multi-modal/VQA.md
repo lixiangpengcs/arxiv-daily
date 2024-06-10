@@ -25,7 +25,7 @@
 |**2024-06-06**|**Photometric Classification of Stars Around the Milky Way's Central Black Hole: I. Central Parsec**|E. Gallego-Cano et.al.|[2406.04166v1](http://arxiv.org/abs/2406.04166v1)|null|
 |**2024-06-06**|**Every Answer Matters: Evaluating Commonsense with Probabilistic Measures**|Qi Cheng et.al.|[2406.04145v1](http://arxiv.org/abs/2406.04145v1)|null|
 |**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|[link](https://github.com/LuanaBulla/Detection-of-Morality-in-Text)|
-|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v1](http://arxiv.org/abs/2406.04127v1)|null|
+|**2024-06-06**|**Are We Done with MMLU?**|Aryo Pradipta Gema et.al.|[2406.04127v2](http://arxiv.org/abs/2406.04127v2)|[link](https://github.com/aryopg/mmlu-redux)|
 |**2024-06-06**|**On the Tensor Property of Bernstein-Sato Polynomial**|Quan Shi et.al.|[2406.04121v1](http://arxiv.org/abs/2406.04121v1)|null|
 |**2024-06-06**|**Light Curve Models of Convective Common Envelopes**|N. Noughani et.al.|[2406.04118v1](http://arxiv.org/abs/2406.04118v1)|null|
 |**2024-06-06**|**Uncovering Limitations of Large Language Models in Information Seeking from Tables**|Chaoxu Pang et.al.|[2406.04113v1](http://arxiv.org/abs/2406.04113v1)|[link](https://github.com/coszero/TabIS)|

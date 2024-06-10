@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-06-06**|**Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models**|Ling Yang et.al.|[2406.04271v1](http://arxiv.org/abs/2406.04271v1)|[link](https://github.com/yangling0818/buffer-of-thought-llm)|
-|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v1](http://arxiv.org/abs/2406.04240v1)|null|
+|**2024-06-06**|**Hypernetworks for Personalizing ASR to Atypical Speech**|Max Mueller-Eberstein et.al.|[2406.04240v2](http://arxiv.org/abs/2406.04240v2)|null|
 |**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216v1](http://arxiv.org/abs/2406.04216v1)|null|
 |**2024-06-06**|**Towards Principled Superhuman AI for Multiplayer Symmetric Games**|Jiawei Ge et.al.|[2406.04201v1](http://arxiv.org/abs/2406.04201v1)|null|
 |**2024-06-06**|**A novel robust meta-analysis model using the $t$ distribution for outlier accommodation and detection**|Yue Wang et.al.|[2406.04150v1](http://arxiv.org/abs/2406.04150v1)|null|
