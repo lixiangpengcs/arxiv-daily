@@ -10,7 +10,7 @@
 |**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306v1](http://arxiv.org/abs/2406.04306v1)|[link](https://github.com/ml-jku/SDLG)|
 |**2024-06-06**|**On the Legendrian realisation of parametric families of knots**|Javier Martínez-Aguinaga et.al.|[2406.04293v1](http://arxiv.org/abs/2406.04293v1)|null|
 |**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291v1](http://arxiv.org/abs/2406.04291v1)|null|
-|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v1](http://arxiv.org/abs/2406.04289v1)|null|
+|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289v2](http://arxiv.org/abs/2406.04289v2)|null|
 |**2024-06-06**|**What is Dataset Distillation Learning?**|William Yang et.al.|[2406.04284v1](http://arxiv.org/abs/2406.04284v1)|[link](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning)|
 |**2024-06-06**|**Conv-INR: Convolutional Implicit Neural Representation for Multimodal Visual Signals**|Zhicheng Cai et.al.|[2406.04249v1](http://arxiv.org/abs/2406.04249v1)|null|
 |**2024-06-06**|**Understanding Information Storage and Transfer in Multi-modal Large Language Models**|Samyadeep Basu et.al.|[2406.04236v1](http://arxiv.org/abs/2406.04236v1)|null|

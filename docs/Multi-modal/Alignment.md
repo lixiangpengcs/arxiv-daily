@@ -31,4 +31,4 @@
 |**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430v1](http://arxiv.org/abs/2406.03430v1)|[link](https://github.com/xmindflow/awesome_mamba)|
 |**2024-06-05**|**Rethinking Programming Paradigms in the QC-HPC Context**|Silvina Caino-Lores et.al.|[2406.03330v1](http://arxiv.org/abs/2406.03330v1)|null|
 |**2024-06-05**|**A Combination Model for Time Series Prediction using LSTM via Extracting Dynamic Features Based on Spatial Smoothing and Sequential General Variational Mode Decomposition**|Jianyu Liu et.al.|[2406.03144v1](http://arxiv.org/abs/2406.03144v1)|null|
-|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v1](http://arxiv.org/abs/2406.03138v1)|null|
+|**2024-06-05**|**A Frame-based Attention Interpretation Method for Relevant Acoustic Feature Extraction in Long Speech Depression Detection**|Qingkun Deng et.al.|[2406.03138v2](http://arxiv.org/abs/2406.03138v2)|null|
