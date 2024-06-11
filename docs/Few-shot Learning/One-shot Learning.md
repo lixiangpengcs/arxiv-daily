@@ -2,33 +2,33 @@
 ### One-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132v1](http://arxiv.org/abs/2406.05132v1)|null|
-|**2024-06-07**|**DVOS: Self-Supervised Dense-Pattern Video Object Segmentation**|Keyhan Najafian et.al.|[2406.05131v1](http://arxiv.org/abs/2406.05131v1)|null|
-|**2024-06-07**|**Differentiable Time-Varying Linear Prediction in the Context of End-to-End Analysis-by-Synthesis**|Chin-Yun Yu et.al.|[2406.05128v1](http://arxiv.org/abs/2406.05128v1)|[link](https://github.com/yoyololicon/torchlpc)|
-|**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119v1](http://arxiv.org/abs/2406.05119v1)|null|
-|**2024-06-07**|**The Expanding Scope of the Stability Gap: Unveiling its Presence in Joint Incremental Learning of Homogeneous Tasks**|Sandesh Kamath et.al.|[2406.05114v1](http://arxiv.org/abs/2406.05114v1)|null|
-|**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113v1](http://arxiv.org/abs/2406.05113v1)|null|
-|**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109v1](http://arxiv.org/abs/2406.05109v1)|null|
-|**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108v1](http://arxiv.org/abs/2406.05108v1)|null|
-|**2024-06-07**|**LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration**|Tavor Lipman et.al.|[2406.05107v1](http://arxiv.org/abs/2406.05107v1)|null|
-|**2024-06-07**|**Provably Better Explanations with Optimized Aggregation of Feature Attributions**|Thomas Decker et.al.|[2406.05090v1](http://arxiv.org/abs/2406.05090v1)|null|
-|**2024-06-07**|**Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach**|Difan Deng et.al.|[2406.05088v1](http://arxiv.org/abs/2406.05088v1)|null|
-|**2024-06-07**|**Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**|Maciej Besta et.al.|[2406.05085v1](http://arxiv.org/abs/2406.05085v1)|[link](https://github.com/spcl/mrag)|
-|**2024-06-07**|**SUMIE: A Synthetic Benchmark for Incremental Entity Summarization**|Eunjeong Hwang et.al.|[2406.05079v1](http://arxiv.org/abs/2406.05079v1)|null|
-|**2024-06-07**|**Hibou: A Family of Foundational Vision Transformers for Pathology**|Dmitry Nechaev et.al.|[2406.05074v1](http://arxiv.org/abs/2406.05074v1)|null|
-|**2024-06-07**|**Linearization Turns Neural Operators into Function-Valued Gaussian Processes**|Emilia Magnani et.al.|[2406.05072v1](http://arxiv.org/abs/2406.05072v1)|null|
-|**2024-06-07**|**Massively Multiagent Minigames for Training Generalist Agents**|Kyoung Whan Choe et.al.|[2406.05071v1](http://arxiv.org/abs/2406.05071v1)|[link](https://github.com/kywch/meta-mmo)|
-|**2024-06-07**|**Emo-bias: A Large Scale Evaluation of Social Bias on Speech Emotion Recognition**|Yi-Cheng Lin et.al.|[2406.05065v1](http://arxiv.org/abs/2406.05065v1)|null|
-|**2024-06-07**|**Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning**|Subhojyoti Mukherjee et.al.|[2406.05064v1](http://arxiv.org/abs/2406.05064v1)|null|
-|**2024-06-07**|**Progressive Entropic Optimal Transport Solvers**|Parnian Kassraie et.al.|[2406.05061v1](http://arxiv.org/abs/2406.05061v1)|null|
-|**2024-06-07**|**Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation**|Nachiket Kotalwar et.al.|[2406.05053v1](http://arxiv.org/abs/2406.05053v1)|null|
-|**2024-06-07**|**A Tensor Decomposition Perspective on Second-order RNNs**|Maude Lizaire et.al.|[2406.05045v1](http://arxiv.org/abs/2406.05045v1)|null|
-|**2024-06-07**|**Online Frequency Scheduling by Learning Parallel Actions**|Anastasios Giovanidis et.al.|[2406.05041v1](http://arxiv.org/abs/2406.05041v1)|null|
-|**2024-06-07**|**Structured physics-guided neural networks for electromagnetic commutation applied to industrial linear motors**|Max Bolderman et.al.|[2406.05040v1](http://arxiv.org/abs/2406.05040v1)|null|
-|**2024-06-07**|**Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**|Shentong Mo et.al.|[2406.05038v1](http://arxiv.org/abs/2406.05038v1)|null|
-|**2024-06-07**|**TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks**|Ninghui Feng et.al.|[2406.05036v1](http://arxiv.org/abs/2406.05036v1)|[link](https://github.com/xll0328/timesieve)|
-|**2024-06-07**|**Scenarios and Approaches for Situated Natural Language Explanations**|Pengshuo Qiu et.al.|[2406.05035v1](http://arxiv.org/abs/2406.05035v1)|null|
-|**2024-06-07**|**Gradient Descent on Logistic Regression with Non-Separable Data and Large Step Sizes**|Si Yi Meng et.al.|[2406.05033v1](http://arxiv.org/abs/2406.05033v1)|null|
-|**2024-06-07**|**Optimizing Automatic Differentiation with Deep Reinforcement Learning**|Jamie Lohoff et.al.|[2406.05027v1](http://arxiv.org/abs/2406.05027v1)|null|
-|**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023v1](http://arxiv.org/abs/2406.05023v1)|[link](https://github.com/ZKI-PH-ImageAnalysis/GANetic-Loss)|
-|**2024-06-07**|**Scaling up Probabilistic PDE Simulators with Structured Volumetric Information**|Tim Weiland et.al.|[2406.05020v1](http://arxiv.org/abs/2406.05020v1)|[link](https://github.com/timweiland/gp-fvm)|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520v1](http://arxiv.org/abs/2406.06520v1)|null|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519v1](http://arxiv.org/abs/2406.06519v1)|[link](https://github.com/castorini/umbrela)|
+|**2024-06-10**|**Data Augmentation for Multivariate Time Series Classification: An Experimental Study**|Romain Ilbert et.al.|[2406.06518v1](http://arxiv.org/abs/2406.06518v1)|null|
+|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517v1](http://arxiv.org/abs/2406.06517v1)|null|
+|**2024-06-10**|**Distribution-Free Predictive Inference under Unknown Temporal Drift**|Elise Han et.al.|[2406.06516v1](http://arxiv.org/abs/2406.06516v1)|null|
+|**2024-06-10**|**Random Features Approximation for Control-Affine Systems**|Kimia Kazemian et.al.|[2406.06514v1](http://arxiv.org/abs/2406.06514v1)|null|
+|**2024-06-10**|**Robust Distribution Learning with Local and Global Adversarial Corruptions**|Sloan Nietert et.al.|[2406.06509v1](http://arxiv.org/abs/2406.06509v1)|null|
+|**2024-06-10**|**Verification-Guided Shielding for Deep Reinforcement Learning**|Davide Corsi et.al.|[2406.06507v1](http://arxiv.org/abs/2406.06507v1)|null|
+|**2024-06-10**|**Online Newton Method for Bandit Convex Optimisation**|Hidde Fokkema et.al.|[2406.06506v1](http://arxiv.org/abs/2406.06506v1)|null|
+|**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504v1](http://arxiv.org/abs/2406.06504v1)|null|
+|**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500v1](http://arxiv.org/abs/2406.06500v1)|null|
+|**2024-06-10**|**NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative**|Asmar Nadeem et.al.|[2406.06499v1](http://arxiv.org/abs/2406.06499v1)|null|
+|**2024-06-10**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496v1](http://arxiv.org/abs/2406.06496v1)|null|
+|**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495v1](http://arxiv.org/abs/2406.06495v1)|null|
+|**2024-06-10**|**Scaling Continuous Latent Variable Models as Probabilistic Integral Circuits**|Gennaro Gala et.al.|[2406.06494v1](http://arxiv.org/abs/2406.06494v1)|null|
+|**2024-06-10**|**Probing out-of-distribution generalization in machine learning for materials**|Kangming Li et.al.|[2406.06489v1](http://arxiv.org/abs/2406.06489v1)|null|
+|**2024-06-10**|**When is Multicalibration Post-Processing Necessary?**|Dutch Hansen et.al.|[2406.06487v1](http://arxiv.org/abs/2406.06487v1)|null|
+|**2024-06-10**|**Continuum Attention for Neural Operators**|Edoardo Calvello et.al.|[2406.06486v1](http://arxiv.org/abs/2406.06486v1)|null|
+|**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484v1](http://arxiv.org/abs/2406.06484v1)|null|
+|**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482v1](http://arxiv.org/abs/2406.06482v1)|null|
+|**2024-06-10**|**Graph-Based Bidirectional Transformer Decision Threshold Adjustment Algorithm for Class-Imbalanced Molecular Data**|Nicole Hayes et.al.|[2406.06479v1](http://arxiv.org/abs/2406.06479v1)|null|
+|**2024-06-10**|**GKAN: Graph Kolmogorov-Arnold Networks**|Mehrdad Kiamari et.al.|[2406.06470v1](http://arxiv.org/abs/2406.06470v1)|null|
+|**2024-06-10**|**Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning**|Joongwon Kim et.al.|[2406.06469v1](http://arxiv.org/abs/2406.06469v1)|[link](https://github.com/agent-husky/husky-v1)|
+|**2024-06-10**|**How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad**|Emmanuel Abbe et.al.|[2406.06467v1](http://arxiv.org/abs/2406.06467v1)|[link](https://github.com/aryol/inductive-scratchpad)|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465v1](http://arxiv.org/abs/2406.06465v1)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|null|
+|**2024-06-10**|**Towards Real-World Efficiency: Domain Randomization in Reinforcement Learning for Pre-Capture of Free-Floating Moving Targets by Autonomous Robots**|Bahador Beigomi et.al.|[2406.06460v1](http://arxiv.org/abs/2406.06460v1)|[link](https://github.com/baha2r/Fanuc_Robotiq_Grasp)|
+|**2024-06-10**|**How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?**|Agustinus Kristiadi et.al.|[2406.06459v1](http://arxiv.org/abs/2406.06459v1)|[link](https://github.com/wiseodd/bo-async-feedback)|
+|**2024-06-10**|**Time Series Analysis: yesterday, today, tomorrow**|Igor Mackarov et.al.|[2406.06453v1](http://arxiv.org/abs/2406.06453v1)|null|
+|**2024-06-10**|**Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data**|Miruna Oprescu et.al.|[2406.06452v1](http://arxiv.org/abs/2406.06452v1)|null|
