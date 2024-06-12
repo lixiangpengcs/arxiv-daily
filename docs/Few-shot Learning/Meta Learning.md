@@ -17,7 +17,7 @@
 |**2024-06-07**|**Unraveling Trace Anomaly of Supradense Matter via Neutron Star Compactness Scaling**|Bao-Jun Cai et.al.|[2406.05025v1](http://arxiv.org/abs/2406.05025v1)|null|
 |**2024-06-07**|**Cactus-like Metamaterial Structures for Electromagnetically Induced Transparency at THz frequencies**|Savvas Papamakarios et.al.|[2406.04862v1](http://arxiv.org/abs/2406.04862v1)|null|
 |**2024-06-07**|**Black Box Differential Privacy Auditing Using Total Variation Distance**|Antti Koskela et.al.|[2406.04827v1](http://arxiv.org/abs/2406.04827v1)|null|
-|**2024-06-07**|**Graph Mining under Data scarcity**|Appan Rakaraddi et.al.|[2406.04825v1](http://arxiv.org/abs/2406.04825v1)|null|
+|**2024-06-07**|**Graph Mining under Data scarcity**|Appan Rakaraddi et.al.|[2406.04825v2](http://arxiv.org/abs/2406.04825v2)|null|
 |**2024-06-07**|**Skill-aware Mutual Information Optimisation for Generalisation in Reinforcement Learning**|Xuehui Yu et.al.|[2406.04815v1](http://arxiv.org/abs/2406.04815v1)|[link](https://github.com/uoe-agents/sami)|
 |**2024-06-07**|**Cooperative Meta-Learning with Gradient Augmentation**|Jongyun Shin et.al.|[2406.04639v1](http://arxiv.org/abs/2406.04639v1)|[link](https://github.com/jjongyn/cml)|
 |**2024-06-06**|**Generative Assignment Flows for Representing and Learning Joint Distributions of Discrete Data**|Bastian Boll et.al.|[2406.04527v1](http://arxiv.org/abs/2406.04527v1)|null|

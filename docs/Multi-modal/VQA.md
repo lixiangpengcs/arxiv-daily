@@ -10,7 +10,7 @@
 |**2024-06-10**|**A Taxonomy and Comparative Analysis of IPv4 ID Selection Correctness, Security, and Performance**|Joshua J. Daymude et.al.|[2406.06483v1](http://arxiv.org/abs/2406.06483v1)|null|
 |**2024-06-10**|**Nodewise Loreg: Nodewise $L_0$-penalized Regression for High-dimensional Sparse Precision Matrix Estimation**|Hai Shu et.al.|[2406.06481v1](http://arxiv.org/abs/2406.06481v1)|null|
 |**2024-06-10**|**Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning**|Joongwon Kim et.al.|[2406.06469v1](http://arxiv.org/abs/2406.06469v1)|[link](https://github.com/agent-husky/husky-v1)|
-|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v1](http://arxiv.org/abs/2406.06464v1)|null|
+|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464v2](http://arxiv.org/abs/2406.06464v2)|null|
 |**2024-06-10**|**Galaxy lens reconstruction based on strongly lensed gravitational waves: similarity transformation degeneracy and mass-sheet degeneracy**|Jason S. C. Poon et.al.|[2406.06463v1](http://arxiv.org/abs/2406.06463v1)|null|
 |**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462v1](http://arxiv.org/abs/2406.06462v1)|[link](https://github.com/tianyu-z/vcr)|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458v1](http://arxiv.org/abs/2406.06458v1)|null|
