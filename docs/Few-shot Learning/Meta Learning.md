@@ -6,7 +6,7 @@
 |**2024-06-11**|**Impact of the nuclear equation of state on the formation of twin stars**|Nai-Bo Zhang et.al.|[2406.07396v1](http://arxiv.org/abs/2406.07396v1)|null|
 |**2024-06-11**|**Fast Adaptive Meta-Heuristic for Large-Scale Facility Location Problem**|Bahram Alidaee et.al.|[2406.07382v1](http://arxiv.org/abs/2406.07382v1)|null|
 |**2024-06-11**|**A generic and robust quantum agent inspired by deep meta-reinforcement learning**|Zibo Miao et.al.|[2406.07225v1](http://arxiv.org/abs/2406.07225v1)|null|
-|**2024-06-11**|**Agnostic Sharpness-Aware Minimization**|Van-Anh Nguyen et.al.|[2406.07107v1](http://arxiv.org/abs/2406.07107v1)|null|
+|**2024-06-11**|**Agnostic Sharpness-Aware Minimization**|Van-Anh Nguyen et.al.|[2406.07107v2](http://arxiv.org/abs/2406.07107v2)|null|
 |**2024-06-11**|**Meta-Backscatter: A New ISAC Paradigm for Battery-Free Internet of Things**|Xu Liu et.al.|[2406.07077v1](http://arxiv.org/abs/2406.07077v1)|null|
 |**2024-06-11**|**HalluDial: A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation**|Wen Luo et.al.|[2406.07070v1](http://arxiv.org/abs/2406.07070v1)|null|
 |**2024-06-11**|**Fairness-Aware Meta-Learning via Nash Bargaining**|Yi Zeng et.al.|[2406.07029v1](http://arxiv.org/abs/2406.07029v1)|null|

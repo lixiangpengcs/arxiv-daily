@@ -27,8 +27,8 @@
 |**2024-06-11**|**AI.vs.Clinician: Unveiling Intricate Interactions Between AI and Clinicians through an Open-Access Database**|Wanling Gao et.al.|[2406.07362v1](http://arxiv.org/abs/2406.07362v1)|null|
 |**2024-06-11**|**Deep Implicit Optimization for Robust and Flexible Image Registration**|Rohit Jena et.al.|[2406.07361v1](http://arxiv.org/abs/2406.07361v1)|null|
 |**2024-06-11**|**PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering**|Longlong Lin et.al.|[2406.07357v1](http://arxiv.org/abs/2406.07357v1)|null|
-|**2024-06-11**|**DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**|Zijian Hei et.al.|[2406.07348v1](http://arxiv.org/abs/2406.07348v1)|null|
+|**2024-06-11**|**DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering**|Zijian Hei et.al.|[2406.07348v2](http://arxiv.org/abs/2406.07348v2)|null|
 |**2024-06-11**|**Beyond Training: Optimizing Reinforcement Learning Based Job Shop Scheduling Through Adaptive Action Sampling**|Constantin Waubert de Puiseau et.al.|[2406.07325v1](http://arxiv.org/abs/2406.07325v1)|null|
-|**2024-06-11**|**The magic of entangled top quarks**|Chris D. White et.al.|[2406.07321v1](http://arxiv.org/abs/2406.07321v1)|null|
+|**2024-06-11**|**The magic of entangled top quarks**|Chris D. White et.al.|[2406.07321v2](http://arxiv.org/abs/2406.07321v2)|null|
 |**2024-06-11**|**Rethinking the impact of noisy labels in graph classification: A utility and privacy perspective**|De Li et.al.|[2406.07314v1](http://arxiv.org/abs/2406.07314v1)|null|
 |**2024-06-11**|**BertaQA: How Much Do Language Models Know About Local Culture?**|Julen Etxaniz et.al.|[2406.07302v1](http://arxiv.org/abs/2406.07302v1)|[link](https://github.com/juletx/bertaqa)|

@@ -2,7 +2,7 @@
 ### Few-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549v1](http://arxiv.org/abs/2406.07549v1)|null|
+|**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549v1](http://arxiv.org/abs/2406.07549v1)|[link](https://github.com/changhaonan/a3vlm)|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548v1](http://arxiv.org/abs/2406.07548v1)|[link](https://github.com/zhaoyue-zephyrus/bsq-vit)|
 |**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547v1](http://arxiv.org/abs/2406.07547v1)|null|
 |**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545v1](http://arxiv.org/abs/2406.07545v1)|[link](https://github.com/vila-lab/open-llm-leaderboard)|
