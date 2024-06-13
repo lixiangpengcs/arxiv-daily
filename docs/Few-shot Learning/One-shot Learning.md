@@ -26,7 +26,7 @@
 |**2024-06-11**|**Flow Map Matching**|Nicholas M. Boffi et.al.|[2406.07507v1](http://arxiv.org/abs/2406.07507v1)|null|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506v1](http://arxiv.org/abs/2406.07506v1)|[link](https://github.com/visual-words/visual-words)|
 |**2024-06-11**|**Hybrid Machine Learning Approach for Cyberattack Mitigation of Parallel Converters in a DC Microgrid**|Naser Souri et.al.|[2406.07503v1](http://arxiv.org/abs/2406.07503v1)|null|
-|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v1](http://arxiv.org/abs/2406.07500v1)|null|
+|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|
 |**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|[link](https://github.com/zou-group/textgrad)|
 |**2024-06-11**|**A model-independent test of pre-recombination New Physics: Machine Learning based estimate of the Sound Horizon from Gravitational Wave Standard Sirens and the Baryon Acoustic Oscillation Angular Scale**|William Giarè et.al.|[2406.07493v1](http://arxiv.org/abs/2406.07493v1)|null|
 |**2024-06-11**|**Towards Generalized Hydrological Forecasting using Transformer Models for 120-Hour Streamflow Prediction**|Bekir Z. Demiray et.al.|[2406.07484v1](http://arxiv.org/abs/2406.07484v1)|null|
