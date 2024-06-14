@@ -7,7 +7,7 @@
 |**2024-06-12**|**Exploiting the diversity of modeling methods to probe systematic biases in strong lensing analyses**|A. Galan et.al.|[2406.08484v1](http://arxiv.org/abs/2406.08484v1)|null|
 |**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481v1](http://arxiv.org/abs/2406.08481v1)|[link](https://github.com/bravegroup/law)|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477v1](http://arxiv.org/abs/2406.08477v1)|null|
-|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v1](http://arxiv.org/abs/2406.08474v1)|null|
+|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474v2](http://arxiv.org/abs/2406.08474v2)|null|
 |**2024-06-12**|**Strategies for Pretraining Neural Operators**|Anthony Zhou et.al.|[2406.08473v1](http://arxiv.org/abs/2406.08473v1)|[link](https://github.com/anthonyzhou-1/pretraining_pdes)|
 |**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472v1](http://arxiv.org/abs/2406.08472v1)|null|
 |**2024-06-12**|**Surprise! Using Physiological Stress for Allostatic Regulation Under the Active Inference Framework [Pre-Print]**|Imran Khan et.al.|[2406.08471v1](http://arxiv.org/abs/2406.08471v1)|null|
