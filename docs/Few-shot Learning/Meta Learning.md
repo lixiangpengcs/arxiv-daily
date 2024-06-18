@@ -2,6 +2,20 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-17**|**Meta Reasoning for Large Language Models**|Peizhong Gao et.al.|[2406.11698v1](http://arxiv.org/abs/2406.11698v1)|null|
+|**2024-06-17**|**Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs**|Krista Opsahl-Ong et.al.|[2406.11695v1](http://arxiv.org/abs/2406.11695v1)|[link](https://github.com/stanfordnlp/dspy)|
+|**2024-06-17**|**Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs**|Haifeng Wen et.al.|[2406.11569v1](http://arxiv.org/abs/2406.11569v1)|null|
+|**2024-06-17**|**Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments**|Han Zhou et.al.|[2406.11370v1](http://arxiv.org/abs/2406.11370v1)|[link](https://github.com/cambridgeltl/zepo)|
+|**2024-06-17**|**Quantized orbital angular momentums of dipolar magnons and magnetoelectric cavity polaritons**|E. O. Kamenetskii et.al.|[2406.11359v1](http://arxiv.org/abs/2406.11359v1)|null|
+|**2024-06-17**|**Chiral dichroism in resonant metasurfaces with monoclinic lattices**|Ivan Toftul et.al.|[2406.11300v1](http://arxiv.org/abs/2406.11300v1)|null|
+|**2024-06-17**|**Self and Cross-Model Distillation for LLMs: Effective Methods for Refusal Pattern Alignment**|Jie Li et.al.|[2406.11285v1](http://arxiv.org/abs/2406.11285v1)|null|
+|**2024-06-16**|**Ontology Embedding: A Survey of Methods, Applications and Resources**|Jiaoyan Chen et.al.|[2406.10964v1](http://arxiv.org/abs/2406.10964v1)|null|
+|**2024-06-15**|**Spuriousness-Aware Meta-Learning for Learning Robust Classifiers**|Guangtao Zheng et.al.|[2406.10742v1](http://arxiv.org/abs/2406.10742v1)|null|
+|**2024-06-15**|**Stacking for Probabilistic Short-term Load Forecasting**|Grzegorz Dudek et.al.|[2406.10718v1](http://arxiv.org/abs/2406.10718v1)|null|
+|**2024-06-15**|**Producing treatment hierarchies in network meta-analysis using probabilistic models and treatment-choice criteria**|Theodoros Evrenoglou et.al.|[2406.10612v1](http://arxiv.org/abs/2406.10612v1)|null|
+|**2024-06-15**|**Resilience patterns in higher-order meta-population networks**|Yanyi Nie et.al.|[2406.10589v1](http://arxiv.org/abs/2406.10589v1)|null|
+|**2024-06-15**|**Grad-Instructor: Universal Backpropagation with Explainable Evaluation Neural Networks for Meta-learning and AutoML**|Ryohei Ino et.al.|[2406.10559v1](http://arxiv.org/abs/2406.10559v1)|null|
+|**2024-06-14**|**Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling**|Tianxiang Zhao et.al.|[2406.10425v1](http://arxiv.org/abs/2406.10425v1)|null|
 |**2024-06-14**|**Biomarker based Cancer Classification using an Ensemble with Pre-trained Models**|Chongmin Lee et.al.|[2406.10087v1](http://arxiv.org/abs/2406.10087v1)|null|
 |**2024-06-14**|**High-efficiency generation of vectorial holograms with metasurfaces**|Tong Liu et.al.|[2406.10072v1](http://arxiv.org/abs/2406.10072v1)|null|
 |**2024-06-14**|**Meta-Learning Loss Functions for Deep Neural Networks**|Christian Raymond et.al.|[2406.09713v1](http://arxiv.org/abs/2406.09713v1)|null|
@@ -18,17 +32,3 @@
 |**2024-06-12**|**Empirical Evidence That There Is No Such Thing As A Validated Prediction Model**|Florian D. van Leeuwen et.al.|[2406.08628v1](http://arxiv.org/abs/2406.08628v1)|null|
 |**2024-06-12**|**Noise-Aware Differentially Private Regression via Meta-Learning**|Ossi Räisä et.al.|[2406.08569v1](http://arxiv.org/abs/2406.08569v1)|null|
 |**2024-06-12**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation**|Weizhao He et.al.|[2406.08372v2](http://arxiv.org/abs/2406.08372v2)|null|
-|**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v3](http://arxiv.org/abs/2406.08079v3)|null|
-|**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031v1](http://arxiv.org/abs/2406.08031v1)|null|
-|**2024-06-12**|**Meta-Learning Neural Procedural Biases**|Christian Raymond et.al.|[2406.07983v1](http://arxiv.org/abs/2406.07983v1)|null|
-|**2024-06-12**|**Multi-Teacher Multi-Objective Meta-Learning for Zero-Shot Hyperspectral Band Selection**|Jie Feng et.al.|[2406.07949v1](http://arxiv.org/abs/2406.07949v1)|null|
-|**2024-06-12**|**Learning dynamical behaviors in physical systems**|Rituparno Mandal et.al.|[2406.07856v1](http://arxiv.org/abs/2406.07856v1)|null|
-|**2024-06-11**|**BAKU: An Efficient Transformer for Multi-Task Policy Learning**|Siddhant Haldar et.al.|[2406.07539v1](http://arxiv.org/abs/2406.07539v1)|null|
-|**2024-06-11**|**Impact of the nuclear equation of state on the formation of twin stars**|Nai-Bo Zhang et.al.|[2406.07396v1](http://arxiv.org/abs/2406.07396v1)|null|
-|**2024-06-11**|**Fast Adaptive Meta-Heuristic for Large-Scale Facility Location Problem**|Bahram Alidaee et.al.|[2406.07382v1](http://arxiv.org/abs/2406.07382v1)|null|
-|**2024-06-11**|**A generic and robust quantum agent inspired by deep meta-reinforcement learning**|Zibo Miao et.al.|[2406.07225v1](http://arxiv.org/abs/2406.07225v1)|null|
-|**2024-06-11**|**Agnostic Sharpness-Aware Minimization**|Van-Anh Nguyen et.al.|[2406.07107v2](http://arxiv.org/abs/2406.07107v2)|null|
-|**2024-06-11**|**Meta-Backscatter: A New ISAC Paradigm for Battery-Free Internet of Things**|Xu Liu et.al.|[2406.07077v1](http://arxiv.org/abs/2406.07077v1)|null|
-|**2024-06-11**|**HalluDial: A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation**|Wen Luo et.al.|[2406.07070v1](http://arxiv.org/abs/2406.07070v1)|null|
-|**2024-06-11**|**Fairness-Aware Meta-Learning via Nash Bargaining**|Yi Zeng et.al.|[2406.07029v1](http://arxiv.org/abs/2406.07029v1)|null|
-|**2024-06-11**|**Ollabench: Evaluating LLMs' Reasoning for Human-centric Interdependent Cybersecurity**|Tam n. Nguyen et.al.|[2406.06863v1](http://arxiv.org/abs/2406.06863v1)|[link](https://github.com/cybonto/ollabench)|
