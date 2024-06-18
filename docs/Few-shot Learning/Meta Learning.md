@@ -18,7 +18,7 @@
 |**2024-06-12**|**Empirical Evidence That There Is No Such Thing As A Validated Prediction Model**|Florian D. van Leeuwen et.al.|[2406.08628v1](http://arxiv.org/abs/2406.08628v1)|null|
 |**2024-06-12**|**Noise-Aware Differentially Private Regression via Meta-Learning**|Ossi Räisä et.al.|[2406.08569v1](http://arxiv.org/abs/2406.08569v1)|null|
 |**2024-06-12**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation**|Weizhao He et.al.|[2406.08372v2](http://arxiv.org/abs/2406.08372v2)|null|
-|**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v2](http://arxiv.org/abs/2406.08079v2)|null|
+|**2024-06-12**|**A$^{2}$-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder**|Lixian Zhang et.al.|[2406.08079v3](http://arxiv.org/abs/2406.08079v3)|null|
 |**2024-06-12**|**Deep Learning for Slum Mapping in Remote Sensing Images: A Meta-analysis and Review**|Anjali Raj et.al.|[2406.08031v1](http://arxiv.org/abs/2406.08031v1)|null|
 |**2024-06-12**|**Meta-Learning Neural Procedural Biases**|Christian Raymond et.al.|[2406.07983v1](http://arxiv.org/abs/2406.07983v1)|null|
 |**2024-06-12**|**Multi-Teacher Multi-Objective Meta-Learning for Zero-Shot Hyperspectral Band Selection**|Jie Feng et.al.|[2406.07949v1](http://arxiv.org/abs/2406.07949v1)|null|
