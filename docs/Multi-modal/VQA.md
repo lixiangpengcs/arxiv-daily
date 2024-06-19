@@ -29,6 +29,6 @@
 |**2024-06-17**|**Tokenization Falling Short: The Curse of Tokenization**|Yekun Chai et.al.|[2406.11687v1](http://arxiv.org/abs/2406.11687v1)|null|
 |**2024-06-17**|**BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models**|Yibin Wang et.al.|[2406.11675v1](http://arxiv.org/abs/2406.11675v1)|null|
 |**2024-06-17**|**Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference**|Donghyeon Joo et.al.|[2406.11674v1](http://arxiv.org/abs/2406.11674v1)|null|
-|**2024-06-17**|**Is Efficient PAC Learning Possible with an Oracle That Responds 'Yes' or 'No'?**|Constantinos Daskalakis et.al.|[2406.11667v1](http://arxiv.org/abs/2406.11667v1)|null|
+|**2024-06-17**|**Is Efficient PAC Learning Possible with an Oracle That Responds 'Yes' or 'No'?**|Constantinos Daskalakis et.al.|[2406.11667v2](http://arxiv.org/abs/2406.11667v2)|null|
 |**2024-06-17**|**See It from My Perspective: Diagnosing the Western Cultural Bias of Large Vision-Language Models in Image Understanding**|Amith Ananthram et.al.|[2406.11665v1](http://arxiv.org/abs/2406.11665v1)|[link](https://github.com/amith-ananthram/see-it-from-my-perspective)|
 |**2024-06-17**|**An approach to non-equilibrium statistical physics using variational Bayesian inference**|Maxwell J D Ramstead et.al.|[2406.11630v1](http://arxiv.org/abs/2406.11630v1)|null|

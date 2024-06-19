@@ -19,15 +19,15 @@
 |**2024-06-17**|**DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer**|Keon Lee et.al.|[2406.11427v1](http://arxiv.org/abs/2406.11427v1)|null|
 |**2024-06-17**|**Preserving Knowledge in Large Language Model: A Model-Agnostic Self-Decompression Approach**|Zilun Zhang et.al.|[2406.11354v1](http://arxiv.org/abs/2406.11354v1)|null|
 |**2024-06-17**|**A Subclass of Mu-Calculus with the Freeze Quantifier Equivalent to Buchi Register Automata**|Yoshiaki Takata et.al.|[2406.11351v1](http://arxiv.org/abs/2406.11351v1)|null|
-|**2024-06-17**|**CM2-Net: Continual Cross-Modal Mapping Network for Driver Action Recognition**|Ruoyu Wang et.al.|[2406.11340v1](http://arxiv.org/abs/2406.11340v1)|null|
-|**2024-06-17**|**i-SRT: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective Judgment**|Daechul Ahn et.al.|[2406.11280v1](http://arxiv.org/abs/2406.11280v1)|null|
+|**2024-06-17**|**CM2-Net: Continual Cross-Modal Mapping Network for Driver Action Recognition**|Ruoyu Wang et.al.|[2406.11340v2](http://arxiv.org/abs/2406.11340v2)|null|
+|**2024-06-17**|**i-SRT: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective Judgment**|Daechul Ahn et.al.|[2406.11280v1](http://arxiv.org/abs/2406.11280v1)|[link](https://github.com/snumprlab/SRT)|
 |**2024-06-17**|**Unifying Multimodal Retrieval via Document Screenshot Embedding**|Xueguang Ma et.al.|[2406.11251v1](http://arxiv.org/abs/2406.11251v1)|null|
 |**2024-06-17**|**Mycorrhizal Fungi and Plant Symbiosis for Energy Harvesting in the Internet of Plants**|Fatih E. Bilgen et.al.|[2406.11174v1](http://arxiv.org/abs/2406.11174v1)|null|
 |**2024-06-17**|**Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning**|Zebang Cheng et.al.|[2406.11161v1](http://arxiv.org/abs/2406.11161v1)|[link](https://github.com/zebangcheng/emotion-llama)|
 |**2024-06-16**|**Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality**|Liwei Che et.al.|[2406.11048v1](http://arxiv.org/abs/2406.11048v1)|null|
 |**2024-06-16**|**Latent Communication in Artificial Neural Networks**|Luca Moschella et.al.|[2406.11014v1](http://arxiv.org/abs/2406.11014v1)|null|
 |**2024-06-16**|**First-Order Manifold Data Augmentation for Regression Learning**|Ilya Kaufman et.al.|[2406.10914v1](http://arxiv.org/abs/2406.10914v1)|null|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902v1](http://arxiv.org/abs/2406.10902v1)|[link](https://github.com/ykzhang721/COG)|
 |**2024-06-16**|**Exploring the Potential of Multimodal LLM with Knowledge-Intensive Multimodal ASR**|Minghan Wang et.al.|[2406.10880v1](http://arxiv.org/abs/2406.10880v1)|null|
 |**2024-06-16**|**A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery**|Yu Zhang et.al.|[2406.10833v1](http://arxiv.org/abs/2406.10833v1)|null|
 |**2024-06-16**|**High-level Codes and Fine-grained Weights for Online Multi-modal Hashing Retrieval**|Yu-Wei Zhan et.al.|[2406.10776v1](http://arxiv.org/abs/2406.10776v1)|null|

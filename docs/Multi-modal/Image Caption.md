@@ -25,7 +25,7 @@
 |**2024-06-17**|**Latent Denoising Diffusion GAN: Faster sampling, Higher image quality**|Luan Thanh Trinh et.al.|[2406.11713v1](http://arxiv.org/abs/2406.11713v1)|[link](https://github.com/thanhluantrinh/lddgan)|
 |**2024-06-17**|**OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations**|Yiming Zuo et.al.|[2406.11711v1](http://arxiv.org/abs/2406.11711v1)|[link](https://github.com/princeton-vl/ogni-dc)|
 |**2024-06-17**|**Coronal energy release by MHD avalanches II. EUV line emission from a multi-threaded coronal loop**|G. Cozzo et.al.|[2406.11701v1](http://arxiv.org/abs/2406.11701v1)|null|
-|**2024-06-17**|**Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**|Junha Hyung et.al.|[2406.11672v1](http://arxiv.org/abs/2406.11672v1)|null|
+|**2024-06-17**|**Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**|Junha Hyung et.al.|[2406.11672v2](http://arxiv.org/abs/2406.11672v2)|null|
 |**2024-06-17**|**See It from My Perspective: Diagnosing the Western Cultural Bias of Large Vision-Language Models in Image Understanding**|Amith Ananthram et.al.|[2406.11665v1](http://arxiv.org/abs/2406.11665v1)|[link](https://github.com/amith-ananthram/see-it-from-my-perspective)|
 |**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659v1](http://arxiv.org/abs/2406.11659v1)|null|
 |**2024-06-17**|**Monolithic Multi-parameter Terahertz Nano-micro Detector Based on Plasmon Polariton Atomic Cavity**|Huanjun Chen et.al.|[2406.11655v1](http://arxiv.org/abs/2406.11655v1)|null|
