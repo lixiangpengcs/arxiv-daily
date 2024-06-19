@@ -19,14 +19,14 @@
 |**2024-06-17**|**Efficient Discovery of Significant Patterns with Few-Shot Resampling**|Leonardo Pellegrina et.al.|[2406.11803v1](http://arxiv.org/abs/2406.11803v1)|null|
 |**2024-06-17**|**Mix-Domain Contrastive Learning for Unpaired H&E-to-IHC Stain Translation**|Song Wang et.al.|[2406.11799v1](http://arxiv.org/abs/2406.11799v1)|null|
 |**2024-06-17**|**Run Time Assured Reinforcement Learning for Six Degree-of-Freedom Spacecraft Inspection**|Kyle Dunlap et.al.|[2406.11795v1](http://arxiv.org/abs/2406.11795v1)|null|
-|**2024-06-17**|**DataComp-LM: In search of the next generation of training sets for language models**|Jeffrey Li et.al.|[2406.11794v1](http://arxiv.org/abs/2406.11794v1)|null|
+|**2024-06-17**|**DataComp-LM: In search of the next generation of training sets for language models**|Jeffrey Li et.al.|[2406.11794v2](http://arxiv.org/abs/2406.11794v2)|null|
 |**2024-06-17**|**FetchBench: A Simulation Benchmark for Robot Fetching**|Beining Han et.al.|[2406.11793v1](http://arxiv.org/abs/2406.11793v1)|null|
 |**2024-06-17**|**Holographic Classical Shadow Tomography**|Shuhan Zhang et.al.|[2406.11788v1](http://arxiv.org/abs/2406.11788v1)|null|
 |**2024-06-17**|**A Brief Survey on Leveraging Large Scale Vision Models for Enhanced Robot Grasping**|Abhi Kamboj et.al.|[2406.11786v1](http://arxiv.org/abs/2406.11786v1)|null|
 |**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785v1](http://arxiv.org/abs/2406.11785v1)|null|
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781v1](http://arxiv.org/abs/2406.11781v1)|null|
 |**2024-06-17**|**Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs**|Swanand Ravindra Kadhe et.al.|[2406.11780v1](http://arxiv.org/abs/2406.11780v1)|null|
-|**2024-06-17**|**Provable Guarantees for Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779v1](http://arxiv.org/abs/2406.11779v1)|[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)|
+|**2024-06-17**|**Provable Guarantees for Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779v2](http://arxiv.org/abs/2406.11779v2)|[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|
 |**2024-06-17**|**Optimal Transport-Assisted Risk-Sensitive Q-Learning**|Zahra Shahrooei et.al.|[2406.11774v1](http://arxiv.org/abs/2406.11774v1)|null|
 |**2024-06-17**|**Deep Learning methodology for the identification of wood species using high-resolution macroscopic images**|David Herrera-Poyatos et.al.|[2406.11772v1](http://arxiv.org/abs/2406.11772v1)|null|
