@@ -17,7 +17,7 @@
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815v1](http://arxiv.org/abs/2406.12815v1)|[link](https://github.com/niko-k98/awesome-list-federated-learning-review)|
 |**2024-06-18**|**Adversarial Attacks on Multimodal Agents**|Chen Henry Wu et.al.|[2406.12814v1](http://arxiv.org/abs/2406.12814v1)|[link](https://github.com/chenwu98/agent-attack)|
 |**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809v1](http://arxiv.org/abs/2406.12809v1)|null|
-|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|null|
+|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v2](http://arxiv.org/abs/2406.12808v2)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807v1](http://arxiv.org/abs/2406.12807v1)|null|
 |**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v2](http://arxiv.org/abs/2406.12805v2)|[link](https://github.com/itsmag11/aitti)|
 |**2024-06-18**|**Scalable Rule Lists Learning with Sampling**|Leonardo Pellegrina et.al.|[2406.12803v1](http://arxiv.org/abs/2406.12803v1)|null|

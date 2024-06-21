@@ -28,7 +28,7 @@
 |**2024-06-18**|**A second order approach to the Kato square root problem on open sets**|Sebastian Bechtel et.al.|[2406.12812v1](http://arxiv.org/abs/2406.12812v1)|null|
 |**2024-06-18**|**Detecting Outbreaks Using a Latent Field: Part I -- Spatial Modeling**|Cosmin Safta et.al.|[2406.12810v1](http://arxiv.org/abs/2406.12810v1)|null|
 |**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809v1](http://arxiv.org/abs/2406.12809v1)|null|
-|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|null|
+|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v2](http://arxiv.org/abs/2406.12808v2)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807v1](http://arxiv.org/abs/2406.12807v1)|null|
 |**2024-06-18**|**Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents**|Zehao Wang et.al.|[2406.12806v1](http://arxiv.org/abs/2406.12806v1)|null|
 |**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v2](http://arxiv.org/abs/2406.12805v2)|[link](https://github.com/itsmag11/aitti)|
