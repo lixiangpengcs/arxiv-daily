@@ -16,7 +16,7 @@
 |**2024-06-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536v1](http://arxiv.org/abs/2406.12536v1)|[link](https://github.com/jhl-det/rgbd_video_sod)|
 |**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501v1](http://arxiv.org/abs/2406.12501v1)|null|
 |**2024-06-18**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Linrui Xu et.al.|[2406.12479v1](http://arxiv.org/abs/2406.12479v1)|[link](https://github.com/geox-lab/rs-gpt4v)|
-|**2024-06-18**|**Robustness Testing of Multi-Modal Models in Varied Home Environments for Assistive Robots**|Lea Hirlimann et.al.|[2406.12443v1](http://arxiv.org/abs/2406.12443v1)|null|
+|**2024-06-18**|**Robustness Testing of Multi-Modal Models in Varied Home Environments for Assistive Robots**|Lea Hirlimann et.al.|[2406.12443v2](http://arxiv.org/abs/2406.12443v2)|null|
 |**2024-06-18**|**Deep self-supervised learning with visualisation for automatic gesture recognition**|Fabien Allemand et.al.|[2406.12440v1](http://arxiv.org/abs/2406.12440v1)|null|
 |**2024-06-18**|**MMUTF: Multimodal Multimedia Event Argument Extraction with Unified Template Filling**|Philipp Seeberger et.al.|[2406.12420v1](http://arxiv.org/abs/2406.12420v1)|null|
 |**2024-06-18**|**LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**|Yunze Deng et.al.|[2406.12355v1](http://arxiv.org/abs/2406.12355v1)|null|
@@ -26,7 +26,7 @@
 |**2024-06-18**|**Language and Multimodal Models in Sports: A Survey of Datasets and Applications**|Haotian Xia et.al.|[2406.12252v1](http://arxiv.org/abs/2406.12252v1)|null|
 |**2024-06-18**|**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**|Huaxin Zhang et.al.|[2406.12235v1](http://arxiv.org/abs/2406.12235v1)|[link](https://github.com/pipixin321/holmesvad)|
 |**2024-06-18**|**SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization**|Young Jin Ahn et.al.|[2406.12233v1](http://arxiv.org/abs/2406.12233v1)|null|
-|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214v1](http://arxiv.org/abs/2406.12214v1)|null|
+|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214v2](http://arxiv.org/abs/2406.12214v2)|null|
 |**2024-06-17**|**COT Flow: Learning Optimal-Transport Image Sampling and Editing by Contrastive Pairs**|Xinrui Zu et.al.|[2406.12140v1](http://arxiv.org/abs/2406.12140v1)|null|
 |**2024-06-17**|**Data-Aware Hybrid Tableaux**|Carlos Areces et.al.|[2406.12090v1](http://arxiv.org/abs/2406.12090v1)|null|
 |**2024-06-17**|**Reframing linguistic bootstrapping as joint inference using visually-grounded grammar induction models**|Eva Portelance et.al.|[2406.11977v1](http://arxiv.org/abs/2406.11977v1)|null|

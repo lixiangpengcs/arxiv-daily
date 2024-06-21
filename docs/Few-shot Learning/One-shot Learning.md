@@ -19,7 +19,7 @@
 |**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809v1](http://arxiv.org/abs/2406.12809v1)|null|
 |**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807v1](http://arxiv.org/abs/2406.12807v1)|null|
-|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v1](http://arxiv.org/abs/2406.12805v1)|[link](https://github.com/itsmag11/aitti)|
+|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v2](http://arxiv.org/abs/2406.12805v2)|[link](https://github.com/itsmag11/aitti)|
 |**2024-06-18**|**Scalable Rule Lists Learning with Sampling**|Leonardo Pellegrina et.al.|[2406.12803v1](http://arxiv.org/abs/2406.12803v1)|null|
 |**2024-06-18**|**The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough**|Riccardo Zamboni et.al.|[2406.12795v1](http://arxiv.org/abs/2406.12795v1)|null|
 |**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793v1](http://arxiv.org/abs/2406.12793v1)|null|
@@ -29,6 +29,6 @@
 |**2024-06-18**|**Towards Exact Gradient-based Training on Analog In-memory Computing**|Zhaoxian Wu et.al.|[2406.12774v1](http://arxiv.org/abs/2406.12774v1)|null|
 |**2024-06-18**|**QCD Phase Diagram at finite Magnetic Field and Chemical Potential: A Holographic Approach Using Machine Learning**|Rong-Gen Cai et.al.|[2406.12772v1](http://arxiv.org/abs/2406.12772v1)|null|
 |**2024-06-18**|**First-Order Methods for Linearly Constrained Bilevel Optimization**|Guy Kornowski et.al.|[2406.12771v1](http://arxiv.org/abs/2406.12771v1)|null|
-|**2024-06-18**|**Formatics & dairy industry coalition: AI trends and present challenges**|Silvia García-Méndez et.al.|[2406.12770v1](http://arxiv.org/abs/2406.12770v1)|null|
+|**2024-06-18**|**Informatics & dairy industry coalition: AI trends and present challenges**|Silvia García-Méndez et.al.|[2406.12770v2](http://arxiv.org/abs/2406.12770v2)|null|
 |**2024-06-18**|**Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**|Xiangming Zhu et.al.|[2406.12769v1](http://arxiv.org/abs/2406.12769v1)|null|
 |**2024-06-18**|**Quasi-Bayes meets Vines**|David Huk et.al.|[2406.12764v1](http://arxiv.org/abs/2406.12764v1)|null|

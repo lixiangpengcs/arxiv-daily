@@ -12,7 +12,7 @@
 |**2024-06-18**|**Adversarial Attacks on Multimodal Agents**|Chen Henry Wu et.al.|[2406.12814v1](http://arxiv.org/abs/2406.12814v1)|[link](https://github.com/chenwu98/agent-attack)|
 |**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|null|
 |**2024-06-18**|**Probabilistic Temporal Prediction of Continuous Disease Trajectories and Treatment Effects Using Neural SDEs**|Joshua Durso-Finley et.al.|[2406.12807v1](http://arxiv.org/abs/2406.12807v1)|null|
-|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v1](http://arxiv.org/abs/2406.12805v1)|[link](https://github.com/itsmag11/aitti)|
+|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805v2](http://arxiv.org/abs/2406.12805v2)|[link](https://github.com/itsmag11/aitti)|
 |**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793v1](http://arxiv.org/abs/2406.12793v1)|null|
 |**2024-06-18**|**Modelling predicts a molecule-rich disk around the AGB star L2 Puppis**|M. Van de Sande et.al.|[2406.12768v1](http://arxiv.org/abs/2406.12768v1)|null|
 |**2024-06-18**|**On a p-adic version of Narasimhan and Seshadri's theorem**|Fabrizio Andreatta et.al.|[2406.12766v1](http://arxiv.org/abs/2406.12766v1)|null|
@@ -20,7 +20,7 @@
 |**2024-06-18**|**MAC: A Benchmark for Multiple Attributes Compositional Zero-Shot Learning**|Shuo Xu et.al.|[2406.12757v1](http://arxiv.org/abs/2406.12757v1)|null|
 |**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756v1](http://arxiv.org/abs/2406.12756v1)|null|
 |**2024-06-18**|**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**|Zhen Huang et.al.|[2406.12753v1](http://arxiv.org/abs/2406.12753v1)|[link](https://github.com/gair-nlp/olympicarena)|
-|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v2](http://arxiv.org/abs/2406.12746v2)|null|
 |**2024-06-18**|**Electron-Beam Writing of Atomic-Scale Reconstructions at Oxide Interfaces**|Greta Segantini et.al.|[2406.12743v1](http://arxiv.org/abs/2406.12743v1)|null|
 |**2024-06-18**|**Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**|Bingchen Zhao et.al.|[2406.12742v1](http://arxiv.org/abs/2406.12742v1)|[link](https://github.com/dtennant/mirb_eval)|
 |**2024-06-18**|**Beyond Visual Appearances: Privacy-sensitive Objects Identification via Hybrid Graph Reasoning**|Zhuohang Jiang et.al.|[2406.12736v1](http://arxiv.org/abs/2406.12736v1)|null|

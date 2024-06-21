@@ -19,7 +19,7 @@
 |**2024-06-18**|**Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**|Xiangming Zhu et.al.|[2406.12769v1](http://arxiv.org/abs/2406.12769v1)|null|
 |**2024-06-18**|**On a p-adic version of Narasimhan and Seshadri's theorem**|Fabrizio Andreatta et.al.|[2406.12766v1](http://arxiv.org/abs/2406.12766v1)|null|
 |**2024-06-18**|**Windows Into Other Worlds: Pitfalls in the physical interpretation of exoplanet atmospheric spectroscopy**|Darius Modirrousta-Galian et.al.|[2406.12765v1](http://arxiv.org/abs/2406.12765v1)|null|
-|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v2](http://arxiv.org/abs/2406.12746v2)|null|
 |**2024-06-18**|**Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages**|Fabian David Schmidt et.al.|[2406.12739v1](http://arxiv.org/abs/2406.12739v1)|null|
 |**2024-06-18**|**Automatic generation of insights from workers' actions in industrial workflows with explainable Machine Learning**|Francisco de Arriba-Pérez et.al.|[2406.12732v1](http://arxiv.org/abs/2406.12732v1)|null|
 |**2024-06-18**|**Viscous Unified Dark Matter Models Under Scrutiny: Uncovering Inconsistencies from Dynamical System Analysis**|Guillermo Palma et.al.|[2406.12724v1](http://arxiv.org/abs/2406.12724v1)|null|
