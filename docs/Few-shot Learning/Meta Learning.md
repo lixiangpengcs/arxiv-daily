@@ -2,6 +2,13 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|[link](https://github.com/xwmaxwma/rschange)|
+|**2024-06-21**|**A Provably Efficient Option-Based Algorithm for both High-Level and Low-Level Learning**|Gianluca Drappo et.al.|[2406.15124v1](http://arxiv.org/abs/2406.15124v1)|null|
+|**2024-06-21**|**New Upper Bounds for Noisy Permutation Channels**|Lugaoze Feng et.al.|[2406.15031v1](http://arxiv.org/abs/2406.15031v1)|null|
+|**2024-06-21**|**Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation**|Shamane Siriwardhana et.al.|[2406.14971v1](http://arxiv.org/abs/2406.14971v1)|null|
+|**2024-06-21**|**Camera-Invariant Meta-Learning Network for Single-Camera-Training Person Re-identification**|Jiangbo Pei et.al.|[2406.14797v1](http://arxiv.org/abs/2406.14797v1)|null|
+|**2024-06-20**|**Wide Field of View Large Aperture Meta-Doublet Eyepiece**|Anna Wirth-Singh et.al.|[2406.14725v1](http://arxiv.org/abs/2406.14725v1)|null|
+|**2024-06-20**|**SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors**|Tinghao Xie et.al.|[2406.14598v1](http://arxiv.org/abs/2406.14598v1)|null|
 |**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537v1](http://arxiv.org/abs/2406.14537v1)|[link](https://github.com/ZONG0004/MacroHFT)|
 |**2024-06-20**|**Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary**|Xingmeng Zhao et.al.|[2406.14500v1](http://arxiv.org/abs/2406.14500v1)|null|
 |**2024-06-20**|**Model-driven realization of IDTA submodel specifications: The good, the bad, the incompatible?**|Holger Eichelberger et.al.|[2406.14470v1](http://arxiv.org/abs/2406.14470v1)|null|
@@ -16,6 +23,7 @@
 |**2024-06-19**|**Approximately Equivariant Neural Processes**|Matthew Ashman et.al.|[2406.13488v1](http://arxiv.org/abs/2406.13488v1)|null|
 |**2024-06-19**|**Extraordinary Quality Factors in Dual-Band Polarization-Insensitive QuasiBound States in the Continuum**|Maryam Ghahremani et.al.|[2406.13472v1](http://arxiv.org/abs/2406.13472v1)|null|
 |**2024-06-19**|**Dual-Phase Accelerated Prompt Optimization**|Muchen Yang et.al.|[2406.13443v1](http://arxiv.org/abs/2406.13443v1)|null|
+|**2024-06-19**|**Deep-learning-assisted reconfigurable metasurface antenna for real-time holographic beam steering**|Hyunjun Ma et.al.|[2406.14585v1](http://arxiv.org/abs/2406.14585v1)|null|
 |**2024-06-19**|**Recurrent Inference Machine for Medical Image Registration**|Yi Zhang et.al.|[2406.13413v1](http://arxiv.org/abs/2406.13413v1)|null|
 |**2024-06-19**|**Low-Latency Layer-Aware Proactive and Passive Container Migration in Meta Computing**|Mengjie Liu et.al.|[2406.13404v1](http://arxiv.org/abs/2406.13404v1)|null|
 |**2024-06-19**|**Search-based DNN Testing and Retraining with GAN-enhanced Simulations**|Mohammed Oualid Attaoui et.al.|[2406.13359v1](http://arxiv.org/abs/2406.13359v1)|null|
@@ -24,11 +32,3 @@
 |**2024-06-19**|**Communication-Efficient and Privacy-Preserving Decentralized Meta-Learning**|Hansi Yang et.al.|[2406.13183v1](http://arxiv.org/abs/2406.13183v1)|null|
 |**2024-06-18**|**PVDF transducer shape optimization for the characterization of anisotropic materials**|Diego Cowes et.al.|[2406.12749v1](http://arxiv.org/abs/2406.12749v1)|null|
 |**2024-06-18**|**Discovering Minimal Reinforcement Learning Environments**|Jarek Liesen et.al.|[2406.12589v1](http://arxiv.org/abs/2406.12589v1)|[link](https://github.com/keraJLi/synthetic-gymnax)|
-|**2024-06-18**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529v1](http://arxiv.org/abs/2406.12529v1)|null|
-|**2024-06-18**|**From Instance Training to Instruction Learning: Task Adapters Generation from Instructions**|Huanxuan Liao et.al.|[2406.12382v1](http://arxiv.org/abs/2406.12382v1)|[link](https://github.com/Xnhyacinth/TAGI)|
-|**2024-06-18**|**Memory Sequence Length of Data Sampling Impacts the Adaptation of Meta-Reinforcement Learning Agents**|Menglong Zhang et.al.|[2406.12359v1](http://arxiv.org/abs/2406.12359v1)|null|
-|**2024-06-18**|**BadSampler: Harnessing the Power of Catastrophic Forgetting to Poison Byzantine-robust Federated Learning**|Yi Liu et.al.|[2406.12222v1](http://arxiv.org/abs/2406.12222v1)|null|
-|**2024-06-17**|**Inside the Working Mechanism of Meta-generalized Gradient Density Functional Approximations: The Example of Quantum Spin-Hall Insulator 1T`-WTe2**|Li Yin et.al.|[2406.12124v1](http://arxiv.org/abs/2406.12124v1)|null|
-|**2024-06-17**|**Meta Reasoning for Large Language Models**|Peizhong Gao et.al.|[2406.11698v1](http://arxiv.org/abs/2406.11698v1)|null|
-|**2024-06-17**|**Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs**|Krista Opsahl-Ong et.al.|[2406.11695v1](http://arxiv.org/abs/2406.11695v1)|[link](https://github.com/stanfordnlp/dspy)|
-|**2024-06-17**|**Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs**|Haifeng Wen et.al.|[2406.11569v1](http://arxiv.org/abs/2406.11569v1)|null|

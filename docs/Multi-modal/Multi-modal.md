@@ -2,6 +2,26 @@
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-21**|**Cross-Modality Safety Alignment**|Siyin Wang et.al.|[2406.15279v1](http://arxiv.org/abs/2406.15279v1)|[link](https://github.com/sinwang20/siuo)|
+|**2024-06-21**|**Detecting Synthetic Lyrics with Few-Shot Inference**|Yanis Labrak et.al.|[2406.15231v1](http://arxiv.org/abs/2406.15231v1)|null|
+|**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219v1](http://arxiv.org/abs/2406.15219v1)|null|
+|**2024-06-21**|**How do longitudinal waves propagate transversely?**|Peter Huthwaite et.al.|[2406.15212v1](http://arxiv.org/abs/2406.15212v1)|null|
+|**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172v1](http://arxiv.org/abs/2406.15172v1)|null|
+|**2024-06-21**|**Exploring Audio-Visual Information Fusion for Sound Event Localization and Detection In Low-Resource Realistic Scenarios**|Ya Jiang et.al.|[2406.15160v1](http://arxiv.org/abs/2406.15160v1)|null|
+|**2024-06-21**|**Dynamic Modelling of a Controlled Orthotropic Plate: Analytic and Data-Driven Approaches in the Frequency Domain**|Alexander Zuyev et.al.|[2406.15116v1](http://arxiv.org/abs/2406.15116v1)|null|
+|**2024-06-21**|**How Intermodal Interaction Affects the Performance of Deep Multimodal Fusion for Mixed-Type Time Series**|Simon Dietz et.al.|[2406.15098v1](http://arxiv.org/abs/2406.15098v1)|null|
+|**2024-06-21**|**Latent Space Translation via Inverse Relative Projection**|Valentino Maiorca et.al.|[2406.15057v1](http://arxiv.org/abs/2406.15057v1)|null|
+|**2024-06-21**|**Explainable Machine Learning and Deep Learning Models for Predicting TAS2R-Bitter Molecule Interactions**|Francesco Ferri et.al.|[2406.15039v1](http://arxiv.org/abs/2406.15039v1)|null|
+|**2024-06-21**|**Real-Time Hand Gesture Recognition: Integrating Skeleton-Based Data Fusion and Multi-Stream CNN**|Oluwaleke Yusuf et.al.|[2406.15003v1](http://arxiv.org/abs/2406.15003v1)|[link](https://github.com/outsiders17711/e2eet-skeleton-based-hgr-using-data-level-fusion)|
+|**2024-06-21**|**Unveiling the Impact of Multi-Modal Interactions on User Engagement: A Comprehensive Evaluation in AI-driven Conversations**|Lichao Zhang et.al.|[2406.15000v1](http://arxiv.org/abs/2406.15000v1)|null|
+|**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977v1](http://arxiv.org/abs/2406.14977v1)|null|
+|**2024-06-21**|**A Unified Framework for Synthesizing Multisequence Brain MRI via Hybrid Fusion**|Jihoon Cho et.al.|[2406.14954v1](http://arxiv.org/abs/2406.14954v1)|null|
+|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
+|**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852v1](http://arxiv.org/abs/2406.14852v1)|null|
+|**2024-06-21**|**CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation**|Muhammad Ali et.al.|[2406.14830v1](http://arxiv.org/abs/2406.14830v1)|null|
+|**2024-06-21**|**MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning**|Jiali Cheng et.al.|[2406.14796v1](http://arxiv.org/abs/2406.14796v1)|null|
+|**2024-06-20**|**An updated overview of radiomics-based artificial intelligence (AI) methods in breast cancer screening and diagnosis**|Reza Elahi et.al.|[2406.14735v1](http://arxiv.org/abs/2406.14735v1)|null|
+|**2024-06-20**|**Broadband Fourier-Transform Optical Photothermal Infrared Spectroscopy and Imaging**|Aleksandr Razumtcev et.al.|[2406.14689v1](http://arxiv.org/abs/2406.14689v1)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|null|
 |**2024-06-20**|**Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**|Long Lei et.al.|[2406.14534v1](http://arxiv.org/abs/2406.14534v1)|[link](https://github.com/LLEIHIT/CU-Reg)|
 |**2024-06-20**|**Photoacoustic methane detection assisted by a gas-filled anti-resonant hollow-core fiber laser**|Cuiling Zhang et.al.|[2406.14521v1](http://arxiv.org/abs/2406.14521v1)|null|
@@ -12,23 +32,3 @@
 |**2024-06-20**|**LLM4CP: Adapting Large Language Models for Channel Prediction**|Boxun Liu et.al.|[2406.14440v1](http://arxiv.org/abs/2406.14440v1)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436v1](http://arxiv.org/abs/2406.14436v1)|null|
 |**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412v1](http://arxiv.org/abs/2406.14412v1)|null|
-|**2024-06-20**|**A tensor model for calibration and imaging with air-coupled ultrasonic sensor arrays**|Raphael Müller et.al.|[2406.14355v1](http://arxiv.org/abs/2406.14355v1)|null|
-|**2024-06-20**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343v1](http://arxiv.org/abs/2406.14343v1)|null|
-|**2024-06-20**|**LARP: Language Audio Relational Pre-training for Cold-Start Playlist Continuation**|Rebecca Salganik et.al.|[2406.14333v1](http://arxiv.org/abs/2406.14333v1)|[link](https://github.com/rsalganik1123/larp)|
-|**2024-06-20**|**FIESTA: Fourier-Based Semantic Augmentation with Uncertainty Guidance for Enhanced Domain Generalizability in Medical Image Segmentation**|Kwanseok Oh et.al.|[2406.14308v1](http://arxiv.org/abs/2406.14308v1)|null|
-|**2024-06-20**|**CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information**|Jungdae Lee et.al.|[2406.14240v1](http://arxiv.org/abs/2406.14240v1)|null|
-|**2024-06-20**|**A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection**|Kyungbok Lee et.al.|[2406.14176v1](http://arxiv.org/abs/2406.14176v1)|null|
-|**2024-06-20**|**Multi-modal Transfer Learning between Biological Foundation Models**|Juan Jose Garau-Luis et.al.|[2406.14150v1](http://arxiv.org/abs/2406.14150v1)|null|
-|**2024-06-20**|**Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling**|Cassio F. Dantas et.al.|[2406.14087v1](http://arxiv.org/abs/2406.14087v1)|[link](https://github.com/tanodino/sshda)|
-|**2024-06-20**|**Towards Multi-modality Fusion and Prototype-based Feature Refinement for Clinically Significant Prostate Cancer Classification in Transrectal Ultrasound**|Hong Wu et.al.|[2406.14069v1](http://arxiv.org/abs/2406.14069v1)|[link](https://github.com/2313595986/smilecode)|
-|**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021v1](http://arxiv.org/abs/2406.14021v1)|null|
-|**2024-06-20**|**Knowledge-driven Subspace Fusion and Gradient Coordination for Multi-modal Learning**|Yupei Zhang et.al.|[2406.13979v1](http://arxiv.org/abs/2406.13979v1)|null|
-|**2024-06-20**|**Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning**|Tingyi Lin et.al.|[2406.13977v1](http://arxiv.org/abs/2406.13977v1)|null|
-|**2024-06-20**|**PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents**|Junjie Wang et.al.|[2406.13923v1](http://arxiv.org/abs/2406.13923v1)|null|
-|**2024-06-20**|**The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**|Huthaifa I. Ashqar et.al.|[2406.13898v1](http://arxiv.org/abs/2406.13898v1)|null|
-|**2024-06-19**|**Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events**|Mohammad Abu Tami et.al.|[2406.13894v1](http://arxiv.org/abs/2406.13894v1)|null|
-|**2024-06-19**|**Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data**|Nahema Marchal et.al.|[2406.13843v2](http://arxiv.org/abs/2406.13843v2)|null|
-|**2024-06-19**|**Framing Social Movements on Social Media: Unpacking Diagnostic, Prognostic, and Motivational Strategies**|Julia Mendelsohn et.al.|[2406.13820v1](http://arxiv.org/abs/2406.13820v1)|null|
-|**2024-06-19**|**Towards Holistic Language-video Representation: the language model-enhanced MSR-Video to Text Dataset**|Yuchen Yang et.al.|[2406.13809v1](http://arxiv.org/abs/2406.13809v1)|null|
-|**2024-06-19**|**Elliptical Attention**|Stefan K. Nielsen et.al.|[2406.13770v1](http://arxiv.org/abs/2406.13770v1)|null|
-|**2024-06-19**|**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**|Xuehao Zhai et.al.|[2406.13724v1](http://arxiv.org/abs/2406.13724v1)|[link](https://github.com/xuehao0806/gnn-land-use)|
