@@ -20,7 +20,7 @@
 |**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546v1](http://arxiv.org/abs/2406.14546v1)|[link](https://github.com/choidami/inductive-oocr)|
 |**2024-06-20**|**Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems**|Đorđe Klisura et.al.|[2406.14545v1](http://arxiv.org/abs/2406.14545v1)|null|
 |**2024-06-20**|**Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**|Yuxuan Qiao et.al.|[2406.14544v1](http://arxiv.org/abs/2406.14544v1)|[link](https://github.com/sparksjoe/prism)|
-|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541v2](http://arxiv.org/abs/2406.14541v2)|[link](https://github.com/anonymou9167/anonymouscode)|
+|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541v2](http://arxiv.org/abs/2406.14541v2)|[link](https://github.com/shengzhexu/permutation-aided-fine-tuning)|
 |**2024-06-20**|**IRASim: Learning Interactive Real-Robot Action Simulators**|Fangqi Zhu et.al.|[2406.14540v1](http://arxiv.org/abs/2406.14540v1)|null|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539v1](http://arxiv.org/abs/2406.14539v1)|null|
 |**2024-06-20**|**MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading**|Chuqiao Zong et.al.|[2406.14537v1](http://arxiv.org/abs/2406.14537v1)|[link](https://github.com/ZONG0004/MacroHFT)|

@@ -24,7 +24,7 @@
 |**2024-06-20**|**Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**|Yuxuan Qiao et.al.|[2406.14544v1](http://arxiv.org/abs/2406.14544v1)|[link](https://github.com/sparksjoe/prism)|
 |**2024-06-20**|**Equivariant Vector Bundles with Connection on Drinfeld Symmetric Spaces**|James Taylor et.al.|[2406.14543v1](http://arxiv.org/abs/2406.14543v1)|null|
 |**2024-06-20**|**$\texttt{cunuSHT}$: GPU Accelerated Spherical Harmonic Transforms on Arbitrary Pixelizations**|Sebastian Belkner et.al.|[2406.14542v1](http://arxiv.org/abs/2406.14542v1)|null|
-|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541v2](http://arxiv.org/abs/2406.14541v2)|[link](https://github.com/anonymou9167/anonymouscode)|
+|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541v2](http://arxiv.org/abs/2406.14541v2)|[link](https://github.com/shengzhexu/permutation-aided-fine-tuning)|
 |**2024-06-20**|**IRASim: Learning Interactive Real-Robot Action Simulators**|Fangqi Zhu et.al.|[2406.14540v1](http://arxiv.org/abs/2406.14540v1)|null|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539v1](http://arxiv.org/abs/2406.14539v1)|null|
 |**2024-06-20**|**On the Burau representation of $B_3$ modulo $p$**|Donsung Lee et.al.|[2406.14538v1](http://arxiv.org/abs/2406.14538v1)|null|

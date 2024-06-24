@@ -5,7 +5,7 @@
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555v1](http://arxiv.org/abs/2406.14555v1)|[link](https://github.com/xinchengshuai/awesome-image-editing)|
 |**2024-06-20**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551v2](http://arxiv.org/abs/2406.14551v2)|[link](https://github.com/eyalmichaeli/saspa-aug)|
-|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541v2](http://arxiv.org/abs/2406.14541v2)|[link](https://github.com/anonymou9167/anonymouscode)|
+|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541v2](http://arxiv.org/abs/2406.14541v2)|[link](https://github.com/shengzhexu/permutation-aided-fine-tuning)|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539v1](http://arxiv.org/abs/2406.14539v1)|null|
 |**2024-06-20**|**Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**|Long Lei et.al.|[2406.14534v1](http://arxiv.org/abs/2406.14534v1)|[link](https://github.com/LLEIHIT/CU-Reg)|
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526v1](http://arxiv.org/abs/2406.14526v1)|null|
