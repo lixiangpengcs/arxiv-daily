@@ -16,12 +16,12 @@
 |**2024-06-21**|**Unveiling the Impact of Multi-Modal Interactions on User Engagement: A Comprehensive Evaluation in AI-driven Conversations**|Lichao Zhang et.al.|[2406.15000v1](http://arxiv.org/abs/2406.15000v1)|null|
 |**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977v1](http://arxiv.org/abs/2406.14977v1)|null|
 |**2024-06-21**|**A Unified Framework for Synthesizing Multisequence Brain MRI via Hybrid Fusion**|Jihoon Cho et.al.|[2406.14954v1](http://arxiv.org/abs/2406.14954v1)|null|
-|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
+|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v2](http://arxiv.org/abs/2406.14862v2)|null|
 |**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852v1](http://arxiv.org/abs/2406.14852v1)|null|
 |**2024-06-21**|**CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation**|Muhammad Ali et.al.|[2406.14830v1](http://arxiv.org/abs/2406.14830v1)|null|
 |**2024-06-21**|**MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning**|Jiali Cheng et.al.|[2406.14796v1](http://arxiv.org/abs/2406.14796v1)|null|
 |**2024-06-20**|**An updated overview of radiomics-based artificial intelligence (AI) methods in breast cancer screening and diagnosis**|Reza Elahi et.al.|[2406.14735v1](http://arxiv.org/abs/2406.14735v1)|null|
-|**2024-06-20**|**Broadband Fourier-Transform Optical Photothermal Infrared Spectroscopy and Imaging**|Aleksandr Razumtcev et.al.|[2406.14689v1](http://arxiv.org/abs/2406.14689v1)|null|
+|**2024-06-20**|**Broadband Fourier-Transform Optical Photothermal Infrared Spectroscopy and Imaging**|Aleksandr Razumtcev et.al.|[2406.14689v2](http://arxiv.org/abs/2406.14689v2)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562v1](http://arxiv.org/abs/2406.14562v1)|null|
 |**2024-06-20**|**Epicardium Prompt-guided Real-time Cardiac Ultrasound Frame-to-volume Registration**|Long Lei et.al.|[2406.14534v1](http://arxiv.org/abs/2406.14534v1)|[link](https://github.com/LLEIHIT/CU-Reg)|
 |**2024-06-20**|**Photoacoustic methane detection assisted by a gas-filled anti-resonant hollow-core fiber laser**|Cuiling Zhang et.al.|[2406.14521v1](http://arxiv.org/abs/2406.14521v1)|null|

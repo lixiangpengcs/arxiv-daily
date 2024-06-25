@@ -26,7 +26,7 @@
 |**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|[link](https://github.com/xwmaxwma/rschange)|
 |**2024-06-21**|**LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs**|Ziyan Jiang et.al.|[2406.15319v1](http://arxiv.org/abs/2406.15319v1)|null|
 |**2024-06-21**|**Global existence of solutions to a nonlocal equation with degenerate anisotropic diffusion**|Maria Eckardt et.al.|[2406.15318v1](http://arxiv.org/abs/2406.15318v1)|null|
-|**2024-06-21**|**Discovery of Novel Silicon Allotropes with Optimized Band Gaps to Enhance Solar Cell Efficiency through Evolutionary Algorithms and Machine Learning**|Mostafa Yaghoobi et.al.|[2406.15316v1](http://arxiv.org/abs/2406.15316v1)|null|
+|**2024-06-21**|**Discovery of Novel Silicon Allotropes with Optimized Band Gaps to Enhance Solar Cell Efficiency through Evolutionary Algorithms and Machine Learning**|Mostafa Yaghoobi et.al.|[2406.15316v2](http://arxiv.org/abs/2406.15316v2)|null|
 |**2024-06-21**|**A Candidate for the Quantum Spin Liquid Ground-State in the Shastry-Sutherland Lattice Material Yb$_2$Be$_2$GeO$_7$**|M. Pula et.al.|[2406.15314v1](http://arxiv.org/abs/2406.15314v1)|null|
 |**2024-06-21**|**STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals**|Weihang Su et.al.|[2406.15313v1](http://arxiv.org/abs/2406.15313v1)|[link](https://github.com/oneal2000/stard)|
 |**2024-06-21**|**The Privacy-Utility Trade-off in the Topics API**|Mário S. Alvim et.al.|[2406.15309v1](http://arxiv.org/abs/2406.15309v1)|null|

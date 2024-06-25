@@ -20,7 +20,7 @@
 |**2024-06-21**|**How Effective is GPT-4 Turbo in Generating School-Level Questions from Textbooks Based on Bloom's Revised Taxonomy?**|Subhankar Maity et.al.|[2406.15211v1](http://arxiv.org/abs/2406.15211v1)|null|
 |**2024-06-21**|**Prompting Whisper for QA-driven Zero-shot End-to-end Spoken Language Understanding**|Mohan Li et.al.|[2406.15209v1](http://arxiv.org/abs/2406.15209v1)|null|
 |**2024-06-21**|**Multiscale modelling of animal movement with persistent dynamics**|Théo Michelot et.al.|[2406.15195v1](http://arxiv.org/abs/2406.15195v1)|null|
-|**2024-06-21**|**Reward Steering with Evolutionary Heuristics for Decoding-time Alignment**|Chia-Yu Hung et.al.|[2406.15193v1](http://arxiv.org/abs/2406.15193v1)|null|
+|**2024-06-21**|**Reward Steering with Evolutionary Heuristics for Decoding-time Alignment**|Chia-Yu Hung et.al.|[2406.15193v2](http://arxiv.org/abs/2406.15193v2)|null|
 |**2024-06-21**|**Setting Targets is All You Need:Improved Order Competitive Ratio for Online Selection**|Liyan Chen et.al.|[2406.15192v1](http://arxiv.org/abs/2406.15192v1)|null|
 |**2024-06-21**|**UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis**|Yulong Hui et.al.|[2406.15187v1](http://arxiv.org/abs/2406.15187v1)|[link](https://github.com/qinchuanhui/uda-benchmark)|
 |**2024-06-21**|**Évaluation des capacités de réponse de larges modèles de langage (LLM) pour des questions d'historiens**|Mathieu Chartier et.al.|[2406.15173v1](http://arxiv.org/abs/2406.15173v1)|null|
@@ -29,6 +29,6 @@
 |**2024-06-21**|**Community Detection from Multiple Observations: from Product Graph Model to Brain Applications**|Tiziana Cattai et.al.|[2406.15142v1](http://arxiv.org/abs/2406.15142v1)|null|
 |**2024-06-21**|**KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty**|Philipp Becker et.al.|[2406.15131v1](http://arxiv.org/abs/2406.15131v1)|null|
 |**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112v1](http://arxiv.org/abs/2406.15112v1)|null|
-|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111v1](http://arxiv.org/abs/2406.15111v1)|null|
+|**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111v2](http://arxiv.org/abs/2406.15111v2)|null|
 |**2024-06-21**|**How Intermodal Interaction Affects the Performance of Deep Multimodal Fusion for Mixed-Type Time Series**|Simon Dietz et.al.|[2406.15098v1](http://arxiv.org/abs/2406.15098v1)|null|
 |**2024-06-21**|**The Influence of Nuisance Parameter Uncertainty on Statistical Inference in Practical Data Science Models**|Yunrong Wan et.al.|[2406.15078v1](http://arxiv.org/abs/2406.15078v1)|null|

@@ -11,17 +11,17 @@
 |**2024-06-21**|**An End-to-End, Segmentation-Free, Arabic Handwritten Recognition Model on KHATT**|Sondos Aabed et.al.|[2406.15329v1](http://arxiv.org/abs/2406.15329v1)|null|
 |**2024-06-21**|**Fine-grained Attention in Hierarchical Transformers for Tabular Time-series**|Raphael Azorin et.al.|[2406.15327v1](http://arxiv.org/abs/2406.15327v1)|[link](https://github.com/raphaaal/fieldy)|
 |**2024-06-21**|**LeapFrog: Getting the Jump on Multi-Scale Materials Simulations Using Machine Learning**|Damien Pinto et.al.|[2406.15326v1](http://arxiv.org/abs/2406.15326v1)|null|
-|**2024-06-21**|**Discovery of Novel Silicon Allotropes with Optimized Band Gaps to Enhance Solar Cell Efficiency through Evolutionary Algorithms and Machine Learning**|Mostafa Yaghoobi et.al.|[2406.15316v1](http://arxiv.org/abs/2406.15316v1)|null|
+|**2024-06-21**|**Discovery of Novel Silicon Allotropes with Optimized Band Gaps to Enhance Solar Cell Efficiency through Evolutionary Algorithms and Machine Learning**|Mostafa Yaghoobi et.al.|[2406.15316v2](http://arxiv.org/abs/2406.15316v2)|null|
 |**2024-06-21**|**The Privacy-Utility Trade-off in the Topics API**|Mário S. Alvim et.al.|[2406.15309v1](http://arxiv.org/abs/2406.15309v1)|null|
 |**2024-06-21**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299v1](http://arxiv.org/abs/2406.15299v1)|null|
 |**2024-06-21**|**NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing**|Tim Schopf et.al.|[2406.15294v1](http://arxiv.org/abs/2406.15294v1)|[link](https://github.com/nlp-knowledge-graph/nlp-kg-webapp)|
 |**2024-06-21**|**Pessimistic asynchronous sampling in high-cost Bayesian optimization**|Amanda A. Volk et.al.|[2406.15291v1](http://arxiv.org/abs/2406.15291v1)|null|
-|**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283v1](http://arxiv.org/abs/2406.15283v1)|null|
+|**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283v2](http://arxiv.org/abs/2406.15283v2)|null|
 |**2024-06-21**|**Towards Robust Training Datasets for Machine Learning with Ontologies: A Case Study for Emergency Road Vehicle Detection**|Lynn Vonderhaar et.al.|[2406.15268v1](http://arxiv.org/abs/2406.15268v1)|null|
 |**2024-06-21**|**Perception of Phonological Assimilation by Neural Speech Recognition Models**|Charlotte Pouw et.al.|[2406.15265v1](http://arxiv.org/abs/2406.15265v1)|null|
 |**2024-06-21**|**Model-Based Learning for Network Clock Synchronization in Half-Duplex TDMA Networks**|Itay Zino et.al.|[2406.15258v1](http://arxiv.org/abs/2406.15258v1)|null|
 |**2024-06-21**|**Fingerprint Membership and Identity Inference Against Generative Adversarial Networks**|Saverio Cavasin et.al.|[2406.15253v1](http://arxiv.org/abs/2406.15253v1)|null|
-|**2024-06-21**|**MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252v1](http://arxiv.org/abs/2406.15252v1)|null|
+|**2024-06-21**|**VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252v2](http://arxiv.org/abs/2406.15252v2)|null|
 |**2024-06-21**|**Open Problem: Order Optimal Regret Bounds for Kernel-Based Reinforcement Learning**|Sattar Vakili et.al.|[2406.15250v1](http://arxiv.org/abs/2406.15250v1)|null|
 |**2024-06-21**|**Unsupervised Morphological Tree Tokenizer**|Qingyang Zhu et.al.|[2406.15245v1](http://arxiv.org/abs/2406.15245v1)|null|
 |**2024-06-21**|**Large Batch Analysis for Adagrad Under Anisotropic Smoothness**|Yuxing Liu et.al.|[2406.15244v1](http://arxiv.org/abs/2406.15244v1)|null|

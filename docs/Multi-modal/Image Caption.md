@@ -22,7 +22,7 @@
 |**2024-06-21**|**Landscape More Secure Than Portrait? Zooming Into the Directionality of Digital Images With Security Implications**|Benedikt Lorch et.al.|[2406.15206v1](http://arxiv.org/abs/2406.15206v1)|null|
 |**2024-06-21**|**DiffExplainer: Unveiling Black Box Models Via Counterfactual Generation**|Yingying Fang et.al.|[2406.15182v1](http://arxiv.org/abs/2406.15182v1)|null|
 |**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172v1](http://arxiv.org/abs/2406.15172v1)|null|
-|**2024-06-21**|**This actually looks like that: Proto-BagNets for local and global interpretability-by-design**|Kerol Djoumessi et.al.|[2406.15168v1](http://arxiv.org/abs/2406.15168v1)|[link](https://github.com/kdjoumessi/proto-bagnets)|
+|**2024-06-21**|**This actually looks like that: Proto-BagNets for local and global interpretability-by-design**|Kerol Djoumessi et.al.|[2406.15168v2](http://arxiv.org/abs/2406.15168v2)|[link](https://github.com/kdjoumessi/proto-bagnets)|
 |**2024-06-21**|**Stochastic Optimisation Framework using the Core Imaging Library and Synergistic Image Reconstruction Framework for PET Reconstruction**|Evangelos Papoutsellis et.al.|[2406.15159v1](http://arxiv.org/abs/2406.15159v1)|null|
 |**2024-06-21**|**Generative Topological Networks**|Alona Levy-Jurgenson et.al.|[2406.15152v1](http://arxiv.org/abs/2406.15152v1)|null|
 |**2024-06-21**|**A Wavelet Guided Attention Module for Skin Cancer Classification with Gradient-based Feature Fusion**|Ayush Roy et.al.|[2406.15128v1](http://arxiv.org/abs/2406.15128v1)|[link](https://github.com/ayushroy2001/wagf-fusion)|
