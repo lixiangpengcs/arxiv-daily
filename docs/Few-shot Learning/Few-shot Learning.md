@@ -16,7 +16,7 @@
 |**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810v1](http://arxiv.org/abs/2406.16810v1)|null|
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807v1](http://arxiv.org/abs/2406.16807v1)|null|
 |**2024-06-24**|**Improved Regret Bounds for Bandits with Expert Advice**|Nicolò Cesa-Bianchi et.al.|[2406.16802v1](http://arxiv.org/abs/2406.16802v1)|null|
-|**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v1](http://arxiv.org/abs/2406.16793v1)|null|
+|**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793v2](http://arxiv.org/abs/2406.16793v2)|null|
 |**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792v1](http://arxiv.org/abs/2406.16792v1)|null|
 |**2024-06-24**|**Enabling more efficient and cost-effective AI/ML systems with Collective Mind, virtualized MLOps, MLPerf, Collective Knowledge Playground and reproducible optimization tournaments**|Grigori Fursin et.al.|[2406.16791v1](http://arxiv.org/abs/2406.16791v1)|null|
 |**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784v1](http://arxiv.org/abs/2406.16784v1)|null|
@@ -28,7 +28,7 @@
 |**2024-06-24**|**Conformal time series decomposition with component-wise exchangeability**|Derck W. E. Prinzhorn et.al.|[2406.16766v1](http://arxiv.org/abs/2406.16766v1)|null|
 |**2024-06-24**|**Addressing Polarization and Unfairness in Performative Prediction**|Kun Jin et.al.|[2406.16756v1](http://arxiv.org/abs/2406.16756v1)|null|
 |**2024-06-24**|**The MRI Scanner as a Diagnostic: Image-less Active Sampling**|Yuning Du et.al.|[2406.16754v1](http://arxiv.org/abs/2406.16754v1)|null|
-|**2024-06-24**|**Towards Zero-Shot Text-To-Speech for Arabic Dialects**|Khai Duy Doan et.al.|[2406.16751v1](http://arxiv.org/abs/2406.16751v1)|null|
+|**2024-06-24**|**Towards Zero-Shot Text-To-Speech for Arabic Dialects**|Khai Duy Doan et.al.|[2406.16751v2](http://arxiv.org/abs/2406.16751v2)|null|
 |**2024-06-24**|**Inferring stochastic low-rank recurrent neural networks from neural data**|Matthijs Pals et.al.|[2406.16749v1](http://arxiv.org/abs/2406.16749v1)|null|
 |**2024-06-24**|**OCALM: Object-Centric Assessment with Language Models**|Timo Kaufmann et.al.|[2406.16748v1](http://arxiv.org/abs/2406.16748v1)|null|
 |**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747v1](http://arxiv.org/abs/2406.16747v1)|null|
