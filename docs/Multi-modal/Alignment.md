@@ -2,6 +2,28 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770v1](http://arxiv.org/abs/2406.17770v1)|[link](https://github.com/phoenixz810/mg-llava)|
+|**2024-06-25**|**Mask-Guided Attention U-Net for Enhanced Neonatal Brain Extraction and Image Preprocessing**|Bahram Jafrasteh et.al.|[2406.17709v1](http://arxiv.org/abs/2406.17709v1)|[link](https://github.com/bahramjafrasteh/mga-net)|
+|**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679v1](http://arxiv.org/abs/2406.17679v1)|null|
+|**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
+|**2024-06-25**|**This Paper Had the Smartest Reviewers -- Flattery Detection Utilising an Audio-Textual Transformer-Based Approach**|Lukas Christ et.al.|[2406.17667v1](http://arxiv.org/abs/2406.17667v1)|null|
+|**2024-06-25**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v1](http://arxiv.org/abs/2406.17639v1)|null|
+|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615v1](http://arxiv.org/abs/2406.17615v1)|null|
+|**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591v1](http://arxiv.org/abs/2406.17591v1)|[link](https://github.com/ahmad-shirazi/docparsenet)|
+|**2024-06-25**|**MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**|Francesco Di Salvo et.al.|[2406.17536v1](http://arxiv.org/abs/2406.17536v1)|[link](https://github.com/francescodisalvo05/medmnistc-api)|
+|**2024-06-25**|**ACE: A Generative Cross-Modal Retrieval Framework with Coarse-To-Fine Semantic Modeling**|Minghui Fang et.al.|[2406.17507v1](http://arxiv.org/abs/2406.17507v1)|null|
+|**2024-06-25**|**Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal**|Kaichen Chi et.al.|[2406.17469v1](http://arxiv.org/abs/2406.17469v1)|null|
+|**2024-06-25**|**Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights**|Hao Yang et.al.|[2406.17430v1](http://arxiv.org/abs/2406.17430v1)|null|
+|**2024-06-25**|**DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer**|Aihua Mao et.al.|[2406.17319v1](http://arxiv.org/abs/2406.17319v1)|null|
+|**2024-06-25**|**Zero-Shot Long-Form Video Understanding through Screenplay**|Yongliang Wu et.al.|[2406.17309v1](http://arxiv.org/abs/2406.17309v1)|null|
+|**2024-06-25**|**A Comprehensive Solution to Connect Speech Encoder and Large Language Model for ASR**|Van Tung Pham et.al.|[2406.17272v1](http://arxiv.org/abs/2406.17272v1)|null|
+|**2024-06-25**|**Efficient, Multimodal, and Derivative-Free Bayesian Inference With Fisher-Rao Gradient Flows**|Yifan Chen et.al.|[2406.17263v1](http://arxiv.org/abs/2406.17263v1)|null|
+|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v1](http://arxiv.org/abs/2406.17249v1)|null|
+|**2024-06-25**|**Large Language Models are Interpretable Learners**|Ruochen Wang et.al.|[2406.17224v1](http://arxiv.org/abs/2406.17224v1)|[link](https://github.com/ruocwang/llm-symbolic-program)|
+|**2024-06-25**|**Detecting Frames in News Headlines and Lead Images in U.S. Gun Violence Coverage**|Isidora Chara Tourni et.al.|[2406.17213v1](http://arxiv.org/abs/2406.17213v1)|null|
+|**2024-06-24**|**MM-SpuBench: Towards Better Understanding of Spurious Biases in Multimodal LLMs**|Wenqian Ye et.al.|[2406.17126v1](http://arxiv.org/abs/2406.17126v1)|null|
+|**2024-06-24**|**Modal definability in Kripke's theory of truth**|James Walsh et.al.|[2406.17091v1](http://arxiv.org/abs/2406.17091v1)|null|
+|**2024-06-24**|**Enhancing Scientific Figure Captioning Through Cross-modal Learning**|Mateo Alejandro Rojas et.al.|[2406.17047v1](http://arxiv.org/abs/2406.17047v1)|null|
 |**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852v1](http://arxiv.org/abs/2406.16852v1)|[link](https://github.com/evolvinglmms-lab/longva)|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
 |**2024-06-24**|**Bisimulation for Impure Simplicial Complexes**|Marta Bílková et.al.|[2406.16785v1](http://arxiv.org/abs/2406.16785v1)|null|
@@ -10,25 +32,3 @@
 |**2024-06-24**|**Generalized Modal Analysis in Power System with High CIG Penetration: Concept and Quantitative Assessment**|Le Zheng et.al.|[2406.16711v1](http://arxiv.org/abs/2406.16711v1)|null|
 |**2024-06-24**|**A Comprehensive Review of Emerging Approaches in Machine Learning for De Novo PROTAC Design**|Yossra Gharbi et.al.|[2406.16681v1](http://arxiv.org/abs/2406.16681v1)|null|
 |**2024-06-24**|**Vision-Language Consistency Guided Multi-modal Prompt Learning for Blind AI Generated Image Quality Assessment**|Jun Fu et.al.|[2406.16641v1](http://arxiv.org/abs/2406.16641v1)|null|
-|**2024-06-24**|**Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator**|Bo Ji et.al.|[2406.16622v1](http://arxiv.org/abs/2406.16622v1)|null|
-|**2024-06-24**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620v2](http://arxiv.org/abs/2406.16620v2)|null|
-|**2024-06-24**|**Demonstration of a Squeezed Light Source on Thin-Film Lithium Niobate with Modal Phase Matching**|Tummas Napoleon Arge et.al.|[2406.16516v1](http://arxiv.org/abs/2406.16516v1)|null|
-|**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513v1](http://arxiv.org/abs/2406.16513v1)|null|
-|**2024-06-24**|**InterCLIP-MEP: Interactive CLIP and Memory-Enhanced Predictor for Multi-modal Sarcasm Detection**|Junjie Chen et.al.|[2406.16464v1](http://arxiv.org/abs/2406.16464v1)|[link](https://github.com/CoderChen01/InterCLIP-MEP)|
-|**2024-06-24**|**EmoLLM: Multimodal Emotional Understanding Meets Large Language Models**|Qu Yang et.al.|[2406.16442v1](http://arxiv.org/abs/2406.16442v1)|null|
-|**2024-06-24**|**Directed Domain Fine-Tuning: Tailoring Separate Modalities for Specific Training Tasks**|Daniel Wen et.al.|[2406.16346v1](http://arxiv.org/abs/2406.16346v1)|null|
-|**2024-06-24**|**Multimodal Graph Benchmark**|Jing Zhu et.al.|[2406.16321v1](http://arxiv.org/abs/2406.16321v1)|[link](https://github.com/mm-graph-benchmark/mm-graph-benchmark)|
-|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320v1](http://arxiv.org/abs/2406.16320v1)|null|
-|**2024-06-24**|**SNR-Progressive Model with Harmonic Compensation for Low-SNR Speech Enhancement**|Zhongshu Hou et.al.|[2406.16317v1](http://arxiv.org/abs/2406.16317v1)|null|
-|**2024-06-24**|**UBiSS: A Unified Framework for Bimodal Semantic Summarization of Videos**|Yuting Mei et.al.|[2406.16301v1](http://arxiv.org/abs/2406.16301v1)|[link](https://github.com/meiyutingg/ubiss)|
-|**2024-06-23**|**A Python Benchmark Functions Framework for Numerical Optimisation Problems**|Luca Baronti et.al.|[2406.16195v1](http://arxiv.org/abs/2406.16195v1)|null|
-|**2024-06-23**|**Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking**|Yuwei Zhang et.al.|[2406.16148v1](http://arxiv.org/abs/2406.16148v1)|[link](https://github.com/evelyn0414/opera)|
-|**2024-06-23**|**Multimodal Multilabel Classification by CLIP**|Yanming Guo et.al.|[2406.16141v1](http://arxiv.org/abs/2406.16141v1)|null|
-|**2024-06-23**|**First-order Logic with Being a Thesis Modal Operator**|Marcin Łyczak et.al.|[2406.16133v2](http://arxiv.org/abs/2406.16133v2)|null|
-|**2024-06-23**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109v2](http://arxiv.org/abs/2406.16109v2)|null|
-|**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085v1](http://arxiv.org/abs/2406.16085v1)|null|
-|**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[2406.16072v1](http://arxiv.org/abs/2406.16072v1)|[link](https://github.com/jmoonr/dv-3dlane)|
-|**2024-06-23**|**Logics of polyhedral reachability**|Nick Bezhanishvili et.al.|[2406.16056v1](http://arxiv.org/abs/2406.16056v1)|null|
-|**2024-06-23**|**Some General Completeness Results for Propositionally Quantified Modal Logics**|Yifeng Ding et.al.|[2406.16034v1](http://arxiv.org/abs/2406.16034v1)|null|
-|**2024-06-22**|**PUDD: Towards Robust Multi-modal Prototype-based Deepfake Detection**|Alvaro Lopez Pellcier et.al.|[2406.15921v1](http://arxiv.org/abs/2406.15921v1)|null|
-|**2024-06-22**|**Soft Masked Mamba Diffusion Model for CT to MRI Conversion**|Zhenbin Wang et.al.|[2406.15910v1](http://arxiv.org/abs/2406.15910v1)|[link](https://github.com/wongzbb/diffma-diffusion-mamba)|
