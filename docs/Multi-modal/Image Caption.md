@@ -21,7 +21,7 @@
 |**2024-06-24**|**Demystifying the Effect of Receptive Field Size in U-Net Models for Medical Image Segmentation**|Vincent Loos et.al.|[2406.16701v1](http://arxiv.org/abs/2406.16701v1)|null|
 |**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683v1](http://arxiv.org/abs/2406.16683v1)|null|
 |**2024-06-24**|**Multi-Robot Collaborative Localization and Planning with Inter-Ranging**|Derek Knowles et.al.|[2406.16679v1](http://arxiv.org/abs/2406.16679v1)|null|
-|**2024-06-24**|**Sampling Strategies in Bayesian Inversion: A Study of RTO and Langevin Methods**|Remi Laumont et.al.|[2406.16658v1](http://arxiv.org/abs/2406.16658v1)|null|
+|**2024-06-24**|**Sampling Strategies in Bayesian Inversion: A Study of RTO and Langevin Methods**|Remi Laumont et.al.|[2406.16658v2](http://arxiv.org/abs/2406.16658v2)|null|
 |**2024-06-24**|**Vision-Language Consistency Guided Multi-modal Prompt Learning for Blind AI Generated Image Quality Assessment**|Jun Fu et.al.|[2406.16641v1](http://arxiv.org/abs/2406.16641v1)|null|
 |**2024-06-24**|**GATSBI: An Online GTSP-Based Algorithm for Targeted Surface Bridge Inspection and Defect Detection**|Harnaik Dhami et.al.|[2406.16625v1](http://arxiv.org/abs/2406.16625v1)|null|
 |**2024-06-24**|**Evaluating the Robustness of Deep-Learning Algorithm-Selection Models by Evolving Adversarial Instances**|Emma Hart et.al.|[2406.16609v1](http://arxiv.org/abs/2406.16609v1)|null|

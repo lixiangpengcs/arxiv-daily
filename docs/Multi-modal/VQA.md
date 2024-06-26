@@ -26,7 +26,7 @@
 |**2024-06-24**|**North-PHASE: Studying Periodicity, Hot Spots, Accretion Stability and Early Evolution in young stars in the northern hemisphere**|A. Sicilia-Aguilar et.al.|[2406.16702v1](http://arxiv.org/abs/2406.16702v1)|null|
 |**2024-06-24**|**Public Constitutional AI**|Gilad Abiri et.al.|[2406.16696v1](http://arxiv.org/abs/2406.16696v1)|null|
 |**2024-06-24**|**Task Oriented In-Domain Data Augmentation**|Xiao Liang et.al.|[2406.16694v1](http://arxiv.org/abs/2406.16694v1)|null|
-|**2024-06-24**|**Consistent Query Answering over SHACL Constraints**|Shqiponja Ahmetaj et.al.|[2406.16653v1](http://arxiv.org/abs/2406.16653v1)|null|
+|**2024-06-24**|**Consistent Query Answering over SHACL Constraints**|Shqiponja Ahmetaj et.al.|[2406.16653v2](http://arxiv.org/abs/2406.16653v2)|null|
 |**2024-06-24**|**Hacking a surrogate model approach to XAI**|Alexander Wilhelm et.al.|[2406.16626v1](http://arxiv.org/abs/2406.16626v1)|null|
 |**2024-06-24**|**Can the noble metals (Au, Ag and Cu) be superconductors?**|Giovanni A. Ummarino et.al.|[2406.16621v1](http://arxiv.org/abs/2406.16621v1)|null|
 |**2024-06-24**|**The Championship-Winning Solution for the 5th CLVISION Challenge 2024**|Sishun Pan et.al.|[2406.16615v1](http://arxiv.org/abs/2406.16615v1)|null|

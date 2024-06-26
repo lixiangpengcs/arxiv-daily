@@ -11,7 +11,7 @@
 |**2024-06-24**|**A Comprehensive Review of Emerging Approaches in Machine Learning for De Novo PROTAC Design**|Yossra Gharbi et.al.|[2406.16681v1](http://arxiv.org/abs/2406.16681v1)|null|
 |**2024-06-24**|**Vision-Language Consistency Guided Multi-modal Prompt Learning for Blind AI Generated Image Quality Assessment**|Jun Fu et.al.|[2406.16641v1](http://arxiv.org/abs/2406.16641v1)|null|
 |**2024-06-24**|**Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator**|Bo Ji et.al.|[2406.16622v1](http://arxiv.org/abs/2406.16622v1)|null|
-|**2024-06-24**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620v1](http://arxiv.org/abs/2406.16620v1)|null|
+|**2024-06-24**|**OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer**|Lu Zhang et.al.|[2406.16620v2](http://arxiv.org/abs/2406.16620v2)|null|
 |**2024-06-24**|**Demonstration of a Squeezed Light Source on Thin-Film Lithium Niobate with Modal Phase Matching**|Tummas Napoleon Arge et.al.|[2406.16516v1](http://arxiv.org/abs/2406.16516v1)|null|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513v1](http://arxiv.org/abs/2406.16513v1)|null|
 |**2024-06-24**|**InterCLIP-MEP: Interactive CLIP and Memory-Enhanced Predictor for Multi-modal Sarcasm Detection**|Junjie Chen et.al.|[2406.16464v1](http://arxiv.org/abs/2406.16464v1)|[link](https://github.com/CoderChen01/InterCLIP-MEP)|
@@ -24,8 +24,8 @@
 |**2024-06-23**|**A Python Benchmark Functions Framework for Numerical Optimisation Problems**|Luca Baronti et.al.|[2406.16195v1](http://arxiv.org/abs/2406.16195v1)|null|
 |**2024-06-23**|**Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking**|Yuwei Zhang et.al.|[2406.16148v1](http://arxiv.org/abs/2406.16148v1)|[link](https://github.com/evelyn0414/opera)|
 |**2024-06-23**|**Multimodal Multilabel Classification by CLIP**|Yanming Guo et.al.|[2406.16141v1](http://arxiv.org/abs/2406.16141v1)|null|
-|**2024-06-23**|**First-order Logic with Being a Thesis Modal Operator**|Marcin Łyczak et.al.|[2406.16133v1](http://arxiv.org/abs/2406.16133v1)|null|
-|**2024-06-23**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109v1](http://arxiv.org/abs/2406.16109v1)|null|
+|**2024-06-23**|**First-order Logic with Being a Thesis Modal Operator**|Marcin Łyczak et.al.|[2406.16133v2](http://arxiv.org/abs/2406.16133v2)|null|
+|**2024-06-23**|**X-ray2CTPA: Generating 3D CTPA scans from 2D X-ray conditioning**|Noa Cahan et.al.|[2406.16109v2](http://arxiv.org/abs/2406.16109v2)|null|
 |**2024-06-23**|**A Simple Framework for Open-Vocabulary Zero-Shot Segmentation**|Thomas Stegmüller et.al.|[2406.16085v1](http://arxiv.org/abs/2406.16085v1)|null|
 |**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[2406.16072v1](http://arxiv.org/abs/2406.16072v1)|[link](https://github.com/jmoonr/dv-3dlane)|
 |**2024-06-23**|**Logics of polyhedral reachability**|Nick Bezhanishvili et.al.|[2406.16056v1](http://arxiv.org/abs/2406.16056v1)|null|
