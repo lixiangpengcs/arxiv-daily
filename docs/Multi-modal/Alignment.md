@@ -7,10 +7,10 @@
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679v1](http://arxiv.org/abs/2406.17679v1)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
 |**2024-06-25**|**This Paper Had the Smartest Reviewers -- Flattery Detection Utilising an Audio-Textual Transformer-Based Approach**|Lukas Christ et.al.|[2406.17667v1](http://arxiv.org/abs/2406.17667v1)|null|
-|**2024-06-25**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v1](http://arxiv.org/abs/2406.17639v1)|null|
-|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615v1](http://arxiv.org/abs/2406.17615v1)|null|
+|**2024-06-25**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v2](http://arxiv.org/abs/2406.17639v2)|null|
+|**2024-06-25**|**Aligning Programming Language and Natural Language: Exploring Design Choices in Multi-Modal Transformer-Based Embedding for Bug Localization**|Partha Chakraborty et.al.|[2406.17615v1](http://arxiv.org/abs/2406.17615v1)|[link](https://zenodo.org/record/10519746)|
 |**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591v1](http://arxiv.org/abs/2406.17591v1)|[link](https://github.com/ahmad-shirazi/docparsenet)|
-|**2024-06-25**|**MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**|Francesco Di Salvo et.al.|[2406.17536v1](http://arxiv.org/abs/2406.17536v1)|[link](https://github.com/francescodisalvo05/medmnistc-api)|
+|**2024-06-25**|**MedMNIST-C: Comprehensive benchmark and improved classifier robustness by simulating realistic image corruptions**|Francesco Di Salvo et.al.|[2406.17536v2](http://arxiv.org/abs/2406.17536v2)|[link](https://github.com/francescodisalvo05/medmnistc-api)|
 |**2024-06-25**|**ACE: A Generative Cross-Modal Retrieval Framework with Coarse-To-Fine Semantic Modeling**|Minghui Fang et.al.|[2406.17507v1](http://arxiv.org/abs/2406.17507v1)|null|
 |**2024-06-25**|**Cross-Modal Spherical Aggregation for Weakly Supervised Remote Sensing Shadow Removal**|Kaichen Chi et.al.|[2406.17469v1](http://arxiv.org/abs/2406.17469v1)|null|
 |**2024-06-25**|**Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights**|Hao Yang et.al.|[2406.17430v1](http://arxiv.org/abs/2406.17430v1)|null|
@@ -28,7 +28,7 @@
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|[link](https://github.com/xiaohao-xu/slam-under-perturbation)|
 |**2024-06-24**|**Bisimulation for Impure Simplicial Complexes**|Marta Bílková et.al.|[2406.16785v1](http://arxiv.org/abs/2406.16785v1)|null|
 |**2024-06-24**|**OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?**|Zhen Huang et.al.|[2406.16772v1](http://arxiv.org/abs/2406.16772v1)|[link](https://github.com/gair-nlp/olympicarena)|
-|**2024-06-24**|**The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources**|Shayne Longpre et.al.|[2406.16746v1](http://arxiv.org/abs/2406.16746v1)|null|
+|**2024-06-24**|**The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources**|Shayne Longpre et.al.|[2406.16746v2](http://arxiv.org/abs/2406.16746v2)|null|
 |**2024-06-24**|**Generalized Modal Analysis in Power System with High CIG Penetration: Concept and Quantitative Assessment**|Le Zheng et.al.|[2406.16711v1](http://arxiv.org/abs/2406.16711v1)|null|
 |**2024-06-24**|**A Comprehensive Review of Emerging Approaches in Machine Learning for De Novo PROTAC Design**|Yossra Gharbi et.al.|[2406.16681v1](http://arxiv.org/abs/2406.16681v1)|null|
 |**2024-06-24**|**Vision-Language Consistency Guided Multi-modal Prompt Learning for Blind AI Generated Image Quality Assessment**|Jun Fu et.al.|[2406.16641v1](http://arxiv.org/abs/2406.16641v1)|null|
