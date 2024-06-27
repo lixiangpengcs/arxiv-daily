@@ -2,6 +2,10 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-26**|**Parameterizing the quantification of CMSO: model checking on minor-closed graph classes**|Ignasi Sau et.al.|[2406.18465v1](http://arxiv.org/abs/2406.18465v1)|null|
+|**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197v1](http://arxiv.org/abs/2406.18197v1)|null|
+|**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037v1](http://arxiv.org/abs/2406.18037v1)|null|
+|**2024-06-25**|**MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation**|Liuyi Wang et.al.|[2406.17960v1](http://arxiv.org/abs/2406.17960v1)|[link](https://github.com/crystalsixone/vln-magic)|
 |**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755v1](http://arxiv.org/abs/2406.17755v1)|null|
 |**2024-06-25**|**A piezoelectric ski-jump laser beam scanning chip-to-free space photonic link**|Matt Saha et.al.|[2406.17662v1](http://arxiv.org/abs/2406.17662v1)|null|
 |**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649v1](http://arxiv.org/abs/2406.17649v1)|null|
@@ -28,7 +32,3 @@
 |**2024-06-21**|**On the Multicategorical Meta-Theorem and the Completeness of Restricted Algebraic Deduction Systems**|David Forsman et.al.|[2406.15584v1](http://arxiv.org/abs/2406.15584v1)|null|
 |**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|[link](https://github.com/xwmaxwma/rschange)|
 |**2024-06-21**|**A Provably Efficient Option-Based Algorithm for both High-Level and Low-Level Learning**|Gianluca Drappo et.al.|[2406.15124v1](http://arxiv.org/abs/2406.15124v1)|null|
-|**2024-06-21**|**New Upper Bounds for Noisy Permutation Channels**|Lugaoze Feng et.al.|[2406.15031v1](http://arxiv.org/abs/2406.15031v1)|null|
-|**2024-06-21**|**Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation**|Shamane Siriwardhana et.al.|[2406.14971v1](http://arxiv.org/abs/2406.14971v1)|null|
-|**2024-06-21**|**Camera-Invariant Meta-Learning Network for Single-Camera-Training Person Re-identification**|Jiangbo Pei et.al.|[2406.14797v1](http://arxiv.org/abs/2406.14797v1)|null|
-|**2024-06-20**|**Wide Field of View Large Aperture Meta-Doublet Eyepiece**|Anna Wirth-Singh et.al.|[2406.14725v1](http://arxiv.org/abs/2406.14725v1)|null|

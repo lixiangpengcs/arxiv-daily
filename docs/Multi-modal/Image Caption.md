@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-25**|**Text-Animator: Controllable Visual Text Video Generation**|Lin Liu et.al.|[2406.17777v1](http://arxiv.org/abs/2406.17777v1)|null|
-|**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770v1](http://arxiv.org/abs/2406.17770v1)|[link](https://github.com/phoenixz810/mg-llava)|
-|**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768v1](http://arxiv.org/abs/2406.17768v1)|null|
-|**2024-06-25**|**MotionBooth: Motion-Aware Customized Text-to-Video Generation**|Jianzong Wu et.al.|[2406.17758v1](http://arxiv.org/abs/2406.17758v1)|null|
-|**2024-06-25**|**The Size-Mass relation at Rest-Frame $1.5μ$m from JWST/NIRCam in the COSMOS-WEB and PRIMER-COSMOS fields**|Marco Martorano et.al.|[2406.17756v1](http://arxiv.org/abs/2406.17756v1)|null|
-|**2024-06-25**|**Accessing a New Population of Supermassive Black Holes with Extensions to the Event Horizon Telescope**|Xinyue Alice Zhang et.al.|[2406.17754v1](http://arxiv.org/abs/2406.17754v1)|null|
-|**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749v1](http://arxiv.org/abs/2406.17749v1)|null|
-|**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741v1](http://arxiv.org/abs/2406.17741v1)|[link](https://github.com/zyc00/point-sam)|
-|**2024-06-25**|**Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning**|Arijit Sehanobish et.al.|[2406.17740v1](http://arxiv.org/abs/2406.17740v1)|null|
-|**2024-06-25**|**Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity**|Chih-Hsuan Yang et.al.|[2406.17720v1](http://arxiv.org/abs/2406.17720v1)|null|
-|**2024-06-25**|**Mask-Guided Attention U-Net for Enhanced Neonatal Brain Extraction and Image Preprocessing**|Bahram Jafrasteh et.al.|[2406.17709v1](http://arxiv.org/abs/2406.17709v1)|[link](https://github.com/bahramjafrasteh/mga-net)|
-|**2024-06-25**|**SurgeMOD: Translating image-space tissue motions into vision-based surgical forces**|Mikel De Iturrate Reyzabal et.al.|[2406.17707v1](http://arxiv.org/abs/2406.17707v1)|[link](https://github.com/mikelitu/surgical-video-modal-analysis)|
-|**2024-06-25**|**Unified Auto-Encoding with Masked Diffusion**|Philippe Hansen-Estruch et.al.|[2406.17688v1](http://arxiv.org/abs/2406.17688v1)|null|
-|**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679v1](http://arxiv.org/abs/2406.17679v1)|null|
-|**2024-06-25**|**Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration**|Mohammad Ali Labbaf Khaniki et.al.|[2406.17670v1](http://arxiv.org/abs/2406.17670v1)|null|
-|**2024-06-25**|**Transformer-based segmentation of adnexal lesions and ovarian implants in CT images**|Aneesh Rangnekar et.al.|[2406.17666v1](http://arxiv.org/abs/2406.17666v1)|null|
-|**2024-06-25**|**Magnetic Force Microscopy: High Quality Factor Two-Pass Mode**|Christopher Habenschaden et.al.|[2406.17664v1](http://arxiv.org/abs/2406.17664v1)|null|
-|**2024-06-25**|**A piezoelectric ski-jump laser beam scanning chip-to-free space photonic link**|Matt Saha et.al.|[2406.17662v1](http://arxiv.org/abs/2406.17662v1)|null|
-|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654v1](http://arxiv.org/abs/2406.17654v1)|null|
-|**2024-06-25**|**Numerical simulations for the SAXO+ upgrade: Performance analysis of the adaptive optics system**|Charles Goulas et.al.|[2406.17644v1](http://arxiv.org/abs/2406.17644v1)|null|
-|**2024-06-25**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640v1](http://arxiv.org/abs/2406.17640v1)|null|
-|**2024-06-25**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v2](http://arxiv.org/abs/2406.17639v2)|null|
-|**2024-06-25**|**Aligning Diffusion Models with Noise-Conditioned Perception**|Alexander Gambashidze et.al.|[2406.17636v1](http://arxiv.org/abs/2406.17636v1)|null|
-|**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617v1](http://arxiv.org/abs/2406.17617v1)|null|
-|**2024-06-25**|**Test-Time Generative Augmentation for Medical Image Segmentation**|Xiao Ma et.al.|[2406.17608v1](http://arxiv.org/abs/2406.17608v1)|[link](https://github.com/maxiao0234/ttga)|
-|**2024-06-25**|**Low-Crosstalk, Silicon-Fabricated Optical Waveguides for Laser Delivery to Matter Qubits**|Clayton L. Craft et.al.|[2406.17607v1](http://arxiv.org/abs/2406.17607v1)|null|
-|**2024-06-25**|**Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text**|Xinyang Li et.al.|[2406.17601v1](http://arxiv.org/abs/2406.17601v1)|[link](https://github.com/imlixinyang/director3d)|
-|**2024-06-25**|**Constructing structured tensor priors for Bayesian inverse problems**|Kim Batselier et.al.|[2406.17597v1](http://arxiv.org/abs/2406.17597v1)|null|
-|**2024-06-25**|**DocParseNet: Advanced Semantic Segmentation and OCR Embeddings for Efficient Scanned Document Annotation**|Ahmad Mohammadshirazi et.al.|[2406.17591v1](http://arxiv.org/abs/2406.17591v1)|[link](https://github.com/ahmad-shirazi/docparsenet)|
-|**2024-06-25**|**Sparse-view Signal-domain Photoacoustic Tomography Reconstruction Method Based on Neural Representation**|Bowei Yao et.al.|[2406.17578v1](http://arxiv.org/abs/2406.17578v1)|null|
+|**2024-06-26**|**Towards Compositionality in Concept Learning**|Adam Stein et.al.|[2406.18534v1](http://arxiv.org/abs/2406.18534v1)|[link](https://github.com/adaminsky/compositional_concepts)|
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533v1](http://arxiv.org/abs/2406.18533v1)|[link](https://github.com/nyu-systems/grendel-gs)|
+|**2024-06-26**|**MatchTime: Towards Automatic Soccer Game Commentary Generation**|Jiayuan Rao et.al.|[2406.18530v1](http://arxiv.org/abs/2406.18530v1)|null|
+|**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
+|**2024-06-26**|**ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation**|Shenghai Yuan et.al.|[2406.18522v1](http://arxiv.org/abs/2406.18522v1)|null|
+|**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516v1](http://arxiv.org/abs/2406.18516v1)|[link](https://github.com/kangliao929/noise-da)|
+|**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508v1](http://arxiv.org/abs/2406.18508v1)|null|
+|**2024-06-26**|**Studying single-electron traps in newly fabricated Skipper-CCDs for the Oscura experiment using the pocket-pumping technique**|S. E. Perez et.al.|[2406.18502v1](http://arxiv.org/abs/2406.18502v1)|null|
+|**2024-06-26**|**Parameter selection and optimization of a computational network model of blood flow in single-ventricle patients**|Alyssa M. Taylor-LaPole et.al.|[2406.18490v1](http://arxiv.org/abs/2406.18490v1)|null|
+|**2024-06-26**|**DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance**|Younghyun Kim et.al.|[2406.18459v1](http://arxiv.org/abs/2406.18459v1)|null|
+|**2024-06-26**|**Towards Human-Level 3D Relative Pose Estimation: Generalizable, Training-Free, with Single Reference**|Yuan Gao et.al.|[2406.18453v1](http://arxiv.org/abs/2406.18453v1)|[link](https://github.com/ethanygao/training-free_generalizable_relative_pose)|
+|**2024-06-26**|**Cloud structure and young star distribution in the Dragonfish complex**|Nestor Sanchez et.al.|[2406.18432v1](http://arxiv.org/abs/2406.18432v1)|null|
+|**2024-06-26**|**Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods**|Doruk Cetin et.al.|[2406.18430v1](http://arxiv.org/abs/2406.18430v1)|null|
+|**2024-06-26**|**Upgrading SPHERE with the second stage AO system SAXO+: non-common path aberrations estimation and correction**|Johan Mazoyer et.al.|[2406.18424v1](http://arxiv.org/abs/2406.18424v1)|null|
+|**2024-06-26**|**Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling**|Abril Corona-Figueroa et.al.|[2406.18422v1](http://arxiv.org/abs/2406.18422v1)|null|
+|**2024-06-26**|**ViPErLEED package II: Spot tracking, extraction and processing of I(V) curves**|Michael Schmid et.al.|[2406.18413v1](http://arxiv.org/abs/2406.18413v1)|null|
+|**2024-06-26**|**Holomorphic retracts in the Lie ball and the tetrablock**|Gargi Ghosh et.al.|[2406.18396v1](http://arxiv.org/abs/2406.18396v1)|null|
+|**2024-06-26**|**The Advanced CCD Imaging Spectrometer on the Chandra X-ray Observatory: twenty-five years of on-orbit operation**|Catherine E. Grant et.al.|[2406.18395v1](http://arxiv.org/abs/2406.18395v1)|null|
+|**2024-06-26**|**DoubleTake: Geometry Guided Depth Estimation**|Mohamed Sayed et.al.|[2406.18387v1](http://arxiv.org/abs/2406.18387v1)|null|
+|**2024-06-26**|**From Majority to Minority: A Diffusion-based Augmentation for Underrepresented Groups in Skin Lesion Analysis**|Janet Wang et.al.|[2406.18375v1](http://arxiv.org/abs/2406.18375v1)|null|
+|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v1](http://arxiv.org/abs/2406.18361v1)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
+|**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360v1](http://arxiv.org/abs/2406.18360v1)|null|
+|**2024-06-26**|**Multi-Step Reconstruction of Radio-Interferometric Images**|S. Wang et.al.|[2406.18356v1](http://arxiv.org/abs/2406.18356v1)|null|
+|**2024-06-26**|**JWST, ALMA, and Keck Spectroscopic Constraints on the UV Luminosity Functions at z~7-14: Clumpiness and Compactness of the Brightest Galaxies in the Early Universe**|Yuichi Harikane et.al.|[2406.18352v1](http://arxiv.org/abs/2406.18352v1)|null|
+|**2024-06-26**|**On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks**|Thomas Louis et.al.|[2406.18350v1](http://arxiv.org/abs/2406.18350v1)|null|
+|**2024-06-26**|**AlignedCut: Visual Concepts Discovery on Brain-Guided Universal Feature Space**|Huzheng Yang et.al.|[2406.18344v1](http://arxiv.org/abs/2406.18344v1)|null|
+|**2024-06-26**|**RISTRETTO: Manufacturing of a single-mode visible high resolution spectrograph**|Bruno Chazelas et.al.|[2406.18331v1](http://arxiv.org/abs/2406.18331v1)|null|
+|**2024-06-26**|**Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation**|Yuxuan Qi et.al.|[2406.18327v1](http://arxiv.org/abs/2406.18327v1)|null|
+|**2024-06-26**|**Linear codes with few weights over $\mathbb{F}_{p}+u\mathbb{F}_{p}$**|Pavan Kumar et.al.|[2406.18325v1](http://arxiv.org/abs/2406.18325v1)|null|
+|**2024-06-26**|**Single atom chemical identification of TMD defects in ambient conditions**|Edward Juan Dunn et.al.|[2406.18324v1](http://arxiv.org/abs/2406.18324v1)|null|
