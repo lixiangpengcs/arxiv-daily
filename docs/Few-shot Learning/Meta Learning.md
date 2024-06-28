@@ -14,12 +14,12 @@
 |**2024-06-25**|**VR-based Blockchain-enabled Data Visualization Framework For Manufacturing Industry**|Nitol Saha et.al.|[2406.17207v1](http://arxiv.org/abs/2406.17207v1)|null|
 |**2024-06-24**|**GMT: Guided Mask Transformer for Leaf Instance Segmentation**|Feng Chen et.al.|[2406.17109v1](http://arxiv.org/abs/2406.17109v1)|null|
 |**2024-06-24**|**Meta-GCN: A Dynamically Weighted Loss Minimization Method for Dealing with the Data Imbalance in Graph Neural Networks**|Mahdi Mohammadizadeh et.al.|[2406.17073v1](http://arxiv.org/abs/2406.17073v1)|null|
-|**2024-06-24**|**Meta-learning and Data Augmentation for Stress Testing Forecasting Models**|Ricardo Inácio et.al.|[2406.17008v1](http://arxiv.org/abs/2406.17008v1)|null|
+|**2024-06-24**|**Meta-learning and Data Augmentation for Stress Testing Forecasting Models**|Ricardo Inácio et.al.|[2406.17008v1](http://arxiv.org/abs/2406.17008v1)|[link](https://github.com/ricardoinaciopt/mast)|
 |**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838v1](http://arxiv.org/abs/2406.16838v1)|null|
 |**2024-06-24**|**Meta-experiments: Improving experimentation through experimentation**|Melanie J. I. Müller et.al.|[2406.16629v1](http://arxiv.org/abs/2406.16629v1)|null|
 |**2024-06-24**|**Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach**|Chuang Zhao et.al.|[2406.16494v1](http://arxiv.org/abs/2406.16494v1)|[link](https://github.com/data-designer/maprec)|
 |**2024-06-24**|**Influence analyses of "designs" for evaluating inconsistency in network meta-analysis**|Kotaro Sasaki et.al.|[2406.16485v1](http://arxiv.org/abs/2406.16485v1)|null|
-|**2024-06-24**|**Automated Privacy-Preserving Techniques via Meta-Learning**|Tânia Carvalho et.al.|[2406.16456v1](http://arxiv.org/abs/2406.16456v1)|null|
+|**2024-06-24**|**Automated Privacy-Preserving Techniques via Meta-Learning**|Tânia Carvalho et.al.|[2406.16456v1](http://arxiv.org/abs/2406.16456v1)|[link](https://github.com/tmcarvalho/AUTOPRIV)|
 |**2024-06-24**|**Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting**|Tiange Zhang et.al.|[2406.16422v1](http://arxiv.org/abs/2406.16422v1)|[link](https://github.com/tinkez/fap_cdfsc)|
 |**2024-06-23**|**F-FOMAML: GNN-Enhanced Meta-Learning for Peak Period Demand Forecasting with Proxy Data**|Zexing Xu et.al.|[2406.16221v1](http://arxiv.org/abs/2406.16221v1)|null|
 |**2024-06-23**|**A Python Benchmark Functions Framework for Numerical Optimisation Problems**|Luca Baronti et.al.|[2406.16195v1](http://arxiv.org/abs/2406.16195v1)|null|
