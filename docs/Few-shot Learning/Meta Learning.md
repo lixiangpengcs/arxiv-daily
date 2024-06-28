@@ -2,6 +2,10 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-27**|**The Emergence of Threads: The Birth of a New Social Network**|Peixian Zhang et.al.|[2406.19277v1](http://arxiv.org/abs/2406.19277v1)|null|
+|**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046v1](http://arxiv.org/abs/2406.19046v1)|null|
+|**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
+|**2024-06-26**|**Competitive Algorithms for Online Knapsack with Succinct Predictions**|Mohammadreza Daneshvaramoli et.al.|[2406.18752v1](http://arxiv.org/abs/2406.18752v1)|null|
 |**2024-06-26**|**Parameterizing the quantification of CMSO: model checking on minor-closed graph classes**|Ignasi Sau et.al.|[2406.18465v1](http://arxiv.org/abs/2406.18465v1)|null|
 |**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197v1](http://arxiv.org/abs/2406.18197v1)|null|
 |**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037v1](http://arxiv.org/abs/2406.18037v1)|null|
@@ -28,7 +32,3 @@
 |**2024-06-23**|**Meta-FL: A Novel Meta-Learning Framework for Optimizing Heterogeneous Model Aggregation in Federated Learning**|Zahir Alsulaimawi et.al.|[2406.16035v1](http://arxiv.org/abs/2406.16035v1)|null|
 |**2024-06-22**|**Clustering and Meta-Analysis Using a Mixture of Dependent Linear Tail-Free Priors**|Bernardo Flores et.al.|[2406.15912v1](http://arxiv.org/abs/2406.15912v1)|null|
 |**2024-06-22**|**Data Issues in Industrial AI System: A Meta-Review and Research Strategy**|Xuejiao Li et.al.|[2406.15784v1](http://arxiv.org/abs/2406.15784v1)|null|
-|**2024-06-22**|**MetaGreen: Meta-Learning Inspired Transformer Selection for Green Semantic Communication**|Shubhabrata Mukherjee et.al.|[2406.16962v1](http://arxiv.org/abs/2406.16962v1)|[link](https://github.com/shubha07m/MetaGreen-Meta-Learning-Inspired-Transformer-Selection)|
-|**2024-06-21**|**On the Multicategorical Meta-Theorem and the Completeness of Restricted Algebraic Deduction Systems**|David Forsman et.al.|[2406.15584v1](http://arxiv.org/abs/2406.15584v1)|null|
-|**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320v1](http://arxiv.org/abs/2406.15320v1)|[link](https://github.com/xwmaxwma/rschange)|
-|**2024-06-21**|**A Provably Efficient Option-Based Algorithm for both High-Level and Low-Level Learning**|Gianluca Drappo et.al.|[2406.15124v1](http://arxiv.org/abs/2406.15124v1)|null|
