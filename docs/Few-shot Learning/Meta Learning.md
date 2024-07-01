@@ -2,6 +2,10 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**GM-DF: Generalized Multi-Scenario Deepfake Detection**|Yingxin Lai et.al.|[2406.20078v1](http://arxiv.org/abs/2406.20078v1)|[link](https://github.com/laiyingxin2/gm-df)|
+|**2024-06-28**|**Pairwise Difference Learning for Classification**|Mohamed Karim Belaid et.al.|[2406.20031v1](http://arxiv.org/abs/2406.20031v1)|[link](https://github.com/karim-53/pdll)|
+|**2024-06-27**|**Meta-Gradient Search Control: A Method for Improving the Efficiency of Dyna-style Planning**|Bradley Burega et.al.|[2406.19561v1](http://arxiv.org/abs/2406.19561v1)|null|
+|**2024-06-27**|**Almost Orthogonal Arrays: Theory and Search Three Ways**|Luis Martínez et.al.|[2406.19516v1](http://arxiv.org/abs/2406.19516v1)|null|
 |**2024-06-27**|**The Emergence of Threads: The Birth of a New Social Network**|Peixian Zhang et.al.|[2406.19277v1](http://arxiv.org/abs/2406.19277v1)|null|
 |**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046v1](http://arxiv.org/abs/2406.19046v1)|null|
 |**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
@@ -28,7 +32,3 @@
 |**2024-06-23**|**F-FOMAML: GNN-Enhanced Meta-Learning for Peak Period Demand Forecasting with Proxy Data**|Zexing Xu et.al.|[2406.16221v1](http://arxiv.org/abs/2406.16221v1)|null|
 |**2024-06-23**|**A Python Benchmark Functions Framework for Numerical Optimisation Problems**|Luca Baronti et.al.|[2406.16195v1](http://arxiv.org/abs/2406.16195v1)|[link](https://gitlab.com/luca.baronti/python_benchmark_functions)|
 |**2024-06-23**|**MetaFollower: Adaptable Personalized Autonomous Car Following**|Xianda Chen et.al.|[2406.16978v1](http://arxiv.org/abs/2406.16978v1)|null|
-|**2024-06-23**|**Combine and Conquer: A Meta-Analysis on Data Shift and Out-of-Distribution Detection**|Eduardo Dadalto et.al.|[2406.16045v1](http://arxiv.org/abs/2406.16045v1)|[link](https://github.com/edadaltocg/detectors)|
-|**2024-06-23**|**Meta-FL: A Novel Meta-Learning Framework for Optimizing Heterogeneous Model Aggregation in Federated Learning**|Zahir Alsulaimawi et.al.|[2406.16035v1](http://arxiv.org/abs/2406.16035v1)|null|
-|**2024-06-22**|**Clustering and Meta-Analysis Using a Mixture of Dependent Linear Tail-Free Priors**|Bernardo Flores et.al.|[2406.15912v1](http://arxiv.org/abs/2406.15912v1)|null|
-|**2024-06-22**|**Data Issues in Industrial AI System: A Meta-Review and Research Strategy**|Xuejiao Li et.al.|[2406.15784v1](http://arxiv.org/abs/2406.15784v1)|null|

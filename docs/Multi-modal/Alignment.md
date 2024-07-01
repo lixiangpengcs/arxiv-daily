@@ -2,6 +2,18 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098v1](http://arxiv.org/abs/2406.20098v1)|[link](https://github.com/mbzuai-llm/web2code)|
+|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092v1](http://arxiv.org/abs/2406.20092v1)|[link](https://github.com/beckschen/llavolta)|
+|**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085v1](http://arxiv.org/abs/2406.20085v1)|null|
+|**2024-06-28**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024v1](http://arxiv.org/abs/2406.20024v1)|null|
+|**2024-06-28**|**MDF: A Dynamic Fusion Model for Multi-modal Fake News Detection**|Hongzhen Lv et.al.|[2406.19776v1](http://arxiv.org/abs/2406.19776v1)|null|
+|**2024-06-28**|**Voluminous Fur Stroking Experience through Interactive Visuo-Haptic Model in Virtual Reality**|Juro Hosoi et.al.|[2406.19746v1](http://arxiv.org/abs/2406.19746v1)|null|
+|**2024-06-28**|**ProtSolM: Protein Solubility Prediction with Multi-modal Features**|Yang Tan et.al.|[2406.19744v1](http://arxiv.org/abs/2406.19744v1)|null|
+|**2024-06-28**|**DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems**|Kexiong Yu et.al.|[2406.19705v1](http://arxiv.org/abs/2406.19705v1)|null|
+|**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675v1](http://arxiv.org/abs/2406.19675v1)|null|
+|**2024-06-28**|**ACES: Automatic Cohort Extraction System for Event-Stream Datasets**|Justin Xu et.al.|[2406.19653v1](http://arxiv.org/abs/2406.19653v1)|[link](https://github.com/justin13601/aces)|
+|**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611v1](http://arxiv.org/abs/2406.19611v1)|null|
+|**2024-06-27**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546v1](http://arxiv.org/abs/2406.19546v1)|null|
 |**2024-06-27**|**Taming Data and Transformers for Audio Generation**|Moayed Haji-Ali et.al.|[2406.19388v1](http://arxiv.org/abs/2406.19388v1)|null|
 |**2024-06-27**|**PUREPath: A Deep Latent Variational Model for Estimating CMB Posterior over Large Angular Scales of the Sky**|Vipin Sudevan et.al.|[2406.19367v2](http://arxiv.org/abs/2406.19367v2)|null|
 |**2024-06-27**|**SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues**|Yuxin Xie et.al.|[2406.19364v2](http://arxiv.org/abs/2406.19364v2)|null|
@@ -20,15 +32,3 @@
 |**2024-06-27**|**MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion**|Jing Zou et.al.|[2406.18950v1](http://arxiv.org/abs/2406.18950v1)|null|
 |**2024-06-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al.|[2406.18941v1](http://arxiv.org/abs/2406.18941v1)|null|
 |**2024-06-27**|**Viscous Instabilities in Transversely Strained Channel Flows**|Muhammad Abdullah et.al.|[2406.18891v1](http://arxiv.org/abs/2406.18891v1)|null|
-|**2024-06-27**|**A Wireless, Multicolor Fluorescence Image Sensor Implant for Real-Time Monitoring in Cancer Therapy**|Micah Roschelle et.al.|[2406.18881v1](http://arxiv.org/abs/2406.18881v1)|null|
-|**2024-06-27**|**DeSTA: Enhancing Speech Language Models through Descriptive Speech-Text Alignment**|Ke-Han Lu et.al.|[2406.18871v1](http://arxiv.org/abs/2406.18871v1)|null|
-|**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
-|**2024-06-27**|**Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition**|Lan Chen et.al.|[2406.18845v1](http://arxiv.org/abs/2406.18845v1)|[link](https://github.com/event-ahu/efv_event_classification)|
-|**2024-06-27**|**Disentangling Knowledge-based and Visual Reasoning by Question Decomposition in KB-VQA**|Elham J. Barezi et.al.|[2406.18839v1](http://arxiv.org/abs/2406.18839v1)|null|
-|**2024-06-27**|**Non-modal growth analysis of high-speed flows over an inclined cone**|Xi Chen et.al.|[2406.18803v1](http://arxiv.org/abs/2406.18803v1)|null|
-|**2024-06-26**|**An open-source Autonomous Surface Vehicle for Acoustic Tracking, Bathymetric and Photogrammetric Surveys**|Pierre Gogendeau et.al.|[2406.18760v1](http://arxiv.org/abs/2406.18760v1)|null|
-|**2024-06-26**|**A universal reconstruction method for X ray scattering tensor tomography based on wavefront modulation**|Ginevra Lautizi et.al.|[2406.18680v1](http://arxiv.org/abs/2406.18680v1)|null|
-|**2024-06-26**|**MatchTime: Towards Automatic Soccer Game Commentary Generation**|Jiayuan Rao et.al.|[2406.18530v1](http://arxiv.org/abs/2406.18530v1)|null|
-|**2024-06-26**|**Feferman Interpretability**|Joost J. Joosten et.al.|[2406.18506v1](http://arxiv.org/abs/2406.18506v1)|null|
-|**2024-06-26**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361v2](http://arxiv.org/abs/2406.18361v2)|[link](https://github.com/lin-tianyu/stable-diffusion-seg)|
-|**2024-06-26**|**Multi-modal Evidential Fusion Network for Trusted PET/CT Tumor Segmentation**|Yuxuan Qi et.al.|[2406.18327v1](http://arxiv.org/abs/2406.18327v1)|null|
