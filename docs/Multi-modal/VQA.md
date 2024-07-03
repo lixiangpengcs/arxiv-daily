@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092v1](http://arxiv.org/abs/2406.20092v1)|[link](https://github.com/beckschen/llavolta)|
-|**2024-06-28**|**Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs**|Sheridan Feucht et.al.|[2406.20086v1](http://arxiv.org/abs/2406.20086v1)|null|
-|**2024-06-28**|**Reionization Parameter Inference from 3D Minkowski Functionals of the 21 cm Signals**|Kangning Diao et.al.|[2406.20058v1](http://arxiv.org/abs/2406.20058v1)|null|
-|**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053v1](http://arxiv.org/abs/2406.20053v1)|null|
-|**2024-06-28**|**Electrostatics-based particle sampling and approximate inference**|Yongchao Huang et.al.|[2406.20044v1](http://arxiv.org/abs/2406.20044v1)|[link](https://github.com/yongchaohuang/eparvi)|
-|**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030v1](http://arxiv.org/abs/2406.20030v1)|null|
-|**2024-06-28**|**Perfect cheating is impossible for single-qubit position verification**|Carl A. Miller et.al.|[2406.20022v1](http://arxiv.org/abs/2406.20022v1)|null|
-|**2024-06-28**|**The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models**|Xinyi Chen et.al.|[2406.19999v1](http://arxiv.org/abs/2406.19999v1)|null|
-|**2024-06-28**|**Polarization and Gorenstein liaison**|Sara Faridi et.al.|[2406.19985v1](http://arxiv.org/abs/2406.19985v1)|null|
-|**2024-06-28**|**Graded differential groups, Cartan-Eilenberg systems and conjectures in Conley index theory**|Kelly Spendlove et.al.|[2406.19977v1](http://arxiv.org/abs/2406.19977v1)|null|
-|**2024-06-28**|**Generalizing self-normalized importance sampling with couplings**|Nicola Branchini et.al.|[2406.19974v1](http://arxiv.org/abs/2406.19974v1)|null|
-|**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973v1](http://arxiv.org/abs/2406.19973v1)|null|
-|**2024-06-28**|**The Computational Curse of Big Data for Bayesian Additive Regression Trees: A Hitting Time Analysis**|Yan Shuo Tan et.al.|[2406.19958v1](http://arxiv.org/abs/2406.19958v1)|null|
-|**2024-06-28**|**BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5**|Zhehuai Chen et.al.|[2406.19954v1](http://arxiv.org/abs/2406.19954v1)|null|
-|**2024-06-28**|**Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring**|Jiazheng Li et.al.|[2406.19949v1](http://arxiv.org/abs/2406.19949v1)|null|
-|**2024-06-28**|**Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**|Andjela Dimitrijevic et.al.|[2406.19943v1](http://arxiv.org/abs/2406.19943v1)|[link](https://github.com/neuropoly/pediatric-dl-registration)|
-|**2024-06-28**|**Deep Learning of Multivariate Extremes via a Geometric Representation**|Callum J. R. Murphy-Barltrop et.al.|[2406.19936v1](http://arxiv.org/abs/2406.19936v1)|null|
-|**2024-06-28**|**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**|Chuanqi Cheng et.al.|[2406.19934v1](http://arxiv.org/abs/2406.19934v1)|null|
-|**2024-06-28**|**On the vanishing of eigenfunctions of the Laplacian on tori**|Pierre Germain et.al.|[2406.19925v1](http://arxiv.org/abs/2406.19925v1)|null|
-|**2024-06-28**|**Yet another best approximation isotropic elasticity tensor in plane strain**|Jendrik Voss et.al.|[2406.19914v1](http://arxiv.org/abs/2406.19914v1)|null|
-|**2024-06-28**|**Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**|Fabian Kreß et.al.|[2406.19913v1](http://arxiv.org/abs/2406.19913v1)|null|
-|**2024-06-28**|**Solving Token Gradient Conflict in Mixture-of-Experts for Large Vision-Language Model**|Longrong Yang et.al.|[2406.19905v1](http://arxiv.org/abs/2406.19905v1)|[link](https://github.com/longrongyang/stgc)|
-|**2024-06-28**|**Joint estimation of insurance loss development factors using Bayesian hidden Markov models**|Conor Goold et.al.|[2406.19903v1](http://arxiv.org/abs/2406.19903v1)|null|
-|**2024-06-28**|**`Just One More Sensor is Enough' -- Iterative Water Leak Localization with Physical Simulation and a Small Number of Pressure Sensors**|Michał Cholewa et.al.|[2406.19900v1](http://arxiv.org/abs/2406.19900v1)|null|
-|**2024-06-28**|**FI-CBL: A Probabilistic Method for Concept-Based Learning with Expert Rules**|Lev V. Utkin et.al.|[2406.19897v1](http://arxiv.org/abs/2406.19897v1)|null|
-|**2024-06-28**|**Confidence intervals for tree-structured varying coefficients**|Nikolai Spuck et.al.|[2406.19887v1](http://arxiv.org/abs/2406.19887v1)|null|
-|**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875v1](http://arxiv.org/abs/2406.19875v1)|null|
-|**2024-06-28**|**Dehn functions of subgroups of products of free groups: 3-factor case, $F_{n-1}$ case, and Bridson-Dison group**|Dario Ascari et.al.|[2406.19860v1](http://arxiv.org/abs/2406.19860v1)|null|
-|**2024-06-28**|**LightStereo: Channel Boost Is All Your Need for Efficient 2D Cost Aggregation**|Xianda Guo et.al.|[2406.19833v1](http://arxiv.org/abs/2406.19833v1)|[link](https://github.com/xiandaguo/openstereo)|
-|**2024-06-28**|**MuGSI: Distilling GNNs with Multi-Granularity Structural Information for Graph Classification**|Tianjun Yao et.al.|[2406.19832v1](http://arxiv.org/abs/2406.19832v1)|[link](https://github.com/tianyao-aka/mugsi)|
+|**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490v1](http://arxiv.org/abs/2407.02490v1)|[link](https://github.com/microsoft/MInference)|
+|**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486v1](http://arxiv.org/abs/2407.02486v1)|[link](https://github.com/alisafaya/neurocache)|
+|**2024-07-02**|**Characterizing the Interpretability of Attention Maps in Digital Pathology**|Tomé Albuquerque et.al.|[2407.02484v1](http://arxiv.org/abs/2407.02484v1)|null|
+|**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482v1](http://arxiv.org/abs/2407.02482v1)|null|
+|**2024-07-02**|**Scalable Multi-Output Gaussian Processes with Stochastic Variational Inference**|Xiaoyu Jiang et.al.|[2407.02476v1](http://arxiv.org/abs/2407.02476v1)|null|
+|**2024-07-02**|**Free Energy in a Circumplex Model of Emotion**|Candice Pattisapu et.al.|[2407.02474v1](http://arxiv.org/abs/2407.02474v1)|null|
+|**2024-07-02**|**Belief sharing: a blessing or a curse**|Ozan Catal et.al.|[2407.02465v1](http://arxiv.org/abs/2407.02465v1)|null|
+|**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464v1](http://arxiv.org/abs/2407.02464v1)|null|
+|**2024-07-02**|**Message-Relevant Dimension Reduction of Neural Populations**|Amanda Merkley et.al.|[2407.02450v1](http://arxiv.org/abs/2407.02450v1)|null|
+|**2024-07-02**|**A multi-field decomposed model order reduction approach for thermo-mechanically coupled gradient-extended damage simulations**|Qinghua Zhang et.al.|[2407.02435v1](http://arxiv.org/abs/2407.02435v1)|null|
+|**2024-07-02**|**Tiny-PULP-Dronets: Squeezing Neural Networks for Faster and Lighter Inference on Multi-Tasking Autonomous Nano-Drones**|Lorenzo Lamberti et.al.|[2407.02405v1](http://arxiv.org/abs/2407.02405v1)|null|
+|**2024-07-02**|**Growth tightness and genericity for word metrics from injective spaces**|Dídac Martínez-Granado et.al.|[2407.02378v1](http://arxiv.org/abs/2407.02378v1)|null|
+|**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
+|**2024-07-02**|**Revisiting Cascaded Ensembles for Efficient Inference**|Steven Kolawole et.al.|[2407.02348v1](http://arxiv.org/abs/2407.02348v1)|null|
+|**2024-07-02**|**Performance Analysis and Comparison of Full-Fledged 5G Standalone Experimental TDD Testbeds in Single & Multi-UE Scenarios**|Maryam Amini et.al.|[2407.02341v1](http://arxiv.org/abs/2407.02341v1)|null|
+|**2024-07-02**|**QSync: Quantization-Minimized Synchronous Distributed Training Across Hybrid Devices**|Juntao Zhao et.al.|[2407.02327v1](http://arxiv.org/abs/2407.02327v1)|null|
+|**2024-07-02**|**Light clusters in hot nuclear matter: calibrating the interaction with heavy-ion collisions**|Tiago Custódio et.al.|[2407.02307v1](http://arxiv.org/abs/2407.02307v1)|null|
+|**2024-07-02**|**Information Flow Control in Cyclic Process Networks**|Bas van den Heuvel et.al.|[2407.02304v1](http://arxiv.org/abs/2407.02304v1)|null|
+|**2024-07-02**|**CFinBench: A Comprehensive Chinese Financial Benchmark for Large Language Models**|Ying Nie et.al.|[2407.02301v1](http://arxiv.org/abs/2407.02301v1)|null|
+|**2024-07-02**|**Serrin's overdetermined problem in rough domains**|Alessio Figalli et.al.|[2407.02293v1](http://arxiv.org/abs/2407.02293v1)|null|
+|**2024-07-02**|**A systematic comparison of measures for k-anonymity in networks**|Rachel G. de Jong et.al.|[2407.02290v1](http://arxiv.org/abs/2407.02290v1)|null|
+|**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285v1](http://arxiv.org/abs/2407.02285v1)|null|
+|**2024-07-02**|**How to Boost Any Loss Function**|Richard Nock et.al.|[2407.02279v1](http://arxiv.org/abs/2407.02279v1)|null|
+|**2024-07-02**|**IFTT-PIN: A Self-Calibrating PIN-Entry Method**|Kathryn McConkey et.al.|[2407.02269v1](http://arxiv.org/abs/2407.02269v1)|null|
+|**2024-07-02**|**Measure and continuous vector field at a boundary II: geodesics and support propagation**|Nicolas Burq et.al.|[2407.02259v1](http://arxiv.org/abs/2407.02259v1)|null|
+|**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243v1](http://arxiv.org/abs/2407.02243v1)|null|
+|**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233v1](http://arxiv.org/abs/2407.02233v1)|null|
+|**2024-07-02**|**Exploiting Spatial Diversity in Earth-to-Satellite Quantum-Classical Communications**|Ziqing Wang et.al.|[2407.02224v1](http://arxiv.org/abs/2407.02224v1)|null|
+|**2024-07-02**|**A Bayesian Neural ODE for a Lettuce Greenhouse**|Sjoerd Boersma et.al.|[2407.02223v1](http://arxiv.org/abs/2407.02223v1)|null|
+|**2024-07-02**|**Embodied AI in Mobile Robots: Coverage Path Planning with Large Language Models**|Xiangrui Kong et.al.|[2407.02220v1](http://arxiv.org/abs/2407.02220v1)|null|
