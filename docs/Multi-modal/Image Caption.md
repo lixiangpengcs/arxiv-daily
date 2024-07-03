@@ -18,7 +18,7 @@
 |**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987v1](http://arxiv.org/abs/2406.19987v1)|null|
 |**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973v1](http://arxiv.org/abs/2406.19973v1)|null|
 |**2024-06-28**|**Impact of Initialization on Intra-subject Pediatric Brain MR Image Registration: A Comparative Analysis between SyN ANTs and Deep Learning-Based Approaches**|Andjela Dimitrijevic et.al.|[2406.19943v1](http://arxiv.org/abs/2406.19943v1)|[link](https://github.com/neuropoly/pediatric-dl-registration)|
-|**2024-06-28**|**Low temperature proton irradiation with DEPFETs for Athena's Wide Field Imager**|Valentin Emberger et.al.|[2406.19942v1](http://arxiv.org/abs/2406.19942v1)|null|
+|**2024-06-28**|**Low temperature proton irradiation with DEPFETs for Athena's Wide Field Imager**|Valentin Emberger et.al.|[2406.19942v2](http://arxiv.org/abs/2406.19942v2)|null|
 |**2024-06-28**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941v2](http://arxiv.org/abs/2406.19941v2)|[link](https://github.com/ming053l/grace)|
 |**2024-06-28**|**From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis**|Chuanqi Cheng et.al.|[2406.19934v1](http://arxiv.org/abs/2406.19934v1)|null|
 |**2024-06-28**|**Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping**|Tianli Liao et.al.|[2406.19922v1](http://arxiv.org/abs/2406.19922v1)|null|
