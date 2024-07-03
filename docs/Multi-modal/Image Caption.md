@@ -11,7 +11,7 @@
 |**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076v1](http://arxiv.org/abs/2406.20076v1)|null|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066v1](http://arxiv.org/abs/2406.20066v1)|null|
 |**2024-06-28**|**HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI**|Haykel Snoussi et.al.|[2406.20042v1](http://arxiv.org/abs/2406.20042v1)|null|
-|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v2](http://arxiv.org/abs/2406.20041v2)|null|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration**|Noel Crawford et.al.|[2406.20041v3](http://arxiv.org/abs/2406.20041v3)|null|
 |**2024-06-28**|**A fast-filament eruption observed in the H$α$ spectral line. I. Imaging spectroscopy diagnostic**|Denis P. Cabezas et.al.|[2406.20020v1](http://arxiv.org/abs/2406.20020v1)|null|
 |**2024-06-28**|**Malaria Cell Detection Using Deep Neural Networks**|Saurabh Sawant et.al.|[2406.20005v1](http://arxiv.org/abs/2406.20005v1)|null|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997v1](http://arxiv.org/abs/2406.19997v1)|null|
