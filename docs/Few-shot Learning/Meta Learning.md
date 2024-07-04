@@ -10,7 +10,7 @@
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150v1](http://arxiv.org/abs/2407.02150v1)|null|
 |**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903v1](http://arxiv.org/abs/2407.01903v1)|null|
 |**2024-07-02**|**Compare without Despair: Reliable Preference Evaluation with Generation Separability**|Sayan Ghosh et.al.|[2407.01878v1](http://arxiv.org/abs/2407.01878v1)|null|
-|**2024-07-01**|**Meta-Learning Based Optimization for Large Scale Wireless Systems**|Rafael Cerna Loli et.al.|[2407.01823v1](http://arxiv.org/abs/2407.01823v1)|null|
+|**2024-07-01**|**Meta-Learning Based Optimization for Large Scale Wireless Systems**|Rafael Cerna Loli et.al.|[2407.01823v2](http://arxiv.org/abs/2407.01823v2)|null|
 |**2024-07-01**|**A diagrammatic language for the Causaloid framework**|Nitica Sakharwade et.al.|[2407.01522v1](http://arxiv.org/abs/2407.01522v1)|null|
 |**2024-07-01**|**Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision**|Hao Dong et.al.|[2407.01518v1](http://arxiv.org/abs/2407.01518v1)|[link](https://github.com/donghao51/moosa)|
 |**2024-07-01**|**The reverse mathematics of the pigeonhole hierarchy**|Quentin Le Houérou et.al.|[2407.01236v1](http://arxiv.org/abs/2407.01236v1)|null|

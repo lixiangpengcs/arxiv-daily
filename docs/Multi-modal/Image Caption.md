@@ -29,6 +29,6 @@
 |**2024-07-02**|**Multiwavelength Study of on-disk Coronal Hole Jets with IRIS and SDO observations**|Koletti Myrto et.al.|[2407.02291v1](http://arxiv.org/abs/2407.02291v1)|null|
 |**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285v1](http://arxiv.org/abs/2407.02285v1)|null|
 |**2024-07-02**|**A Refreshed Similarity-based Upsampler for Direct High-Ratio Feature Upsampling**|Minghao Zhou et.al.|[2407.02283v1](http://arxiv.org/abs/2407.02283v1)|[link](https://github.com/zmhhmz/resfu)|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v1](http://arxiv.org/abs/2407.02280v1)|[link](https://github.com/hustxyy/fedia)|
+|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v2](http://arxiv.org/abs/2407.02280v2)|[link](https://github.com/hustxyy/fedia)|
 |**2024-07-02**|**DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics**|Tyler Ga Wei Lum et.al.|[2407.02274v1](http://arxiv.org/abs/2407.02274v1)|null|
 |**2024-07-02**|**Improving Explainability of Softmax Classifiers Using a Prototype-Based Joint Embedding Method**|Hilarie Sit et.al.|[2407.02271v1](http://arxiv.org/abs/2407.02271v1)|null|
