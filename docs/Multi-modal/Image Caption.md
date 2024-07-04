@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489v1](http://arxiv.org/abs/2407.02489v1)|null|
-|**2024-07-02**|**Characterizing the Interpretability of Attention Maps in Digital Pathology**|Tomé Albuquerque et.al.|[2407.02484v1](http://arxiv.org/abs/2407.02484v1)|null|
-|**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482v1](http://arxiv.org/abs/2407.02482v1)|null|
-|**2024-07-02**|**Unveiling Supersolid Order via Vortex Trajectory Correlations**|Subrata Das et.al.|[2407.02481v2](http://arxiv.org/abs/2407.02481v2)|null|
-|**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477v1](http://arxiv.org/abs/2407.02477v1)|null|
-|**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439v1](http://arxiv.org/abs/2407.02439v1)|null|
-|**2024-07-02**|**Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects**|Raphael Bensadoun et.al.|[2407.02430v1](http://arxiv.org/abs/2407.02430v1)|null|
-|**2024-07-02**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422v1](http://arxiv.org/abs/2407.02422v1)|null|
-|**2024-07-02**|**AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**|Gabriele Lozupone et.al.|[2407.02418v1](http://arxiv.org/abs/2407.02418v1)|[link](https://github.com/GabrieleLozupone/AXIAL)|
-|**2024-07-02**|**Tiny-PULP-Dronets: Squeezing Neural Networks for Faster and Lighter Inference on Multi-Tasking Autonomous Nano-Drones**|Lorenzo Lamberti et.al.|[2407.02405v1](http://arxiv.org/abs/2407.02405v1)|null|
-|**2024-07-02**|**Face Reconstruction Transfer Attack as Out-of-Distribution Generalization**|Yoon Gyo Jung et.al.|[2407.02403v1](http://arxiv.org/abs/2407.02403v1)|null|
-|**2024-07-02**|**TokenPacker: Efficient Visual Projector for Multimodal LLM**|Wentong Li et.al.|[2407.02392v1](http://arxiv.org/abs/2407.02392v1)|[link](https://github.com/circleradon/tokenpacker)|
-|**2024-07-02**|**SafaRi:Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation**|Sayan Nag et.al.|[2407.02389v1](http://arxiv.org/abs/2407.02389v1)|null|
-|**2024-07-02**|**Real HSI-MSI-PAN image dataset for the hyperspectral/multi-spectral/panchromatic image fusion and super-resolution fields**|Shuangliang Li et.al.|[2407.02387v1](http://arxiv.org/abs/2407.02387v1)|[link](https://github.com/rs-lsl/cssnet)|
-|**2024-07-02**|**OpenSlot: Mixed Open-set Recognition with Object-centric Learning**|Xu Yin et.al.|[2407.02386v1](http://arxiv.org/abs/2407.02386v1)|null|
-|**2024-07-02**|**OpenVid-1M: A Large-Scale High-Quality Dataset for Text-to-video Generation**|Kepan Nan et.al.|[2407.02371v1](http://arxiv.org/abs/2407.02371v1)|null|
-|**2024-07-02**|**Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging**|Zhipeng Deng et.al.|[2407.02356v1](http://arxiv.org/abs/2407.02356v1)|[link](https://github.com/dzp2095/fcu)|
-|**2024-07-02**|**Conceptual Codebook Learning for Vision-Language Models**|Yi Zhang et.al.|[2407.02350v1](http://arxiv.org/abs/2407.02350v1)|null|
-|**2024-07-02**|**A detailed study of the very-high-energy Crab pulsar emission with the LST-1**|CTA-LST Project et.al.|[2407.02343v1](http://arxiv.org/abs/2407.02343v1)|null|
-|**2024-07-02**|**CALICO: Confident Active Learning with Integrated Calibration**|Lorenzo S. Querol et.al.|[2407.02335v1](http://arxiv.org/abs/2407.02335v1)|null|
-|**2024-07-02**|**Why do LLaVA Vision-Language Models Reply to Images in English?**|Musashi Hinck et.al.|[2407.02333v1](http://arxiv.org/abs/2407.02333v1)|null|
-|**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329v1](http://arxiv.org/abs/2407.02329v1)|null|
-|**2024-07-02**|**Implementation of reflection matrix microscopy: An algorithm perspective**|Sungsam Kang et.al.|[2407.02321v1](http://arxiv.org/abs/2407.02321v1)|null|
-|**2024-07-02**|**Strategic Demand-Planning in Wireless Networks: Can Generative-AI Save Spectrum and Energy?**|Berk Çiloğlu et.al.|[2407.02292v1](http://arxiv.org/abs/2407.02292v1)|null|
-|**2024-07-02**|**Multiwavelength Study of on-disk Coronal Hole Jets with IRIS and SDO observations**|Koletti Myrto et.al.|[2407.02291v1](http://arxiv.org/abs/2407.02291v1)|null|
-|**2024-07-02**|**Off-Grid Ultrasound Imaging by Stochastic Optimization**|Vincent van de Schaft et.al.|[2407.02285v1](http://arxiv.org/abs/2407.02285v1)|null|
-|**2024-07-02**|**A Refreshed Similarity-based Upsampler for Direct High-Ratio Feature Upsampling**|Minghao Zhou et.al.|[2407.02283v1](http://arxiv.org/abs/2407.02283v1)|[link](https://github.com/zmhhmz/resfu)|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280v2](http://arxiv.org/abs/2407.02280v2)|[link](https://github.com/hustxyy/fedia)|
-|**2024-07-02**|**DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics**|Tyler Ga Wei Lum et.al.|[2407.02274v1](http://arxiv.org/abs/2407.02274v1)|null|
-|**2024-07-02**|**Improving Explainability of Softmax Classifiers Using a Prototype-Based Joint Embedding Method**|Hilarie Sit et.al.|[2407.02271v1](http://arxiv.org/abs/2407.02271v1)|null|
+|**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320v1](http://arxiv.org/abs/2407.03320v1)|[link](https://github.com/internlm/internlm-xcomposer)|
+|**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314v1](http://arxiv.org/abs/2407.03314v1)|null|
+|**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308v1](http://arxiv.org/abs/2407.03308v1)|null|
+|**2024-07-03**|**HoloHisto: End-to-end Gigapixel WSI Segmentation with 4K Resolution Sequential Tokenization**|Yucheng Tang et.al.|[2407.03307v1](http://arxiv.org/abs/2407.03307v1)|null|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300v1](http://arxiv.org/abs/2407.03300v1)|null|
+|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292v1](http://arxiv.org/abs/2407.03292v1)|null|
+|**2024-07-03**|**Direct evidence of hybrid nature of EUV waves and the reflection of the fast-mode wave**|Ramesh Chandra et.al.|[2407.03281v1](http://arxiv.org/abs/2407.03281v1)|null|
+|**2024-07-03**|**For a semiotic AI: Bridging computer vision and visual semiotics for computational observation of large scale facial image archives**|Lia Morra et.al.|[2407.03268v1](http://arxiv.org/abs/2407.03268v1)|null|
+|**2024-07-03**|**Cyclic Refiner: Object-Aware Temporal Representation Learning for Multi-View 3D Detection and Tracking**|Mingzhe Guo et.al.|[2407.03240v1](http://arxiv.org/abs/2407.03240v1)|null|
+|**2024-07-03**|**Solving the inverse problem of microscopy deconvolution with a residual Beylkin-Coifman-Rokhlin neural network**|Rui Li et.al.|[2407.03239v1](http://arxiv.org/abs/2407.03239v1)|null|
+|**2024-07-03**|**Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers**|Sanket Gandhi et.al.|[2407.03216v1](http://arxiv.org/abs/2407.03216v1)|null|
+|**2024-07-03**|**Category-Aware Dynamic Label Assignment with High-Quality Oriented Proposal**|Mingkui Feng et.al.|[2407.03205v1](http://arxiv.org/abs/2407.03205v1)|null|
+|**2024-07-03**|**SegVG: Transferring Object Bounding Box to Segmentation for Visual Grounding**|Weitai Kang et.al.|[2407.03200v1](http://arxiv.org/abs/2407.03200v1)|[link](https://github.com/weitaikang/segvg)|
+|**2024-07-03**|**Relating CNN-Transformer Fusion Network for Change Detection**|Yuhao Gao et.al.|[2407.03178v1](http://arxiv.org/abs/2407.03178v1)|null|
+|**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172v1](http://arxiv.org/abs/2407.03172v1)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168v1](http://arxiv.org/abs/2407.03168v1)|[link](https://github.com/KwaiVGI/LivePortrait)|
+|**2024-07-03**|**Global Context Modeling in YOLOv8 for Pediatric Wrist Fracture Detection**|Rui-Yang Ju et.al.|[2407.03163v1](http://arxiv.org/abs/2407.03163v1)|[link](https://github.com/ruiyangju/yolov8_global_context_fracture_detection)|
+|**2024-07-03**|**Machine Learning Models for Improved Tracking from Range-Doppler Map Images**|Elizabeth Hou et.al.|[2407.03140v1](http://arxiv.org/abs/2407.03140v1)|null|
+|**2024-07-03**|**Refined Counting of Geodesic Segments in the Hyperbolic Plane**|Marios Voskou et.al.|[2407.03134v1](http://arxiv.org/abs/2407.03134v1)|null|
+|**2024-07-03**|**MVGT: A Multi-view Graph Transformer Based on Spatial Relations for EEG Emotion Recognition**|Yanjie Cui et.al.|[2407.03131v1](http://arxiv.org/abs/2407.03131v1)|null|
+|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v1](http://arxiv.org/abs/2407.03130v1)|null|
+|**2024-07-03**|**Towards High Resolution Real-Time Optical Flow Particle Image Velocimetry**|Juan Pimienta et.al.|[2407.03057v1](http://arxiv.org/abs/2407.03057v1)|null|
+|**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050v1](http://arxiv.org/abs/2407.03050v1)|null|
+|**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043v1](http://arxiv.org/abs/2407.03043v1)|null|
+|**2024-07-03**|**Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging**|Siying Xu et.al.|[2407.03034v1](http://arxiv.org/abs/2407.03034v1)|null|
+|**2024-07-03**|**ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation**|Chang Li et.al.|[2407.03033v1](http://arxiv.org/abs/2407.03033v1)|null|
+|**2024-07-03**|**An Organism Starts with a Single Pix-Cell: A Neural Cellular Diffusion for High-Resolution Image Synthesis**|Marawan Elbatel et.al.|[2407.03018v1](http://arxiv.org/abs/2407.03018v1)|null|
+|**2024-07-03**|**The Convex Peano Curve Does Exist**|Adam Paszkiewicz et.al.|[2407.03016v1](http://arxiv.org/abs/2407.03016v1)|null|
+|**2024-07-03**|**Model Guidance via Explanations Turns Image Classifiers into Segmentation Models**|Xiaoyan Yu et.al.|[2407.03009v1](http://arxiv.org/abs/2407.03009v1)|null|
+|**2024-07-03**|**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation**|Xiang Gao et.al.|[2407.03006v1](http://arxiv.org/abs/2407.03006v1)|[link](https://github.com/xianggao1102/fcdiffusion)|

@@ -2,6 +2,12 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-03**|**Artificial Inductive Bias for Synthetic Tabular Data Generation in Data-Scarce Scenarios**|Patricia A. Apellániz et.al.|[2407.03080v1](http://arxiv.org/abs/2407.03080v1)|null|
+|**2024-07-03**|**Frequency-selective terahertz wave amplification by a time-boundary-engineered Huygens metasurface**|Fu Deng et.al.|[2407.03069v1](http://arxiv.org/abs/2407.03069v1)|null|
+|**2024-07-03**|**The More the Merrier? Navigating Accuracy vs. Energy Efficiency Design Trade-Offs in Ensemble Learning Systems**|Rafiullah Omar et.al.|[2407.02914v1](http://arxiv.org/abs/2407.02914v1)|null|
+|**2024-07-02**|**Pushing the Boundary: Specialising Deep Configuration Performance Learning**|Jingzhi Gong et.al.|[2407.02706v1](http://arxiv.org/abs/2407.02706v1)|null|
+|**2024-07-02**|**The text2term tool to map free-text descriptions of biomedical terms to ontologies**|Rafael S. Gonçalves et.al.|[2407.02626v1](http://arxiv.org/abs/2407.02626v1)|null|
+|**2024-07-02**|**Meta 3D Gen**|Raphael Bensadoun et.al.|[2407.02599v1](http://arxiv.org/abs/2407.02599v1)|null|
 |**2024-07-02**|**Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials**|Yawar Siddiqui et.al.|[2407.02445v1](http://arxiv.org/abs/2407.02445v1)|null|
 |**2024-07-02**|**Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects**|Raphael Bensadoun et.al.|[2407.02430v1](http://arxiv.org/abs/2407.02430v1)|null|
 |**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273v1](http://arxiv.org/abs/2407.02273v1)|null|
@@ -21,14 +27,8 @@
 |**2024-06-28**|**GM-DF: Generalized Multi-Scenario Deepfake Detection**|Yingxin Lai et.al.|[2406.20078v1](http://arxiv.org/abs/2406.20078v1)|[link](https://github.com/laiyingxin2/gm-df)|
 |**2024-06-28**|**Pairwise Difference Learning for Classification**|Mohamed Karim Belaid et.al.|[2406.20031v1](http://arxiv.org/abs/2406.20031v1)|[link](https://github.com/karim-53/pdll)|
 |**2024-06-27**|**Meta-Gradient Search Control: A Method for Improving the Efficiency of Dyna-style Planning**|Bradley Burega et.al.|[2406.19561v1](http://arxiv.org/abs/2406.19561v1)|null|
+|**2024-06-27**|**Meta Large Language Model Compiler: Foundation Models of Compiler Optimization**|Chris Cummins et.al.|[2407.02524v1](http://arxiv.org/abs/2407.02524v1)|null|
 |**2024-06-27**|**Almost Orthogonal Arrays: Theory and Search Three Ways**|Luis Martínez et.al.|[2406.19516v1](http://arxiv.org/abs/2406.19516v1)|null|
 |**2024-06-27**|**The Emergence of Threads: The Birth of a New Social Network**|Peixian Zhang et.al.|[2406.19277v1](http://arxiv.org/abs/2406.19277v1)|null|
 |**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046v1](http://arxiv.org/abs/2406.19046v1)|null|
 |**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
-|**2024-06-26**|**Competitive Algorithms for Online Knapsack with Succinct Predictions**|Mohammadreza Daneshvaramoli et.al.|[2406.18752v1](http://arxiv.org/abs/2406.18752v1)|[link](https://github.com/moreda-a/OKP)|
-|**2024-06-26**|**Parameterizing the quantification of CMSO: model checking on minor-closed graph classes**|Ignasi Sau et.al.|[2406.18465v1](http://arxiv.org/abs/2406.18465v1)|null|
-|**2024-06-26**|**Human-free Prompted Based Anomaly Detection: prompt optimization with Meta-guiding prompt scheme**|Pi-Wei Chen et.al.|[2406.18197v1](http://arxiv.org/abs/2406.18197v1)|null|
-|**2024-06-26**|**Towards Synchronous Memorizability and Generalizability with Site-Modulated Diffusion Replay for Cross-Site Continual Segmentation**|Dunyuan Xu et.al.|[2406.18037v1](http://arxiv.org/abs/2406.18037v1)|null|
-|**2024-06-25**|**MAGIC: Meta-Ability Guided Interactive Chain-of-Distillation for Effective-and-Efficient Vision-and-Language Navigation**|Liuyi Wang et.al.|[2406.17960v1](http://arxiv.org/abs/2406.17960v1)|[link](https://github.com/crystalsixone/vln-magic)|
-|**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755v1](http://arxiv.org/abs/2406.17755v1)|null|
-|**2024-06-25**|**A piezoelectric ski-jump laser beam scanning chip-to-free space photonic link**|Matt Saha et.al.|[2406.17662v1](http://arxiv.org/abs/2406.17662v1)|null|
