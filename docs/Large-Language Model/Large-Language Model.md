@@ -21,7 +21,7 @@
 |**2024-07-02**|**Thermoelectric magnetohydrodynamic flow in a liquid metal-infused trench**|Oliver George Bond et.al.|[2407.02470v1](http://arxiv.org/abs/2407.02470v1)|null|
 |**2024-07-02**|**Improved Space-Efficient Approximate Nearest Neighbor Search Using Function Inversion**|Samuel McCauley et.al.|[2407.02468v1](http://arxiv.org/abs/2407.02468v1)|null|
 |**2024-07-02**|**Error mitigation with stabilized noise in superconducting quantum processors**|Youngseok Kim et.al.|[2407.02467v1](http://arxiv.org/abs/2407.02467v1)|null|
-|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v1](http://arxiv.org/abs/2407.02466v1)|null|
+|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v2](http://arxiv.org/abs/2407.02466v2)|null|
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464v1](http://arxiv.org/abs/2407.02464v1)|null|
 |**2024-07-02**|**Neutrinos with refractive masses and the DESI BAO results**|Manibrata Sen et.al.|[2407.02462v1](http://arxiv.org/abs/2407.02462v1)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461v1](http://arxiv.org/abs/2407.02461v1)|null|

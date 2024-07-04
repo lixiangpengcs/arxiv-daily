@@ -12,7 +12,7 @@
 |**2024-07-02**|**Database Systems Course: Service Learning Project**|Sherri WeitlHarms et.al.|[2407.02475v1](http://arxiv.org/abs/2407.02475v1)|null|
 |**2024-07-02**|**Improved Space-Efficient Approximate Nearest Neighbor Search Using Function Inversion**|Samuel McCauley et.al.|[2407.02468v1](http://arxiv.org/abs/2407.02468v1)|null|
 |**2024-07-02**|**Error mitigation with stabilized noise in superconducting quantum processors**|Youngseok Kim et.al.|[2407.02467v1](http://arxiv.org/abs/2407.02467v1)|null|
-|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v1](http://arxiv.org/abs/2407.02466v1)|null|
+|**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466v2](http://arxiv.org/abs/2407.02466v2)|null|
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464v1](http://arxiv.org/abs/2407.02464v1)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461v1](http://arxiv.org/abs/2407.02461v1)|null|
 |**2024-07-02**|**Statistical Advantages of Oblique Randomized Decision Trees and Forests**|Eliza O'Reilly et.al.|[2407.02458v1](http://arxiv.org/abs/2407.02458v1)|null|
@@ -24,7 +24,7 @@
 |**2024-07-02**|**Evaluating the Robustness of Adverse Drug Event Classification Models Using Templates**|Dorothea MacPhail et.al.|[2407.02432v1](http://arxiv.org/abs/2407.02432v1)|null|
 |**2024-07-02**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v1](http://arxiv.org/abs/2407.02431v1)|null|
 |**2024-07-02**|**Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects**|Raphael Bensadoun et.al.|[2407.02430v1](http://arxiv.org/abs/2407.02430v1)|null|
-|**2024-07-02**|**Comparative Evaluation of Learning Models for Bionic Robots: Non-Linear Transfer Function Identifications**|Po-Yu Hsieh et.al.|[2407.02428v1](http://arxiv.org/abs/2407.02428v1)|null|
+|**2024-07-02**|**Comparative Evaluation of Learning Models for Bionic Robots: Non-Linear Transfer Function Identifications**|Po-Yu Hsieh et.al.|[2407.02428v1](http://arxiv.org/abs/2407.02428v1)|[link](https://github.com/poyuhs/model-free-robotics)|
 |**2024-07-02**|**Reinforcement Learning and Machine ethics:a systematic review**|Ajay Vishwanath et.al.|[2407.02425v1](http://arxiv.org/abs/2407.02425v1)|null|
 |**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424v1](http://arxiv.org/abs/2407.02424v1)|null|
 |**2024-07-02**|**On the Anatomy of Attention**|Nikhil Khatri et.al.|[2407.02423v1](http://arxiv.org/abs/2407.02423v1)|null|

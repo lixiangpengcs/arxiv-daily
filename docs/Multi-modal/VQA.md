@@ -13,7 +13,7 @@
 |**2024-07-02**|**Message-Relevant Dimension Reduction of Neural Populations**|Amanda Merkley et.al.|[2407.02450v1](http://arxiv.org/abs/2407.02450v1)|null|
 |**2024-07-02**|**A multi-field decomposed model order reduction approach for thermo-mechanically coupled gradient-extended damage simulations**|Qinghua Zhang et.al.|[2407.02435v1](http://arxiv.org/abs/2407.02435v1)|null|
 |**2024-07-02**|**Tiny-PULP-Dronets: Squeezing Neural Networks for Faster and Lighter Inference on Multi-Tasking Autonomous Nano-Drones**|Lorenzo Lamberti et.al.|[2407.02405v1](http://arxiv.org/abs/2407.02405v1)|null|
-|**2024-07-02**|**Growth tightness and genericity for word metrics from injective spaces**|Dídac Martínez-Granado et.al.|[2407.02378v1](http://arxiv.org/abs/2407.02378v1)|null|
+|**2024-07-02**|**Growth tightness and genericity for word metrics from injective spaces**|Dídac Martínez-Granado et.al.|[2407.02378v2](http://arxiv.org/abs/2407.02378v2)|null|
 |**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352v1](http://arxiv.org/abs/2407.02352v1)|null|
 |**2024-07-02**|**Revisiting Cascaded Ensembles for Efficient Inference**|Steven Kolawole et.al.|[2407.02348v1](http://arxiv.org/abs/2407.02348v1)|null|
 |**2024-07-02**|**Performance Analysis and Comparison of Full-Fledged 5G Standalone Experimental TDD Testbeds in Single & Multi-UE Scenarios**|Maryam Amini et.al.|[2407.02341v1](http://arxiv.org/abs/2407.02341v1)|null|

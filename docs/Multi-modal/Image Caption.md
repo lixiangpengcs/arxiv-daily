@@ -5,7 +5,7 @@
 |**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489v1](http://arxiv.org/abs/2407.02489v1)|null|
 |**2024-07-02**|**Characterizing the Interpretability of Attention Maps in Digital Pathology**|Tomé Albuquerque et.al.|[2407.02484v1](http://arxiv.org/abs/2407.02484v1)|null|
 |**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482v1](http://arxiv.org/abs/2407.02482v1)|null|
-|**2024-07-02**|**Unveiling Supersolid Order via Vortex Trajectory Correlations**|Subrata Das et.al.|[2407.02481v1](http://arxiv.org/abs/2407.02481v1)|null|
+|**2024-07-02**|**Unveiling Supersolid Order via Vortex Trajectory Correlations**|Subrata Das et.al.|[2407.02481v2](http://arxiv.org/abs/2407.02481v2)|null|
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477v1](http://arxiv.org/abs/2407.02477v1)|null|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439v1](http://arxiv.org/abs/2407.02439v1)|null|
 |**2024-07-02**|**Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects**|Raphael Bensadoun et.al.|[2407.02430v1](http://arxiv.org/abs/2407.02430v1)|null|

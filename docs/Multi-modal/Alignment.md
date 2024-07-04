@@ -21,7 +21,7 @@
 |**2024-07-02**|**Fake News Detection and Manipulation Reasoning via Large Vision-Language Models**|Ruihan Jin et.al.|[2407.02042v1](http://arxiv.org/abs/2407.02042v1)|null|
 |**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038v2](http://arxiv.org/abs/2407.02038v2)|null|
 |**2024-07-02**|**An End-to-End Speech Summarization Using Large Language Model**|Hengchao Shang et.al.|[2407.02005v1](http://arxiv.org/abs/2407.02005v1)|null|
-|**2024-07-02**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Marani Badr-Eddine et.al.|[2407.01996v1](http://arxiv.org/abs/2407.01996v1)|null|
+|**2024-07-02**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996v2](http://arxiv.org/abs/2407.01996v2)|null|
 |**2024-07-02**|**Unleash the Power of Local Representations for Few-Shot Classification**|Shi Tang et.al.|[2407.01967v1](http://arxiv.org/abs/2407.01967v1)|null|
 |**2024-07-02**|**Adaptive Modality Balanced Online Knowledge Distillation for Brain-Eye-Computer based Dim Object Detection**|Zixing Li et.al.|[2407.01894v1](http://arxiv.org/abs/2407.01894v1)|[link](https://github.com/lizixing23/AMBOKD)|
 |**2024-07-02**|**EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual Recognition and More**|Xu Zheng et.al.|[2407.01884v1](http://arxiv.org/abs/2407.01884v1)|null|
