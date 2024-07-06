@@ -18,7 +18,7 @@
 |**2024-07-03**|**How Does Quantization Affect Multilingual LLMs?**|Kelly Marchisio et.al.|[2407.03211v1](http://arxiv.org/abs/2407.03211v1)|null|
 |**2024-07-03**|**Realization of Anosov Diffeomorphisms on the Torus**|Tamara Kucherenko et.al.|[2407.03184v1](http://arxiv.org/abs/2407.03184v1)|null|
 |**2024-07-03**|**Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models**|Haritz Puerto et.al.|[2407.03181v1](http://arxiv.org/abs/2407.03181v1)|[link](https://github.com/ukplab/arxiv2024-divergent-cot)|
-|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168v1](http://arxiv.org/abs/2407.03168v1)|null|
+|**2024-07-03**|**LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**|Jianzhu Guo et.al.|[2407.03168v1](http://arxiv.org/abs/2407.03168v1)|[link](https://github.com/KwaiVGI/LivePortrait)|
 |**2024-07-03**|**Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data**|Minato Kondo et.al.|[2407.03145v1](http://arxiv.org/abs/2407.03145v1)|null|
 |**2024-07-03**|**Born statistics for quantum mechanical measurements from random walk potentials?**|Frank Torres et.al.|[2407.03139v1](http://arxiv.org/abs/2407.03139v1)|null|
 |**2024-07-03**|**Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech**|Tobias Weise et.al.|[2407.03132v1](http://arxiv.org/abs/2407.03132v1)|null|
