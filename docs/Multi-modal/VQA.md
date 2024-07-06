@@ -9,7 +9,7 @@
 |**2024-07-03**|**Finely Stratified Rerandomization Designs**|Max Cytrynbaum et.al.|[2407.03279v1](http://arxiv.org/abs/2407.03279v1)|null|
 |**2024-07-03**|**Policymaker meetings as heteroscedasticity shifters: Identification and simultaneous inference in unstable SVARs**|Bulat Gafarov et.al.|[2407.03265v1](http://arxiv.org/abs/2407.03265v1)|null|
 |**2024-07-03**|**Covariant Phase Space Formalism for Fluctuating Boundaries**|H. Adami et.al.|[2407.03259v1](http://arxiv.org/abs/2407.03259v1)|null|
-|**2024-07-03**|**Modern Neighborhood Components Analysis: A Deep Tabular Baseline Two Decades Later**|Han-Jia Ye et.al.|[2407.03257v1](http://arxiv.org/abs/2407.03257v1)|null|
+|**2024-07-03**|**Modern Neighborhood Components Analysis: A Deep Tabular Baseline Two Decades Later**|Han-Jia Ye et.al.|[2407.03257v1](http://arxiv.org/abs/2407.03257v1)|[link](https://github.com/qile2000/LAMDA-TALENT)|
 |**2024-07-03**|**How Similar Are Elected Politicians and Their Constituents? Quantitative Evidence From Online Social Network**|Waleed Iqbal et.al.|[2407.03255v1](http://arxiv.org/abs/2407.03255v1)|null|
 |**2024-07-03**|**Section conjectures over $\mathbb{C}$ and Kodaira fibrations**|Simon Shuofeng Xu et.al.|[2407.03248v1](http://arxiv.org/abs/2407.03248v1)|null|
 |**2024-07-03**|**Cyclic Refiner: Object-Aware Temporal Representation Learning for Multi-View 3D Detection and Tracking**|Mingzhe Guo et.al.|[2407.03240v1](http://arxiv.org/abs/2407.03240v1)|null|
@@ -31,4 +31,4 @@
 |**2024-07-03**|**Revisiting the Performance of Deep Learning-Based Vulnerability Detection on Realistic Datasets**|Partha Chakraborty et.al.|[2407.03093v1](http://arxiv.org/abs/2407.03093v1)|[link](https://zenodo.org/record/zenodo.8206635)|
 |**2024-07-03**|**Accelerated Inference for Partially Observed Markov Processes using Automatic Differentiation**|Kevin Tan et.al.|[2407.03085v1](http://arxiv.org/abs/2407.03085v1)|null|
 |**2024-07-03**|**Hilbert band complexes and their applications**|Zeying Zhang et.al.|[2407.03064v1](http://arxiv.org/abs/2407.03064v1)|null|
-|**2024-07-03**|**ALTER: Augmentation for Large-Table-Based Reasoning**|Han Zhang et.al.|[2407.03061v1](http://arxiv.org/abs/2407.03061v1)|null|
+|**2024-07-03**|**ALTER: Augmentation for Large-Table-Based Reasoning**|Han Zhang et.al.|[2407.03061v1](http://arxiv.org/abs/2407.03061v1)|[link](https://github.com/Hanzhang-lang/ALTER)|
