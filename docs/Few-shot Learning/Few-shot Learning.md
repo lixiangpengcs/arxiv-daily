@@ -23,9 +23,9 @@
 |**2024-07-03**|**Nearly Linear Sparsification of $\ell_p$ Subspace Approximation**|David P. Woodruff et.al.|[2407.03262v1](http://arxiv.org/abs/2407.03262v1)|null|
 |**2024-07-03**|**Magnetic Hysteresis Modeling with Neural Operators**|Abhishek Chandra et.al.|[2407.03261v1](http://arxiv.org/abs/2407.03261v1)|null|
 |**2024-07-03**|**Modern Neighborhood Components Analysis: A Deep Tabular Baseline Two Decades Later**|Han-Jia Ye et.al.|[2407.03257v1](http://arxiv.org/abs/2407.03257v1)|[link](https://github.com/qile2000/LAMDA-TALENT)|
-|**2024-07-03**|**When big data actually are low-rank, or entrywise approximation of certain function-generated matrices**|Stanislav Budzinskiy et.al.|[2407.03250v1](http://arxiv.org/abs/2407.03250v1)|[link](https://github.com/sbudzinskiy/low-rank-big-data)|
+|**2024-07-03**|**When big data actually are low-rank, or entrywise approximation of certain function-generated matrices**|Stanislav Budzinskiy et.al.|[2407.03250v2](http://arxiv.org/abs/2407.03250v2)|[link](https://github.com/sbudzinskiy/low-rank-big-data)|
 |**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247v1](http://arxiv.org/abs/2407.03247v1)|null|
-|**2024-07-03**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245v1](http://arxiv.org/abs/2407.03245v1)|null|
+|**2024-07-03**|**TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach**|Weikun Peng et.al.|[2407.03245v2](http://arxiv.org/abs/2407.03245v2)|null|
 |**2024-07-03**|**Picosecond lifetimes of hydrogen bonds in the halide perovskite CH$_3$NH$_3$PbBr$_3$**|Alejandro Garrote-Márquez et.al.|[2407.03244v1](http://arxiv.org/abs/2407.03244v1)|null|
 |**2024-07-03**|**Terrain Classification Enhanced with Uncertainty for Space Exploration Robots from Proprioceptive Data**|Mariela De Lucas Álvarez et.al.|[2407.03241v1](http://arxiv.org/abs/2407.03241v1)|null|
 |**2024-07-03**|**Cyclic Refiner: Object-Aware Temporal Representation Learning for Multi-View 3D Detection and Tracking**|Mingzhe Guo et.al.|[2407.03240v1](http://arxiv.org/abs/2407.03240v1)|null|

@@ -22,7 +22,7 @@
 |**2024-07-03**|**Machine Learning Models for Improved Tracking from Range-Doppler Map Images**|Elizabeth Hou et.al.|[2407.03140v1](http://arxiv.org/abs/2407.03140v1)|null|
 |**2024-07-03**|**Refined Counting of Geodesic Segments in the Hyperbolic Plane**|Marios Voskou et.al.|[2407.03134v1](http://arxiv.org/abs/2407.03134v1)|null|
 |**2024-07-03**|**MVGT: A Multi-view Graph Transformer Based on Spatial Relations for EEG Emotion Recognition**|Yanjie Cui et.al.|[2407.03131v1](http://arxiv.org/abs/2407.03131v1)|null|
-|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v1](http://arxiv.org/abs/2407.03130v1)|null|
+|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v2](http://arxiv.org/abs/2407.03130v2)|null|
 |**2024-07-03**|**Towards High Resolution Real-Time Optical Flow Particle Image Velocimetry**|Juan Pimienta et.al.|[2407.03057v1](http://arxiv.org/abs/2407.03057v1)|null|
 |**2024-07-03**|**Semantic-Aware Power Allocation for Generative Semantic Communications with Foundation Models**|Chunmei Xu et.al.|[2407.03050v1](http://arxiv.org/abs/2407.03050v1)|null|
 |**2024-07-03**|**SlerpFace: Face Template Protection via Spherical Linear Interpolation**|Zhizhou Zhong et.al.|[2407.03043v1](http://arxiv.org/abs/2407.03043v1)|null|

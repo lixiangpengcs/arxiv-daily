@@ -22,7 +22,7 @@
 |**2024-07-03**|**Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data**|Minato Kondo et.al.|[2407.03145v1](http://arxiv.org/abs/2407.03145v1)|null|
 |**2024-07-03**|**Born statistics for quantum mechanical measurements from random walk potentials?**|Frank Torres et.al.|[2407.03139v1](http://arxiv.org/abs/2407.03139v1)|null|
 |**2024-07-03**|**Speaker- and Text-Independent Estimation of Articulatory Movements and Phoneme Alignments from Speech**|Tobias Weise et.al.|[2407.03132v1](http://arxiv.org/abs/2407.03132v1)|null|
-|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v1](http://arxiv.org/abs/2407.03130v1)|null|
+|**2024-07-03**|**Towards Efficient Pixel Labeling for Industrial Anomaly Detection and Localization**|Hanxi Li et.al.|[2407.03130v2](http://arxiv.org/abs/2407.03130v2)|null|
 |**2024-07-03**|**Accelerating quantum imaginary-time evolution with random measurements**|Ioannis Kolotouros et.al.|[2407.03123v1](http://arxiv.org/abs/2407.03123v1)|null|
 |**2024-07-03**|**Can machine learning solve the challenge of adaptive learning and the individualization of learning paths? A field experiment in an online learning platform**|Tim Klausmann et.al.|[2407.03118v1](http://arxiv.org/abs/2407.03118v1)|null|
 |**2024-07-03**|**Strong quantum nonlocality without entanglement in every $(n-1)$-partition**|Huaqi Zhou et.al.|[2407.03114v1](http://arxiv.org/abs/2407.03114v1)|null|
