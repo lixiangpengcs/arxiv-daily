@@ -2,6 +2,18 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-05**|**Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data**|David Holzmüller et.al.|[2407.04491v1](http://arxiv.org/abs/2407.04491v1)|[link](https://github.com/dholzmueller/pytabkit)|
+|**2024-07-05**|**Random-Effect Meta-Analysis with Robust Between-Study Variance**|Keisuke Hanada et.al.|[2407.04446v1](http://arxiv.org/abs/2407.04446v1)|null|
+|**2024-07-05**|**Statistical mechanics of crystal nuclei of hard spheres**|Marjolein de Jager et.al.|[2407.04394v1](http://arxiv.org/abs/2407.04394v1)|null|
+|**2024-07-05**|**Smart Vision-Language Reasoners**|Denisa Roberts et.al.|[2407.04212v1](http://arxiv.org/abs/2407.04212v1)|[link](https://github.com/smarter-vlm/smarter)|
+|**2024-07-04**|**Meta-Learning and representation learner: A short theoretical note**|Mouad El Bouchattaoui et.al.|[2407.04189v1](http://arxiv.org/abs/2407.04189v1)|null|
+|**2024-07-04**|**EMPL: A novel Efficient Meta Prompt Learning Framework for Few-shot Unsupervised Domain Adaptation**|Wanqi Yang et.al.|[2407.04066v1](http://arxiv.org/abs/2407.04066v1)|null|
+|**2024-07-04**|**Exploring control of the emergent exciton insulator state in 1T-TiSe$_2$ monolayer by state-of-the-art theory models**|Hong Tang et.al.|[2407.04033v1](http://arxiv.org/abs/2407.04033v1)|null|
+|**2024-07-04**|**Meta-prompting Optimized Retrieval-augmented Generation**|João Rodrigues et.al.|[2407.03955v1](http://arxiv.org/abs/2407.03955v1)|null|
+|**2024-07-04**|**How to Evaluate Games in Education: A Literature Review**|Giulio Barbero et.al.|[2407.03879v1](http://arxiv.org/abs/2407.03879v1)|null|
+|**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788v1](http://arxiv.org/abs/2407.03788v1)|null|
+|**2024-07-04**|**Robust CATE Estimation Using Novel Ensemble Methods**|Oshri Machluf et.al.|[2407.03690v1](http://arxiv.org/abs/2407.03690v1)|null|
+|**2024-07-04**|**The Mysterious Case of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics of Meta's Llama 2 Model**|Brenden Smith et.al.|[2407.03621v1](http://arxiv.org/abs/2407.03621v1)|[link](https://github.com/dragnlabs/injectable-alignment-model)|
 |**2024-07-03**|**Artificial Inductive Bias for Synthetic Tabular Data Generation in Data-Scarce Scenarios**|Patricia A. Apellániz et.al.|[2407.03080v1](http://arxiv.org/abs/2407.03080v1)|null|
 |**2024-07-03**|**Frequency-selective terahertz wave amplification by a time-boundary-engineered Huygens metasurface**|Fu Deng et.al.|[2407.03069v1](http://arxiv.org/abs/2407.03069v1)|null|
 |**2024-07-03**|**The More the Merrier? Navigating Accuracy vs. Energy Efficiency Design Trade-Offs in Ensemble Learning Systems**|Rafiullah Omar et.al.|[2407.02914v1](http://arxiv.org/abs/2407.02914v1)|null|
@@ -20,15 +32,3 @@
 |**2024-07-01**|**A diagrammatic language for the Causaloid framework**|Nitica Sakharwade et.al.|[2407.01522v1](http://arxiv.org/abs/2407.01522v1)|null|
 |**2024-07-01**|**Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision**|Hao Dong et.al.|[2407.01518v1](http://arxiv.org/abs/2407.01518v1)|[link](https://github.com/donghao51/moosa)|
 |**2024-07-01**|**The reverse mathematics of the pigeonhole hierarchy**|Quentin Le Houérou et.al.|[2407.01236v1](http://arxiv.org/abs/2407.01236v1)|null|
-|**2024-07-01**|**Optimizing PM2.5 Forecasting Accuracy with Hybrid Meta-Heuristic and Machine Learning Models**|Parviz Ghafariasl et.al.|[2407.01647v1](http://arxiv.org/abs/2407.01647v1)|null|
-|**2024-07-01**|**A Closer Look at Deep Learning on Tabular Data**|Han-Jia Ye et.al.|[2407.00956v1](http://arxiv.org/abs/2407.00956v1)|null|
-|**2024-06-30**|**Neural Network-Assisted End-to-End Design for Dispersive Full-Parameter Control of Meta-Optics**|Hanbin Chi et.al.|[2407.00559v1](http://arxiv.org/abs/2407.00559v1)|null|
-|**2024-06-28**|**A Reflection Principle for Potential Infinite Models of Type Theory**|Matthias Eberl et.al.|[2407.00220v1](http://arxiv.org/abs/2407.00220v1)|null|
-|**2024-06-28**|**GM-DF: Generalized Multi-Scenario Deepfake Detection**|Yingxin Lai et.al.|[2406.20078v1](http://arxiv.org/abs/2406.20078v1)|[link](https://github.com/laiyingxin2/gm-df)|
-|**2024-06-28**|**Pairwise Difference Learning for Classification**|Mohamed Karim Belaid et.al.|[2406.20031v1](http://arxiv.org/abs/2406.20031v1)|[link](https://github.com/karim-53/pdll)|
-|**2024-06-27**|**Meta-Gradient Search Control: A Method for Improving the Efficiency of Dyna-style Planning**|Bradley Burega et.al.|[2406.19561v1](http://arxiv.org/abs/2406.19561v1)|null|
-|**2024-06-27**|**Meta Large Language Model Compiler: Foundation Models of Compiler Optimization**|Chris Cummins et.al.|[2407.02524v1](http://arxiv.org/abs/2407.02524v1)|null|
-|**2024-06-27**|**Almost Orthogonal Arrays: Theory and Search Three Ways**|Luis Martínez et.al.|[2406.19516v1](http://arxiv.org/abs/2406.19516v1)|[link](https://github.com/tonellicueto/AOAs)|
-|**2024-06-27**|**The Emergence of Threads: The Birth of a New Social Network**|Peixian Zhang et.al.|[2406.19277v1](http://arxiv.org/abs/2406.19277v1)|null|
-|**2024-06-27**|**Ultrastrongly-coupled magnetochiral magnon-polaritons in metamaterials**|Kentaro Mita et.al.|[2406.19046v1](http://arxiv.org/abs/2406.19046v1)|null|
-|**2024-06-27**|**Learning Modality Knowledge Alignment for Cross-Modality Transfer**|Wenxuan Ma et.al.|[2406.18864v1](http://arxiv.org/abs/2406.18864v1)|null|
