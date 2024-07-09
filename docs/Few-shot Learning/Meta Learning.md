@@ -2,6 +2,23 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-08**|**Transfer Learning with Self-Supervised Vision Transformers for Snake Identification**|Anthony Miyaguchi et.al.|[2407.06178v1](http://arxiv.org/abs/2407.06178v1)|[link](https://github.com/dsgt-kaggle-clef/snakeclef-2024)|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|[link](https://github.com/gair-nlp/anole)|
+|**2024-07-08**|**Learning With Generalised Card Representations for "Magic: The Gathering"**|Timo Bertram et.al.|[2407.05879v1](http://arxiv.org/abs/2407.05879v1)|null|
+|**2024-07-08**|**Proceedings Workshop on Logical Frameworks and Meta-Languages: Theory and Practice**|Florian Rabe et.al.|[2407.05822v1](http://arxiv.org/abs/2407.05822v1)|null|
+|**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786v1](http://arxiv.org/abs/2407.05786v1)|null|
+|**2024-07-08**|**Nonrigid Reconstruction of Freehand Ultrasound without a Tracker**|Qi Li et.al.|[2407.05767v1](http://arxiv.org/abs/2407.05767v1)|[link](https://github.com/qili111/nr-rec-fus)|
+|**2024-07-08**|**DMSD-CDFSAR: Distillation from Mixed-Source Domain for Cross-Domain Few-shot Action Recognition**|Fei Guo et.al.|[2407.05657v1](http://arxiv.org/abs/2407.05657v1)|null|
+|**2024-07-08**|**Simultaneous Polarization Conversion and Anomalous Reflection with Anisotropic Printed-Circuit-Board (PCB) Metagratings**|Sharon Elad et.al.|[2407.05648v1](http://arxiv.org/abs/2407.05648v1)|null|
+|**2024-07-08**|**Learning to Adapt Category Consistent Meta-Feature of CLIP for Few-Shot Classification**|Jiaying Shi et.al.|[2407.05647v1](http://arxiv.org/abs/2407.05647v1)|null|
+|**2024-07-08**|**GTP-4o: Modality-prompted Heterogeneous Graph Learning for Omni-modal Biomedical Representation**|Chenxin Li et.al.|[2407.05540v1](http://arxiv.org/abs/2407.05540v1)|null|
+|**2024-07-07**|**Model-agnostic meta-learners for estimating heterogeneous treatment effects over time**|Dennis Frauen et.al.|[2407.05287v1](http://arxiv.org/abs/2407.05287v1)|null|
+|**2024-07-06**|**Helios: An extremely low power event-based gesture recognition for always-on smart eyewear**|Prarthana Bhattacharyya et.al.|[2407.05206v1](http://arxiv.org/abs/2407.05206v1)|null|
+|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126v1](http://arxiv.org/abs/2407.05126v1)|null|
+|**2024-07-06**|**PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**|Ye Li et.al.|[2407.05010v1](http://arxiv.org/abs/2407.05010v1)|null|
+|**2024-07-06**|**Defensive Reconfigurable Intelligent Surface (D-RIS) Based on Non-Reciprocal Channel Links**|Kun Chen-Hu et.al.|[2407.04905v1](http://arxiv.org/abs/2407.04905v1)|null|
+|**2024-07-05**|**Evaluating Language Models for Generating and Judging Programming Feedback**|Charles Koutcheme et.al.|[2407.04873v1](http://arxiv.org/abs/2407.04873v1)|null|
+|**2024-07-05**|**Statistical investigations into the geometry and homology of random programs**|Jon Sporring et.al.|[2407.04854v1](http://arxiv.org/abs/2407.04854v1)|null|
 |**2024-07-05**|**Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data**|David Holzmüller et.al.|[2407.04491v1](http://arxiv.org/abs/2407.04491v1)|[link](https://github.com/dholzmueller/pytabkit)|
 |**2024-07-05**|**Random-Effect Meta-Analysis with Robust Between-Study Variance**|Keisuke Hanada et.al.|[2407.04446v1](http://arxiv.org/abs/2407.04446v1)|null|
 |**2024-07-05**|**Statistical mechanics of crystal nuclei of hard spheres**|Marjolein de Jager et.al.|[2407.04394v1](http://arxiv.org/abs/2407.04394v1)|null|
@@ -15,20 +32,3 @@
 |**2024-07-04**|**Robust CATE Estimation Using Novel Ensemble Methods**|Oshri Machluf et.al.|[2407.03690v2](http://arxiv.org/abs/2407.03690v2)|null|
 |**2024-07-04**|**The Mysterious Case of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics of Meta's Llama 2 Model**|Brenden Smith et.al.|[2407.03621v1](http://arxiv.org/abs/2407.03621v1)|[link](https://github.com/dragnlabs/injectable-alignment-model)|
 |**2024-07-03**|**Artificial Inductive Bias for Synthetic Tabular Data Generation in Data-Scarce Scenarios**|Patricia A. Apellániz et.al.|[2407.03080v1](http://arxiv.org/abs/2407.03080v1)|null|
-|**2024-07-03**|**Frequency-selective terahertz wave amplification by a time-boundary-engineered Huygens metasurface**|Fu Deng et.al.|[2407.03069v1](http://arxiv.org/abs/2407.03069v1)|null|
-|**2024-07-03**|**The More the Merrier? Navigating Accuracy vs. Energy Efficiency Design Trade-Offs in Ensemble Learning Systems**|Rafiullah Omar et.al.|[2407.02914v1](http://arxiv.org/abs/2407.02914v1)|null|
-|**2024-07-02**|**Pushing the Boundary: Specialising Deep Configuration Performance Learning**|Jingzhi Gong et.al.|[2407.02706v1](http://arxiv.org/abs/2407.02706v1)|null|
-|**2024-07-02**|**The text2term tool to map free-text descriptions of biomedical terms to ontologies**|Rafael S. Gonçalves et.al.|[2407.02626v1](http://arxiv.org/abs/2407.02626v1)|null|
-|**2024-07-02**|**Meta 3D Gen**|Raphael Bensadoun et.al.|[2407.02599v1](http://arxiv.org/abs/2407.02599v1)|null|
-|**2024-07-02**|**Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials**|Yawar Siddiqui et.al.|[2407.02445v1](http://arxiv.org/abs/2407.02445v1)|null|
-|**2024-07-02**|**Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects**|Raphael Bensadoun et.al.|[2407.02430v1](http://arxiv.org/abs/2407.02430v1)|null|
-|**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273v1](http://arxiv.org/abs/2407.02273v1)|[link](https://github.com/causalNLP/moralmachine)|
-|**2024-07-02**|**Hypermultiplexed off-chip hologram by on-chip integrated metasurface**|Xianjin Liu et.al.|[2407.02247v1](http://arxiv.org/abs/2407.02247v1)|null|
-|**2024-07-02**|**ML-extendable framework for multiphysics-multiscale simulation workflow and data management using Kadi4Mat**|Somnath Bharech et.al.|[2407.02162v1](http://arxiv.org/abs/2407.02162v1)|null|
-|**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150v1](http://arxiv.org/abs/2407.02150v1)|null|
-|**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903v1](http://arxiv.org/abs/2407.01903v1)|null|
-|**2024-07-02**|**Compare without Despair: Reliable Preference Evaluation with Generation Separability**|Sayan Ghosh et.al.|[2407.01878v1](http://arxiv.org/abs/2407.01878v1)|[link](https://github.com/dill-lab/separability)|
-|**2024-07-01**|**Meta-Learning Based Optimization for Large Scale Wireless Systems**|Rafael Cerna Loli et.al.|[2407.01823v2](http://arxiv.org/abs/2407.01823v2)|null|
-|**2024-07-01**|**A diagrammatic language for the Causaloid framework**|Nitica Sakharwade et.al.|[2407.01522v1](http://arxiv.org/abs/2407.01522v1)|null|
-|**2024-07-01**|**Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision**|Hao Dong et.al.|[2407.01518v1](http://arxiv.org/abs/2407.01518v1)|[link](https://github.com/donghao51/moosa)|
-|**2024-07-01**|**The reverse mathematics of the pigeonhole hierarchy**|Quentin Le Houérou et.al.|[2407.01236v1](http://arxiv.org/abs/2407.01236v1)|null|

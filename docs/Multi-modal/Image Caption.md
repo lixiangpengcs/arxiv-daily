@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
-|**2024-07-05**|**Stellar Metallicities and Gradients in the Faint M31 Satellites Andromeda XVI and Andromeda XXVIII**|Sal Wanying Fu et.al.|[2407.04698v1](http://arxiv.org/abs/2407.04698v1)|null|
-|**2024-07-05**|**Embracing Massive Medical Data**|Yu-Cheng Chou et.al.|[2407.04687v1](http://arxiv.org/abs/2407.04687v1)|[link](https://github.com/mrgiovanni/onlinelearning)|
-|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681v1](http://arxiv.org/abs/2407.04681v1)|null|
-|**2024-07-05**|**Is plantar thermography a valid digital biomarker for characterising diabetic foot ulceration risk?**|Akshay Jagadeesh et.al.|[2407.04676v1](http://arxiv.org/abs/2407.04676v1)|null|
-|**2024-07-05**|**Unsupervised 4D Cardiac Motion Tracking with Spatiotemporal Optical Flow Networks**|Long Teng et.al.|[2407.04663v1](http://arxiv.org/abs/2407.04663v1)|null|
-|**2024-07-05**|**SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images**|Weiyi Xie et.al.|[2407.04651v1](http://arxiv.org/abs/2407.04651v1)|null|
-|**2024-07-05**|**Semi-Supervised Segmentation via Embedding Matching**|Weiyi Xie et.al.|[2407.04638v1](http://arxiv.org/abs/2407.04638v1)|null|
-|**2024-07-05**|**Optical wavefront shaping in deep tissue using photoacoustic feedback**|Fei Xia et.al.|[2407.04628v1](http://arxiv.org/abs/2407.04628v1)|null|
-|**2024-07-05**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621v2](http://arxiv.org/abs/2407.04621v2)|[link](https://github.com/gy65896/onerestore)|
-|**2024-07-05**|**CountGD: Multi-Modal Open-World Counting**|Niki Amini-Naieni et.al.|[2407.04619v1](http://arxiv.org/abs/2407.04619v1)|null|
-|**2024-07-05**|**Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6**|Noah Sailer et.al.|[2407.04607v1](http://arxiv.org/abs/2407.04607v1)|null|
-|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|
-|**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590v1](http://arxiv.org/abs/2407.04590v1)|[link](https://github.com/ahmadmughees/sh17dataset)|
-|**2024-07-05**|**Unbalanced optimal transport for stochastic particle tracking**|Kairui Hao et.al.|[2407.04583v1](http://arxiv.org/abs/2407.04583v1)|null|
-|**2024-07-05**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565v2](http://arxiv.org/abs/2407.04565v2)|null|
-|**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
-|**2024-07-05**|**Not (yet) the whole story: Evaluating Visual Storytelling Requires More than Measuring Coherence, Grounding, and Repetition**|Aditya K Surikuchi et.al.|[2407.04559v1](http://arxiv.org/abs/2407.04559v1)|null|
-|**2024-07-05**|**Rethinking Image Compression on the Web with Generative AI**|Shayan Ali Hassan et.al.|[2407.04542v1](http://arxiv.org/abs/2407.04542v1)|null|
-|**2024-07-05**|**A spatial-correlated multitask linear mixed-effects model for imaging genetics**|Zhibin Pu et.al.|[2407.04530v1](http://arxiv.org/abs/2407.04530v1)|null|
-|**2024-07-05**|**Success or Failure? Analyzing Segmentation Refinement with Few-Shot Segmentation**|Seonghyeon Moon et.al.|[2407.04519v1](http://arxiv.org/abs/2407.04519v1)|null|
-|**2024-07-05**|**Few-Shot Airway-Tree Modeling using Data-Driven Sparse Priors**|Ali Keshavarzi et.al.|[2407.04507v1](http://arxiv.org/abs/2407.04507v1)|null|
-|**2024-07-05**|**Hyperspectral Dataset and Deep Learning methods for Waste from Electric and Electronic Equipment Identification (WEEE)**|Artzai Picon et.al.|[2407.04505v1](http://arxiv.org/abs/2407.04505v1)|[link](https://github.com/samtzai/tecnalia_weee_hyperspectral_dataset)|
-|**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493v1](http://arxiv.org/abs/2407.04493v1)|null|
-|**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489v1](http://arxiv.org/abs/2407.04489v1)|null|
-|**2024-07-05**|**Optimizing the image correction pipeline for pedestrian detection in the thermal-infrared domain**|Christophe Karam et.al.|[2407.04484v1](http://arxiv.org/abs/2407.04484v1)|null|
-|**2024-07-05**|**Relationship between TIGRE solar S-index and USET Ca II K full disk images**|G. Vanden Broeck et.al.|[2407.04475v1](http://arxiv.org/abs/2407.04475v1)|null|
-|**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461v1](http://arxiv.org/abs/2407.04461v1)|null|
-|**2024-07-05**|**Multi-modal Masked Siamese Network Improves Chest X-Ray Representation Learning**|Saeed Shurrab et.al.|[2407.04449v1](http://arxiv.org/abs/2407.04449v1)|[link](https://github.com/nyuad-cai/cxr-ehr-msn)|
-|**2024-07-05**|**Improving Audio Generation with Visual Enhanced Caption**|Yi Yuan et.al.|[2407.04416v1](http://arxiv.org/abs/2407.04416v1)|null|
+|**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192v1](http://arxiv.org/abs/2407.06192v1)|null|
+|**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191v1](http://arxiv.org/abs/2407.06191v1)|null|
+|**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189v1](http://arxiv.org/abs/2407.06189v1)|null|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187v1](http://arxiv.org/abs/2407.06187v1)|null|
+|**2024-07-08**|**Transfer Learning with Self-Supervised Vision Transformers for Snake Identification**|Anthony Miyaguchi et.al.|[2407.06178v1](http://arxiv.org/abs/2407.06178v1)|[link](https://github.com/dsgt-kaggle-clef/snakeclef-2024)|
+|**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177v1](http://arxiv.org/abs/2407.06177v1)|null|
+|**2024-07-08**|**TARGO: Benchmarking Target-driven Object Grasping under Occlusions**|Yan Xia et.al.|[2407.06168v1](http://arxiv.org/abs/2407.06168v1)|null|
+|**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150v1](http://arxiv.org/abs/2407.06150v1)|null|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|[link](https://github.com/gair-nlp/anole)|
+|**2024-07-08**|**Real Space Imaging of Field-Driven Decision-Making in Nanomagnetic Galton Boards**|Hanu Arava et.al.|[2407.06130v1](http://arxiv.org/abs/2407.06130v1)|null|
+|**2024-07-08**|**Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities**|Avinash Anand et.al.|[2407.06125v1](http://arxiv.org/abs/2407.06125v1)|null|
+|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124v1](http://arxiv.org/abs/2407.06124v1)|null|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109v1](http://arxiv.org/abs/2407.06109v1)|[link](https://github.com/labshuhanggu/perldiff)|
+|**2024-07-08**|**Muzzle-Based Cattle Identification System Using Artificial Intelligence (AI)**|Hasan Zohirul Islam et.al.|[2407.06096v1](http://arxiv.org/abs/2407.06096v1)|null|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
+|**2024-07-08**|**Assessing Cardiomegaly in Dogs Using a Simple CNN Model**|Nikhil Deekonda et.al.|[2407.06092v1](http://arxiv.org/abs/2407.06092v1)|null|
+|**2024-07-08**|**3D Vision and Language Pretraining with Large-Scale Synthetic Data**|Dejie Yang et.al.|[2407.06084v1](http://arxiv.org/abs/2407.06084v1)|null|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079v1](http://arxiv.org/abs/2407.06079v1)|null|
+|**2024-07-08**|**Pan-denoising: Guided Hyperspectral Image Denoising via Weighted Represent Coefficient Total Variation**|Shuang Xu et.al.|[2407.06064v1](http://arxiv.org/abs/2407.06064v1)|[link](https://github.com/shuangxu96/pwrctv)|
+|**2024-07-08**|**Protein-environment-sensitive computational epitope accessibility analysis from antibody dose-response data**|Dominik Tschimmel et.al.|[2407.06052v1](http://arxiv.org/abs/2407.06052v1)|null|
+|**2024-07-08**|**Vision-Braille: An End-to-End Tool for Chinese Braille Image-to-Text Translation**|Alan Wu et.al.|[2407.06048v1](http://arxiv.org/abs/2407.06048v1)|null|
+|**2024-07-08**|**Hermitian Yang-Mills functionals on direct images**|Siarhei Finski et.al.|[2407.06034v1](http://arxiv.org/abs/2407.06034v1)|null|
+|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[2407.06016v1](http://arxiv.org/abs/2407.06016v1)|null|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001v1](http://arxiv.org/abs/2407.06001v1)|null|
+|**2024-07-08**|**Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals**|Moritz Reuss et.al.|[2407.05996v1](http://arxiv.org/abs/2407.05996v1)|null|
+|**2024-07-08**|**Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution**|Zexin Ji et.al.|[2407.05993v1](http://arxiv.org/abs/2407.05993v1)|null|
+|**2024-07-08**|**KidSat: satellite imagery to map childhood poverty dataset and benchmark**|Makkunda Sharma et.al.|[2407.05986v1](http://arxiv.org/abs/2407.05986v1)|null|
+|**2024-07-08**|**MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation**|Yifan Gao et.al.|[2407.05984v1](http://arxiv.org/abs/2407.05984v1)|null|
+|**2024-07-08**|**Towards A Comprehensive Visual Saliency Explanation Framework for AI-based Face Recognition Systems**|Yuhang Lu et.al.|[2407.05983v1](http://arxiv.org/abs/2407.05983v1)|null|
+|**2024-07-08**|**MMIS: Multimodal Dataset for Interior Scene Visual Generation and Recognition**|Hozaifa Kassab et.al.|[2407.05980v1](http://arxiv.org/abs/2407.05980v1)|null|
