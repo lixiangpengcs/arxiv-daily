@@ -12,7 +12,7 @@
 |**2024-07-04**|**Meta-prompting Optimized Retrieval-augmented Generation**|João Rodrigues et.al.|[2407.03955v1](http://arxiv.org/abs/2407.03955v1)|null|
 |**2024-07-04**|**How to Evaluate Games in Education: A Literature Review**|Giulio Barbero et.al.|[2407.03879v1](http://arxiv.org/abs/2407.03879v1)|null|
 |**2024-07-04**|**Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning**|Thong Nguyen et.al.|[2407.03788v1](http://arxiv.org/abs/2407.03788v1)|null|
-|**2024-07-04**|**Robust CATE Estimation Using Novel Ensemble Methods**|Oshri Machluf et.al.|[2407.03690v1](http://arxiv.org/abs/2407.03690v1)|null|
+|**2024-07-04**|**Robust CATE Estimation Using Novel Ensemble Methods**|Oshri Machluf et.al.|[2407.03690v2](http://arxiv.org/abs/2407.03690v2)|null|
 |**2024-07-04**|**The Mysterious Case of Neuron 1512: Injectable Realignment Architectures Reveal Internal Characteristics of Meta's Llama 2 Model**|Brenden Smith et.al.|[2407.03621v1](http://arxiv.org/abs/2407.03621v1)|[link](https://github.com/dragnlabs/injectable-alignment-model)|
 |**2024-07-03**|**Artificial Inductive Bias for Synthetic Tabular Data Generation in Data-Scarce Scenarios**|Patricia A. Apellániz et.al.|[2407.03080v1](http://arxiv.org/abs/2407.03080v1)|null|
 |**2024-07-03**|**Frequency-selective terahertz wave amplification by a time-boundary-engineered Huygens metasurface**|Fu Deng et.al.|[2407.03069v1](http://arxiv.org/abs/2407.03069v1)|null|

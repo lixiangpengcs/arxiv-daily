@@ -28,7 +28,7 @@
 |**2024-07-05**|**Mean Curvature, Singularities and Time Functions in Cosmology**|Gregory J. Galloway et.al.|[2407.04455v1](http://arxiv.org/abs/2407.04455v1)|null|
 |**2024-07-05**|**TokenVerse: Unifying Speech and NLP Tasks via Transducer-based ASR**|Shashi Kumar et.al.|[2407.04444v1](http://arxiv.org/abs/2407.04444v1)|null|
 |**2024-07-05**|**cosmosage: A Natural-Language Assistant for Cosmologists**|Tijmen de Haan et.al.|[2407.04420v1](http://arxiv.org/abs/2407.04420v1)|null|
-|**2024-07-05**|**On the Existence of an Extrermal Function for the Delsarte Extremal Problem**|Mita Dimpho Ramabulana et.al.|[2407.04410v1](http://arxiv.org/abs/2407.04410v1)|null|
+|**2024-07-05**|**On the Existence of an Extremal Function for the Delsarte Extremal Problem**|Mita Dimpho Ramabulana et.al.|[2407.04410v2](http://arxiv.org/abs/2407.04410v2)|null|
 |**2024-07-05**|**Graph-Guided Test-Time Adaptation for Glaucoma Diagnosis using Fundus Photography**|Qian Zeng et.al.|[2407.04396v1](http://arxiv.org/abs/2407.04396v1)|null|
 |**2024-07-05**|**Chernoff's product formula: Semigroup approximations with non-uniform time intervals**|J. Z. Bernád et.al.|[2407.04357v1](http://arxiv.org/abs/2407.04357v1)|null|
 |**2024-07-05**|**CanonicalFusion: Generating Drivable 3D Human Avatars from Multiple Images**|Jisu Shin et.al.|[2407.04345v1](http://arxiv.org/abs/2407.04345v1)|[link](https://github.com/jsshin98/canonicalfusion)|

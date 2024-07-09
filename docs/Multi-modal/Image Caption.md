@@ -11,13 +11,13 @@
 |**2024-07-05**|**SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images**|Weiyi Xie et.al.|[2407.04651v1](http://arxiv.org/abs/2407.04651v1)|null|
 |**2024-07-05**|**Semi-Supervised Segmentation via Embedding Matching**|Weiyi Xie et.al.|[2407.04638v1](http://arxiv.org/abs/2407.04638v1)|null|
 |**2024-07-05**|**Optical wavefront shaping in deep tissue using photoacoustic feedback**|Fei Xia et.al.|[2407.04628v1](http://arxiv.org/abs/2407.04628v1)|null|
-|**2024-07-05**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621v1](http://arxiv.org/abs/2407.04621v1)|[link](https://github.com/gy65896/onerestore)|
+|**2024-07-05**|**OneRestore: A Universal Restoration Framework for Composite Degradation**|Yu Guo et.al.|[2407.04621v2](http://arxiv.org/abs/2407.04621v2)|[link](https://github.com/gy65896/onerestore)|
 |**2024-07-05**|**CountGD: Multi-Modal Open-World Counting**|Niki Amini-Naieni et.al.|[2407.04619v1](http://arxiv.org/abs/2407.04619v1)|null|
 |**2024-07-05**|**Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6**|Noah Sailer et.al.|[2407.04607v1](http://arxiv.org/abs/2407.04607v1)|null|
 |**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|
 |**2024-07-05**|**SH17: A Dataset for Human Safety and Personal Protective Equipment Detection in Manufacturing Industry**|Hafiz Mughees Ahmad et.al.|[2407.04590v1](http://arxiv.org/abs/2407.04590v1)|[link](https://github.com/ahmadmughees/sh17dataset)|
 |**2024-07-05**|**Unbalanced optimal transport for stochastic particle tracking**|Kairui Hao et.al.|[2407.04583v1](http://arxiv.org/abs/2407.04583v1)|null|
-|**2024-07-05**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565v1](http://arxiv.org/abs/2407.04565v1)|null|
+|**2024-07-05**|**Super-resolution imaging of nanoscale inhomogeneities in hBN-covered and encapsulated few-layer graphene**|Lina Jäckering et.al.|[2407.04565v2](http://arxiv.org/abs/2407.04565v2)|null|
 |**2024-07-05**|**Real Time Emotion Analysis Using Deep Learning for Education, Entertainment, and Beyond**|Abhilash Khuntia et.al.|[2407.04560v1](http://arxiv.org/abs/2407.04560v1)|null|
 |**2024-07-05**|**Not (yet) the whole story: Evaluating Visual Storytelling Requires More than Measuring Coherence, Grounding, and Repetition**|Aditya K Surikuchi et.al.|[2407.04559v1](http://arxiv.org/abs/2407.04559v1)|null|
 |**2024-07-05**|**Rethinking Image Compression on the Web with Generative AI**|Shayan Ali Hassan et.al.|[2407.04542v1](http://arxiv.org/abs/2407.04542v1)|null|

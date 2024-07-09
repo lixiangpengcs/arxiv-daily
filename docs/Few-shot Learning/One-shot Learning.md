@@ -27,7 +27,7 @@
 |**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616v1](http://arxiv.org/abs/2407.04616v1)|[link](https://github.com/vainf/isomorphic-pruning)|
 |**2024-07-05**|**Gamification of Motor Imagery Brain-Computer Interface Training Protocols: a systematic review**|Fred Atilla et.al.|[2407.04610v1](http://arxiv.org/abs/2407.04610v1)|null|
 |**2024-07-05**|**Linear causal disentanglement via higher-order cumulants**|Paula Leyes Carreno et.al.|[2407.04605v1](http://arxiv.org/abs/2407.04605v1)|null|
-|**2024-07-05**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604v1](http://arxiv.org/abs/2407.04604v1)|[link](https://github.com/kamwoh/partcraft)|
+|**2024-07-05**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604v2](http://arxiv.org/abs/2407.04604v2)|[link](https://github.com/kamwoh/partcraft)|
 |**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|
 |**2024-07-05**|**Understanding the Gains from Repeated Self-Distillation**|Divyansh Pareek et.al.|[2407.04600v1](http://arxiv.org/abs/2407.04600v1)|null|
 |**2024-07-05**|**Teaching and Learning Ethnography for Software Engineering Contexts**|Yvonne Dittrich et.al.|[2407.04596v1](http://arxiv.org/abs/2407.04596v1)|null|
