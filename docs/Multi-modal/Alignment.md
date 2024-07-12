@@ -5,7 +5,7 @@
 |**2024-07-10**|**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**|Feng Li et.al.|[2407.07895v1](http://arxiv.org/abs/2407.07895v1)|[link](https://github.com/LLaVA-VL/LLaVA-NeXT)|
 |**2024-07-10**|**OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion**|Hao Wang et.al.|[2407.07844v1](http://arxiv.org/abs/2407.07844v1)|[link](https://github.com/wanghao9610/ov-dino)|
 |**2024-07-10**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801v2](http://arxiv.org/abs/2407.07801v2)|null|
-|**2024-07-10**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788v1](http://arxiv.org/abs/2407.07788v1)|null|
+|**2024-07-10**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788v2](http://arxiv.org/abs/2407.07788v2)|null|
 |**2024-07-10**|**Multi-task Prompt Words Learning for Social Media Content Generation**|Haochen Xue et.al.|[2407.07771v1](http://arxiv.org/abs/2407.07771v1)|null|
 |**2024-07-10**|**Validity of contextual formulas (extended version)**|Javier Esparza et.al.|[2407.07759v1](http://arxiv.org/abs/2407.07759v1)|null|
 |**2024-07-10**|**Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning**|Chuanpu Li et.al.|[2407.07660v1](http://arxiv.org/abs/2407.07660v1)|null|
