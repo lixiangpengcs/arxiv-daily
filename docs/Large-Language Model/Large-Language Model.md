@@ -25,7 +25,7 @@
 |**2024-07-10**|**FACTS About Building Retrieval Augmented Generation-based Chatbots**|Rama Akkiraju et.al.|[2407.07858v1](http://arxiv.org/abs/2407.07858v1)|null|
 |**2024-07-10**|**RG Interfaces from Double-Trace Deformations**|Simone Giombi et.al.|[2407.07856v1](http://arxiv.org/abs/2407.07856v1)|null|
 |**2024-07-10**|**M-Branes on Minimal Surfaces**|A. M. Ghezelbash et.al.|[2407.07855v1](http://arxiv.org/abs/2407.07855v1)|null|
-|**2024-07-10**|**Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks**|Stefan M. Fischer et.al.|[2407.07853v1](http://arxiv.org/abs/2407.07853v1)|null|
+|**2024-07-10**|**Progressive Growing of Patch Size: Resource-Efficient Curriculum Learning for Dense Prediction Tasks**|Stefan M. Fischer et.al.|[2407.07853v2](http://arxiv.org/abs/2407.07853v2)|null|
 |**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852v1](http://arxiv.org/abs/2407.07852v1)|null|
 |**2024-07-10**|**Edge and mixed metric dimension of Johnson graphs**|Jozef Kratica et.al.|[2407.07851v1](http://arxiv.org/abs/2407.07851v1)|null|
 |**2024-07-10**|**Scaling limit of domino tilings on a pentagonal domain**|Filippo Colomo et.al.|[2407.07849v1](http://arxiv.org/abs/2407.07849v1)|null|
