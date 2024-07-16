@@ -25,7 +25,7 @@
 |**2024-07-08**|**Learning With Generalised Card Representations for "Magic: The Gathering"**|Timo Bertram et.al.|[2407.05879v1](http://arxiv.org/abs/2407.05879v1)|null|
 |**2024-07-08**|**Proceedings Workshop on Logical Frameworks and Meta-Languages: Theory and Practice**|Florian Rabe et.al.|[2407.05822v1](http://arxiv.org/abs/2407.05822v1)|null|
 |**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786v1](http://arxiv.org/abs/2407.05786v1)|null|
-|**2024-07-08**|**Nonrigid Reconstruction of Freehand Ultrasound without a Tracker**|Qi Li et.al.|[2407.05767v1](http://arxiv.org/abs/2407.05767v1)|[link](https://github.com/qili111/nr-rec-fus)|
+|**2024-07-08**|**Nonrigid Reconstruction of Freehand Ultrasound without a Tracker**|Qi Li et.al.|[2407.05767v2](http://arxiv.org/abs/2407.05767v2)|[link](https://github.com/qili111/nr-rec-fus)|
 |**2024-07-08**|**DMSD-CDFSAR: Distillation from Mixed-Source Domain for Cross-Domain Few-shot Action Recognition**|Fei Guo et.al.|[2407.05657v1](http://arxiv.org/abs/2407.05657v1)|null|
 |**2024-07-08**|**Simultaneous Polarization Conversion and Anomalous Reflection with Anisotropic Printed-Circuit-Board (PCB) Metagratings**|Sharon Elad et.al.|[2407.05648v1](http://arxiv.org/abs/2407.05648v1)|null|
 |**2024-07-08**|**Learning to Adapt Category Consistent Meta-Feature of CLIP for Few-Shot Classification**|Jiaying Shi et.al.|[2407.05647v1](http://arxiv.org/abs/2407.05647v1)|null|

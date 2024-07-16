@@ -10,13 +10,13 @@
 |**2024-07-12**|**Addressing Confounding and Continuous Exposure Measurement Error Using Corrected Score Functions**|Brian D. Richardson et.al.|[2407.09443v1](http://arxiv.org/abs/2407.09443v1)|null|
 |**2024-07-12**|**Let Me DeCode You: Decoder Conditioning with Tabular Data**|Tomasz Szczepański et.al.|[2407.09437v1](http://arxiv.org/abs/2407.09437v1)|[link](https://github.com/sanoscience/decode)|
 |**2024-07-12**|**Rethinking temporal self-similarity for repetitive action counting**|Yanan Luo et.al.|[2407.09431v1](http://arxiv.org/abs/2407.09431v1)|null|
-|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429v1](http://arxiv.org/abs/2407.09429v1)|null|
+|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429v1](http://arxiv.org/abs/2407.09429v1)|[link](https://github.com/alceballosa/clin-robust)|
 |**2024-07-12**|**Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models**|Marc Hon et.al.|[2407.09427v1](http://arxiv.org/abs/2407.09427v1)|[link](https://github.com/mtyhon/modelflows)|
 |**2024-07-12**|**TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models**|Hang Zou et.al.|[2407.09424v1](http://arxiv.org/abs/2407.09424v1)|null|
 |**2024-07-12**|**Mitigating Entity-Level Hallucination in Large Language Models**|Weihang Su et.al.|[2407.09417v1](http://arxiv.org/abs/2407.09417v1)|[link](https://github.com/oneal2000/entityhallucination)|
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413v1](http://arxiv.org/abs/2407.09413v1)|[link](https://github.com/google/spiqa)|
 |**2024-07-12**|**Liouville polarizations and the rigidity of their Lagrangian skeleta in dimension $4$**|Emmanuel Opshtein et.al.|[2407.09408v1](http://arxiv.org/abs/2407.09408v1)|null|
-|**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394v1](http://arxiv.org/abs/2407.09394v1)|null|
+|**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394v1](http://arxiv.org/abs/2407.09394v1)|[link](https://github.com/padas-lab-de/PersonaRAG)|
 |**2024-07-12**|**Seasonal variation of Saturn's Lyman-$α$ brightness**|P. Stephenson et.al.|[2407.09389v1](http://arxiv.org/abs/2407.09389v1)|null|
 |**2024-07-12**|**Meta-Analysis with Untrusted Data**|Shiva Kaul et.al.|[2407.09387v1](http://arxiv.org/abs/2407.09387v1)|null|
 |**2024-07-12**|**Graph Neural Network Causal Explanation via Neural Causal Models**|Arman Behnam et.al.|[2407.09378v1](http://arxiv.org/abs/2407.09378v1)|[link](https://github.com/armanbehnam/cxgnn)|

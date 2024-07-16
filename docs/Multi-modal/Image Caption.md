@@ -14,8 +14,8 @@
 |**2024-07-12**|**Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems**|Ziyuan Luo et.al.|[2407.09352v1](http://arxiv.org/abs/2407.09352v1)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299v1](http://arxiv.org/abs/2407.09299v1)|[link](https://github.com/fangyuanmao/pid)|
 |**2024-07-12**|**SS-SfP:Neural Inverse Rendering for Self Supervised Shape from (Mixed) Polarization**|Ashish Tiwari et.al.|[2407.09294v1](http://arxiv.org/abs/2407.09294v1)|null|
-|**2024-07-12**|**MetaFood CVPR 2024 Challenge on Physically Informed 3D Food Reconstruction: Methods and Results**|Jiangpeng He et.al.|[2407.09285v1](http://arxiv.org/abs/2407.09285v1)|null|
-|**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274v1](http://arxiv.org/abs/2407.09274v1)|null|
+|**2024-07-12**|**MetaFood CVPR 2024 Challenge on Physically Informed 3D Food Reconstruction: Methods and Results**|Jiangpeng He et.al.|[2407.09285v1](http://arxiv.org/abs/2407.09285v1)|[link](https://github.com/GCVCG/VolETA-MetaFood)|
+|**2024-07-12**|**Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX**|Zhiyuan Chen et.al.|[2407.09274v1](http://arxiv.org/abs/2407.09274v1)|[link](https://github.com/PaddlePaddle/PaddleHelix)|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268v1](http://arxiv.org/abs/2407.09268v1)|[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)|
 |**2024-07-12**|**Modelling the Human Intuition to Complete the Missing Information in Images for Convolutional Neural Networks**|Robin Koç et.al.|[2407.09236v1](http://arxiv.org/abs/2407.09236v1)|null|
 |**2024-07-12**|**Surgical Text-to-Image Generation**|Chinedu Innocent Nwoye et.al.|[2407.09230v1](http://arxiv.org/abs/2407.09230v1)|null|
