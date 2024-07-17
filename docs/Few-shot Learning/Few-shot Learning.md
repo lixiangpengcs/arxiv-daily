@@ -9,7 +9,7 @@
 |**2024-07-15**|**No Train, all Gain: Self-Supervised Gradients Improve Deep Frozen Representations**|Walter Simoncini et.al.|[2407.10964v1](http://arxiv.org/abs/2407.10964v1)|[link](https://github.com/waltersimoncini/fungivision)|
 |**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960v1](http://arxiv.org/abs/2407.10960v1)|null|
 |**2024-07-15**|**A unified theory and statistical learning approach for traffic conflict detection**|Yiru Jiao et.al.|[2407.10959v1](http://arxiv.org/abs/2407.10959v1)|null|
-|**2024-07-15**|**Enhancing Stochastic Optimization for Statistical Efficiency Using ROOT-SGD with Diminishing Stepsize**|Tong Zhang et.al.|[2407.10955v1](http://arxiv.org/abs/2407.10955v1)|null|
+|**2024-07-15**|**Enhancing Stochastic Optimization for Statistical Efficiency Using ROOT-SGD with Diminishing Stepsize**|Tong Zhang et.al.|[2407.10955v2](http://arxiv.org/abs/2407.10955v2)|null|
 |**2024-07-15**|**A Unified Differentiable Boolean Operator with Fuzzy Logic**|Hsueh-Ti Derek Liu et.al.|[2407.10954v1](http://arxiv.org/abs/2407.10954v1)|null|
 |**2024-07-15**|**Representing Rule-based Chatbots with Transformers**|Dan Friedman et.al.|[2407.10949v1](http://arxiv.org/abs/2407.10949v1)|[link](https://github.com/princeton-nlp/eliza-transformer)|
 |**2024-07-15**|**Learning from Naturally Occurring Feedback**|Shachar Don-Yehiya et.al.|[2407.10944v1](http://arxiv.org/abs/2407.10944v1)|null|

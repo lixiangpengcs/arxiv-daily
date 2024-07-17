@@ -26,7 +26,7 @@
 |**2024-07-15**|**NTSEBENCH: Cognitive Reasoning Benchmark for Vision Language Models**|Pranshu Pandya et.al.|[2407.10380v1](http://arxiv.org/abs/2407.10380v1)|null|
 |**2024-07-15**|**Enhanced Self-supervised Learning for Multi-modality MRI Segmentation and Classification: A Novel Approach Avoiding Model Collapse**|Linxuan Han et.al.|[2407.10377v1](http://arxiv.org/abs/2407.10377v1)|[link](https://github.com/linxuanhan/m2-mae)|
 |**2024-07-14**|**Affordance-Guided Reinforcement Learning via Visual Prompting**|Olivia Y. Lee et.al.|[2407.10341v1](http://arxiv.org/abs/2407.10341v1)|null|
-|**2024-07-14**|**psifx -- Psychological and Social Interactions Feature Extraction Package**|Guillaume Rochette et.al.|[2407.10266v1](http://arxiv.org/abs/2407.10266v1)|null|
+|**2024-07-14**|**psifx -- Psychological and Social Interactions Feature Extraction Package**|Guillaume Rochette et.al.|[2407.10266v2](http://arxiv.org/abs/2407.10266v2)|null|
 |**2024-07-14**|**Vector Field Attention for Deformable Image Registration**|Yihao Liu et.al.|[2407.10209v1](http://arxiv.org/abs/2407.10209v1)|[link](https://github.com/yihao6/vfa)|
 |**2024-07-14**|**Sensitivity Analysis and Monte Carlo Based Uncertainty Quantification of the In-process Modal Parameters in Milling**|M. Hashemitaheri et.al.|[2407.10202v1](http://arxiv.org/abs/2407.10202v1)|null|
 |**2024-07-14**|**Periodic frames**|Lev D. Beklemishev et.al.|[2407.10190v1](http://arxiv.org/abs/2407.10190v1)|null|
