@@ -2,6 +2,14 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-16**|**Magnetic memory and distinct spin populations in ferromagnetic Co3Sn2S2**|Charles Menil et.al.|[2407.11836v1](http://arxiv.org/abs/2407.11836v1)|null|
+|**2024-07-16**|**Touch in Human Social Robot Interaction: Systematic Literature Review with PRISMA Method**|Christiana Tsirka et.al.|[2407.11834v1](http://arxiv.org/abs/2407.11834v1)|null|
+|**2024-07-16**|**The Pivoting Framework: Frank-Wolfe Algorithms with Active Set Size Control**|Elias Wirth et.al.|[2407.11760v1](http://arxiv.org/abs/2407.11760v1)|null|
+|**2024-07-16**|**Tying knots in particle physics**|Minoru Eto et.al.|[2407.11731v1](http://arxiv.org/abs/2407.11731v1)|null|
+|**2024-07-16**|**A Meta-Learning Approach for Multi-Objective Reinforcement Learning in Sustainable Home Environments**|Junlin Lu et.al.|[2407.11489v1](http://arxiv.org/abs/2407.11489v1)|null|
+|**2024-07-16**|**XTraffic: A Dataset Where Traffic Meets Incidents with Explainability and More**|Xiaochuan Gou et.al.|[2407.11477v1](http://arxiv.org/abs/2407.11477v1)|null|
+|**2024-07-15**|**Meta-Optics Triplet for Zoom Imaging at Mid-Wave Infrared**|Anna Wirth-Singh et.al.|[2407.11255v1](http://arxiv.org/abs/2407.11255v1)|null|
+|**2024-07-15**|**Efficient In-Context Medical Segmentation with Meta-driven Visual Prompt Selection**|Chenwei Wu et.al.|[2407.11188v1](http://arxiv.org/abs/2407.11188v1)|null|
 |**2024-07-15**|**Electronic State Chromatography of Lutetium Cations**|Biswajit Jana et.al.|[2407.10851v1](http://arxiv.org/abs/2407.10851v1)|null|
 |**2024-07-15**|**MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs**|Quang H. Nguyen et.al.|[2407.10834v1](http://arxiv.org/abs/2407.10834v1)|null|
 |**2024-07-15**|**Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems**|Hyungjin Chung et.al.|[2407.10641v1](http://arxiv.org/abs/2407.10641v1)|[link](https://github.com/hj-harry/ddip3d)|
@@ -24,11 +32,3 @@
 |**2024-07-10**|**Integrating Human-Centric Approaches into Undergraduate Software Engineering Education: A Scoping Review and Curriculum Analysis in the Australian Context**|Sophie McKenzie et.al.|[2407.07322v1](http://arxiv.org/abs/2407.07322v1)|null|
 |**2024-07-09**|**Accelerating Mobile Edge Generation (MEG) by Constrained Learning**|Xiaoxia Xu et.al.|[2407.07245v1](http://arxiv.org/abs/2407.07245v1)|null|
 |**2024-07-09**|**Can Learned Optimization Make Reinforcement Learning Less Difficult?**|Alexander David Goldie et.al.|[2407.07082v1](http://arxiv.org/abs/2407.07082v1)|[link](https://github.com/alexgoldie/rl-learned-optimization)|
-|**2024-07-09**|**Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**|Lars Ullrich et.al.|[2407.06605v1](http://arxiv.org/abs/2407.06605v1)|null|
-|**2024-07-09**|**OffsetBias: Leveraging Debiased Data for Tuning Evaluators**|Junsoo Park et.al.|[2407.06551v1](http://arxiv.org/abs/2407.06551v1)|[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)|
-|**2024-07-08**|**Analysis of Robotic System Models Through Property Inheritance from Petri Net Meta-models**|Maksym Figat et.al.|[2407.06454v2](http://arxiv.org/abs/2407.06454v2)|null|
-|**2024-07-08**|**Transfer Learning with Self-Supervised Vision Transformers for Snake Identification**|Anthony Miyaguchi et.al.|[2407.06178v1](http://arxiv.org/abs/2407.06178v1)|[link](https://github.com/dsgt-kaggle-clef/snakeclef-2024)|
-|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135v1](http://arxiv.org/abs/2407.06135v1)|[link](https://github.com/gair-nlp/anole)|
-|**2024-07-08**|**Learning With Generalised Card Representations for "Magic: The Gathering"**|Timo Bertram et.al.|[2407.05879v1](http://arxiv.org/abs/2407.05879v1)|null|
-|**2024-07-08**|**Proceedings Workshop on Logical Frameworks and Meta-Languages: Theory and Practice**|Florian Rabe et.al.|[2407.05822v1](http://arxiv.org/abs/2407.05822v1)|null|
-|**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786v1](http://arxiv.org/abs/2407.05786v1)|null|
