@@ -21,7 +21,7 @@
 |**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921v1](http://arxiv.org/abs/2407.10921v1)|null|
 |**2024-07-15**|**PartImageNet++ Dataset: Scaling up Part-based Models for Robust Recognition**|Xiao Li et.al.|[2407.10918v1](http://arxiv.org/abs/2407.10918v1)|null|
 |**2024-07-15**|**When Heterophily Meets Heterogeneity: New Graph Benchmarks and Effective Methods**|Junhong Lin et.al.|[2407.10916v1](http://arxiv.org/abs/2407.10916v1)|[link](https://github.com/junhongmit/H2GB)|
-|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v1](http://arxiv.org/abs/2407.10910v1)|[link](https://github.com/explainableml/datadream)|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v2](http://arxiv.org/abs/2407.10910v2)|[link](https://github.com/explainableml/datadream)|
 |**2024-07-15**|**An Exploratory Study on Just-in-Time Multi-Programming-Language Bug Prediction**|Zengyang Li et.al.|[2407.10906v1](http://arxiv.org/abs/2407.10906v1)|null|
 |**2024-07-15**|**Hedging Beyond the Mean: A Distributional Reinforcement Learning Perspective for Hedging Portfolios with Structured Products**|Anil Sharma et.al.|[2407.10903v1](http://arxiv.org/abs/2407.10903v1)|null|
 |**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902v1](http://arxiv.org/abs/2407.10902v1)|null|

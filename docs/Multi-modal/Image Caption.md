@@ -11,7 +11,7 @@
 |**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923v1](http://arxiv.org/abs/2407.10923v1)|null|
 |**2024-07-15**|**A Dual-Attention Aware Deep Convolutional Neural Network for Early Alzheimer's Detection**|Pandiyaraju V et.al.|[2407.10921v1](http://arxiv.org/abs/2407.10921v1)|null|
 |**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920v1](http://arxiv.org/abs/2407.10920v1)|null|
-|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v1](http://arxiv.org/abs/2407.10910v1)|[link](https://github.com/explainableml/datadream)|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910v2](http://arxiv.org/abs/2407.10910v2)|[link](https://github.com/explainableml/datadream)|
 |**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909v1](http://arxiv.org/abs/2407.10909v1)|null|
 |**2024-07-15**|**Interpreting Hand gestures using Object Detection and Digits Classification**|Sangeetha K et.al.|[2407.10902v1](http://arxiv.org/abs/2407.10902v1)|null|
 |**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
