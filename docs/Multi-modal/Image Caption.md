@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966v1](http://arxiv.org/abs/2407.11966v1)|null|
 |**2024-07-16**|**Temporally Consistent Stereo Matching**|Jiaxi Zeng et.al.|[2407.11950v1](http://arxiv.org/abs/2407.11950v1)|[link](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)|
-|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946v1](http://arxiv.org/abs/2407.11946v1)|[link](https://github.com/pwangcs/hisvit)|
+|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946v2](http://arxiv.org/abs/2407.11946v2)|[link](https://github.com/pwangcs/hisvit)|
 |**2024-07-16**|**Beyond Spatial Explanations: Explainable Face Recognition in the Frequency Domain**|Marco Huber et.al.|[2407.11941v1](http://arxiv.org/abs/2407.11941v1)|null|
 |**2024-07-16**|**Thermal Imaging and Radar for Remote Sleep Monitoring of Breathing and Apnea**|Kai Del Regno et.al.|[2407.11936v1](http://arxiv.org/abs/2407.11936v1)|null|
 |**2024-07-16**|**Learning Multi-view Anomaly Detection**|Haoyang He et.al.|[2407.11935v1](http://arxiv.org/abs/2407.11935v1)|null|
@@ -28,7 +28,7 @@
 |**2024-07-16**|**OAM-TCD: A globally diverse dataset of high-resolution tree cover maps**|Josh Veitch-Michaelis et.al.|[2407.11743v1](http://arxiv.org/abs/2407.11743v1)|null|
 |**2024-07-16**|**Revolutionizing MRI Data Processing Using FSL: Preliminary Findings with the Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2407.11742v1](http://arxiv.org/abs/2407.11742v1)|null|
 |**2024-07-16**|**First-principles investigation of magnetic exchange force microscopy on adatoms adsorbed on an antiferromagnetic surface**|Soumyajyoti Haldar et.al.|[2407.11732v1](http://arxiv.org/abs/2407.11732v1)|null|
-|**2024-07-16**|**Monocular Occupancy Prediction for Scalable Indoor Scenes**|Hongxiao Yu et.al.|[2407.11730v1](http://arxiv.org/abs/2407.11730v1)|[link](https://github.com/hongxiaoy/ISO)|
+|**2024-07-16**|**Monocular Occupancy Prediction for Scalable Indoor Scenes**|Hongxiao Yu et.al.|[2407.11730v2](http://arxiv.org/abs/2407.11730v2)|[link](https://github.com/hongxiaoy/ISO)|
 |**2024-07-16**|**Compressive Electron Backscatter Diffraction Imaging**|Zoë Broad et.al.|[2407.11724v1](http://arxiv.org/abs/2407.11724v1)|null|
 |**2024-07-16**|**Improving Unsupervised Video Object Segmentation via Fake Flow Generation**|Suhwan Cho et.al.|[2407.11714v1](http://arxiv.org/abs/2407.11714v1)|[link](https://github.com/suhwan-cho/FakeFlow)|
 |**2024-07-16**|**Novel Artistic Scene-Centric Datasets for Effective Transfer Learning in Fragrant Spaces**|Shumei Liu et.al.|[2407.11701v1](http://arxiv.org/abs/2407.11701v1)|null|

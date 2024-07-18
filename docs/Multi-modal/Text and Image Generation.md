@@ -27,7 +27,7 @@
 |**2024-07-16**|**Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of Gauge Theories at Finite Temperature and Density**|I-Chi Chen et.al.|[2407.11949v1](http://arxiv.org/abs/2407.11949v1)|null|
 |**2024-07-16**|**Rethinking Transformer-based Multi-document Summarization: An Empirical Investigation**|Congbo Ma et.al.|[2407.11948v1](http://arxiv.org/abs/2407.11948v1)|null|
 |**2024-07-16**|**Spatiotemporal dynamics of ionic reorganization near biological membrane interfaces**|Hyeongjoo Row et.al.|[2407.11947v1](http://arxiv.org/abs/2407.11947v1)|null|
-|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946v1](http://arxiv.org/abs/2407.11946v1)|[link](https://github.com/pwangcs/hisvit)|
+|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946v2](http://arxiv.org/abs/2407.11946v2)|[link](https://github.com/pwangcs/hisvit)|
 |**2024-07-16**|**Min-max theory and existence of H-spheres with arbitrary codimensions**|Rui Gao et.al.|[2407.11945v1](http://arxiv.org/abs/2407.11945v1)|null|
 |**2024-07-16**|**Frequency dependence of nonsequential double ionization of atoms in strong laser fields**|Jan H. Thiede et.al.|[2407.11944v1](http://arxiv.org/abs/2407.11944v1)|null|
 |**2024-07-16**|**Horofunctions on the Heisenberg and Cartan groups**|Corentin Bodart et.al.|[2407.11943v1](http://arxiv.org/abs/2407.11943v1)|null|

@@ -10,7 +10,7 @@
 |**2024-07-16**|**Gradient Flows and Riemannian Structure in the Gromov-Wasserstein Geometry**|Zhengxin Zhang et.al.|[2407.11800v1](http://arxiv.org/abs/2407.11800v1)|null|
 |**2024-07-16**|**Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-development**|Daoyuan Chen et.al.|[2407.11784v1](http://arxiv.org/abs/2407.11784v1)|[link](https://github.com/modelscope/data-juicer)|
 |**2024-07-16**|**Generating Multi-Modal and Multi-Attribute Single-Cell Counts with CFGen**|Alessandro Palma et.al.|[2407.11734v1](http://arxiv.org/abs/2407.11734v1)|null|
-|**2024-07-16**|**Harnessing Large Language Models for Multimodal Product Bundling**|Xiaohao Liu et.al.|[2407.11712v1](http://arxiv.org/abs/2407.11712v1)|null|
+|**2024-07-16**|**Harnessing Large Language Models for Multimodal Product Bundling**|Xiaohao Liu et.al.|[2407.11712v2](http://arxiv.org/abs/2407.11712v2)|null|
 |**2024-07-16**|**Global atmospheric data assimilation with multi-modal masked autoencoders**|Thomas J. Vandal et.al.|[2407.11696v1](http://arxiv.org/abs/2407.11696v1)|null|
 |**2024-07-16**|**VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models**|Haodong Duan et.al.|[2407.11691v1](http://arxiv.org/abs/2407.11691v1)|[link](https://github.com/open-compass/vlmevalkit)|
 |**2024-07-16**|**Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning**|Yunbin Tu et.al.|[2407.11683v1](http://arxiv.org/abs/2407.11683v1)|null|
@@ -29,6 +29,6 @@
 |**2024-07-16**|**BUSClean: Open-source software for breast ultrasound image pre-processing and knowledge extraction for medical AI**|Arianna Bunnell et.al.|[2407.11316v1](http://arxiv.org/abs/2407.11316v1)|[link](https://github.com/hawaii-ai/bus-cleaning)|
 |**2024-07-16**|**COMET: "Cone of experience" enhanced large multimodal model for mathematical problem generation**|Sannyuya Liu et.al.|[2407.11315v1](http://arxiv.org/abs/2407.11315v1)|null|
 |**2024-07-15**|**Dynamical Control of Excitons in Atomically Thin Semiconductors**|Eric L. Peterson et.al.|[2407.11252v1](http://arxiv.org/abs/2407.11252v1)|null|
-|**2024-07-15**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hiearchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223v1](http://arxiv.org/abs/2407.11223v1)|null|
+|**2024-07-15**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hierarchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223v2](http://arxiv.org/abs/2407.11223v2)|null|
 |**2024-07-15**|**Efficient In-Context Medical Segmentation with Meta-driven Visual Prompt Selection**|Chenwei Wu et.al.|[2407.11188v1](http://arxiv.org/abs/2407.11188v1)|null|
 |**2024-07-15**|**Efficient Unsupervised Visual Representation Learning with Explicit Cluster Balancing**|Ioannis Maniadis Metaxas et.al.|[2407.11168v1](http://arxiv.org/abs/2407.11168v1)|null|

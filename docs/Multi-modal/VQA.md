@@ -28,7 +28,7 @@
 |**2024-07-16**|**Inferring the mass content of galaxy clusters with satellite kinematics and Jeans Anisotropic modeling**|Rui Shi et.al.|[2407.11721v1](http://arxiv.org/abs/2407.11721v1)|null|
 |**2024-07-16**|**Invariants for level-1 phylogenetic networks under the random walk 4-state Markov model**|M. Frohn et.al.|[2407.11720v1](http://arxiv.org/abs/2407.11720v1)|null|
 |**2024-07-16**|**No Questions Asked: Effects of Transparency on Stablecoin Liquidity During the Collapse of Silicon Valley Bank**|Walter Hernandez Cruz et.al.|[2407.11716v1](http://arxiv.org/abs/2407.11716v1)|null|
-|**2024-07-16**|**Harnessing Large Language Models for Multimodal Product Bundling**|Xiaohao Liu et.al.|[2407.11712v1](http://arxiv.org/abs/2407.11712v1)|null|
+|**2024-07-16**|**Harnessing Large Language Models for Multimodal Product Bundling**|Xiaohao Liu et.al.|[2407.11712v2](http://arxiv.org/abs/2407.11712v2)|null|
 |**2024-07-16**|**NITRO-D: Native Integer-only Training of Deep Convolutional Neural Networks**|Alberto Pirillo et.al.|[2407.11698v1](http://arxiv.org/abs/2407.11698v1)|null|
 |**2024-07-16**|**VLMEvalKit: An Open-Source Toolkit for Evaluating Large Multi-Modality Models**|Haodong Duan et.al.|[2407.11691v1](http://arxiv.org/abs/2407.11691v1)|[link](https://github.com/open-compass/vlmevalkit)|
 |**2024-07-16**|**Using Causality to Infer Coordinated Attacks in Social Media**|Isura Manchanayaka et.al.|[2407.11690v1](http://arxiv.org/abs/2407.11690v1)|null|
