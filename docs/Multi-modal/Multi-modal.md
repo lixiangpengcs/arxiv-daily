@@ -28,7 +28,7 @@
 |**2024-07-16**|**VISA: Reasoning Video Object Segmentation via Large Language Models**|Cilin Yan et.al.|[2407.11325v1](http://arxiv.org/abs/2407.11325v1)|[link](https://github.com/cilinyan/VISA)|
 |**2024-07-16**|**BUSClean: Open-source software for breast ultrasound image pre-processing and knowledge extraction for medical AI**|Arianna Bunnell et.al.|[2407.11316v1](http://arxiv.org/abs/2407.11316v1)|[link](https://github.com/hawaii-ai/bus-cleaning)|
 |**2024-07-16**|**COMET: "Cone of experience" enhanced large multimodal model for mathematical problem generation**|Sannyuya Liu et.al.|[2407.11315v1](http://arxiv.org/abs/2407.11315v1)|null|
-|**2024-07-15**|**Dynamical Control of Excitons in Atomically Thin Semiconductors**|Eric L. Peterson et.al.|[2407.11252v1](http://arxiv.org/abs/2407.11252v1)|null|
+|**2024-07-15**|**Dynamical Control of Excitons in Atomically Thin Semiconductors**|Eric L. Peterson et.al.|[2407.11252v2](http://arxiv.org/abs/2407.11252v2)|null|
 |**2024-07-15**|**DD_RoTIR: Dual-Domain Image Registration via Image Translation and Hierarchical Feature-matching**|Ruixiong Wang et.al.|[2407.11223v2](http://arxiv.org/abs/2407.11223v2)|null|
 |**2024-07-15**|**Efficient In-Context Medical Segmentation with Meta-driven Visual Prompt Selection**|Chenwei Wu et.al.|[2407.11188v1](http://arxiv.org/abs/2407.11188v1)|null|
 |**2024-07-15**|**Efficient Unsupervised Visual Representation Learning with Explicit Cluster Balancing**|Ioannis Maniadis Metaxas et.al.|[2407.11168v1](http://arxiv.org/abs/2407.11168v1)|null|
