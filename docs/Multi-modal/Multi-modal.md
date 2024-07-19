@@ -8,7 +8,7 @@
 |**2024-07-17**|**RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models**|Pengkun Jiao et.al.|[2407.12730v1](http://arxiv.org/abs/2407.12730v1)|null|
 |**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727v1](http://arxiv.org/abs/2407.12727v1)|null|
 |**2024-07-17**|**MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models**|Leyang Shen et.al.|[2407.12709v1](http://arxiv.org/abs/2407.12709v1)|[link](https://github.com/jiutian-vl/mome)|
-|**2024-07-17**|**Tree algebras and bisimulation-invariant MSO on finite graphs**|Thomas Colcombet et.al.|[2407.12677v1](http://arxiv.org/abs/2407.12677v1)|null|
+|**2024-07-17**|**Tree algebras and bisimulation-invariant MSO on finite graphs**|Thomas Colcombet et.al.|[2407.12677v2](http://arxiv.org/abs/2407.12677v2)|null|
 |**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616v1](http://arxiv.org/abs/2407.12616v1)|null|
 |**2024-07-17**|**Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection**|Hu Cao et.al.|[2407.12582v1](http://arxiv.org/abs/2407.12582v1)|null|
 |**2024-07-17**|**E5-V: Universal Embeddings with Multimodal Large Language Models**|Ting Jiang et.al.|[2407.12580v1](http://arxiv.org/abs/2407.12580v1)|[link](https://github.com/kongds/e5-v)|

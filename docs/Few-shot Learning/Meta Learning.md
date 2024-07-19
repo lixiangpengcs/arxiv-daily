@@ -6,9 +6,9 @@
 |**2024-07-17**|**Pulse-based variational quantum optimization and metalearning in superconducting circuits**|Yapeng Wang et.al.|[2407.12636v1](http://arxiv.org/abs/2407.12636v1)|null|
 |**2024-07-17**|**A Comprehensive Sustainable Framework for Machine Learning and Artificial Intelligence**|Roberto Pagliari et.al.|[2407.12445v1](http://arxiv.org/abs/2407.12445v1)|null|
 |**2024-07-17**|**MAGIC-VFM: Meta-learning Adaptation for Ground Interaction Control with Visual Foundation Models**|Elena Sorina Lupu et.al.|[2407.12304v1](http://arxiv.org/abs/2407.12304v1)|null|
-|**2024-07-17**|**Information-Theoretic Foundations for Machine Learning**|Hong Jun Jeon et.al.|[2407.12288v1](http://arxiv.org/abs/2407.12288v1)|null|
+|**2024-07-17**|**Information-Theoretic Foundations for Machine Learning**|Hong Jun Jeon et.al.|[2407.12288v2](http://arxiv.org/abs/2407.12288v2)|null|
 |**2024-07-17**|**Adaptive Cascading Network for Continual Test-Time Adaptation**|Kien X. Nguyen et.al.|[2407.12240v1](http://arxiv.org/abs/2407.12240v1)|null|
-|**2024-07-17**|**Base Models for Parabolic Partial Differential Equations**|Xingzi Xu et.al.|[2407.12234v1](http://arxiv.org/abs/2407.12234v1)|null|
+|**2024-07-17**|**Base Models for Parabolic Partial Differential Equations**|Xingzi Xu et.al.|[2407.12234v1](http://arxiv.org/abs/2407.12234v1)|[link](https://github.com/XingziXu/base_parabolic)|
 |**2024-07-16**|**CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation**|Xianzhong Ding et.al.|[2407.12195v1](http://arxiv.org/abs/2407.12195v1)|null|
 |**2024-07-16**|**Magnetic memory and distinct spin populations in ferromagnetic Co3Sn2S2**|Charles Menil et.al.|[2407.11836v1](http://arxiv.org/abs/2407.11836v1)|null|
 |**2024-07-16**|**Touch in Human Social Robot Interaction: Systematic Literature Review with PRISMA Method**|Christiana Tsirka et.al.|[2407.11834v1](http://arxiv.org/abs/2407.11834v1)|null|

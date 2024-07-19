@@ -26,9 +26,9 @@
 |**2024-07-17**|**Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial Vehicles Surveillance in Day and Night Dual Visions**|Alam Noor et.al.|[2407.12647v1](http://arxiv.org/abs/2407.12647v1)|null|
 |**2024-07-17**|**Zero-shot Text-guided Infinite Image Synthesis with LLM guidance**|Soyeong Kwon et.al.|[2407.12642v1](http://arxiv.org/abs/2407.12642v1)|null|
 |**2024-07-17**|**Toward INT4 Fixed-Point Training via Exploring Quantization Error for Gradients**|Dohyung Kim et.al.|[2407.12637v1](http://arxiv.org/abs/2407.12637v1)|null|
-|**2024-07-17**|**Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation**|Prantik Howlader et.al.|[2407.12630v1](http://arxiv.org/abs/2407.12630v1)|null|
-|**2024-07-17**|**Rethinking the Architecture Design for Efficient Generic Event Boundary Detection**|Ziwei Zheng et.al.|[2407.12622v1](http://arxiv.org/abs/2407.12622v1)|null|
+|**2024-07-17**|**Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation**|Prantik Howlader et.al.|[2407.12630v1](http://arxiv.org/abs/2407.12630v1)|[link](https://github.com/cvlab-stonybrook/Weighting-Pseudo-Labels)|
+|**2024-07-17**|**Rethinking the Architecture Design for Efficient Generic Event Boundary Detection**|Ziwei Zheng et.al.|[2407.12622v1](http://arxiv.org/abs/2407.12622v1)|[link](https://github.com/ziwei-zheng/efficientgebd)|
 |**2024-07-17**|**Distinguishing Isotropic and Anisotropic Signals for X-ray Total Scattering using Machine Learning**|Danielle N. Alverson et.al.|[2407.12621v1](http://arxiv.org/abs/2407.12621v1)|null|
 |**2024-07-17**|**Strawberry detection and counting based on YOLOv7 pruning and information based tracking algorithm**|Shiyu Liu et.al.|[2407.12614v1](http://arxiv.org/abs/2407.12614v1)|null|
-|**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605v1](http://arxiv.org/abs/2407.12605v1)|null|
+|**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605v1](http://arxiv.org/abs/2407.12605v1)|[link](https://github.com/teto1992/declace)|
 |**2024-07-17**|**On Diversity in Discriminative Neural Networks**|Brahim Oubaha et.al.|[2407.12599v1](http://arxiv.org/abs/2407.12599v1)|null|
