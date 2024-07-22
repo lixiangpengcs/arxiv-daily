@@ -2,33 +2,33 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491v1](http://arxiv.org/abs/2407.14491v1)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473v1](http://arxiv.org/abs/2407.14473v1)|null|
+|**2024-07-19**|**Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model**|Seonghui Min et.al.|[2407.14434v1](http://arxiv.org/abs/2407.14434v1)|null|
+|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419v1](http://arxiv.org/abs/2407.14419v1)|null|
+|**2024-07-19**|**Modality-Order Matters! A Novel Hierarchical Feature Fusion Method for CoSAm: A Code-Switched Autism Corpus**|Mohd Mujtaba Akhtar et.al.|[2407.14328v1](http://arxiv.org/abs/2407.14328v1)|null|
+|**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277v1](http://arxiv.org/abs/2407.14277v1)|[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)|
+|**2024-07-19**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242v1](http://arxiv.org/abs/2407.14242v1)|[link](https://github.com/YBIO/CPP)|
+|**2024-07-19**|**Hyper-Heuristics Can Profit From Global Variation Operators**|Benjamin Doerr et.al.|[2407.14237v1](http://arxiv.org/abs/2407.14237v1)|null|
+|**2024-07-19**|**ETSCL: An Evidence Theory-Based Supervised Contrastive Learning Framework for Multi-modal Glaucoma Grading**|Zhiyuan Yang et.al.|[2407.14230v1](http://arxiv.org/abs/2407.14230v1)|[link](https://github.com/master-Shix/ETSCL)|
+|**2024-07-19**|**Braille-to-Speech Generator: Audio Generation Based on Joint Fine-Tuning of CLIP and Fastspeech2**|Chun Xu et.al.|[2407.14212v1](http://arxiv.org/abs/2407.14212v1)|null|
+|**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198v1](http://arxiv.org/abs/2407.14198v1)|null|
+|**2024-07-19**|**TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion**|Xin Tian et.al.|[2407.14188v1](http://arxiv.org/abs/2407.14188v1)|[link](https://github.com/xintian-99/tagat)|
+|**2024-07-19**|**EVLM: An Efficient Vision-Language Model for Visual Understanding**|Kaibing Chen et.al.|[2407.14177v1](http://arxiv.org/abs/2407.14177v1)|null|
+|**2024-07-19**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153v1](http://arxiv.org/abs/2407.14153v1)|null|
+|**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146v1](http://arxiv.org/abs/2407.14146v1)|null|
+|**2024-07-19**|**I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction**|Zaiqiao Meng et.al.|[2407.14133v1](http://arxiv.org/abs/2407.14133v1)|null|
+|**2024-07-19**|**Not All Attention is Needed: Parameter and Computation Efficient Tuning for Multi-modal Large Language Models via Effective Attention Skipping**|Qiong Wu et.al.|[2407.14093v1](http://arxiv.org/abs/2407.14093v1)|null|
+|**2024-07-19**|**On the Causal Sufficiency and Necessity of Multi-Modal Representation Learning**|Jingyao Wang et.al.|[2407.14058v1](http://arxiv.org/abs/2407.14058v1)|null|
+|**2024-07-19**|**Semi-supervised reference-based sketch extraction using a contrastive learning framework**|Chang Wook Seo et.al.|[2407.14026v1](http://arxiv.org/abs/2407.14026v1)|null|
+|**2024-07-19**|**NeuroBind: Towards Unified Multimodal Representations for Neural Signals**|Fengyu Yang et.al.|[2407.14020v1](http://arxiv.org/abs/2407.14020v1)|null|
+|**2024-07-19**|**Segmentation of Brain Metastases in MRI: A Two-Stage Deep Learning Approach with Modality Impact Study**|Yousef Sadegheih et.al.|[2407.14011v1](http://arxiv.org/abs/2407.14011v1)|null|
+|**2024-07-19**|**Multi-modal Relation Distillation for Unified 3D Representation Learning**|Huiqun Wang et.al.|[2407.14007v1](http://arxiv.org/abs/2407.14007v1)|null|
+|**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937v1](http://arxiv.org/abs/2407.13937v1)|null|
+|**2024-07-18**|**Unsupervised Video Highlight Detection by Learning from Audio and Visual Recurrence**|Zahidul Islam et.al.|[2407.13933v1](http://arxiv.org/abs/2407.13933v1)|null|
+|**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930v1](http://arxiv.org/abs/2407.13930v1)|null|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761v1](http://arxiv.org/abs/2407.13761v1)|null|
 |**2024-07-18**|**Baba Is AI: Break the Rules to Beat the Benchmark**|Nathan Cloos et.al.|[2407.13729v1](http://arxiv.org/abs/2407.13729v1)|null|
 |**2024-07-18**|**Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment**|Arda Senocak et.al.|[2407.13676v1](http://arxiv.org/abs/2407.13676v1)|[link](https://github.com/kaistmm/SSLalignment)|
 |**2024-07-18**|**A tree rewriting system for the Reflection Calculus**|Sofía Santiago-Fernández et.al.|[2407.13619v1](http://arxiv.org/abs/2407.13619v1)|null|
 |**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596v1](http://arxiv.org/abs/2407.13596v1)|null|
-|**2024-07-18**|**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**|Sheng-Wei Li et.al.|[2407.13460v1](http://arxiv.org/abs/2407.13460v1)|[link](https://github.com/pha123661/SA-DVAE)|
-|**2024-07-18**|**Removing cloud shadows from ground-based solar imagery**|Amal Chaoui et.al.|[2407.13379v1](http://arxiv.org/abs/2407.13379v1)|null|
-|**2024-07-18**|**On the Logical and Algebraic Aspects of Reasoning with Formal Contexts**|Prosenjit Howlader et.al.|[2407.13287v1](http://arxiv.org/abs/2407.13287v1)|null|
-|**2024-07-18**|**Deep Time Series Models: A Comprehensive Survey and Benchmark**|Yuxuan Wang et.al.|[2407.13278v1](http://arxiv.org/abs/2407.13278v1)|null|
-|**2024-07-18**|**How Private is Low-Frequency Speech Audio in the Wild? An Analysis of Verbal Intelligibility by Humans and Machines**|Ailin Liu et.al.|[2407.13266v1](http://arxiv.org/abs/2407.13266v1)|null|
-|**2024-07-18**|**Make a Strong Teacher with Label Assistance: A Novel Knowledge Distillation Approach for Semantic Segmentation**|Shoumeng Qiu et.al.|[2407.13254v1](http://arxiv.org/abs/2407.13254v1)|null|
-|**2024-07-18**|**STS MICCAI 2023 Challenge: Grand challenge on 2D and 3D semi-supervised tooth segmentation**|Yaqi Wang et.al.|[2407.13246v1](http://arxiv.org/abs/2407.13246v1)|null|
-|**2024-07-18**|**Improved Esophageal Varices Assessment from Non-Contrast CT Scans**|Chunli Li et.al.|[2407.13210v1](http://arxiv.org/abs/2407.13210v1)|null|
-|**2024-07-18**|**Training-Free Large Model Priors for Multiple-in-One Image Restoration**|Xuanhua He et.al.|[2407.13181v1](http://arxiv.org/abs/2407.13181v1)|null|
-|**2024-07-18**|**Droplet breakup and size distribution in an airstream -- effect of inertia**|Someshwar Sanjay Ade et.al.|[2407.13160v1](http://arxiv.org/abs/2407.13160v1)|null|
-|**2024-07-18**|**PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving**|Jiyuan Fu et.al.|[2407.13111v1](http://arxiv.org/abs/2407.13111v1)|null|
-|**2024-07-18**|**Tree semantic segmentation from aerial image time series**|Venkatesh Ramesh et.al.|[2407.13102v1](http://arxiv.org/abs/2407.13102v1)|null|
-|**2024-07-18**|**Audio-visual Generalized Zero-shot Learning the Easy Way**|Shentong Mo et.al.|[2407.13095v1](http://arxiv.org/abs/2407.13095v1)|null|
-|**2024-07-18**|**CC-DCNet: Dynamic Convolutional Neural Network with Contrastive Constraints for Identifying Lung Cancer Subtypes on Multi-modality Images**|Yuan Jin et.al.|[2407.13092v1](http://arxiv.org/abs/2407.13092v1)|null|
-|**2024-07-18**|**Enhanced Denoising of OCT Images Using Residual U-Net: A Cross-Modality Approach on PSOCT and ASOCT for Clinical Diagnostics**|Akkidas Noel Prakasha et.al.|[2407.13090v1](http://arxiv.org/abs/2407.13090v1)|null|
-|**2024-07-18**|**MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking**|Ting-Chih Chen et.al.|[2407.13089v1](http://arxiv.org/abs/2407.13089v1)|null|
-|**2024-07-17**|**Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems**|Tamer Abuelsaad et.al.|[2407.13032v1](http://arxiv.org/abs/2407.13032v1)|null|
-|**2024-07-17**|**On-sky, real-time optical gain calibration on MagAO-X using incoherent speckles**|Eden A. McEwen et.al.|[2407.13022v1](http://arxiv.org/abs/2407.13022v1)|null|
-|**2024-07-17**|**Denoising Diffusions in Latent Space for Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2407.12952v1](http://arxiv.org/abs/2407.12952v1)|null|
-|**2024-07-17**|**Text- and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild**|Nicolas Richet et.al.|[2407.12927v1](http://arxiv.org/abs/2407.12927v1)|null|
-|**2024-07-17**|**Experimental Demonstration of a Quantum-Optimal Coronagraph Using Spatial Mode Sorters**|Nico Deshler et.al.|[2407.12776v1](http://arxiv.org/abs/2407.12776v1)|null|
-|**2024-07-17**|**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**|Kaichen Zhang et.al.|[2407.12772v1](http://arxiv.org/abs/2407.12772v1)|[link](https://github.com/evolvinglmms-lab/lmms-eval)|
-|**2024-07-17**|**Mutual Information Guided Optimal Transport for Unsupervised Visible-Infrared Person Re-identification**|Zhizhong Zhang et.al.|[2407.12758v1](http://arxiv.org/abs/2407.12758v1)|null|
-|**2024-07-17**|**RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models**|Pengkun Jiao et.al.|[2407.12730v1](http://arxiv.org/abs/2407.12730v1)|null|
-|**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727v1](http://arxiv.org/abs/2407.12727v1)|null|
