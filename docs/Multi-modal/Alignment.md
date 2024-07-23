@@ -7,7 +7,7 @@
 |**2024-07-19**|**Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model**|Seonghui Min et.al.|[2407.14434v1](http://arxiv.org/abs/2407.14434v1)|null|
 |**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419v1](http://arxiv.org/abs/2407.14419v1)|null|
 |**2024-07-19**|**Modality-Order Matters! A Novel Hierarchical Feature Fusion Method for CoSAm: A Code-Switched Autism Corpus**|Mohd Mujtaba Akhtar et.al.|[2407.14328v1](http://arxiv.org/abs/2407.14328v1)|null|
-|**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277v1](http://arxiv.org/abs/2407.14277v1)|[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)|
+|**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277v2](http://arxiv.org/abs/2407.14277v2)|[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)|
 |**2024-07-19**|**Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images**|Bo Yuan et.al.|[2407.14242v1](http://arxiv.org/abs/2407.14242v1)|[link](https://github.com/YBIO/CPP)|
 |**2024-07-19**|**Hyper-Heuristics Can Profit From Global Variation Operators**|Benjamin Doerr et.al.|[2407.14237v1](http://arxiv.org/abs/2407.14237v1)|null|
 |**2024-07-19**|**ETSCL: An Evidence Theory-Based Supervised Contrastive Learning Framework for Multi-modal Glaucoma Grading**|Zhiyuan Yang et.al.|[2407.14230v1](http://arxiv.org/abs/2407.14230v1)|[link](https://github.com/master-Shix/ETSCL)|
@@ -31,4 +31,4 @@
 |**2024-07-18**|**Baba Is AI: Break the Rules to Beat the Benchmark**|Nathan Cloos et.al.|[2407.13729v1](http://arxiv.org/abs/2407.13729v1)|null|
 |**2024-07-18**|**Aligning Sight and Sound: Advanced Sound Source Localization Through Audio-Visual Alignment**|Arda Senocak et.al.|[2407.13676v1](http://arxiv.org/abs/2407.13676v1)|[link](https://github.com/kaistmm/SSLalignment)|
 |**2024-07-18**|**A tree rewriting system for the Reflection Calculus**|Sofía Santiago-Fernández et.al.|[2407.13619v1](http://arxiv.org/abs/2407.13619v1)|null|
-|**2024-07-18**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596v2](http://arxiv.org/abs/2407.13596v2)|null|
+|**2024-07-18**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596v2](http://arxiv.org/abs/2407.13596v2)|[link](https://github.com/wivizhang/earthmarker)|

@@ -25,9 +25,9 @@
 |**2024-07-19**|**Frontiers of Deep Learning: From Novel Application to Real-World Deployment**|Rui Xie et.al.|[2407.14386v1](http://arxiv.org/abs/2407.14386v1)|null|
 |**2024-07-19**|**Search for Very-Short-Baseline Oscillations of Reactor Antineutrinos with the SoLid Detector**|Y. Abreu et.al.|[2407.14382v1](http://arxiv.org/abs/2407.14382v1)|null|
 |**2024-07-19**|**Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors**|Zhuo Chen et.al.|[2407.14380v1](http://arxiv.org/abs/2407.14380v1)|null|
-|**2024-07-19**|**Coincidences of Division Fields of an elliptic curve defined over a number field**|Zoé Yvon et.al.|[2407.14370v1](http://arxiv.org/abs/2407.14370v1)|null|
+|**2024-07-19**|**Coincidences of Division Fields of an elliptic curve defined over a number field**|Zoé Yvon et.al.|[2407.14370v2](http://arxiv.org/abs/2407.14370v2)|null|
 |**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367v1](http://arxiv.org/abs/2407.14367v1)|null|
-|**2024-07-19**|**Vision-Based Power Line Cables and Pylons Detection for Low Flying Aircrafts**|Jakub Gwizdała et.al.|[2407.14352v1](http://arxiv.org/abs/2407.14352v1)|null|
+|**2024-07-19**|**Vision-Based Power Line Cables and Pylons Detection for Low Flying Aircrafts**|Jakub Gwizdała et.al.|[2407.14352v2](http://arxiv.org/abs/2407.14352v2)|null|
 |**2024-07-19**|**Large Kernel Distillation Network for Efficient Single Image Super-Resolution**|Chengxing Xie et.al.|[2407.14340v1](http://arxiv.org/abs/2407.14340v1)|[link](https://github.com/stella-von/LKDN)|
 |**2024-07-19**|**As Generative Models Improve, People Adapt Their Prompts**|Eaman Jahani et.al.|[2407.14333v1](http://arxiv.org/abs/2407.14333v1)|null|
 |**2024-07-19**|**Efficient Audio Captioning with Encoder-Level Knowledge Distillation**|Xuenan Xu et.al.|[2407.14329v1](http://arxiv.org/abs/2407.14329v1)|null|

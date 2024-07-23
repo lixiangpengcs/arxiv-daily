@@ -18,7 +18,7 @@
 |**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494v1](http://arxiv.org/abs/2407.14494v1)|null|
 |**2024-07-19**|**Adaptive Uncertainty Quantification for Scenario-based Control Using Meta-learning of Bayesian Neural Networks**|Yajie Bao et.al.|[2407.14492v1](http://arxiv.org/abs/2407.14492v1)|null|
 |**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491v1](http://arxiv.org/abs/2407.14491v1)|null|
-|**2024-07-19**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490v1](http://arxiv.org/abs/2407.14490v1)|null|
+|**2024-07-19**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490v2](http://arxiv.org/abs/2407.14490v2)|null|
 |**2024-07-19**|**Investigating the Event-Shape Methods in Search for the Chiral Magnetic Effect in Relativistic Heavy Ion Collisions**|Han-Sheng Li et.al.|[2407.14489v1](http://arxiv.org/abs/2407.14489v1)|null|
 |**2024-07-19**|**Evaluating the Reliability of Self-Explanations in Large Language Models**|Korbinian Randl et.al.|[2407.14487v1](http://arxiv.org/abs/2407.14487v1)|[link](https://github.com/k-randl/self-explaining_llms)|
 |**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486v1](http://arxiv.org/abs/2407.14486v1)|[link](https://github.com/aleedelarica/XDRL-for-finance)|
