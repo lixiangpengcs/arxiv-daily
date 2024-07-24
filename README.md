@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-24 20:48:02 Asia/Shanghai
+ Automated deployment @ 2024-07-24 21:02:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,74 +8,6 @@
 ### Vision-Language
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### VQA
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
-|**2024-07-23**|**Automatic Equalization for Individual Instrument Tracks Using Convolutional Neural Networks**|Florian Mockenhaupt et.al.|[2407.16691v1](http://arxiv.org/abs/2407.16691v1)|null|
-|**2024-07-23**|**Robust Preference for Dynamical Dark Energy in DESI BAO and SN Measurements**|William Giarè et.al.|[2407.16689v1](http://arxiv.org/abs/2407.16689v1)|null|
-|**2024-07-23**|**6G at $\frac{1}{6}g$: The Future of Cislunar Communications**|Sahan Liyanaarachchi et.al.|[2407.16672v1](http://arxiv.org/abs/2407.16672v1)|null|
-|**2024-07-23**|**Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars**|Tathagata Ghosh et.al.|[2407.16669v1](http://arxiv.org/abs/2407.16669v1)|null|
-|**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665v1](http://arxiv.org/abs/2407.16665v1)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636v1](http://arxiv.org/abs/2407.16636v1)|null|
-|**2024-07-23**|**Time resolved quantum tomography in molecular spectroscopy by the Maximal Entropy Approach**|Varun Makhija et.al.|[2407.16630v1](http://arxiv.org/abs/2407.16630v1)|null|
-|**2024-07-23**|**Hardness of sampling solutions from the Symmetric Binary Perceptron**|Ahmed El Alaoui et.al.|[2407.16627v1](http://arxiv.org/abs/2407.16627v1)|null|
-|**2024-07-23**|**Semantic Change Characterization with LLMs using Rhetorics**|Jader Martins Camboim de Sá et.al.|[2407.16624v1](http://arxiv.org/abs/2407.16624v1)|null|
-|**2024-07-23**|**Inverse Particle and Ensemble Kalman Filters**|Himali Singh et.al.|[2407.16623v1](http://arxiv.org/abs/2407.16623v1)|null|
-|**2024-07-23**|**Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?**|Jonathan Hayase et.al.|[2407.16607v1](http://arxiv.org/abs/2407.16607v1)|null|
-|**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604v1](http://arxiv.org/abs/2407.16604v1)|null|
-|**2024-07-23**|**Inference of rankings planted in random tournaments**|Dmitriy Kunisky et.al.|[2407.16597v1](http://arxiv.org/abs/2407.16597v1)|null|
-|**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v1](http://arxiv.org/abs/2407.16557v1)|null|
-|**2024-07-23**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
-|**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537v1](http://arxiv.org/abs/2407.16537v1)|null|
-|**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526v1](http://arxiv.org/abs/2407.16526v1)|null|
-|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521v1](http://arxiv.org/abs/2407.16521v1)|null|
-|**2024-07-23**|**Application of the Eddington inversion method to constrain the dark matter halo of galaxies using only observed surface brightness profiles**|Jorge Sanchez Almeida et.al.|[2407.16519v1](http://arxiv.org/abs/2407.16519v1)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
-|**2024-07-23**|**Neural information field filter**|Kairui Hao et.al.|[2407.16502v1](http://arxiv.org/abs/2407.16502v1)|null|
-|**2024-07-23**|**Unconventional Pressure Dependent Interorbital and Interlayer Doping in Superconducting Nickelates**|Y. N. Huang et.al.|[2407.16495v1](http://arxiv.org/abs/2407.16495v1)|null|
-|**2024-07-23**|**Spectroscopic analysis of the strongly lensed SN~Encore: Constraints on cosmic evolution of Type Ia supernovae**|S. Dhawan et.al.|[2407.16492v1](http://arxiv.org/abs/2407.16492v1)|null|
-|**2024-07-23**|**Learning General Continuous Constraint from Demonstrations via Positive-Unlabeled Learning**|Baiyu Peng et.al.|[2407.16485v1](http://arxiv.org/abs/2407.16485v1)|null|
-|**2024-07-23**|**Revisiting Empirical Solar Energetic Particle Scaling Relations II. Coronal Mass Ejections**|Athanasios Papaioannou et.al.|[2407.16479v1](http://arxiv.org/abs/2407.16479v1)|null|
-|**2024-07-23**|**qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**|Shishuai Wang et.al.|[2407.16477v1](http://arxiv.org/abs/2407.16477v1)|null|
-|**2024-07-23**|**Revisiting the dynamical masses of the transiting planets in the young AU Mic system: Potential AU Mic b inflation at $\sim$20 Myr**|M. Mallorquín et.al.|[2407.16461v1](http://arxiv.org/abs/2407.16461v1)|null|
-|**2024-07-23**|**Psychomatics -- A Multidisciplinary Framework for Understanding Artificial Minds**|Giuseppe Riva et.al.|[2407.16444v1](http://arxiv.org/abs/2407.16444v1)|null|
-|**2024-07-23**|**Multi-Industry Simplex 2.0 : Temporally-Evolving Probabilistic Industry Classification**|Maksim Papenkov et.al.|[2407.16437v1](http://arxiv.org/abs/2407.16437v1)|null|
-
-### Image Caption
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698v1](http://arxiv.org/abs/2407.16698v1)|[link](https://github.com/fabiotosi92/diffusion4robustdepth)|
-|**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
-|**2024-07-23**|**PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects**|Junyi Li et.al.|[2407.16696v1](http://arxiv.org/abs/2407.16696v1)|null|
-|**2024-07-23**|**DIISC-V: Variations in H$α$-to-FUV Star Formation Rate Ratios Across Star-forming Regions in Nearby Galaxies**|Mansi Padave et.al.|[2407.16690v1](http://arxiv.org/abs/2407.16690v1)|null|
-|**2024-07-23**|**AutoRG-Brain: Grounded Report Generation for Brain MRI**|Jiayu Lei et.al.|[2407.16684v1](http://arxiv.org/abs/2407.16684v1)|null|
-|**2024-07-23**|**SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation**|Pengfei Chen et.al.|[2407.16682v1](http://arxiv.org/abs/2407.16682v1)|null|
-|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677v1](http://arxiv.org/abs/2407.16677v1)|null|
-|**2024-07-23**|**FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process**|Yuyan Bu et.al.|[2407.16670v1](http://arxiv.org/abs/2407.16670v1)|null|
-|**2024-07-23**|**Fluorescence Diffraction Tomography using Explicit Neural Fields**|Renzhi He et.al.|[2407.16657v1](http://arxiv.org/abs/2407.16657v1)|null|
-|**2024-07-23**|**Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models**|Maciej Chrabaszcz et.al.|[2407.16653v1](http://arxiv.org/abs/2407.16653v1)|[link](https://github.com/mi2datalab/agg2exp)|
-|**2024-07-23**|**Hints of planet formation signatures in a large-cavity disk studied in the AGE-PRO ALMA Large Program**|Anibal Sierra et.al.|[2407.16651v1](http://arxiv.org/abs/2407.16651v1)|null|
-|**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647v1](http://arxiv.org/abs/2407.16647v1)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636v1](http://arxiv.org/abs/2407.16636v1)|null|
-|**2024-07-23**|**A proof of the Mond conjecture for wave fronts**|C. Muñoz-Cabello et.al.|[2407.16635v1](http://arxiv.org/abs/2407.16635v1)|null|
-|**2024-07-23**|**Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses**|Haojun Yu et.al.|[2407.16634v1](http://arxiv.org/abs/2407.16634v1)|null|
-|**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
-|**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600v1](http://arxiv.org/abs/2407.16600v1)|null|
-|**2024-07-23**|**Timeliness-Fidelity Tradeoff in 3D Scene Representations**|Xiangmin Xu et.al.|[2407.16575v1](http://arxiv.org/abs/2407.16575v1)|null|
-|**2024-07-23**|**Correlating Stroke Risk with Non-Invasive Tracing of Brain Blood Dynamic via a Portable Speckle Contrast Optical Spectroscopy Laser Device**|Yu Xi Huang et.al.|[2407.16571v1](http://arxiv.org/abs/2407.16571v1)|null|
-|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552v1](http://arxiv.org/abs/2407.16552v1)|null|
-|**2024-07-23**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
-|**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541v1](http://arxiv.org/abs/2407.16541v1)|[link](https://github.com/keichitse/qpt-v2)|
-|**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526v1](http://arxiv.org/abs/2407.16526v1)|null|
-|**2024-07-23**|**An indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS**|A. Acharyya et.al.|[2407.16518v1](http://arxiv.org/abs/2407.16518v1)|null|
-|**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511v1](http://arxiv.org/abs/2407.16511v1)|null|
-|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
-|**2024-07-23**|**Chiral emission of vortex microlasers enabled by collective modes of guided resonances**|Ye Chen et.al.|[2407.16499v1](http://arxiv.org/abs/2407.16499v1)|null|
-|**2024-07-23**|**Complementary Speckle STED Microscopy**|Payvand Arjmand et.al.|[2407.16493v1](http://arxiv.org/abs/2407.16493v1)|null|
-|**2024-07-23**|**Spectroscopic analysis of the strongly lensed SN~Encore: Constraints on cosmic evolution of Type Ia supernovae**|S. Dhawan et.al.|[2407.16492v1](http://arxiv.org/abs/2407.16492v1)|null|
-|**2024-07-23**|**Design of diffractive neural networks solving different classification problems at different wavelengths**|Georgy A. Motz et.al.|[2407.16486v1](http://arxiv.org/abs/2407.16486v1)|null|
 
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
@@ -179,9 +111,77 @@
 |**2024-07-23**|**Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars**|Tathagata Ghosh et.al.|[2407.16669v1](http://arxiv.org/abs/2407.16669v1)|null|
 |**2024-07-23**|**Anomalous Regularization in Kraichnan's Passive Scalar Model**|Lucio Galeati et.al.|[2407.16668v1](http://arxiv.org/abs/2407.16668v1)|null|
 
+### Image Caption
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698v1](http://arxiv.org/abs/2407.16698v1)|[link](https://github.com/fabiotosi92/diffusion4robustdepth)|
+|**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
+|**2024-07-23**|**PartGLEE: A Foundation Model for Recognizing and Parsing Any Objects**|Junyi Li et.al.|[2407.16696v1](http://arxiv.org/abs/2407.16696v1)|null|
+|**2024-07-23**|**DIISC-V: Variations in H$α$-to-FUV Star Formation Rate Ratios Across Star-forming Regions in Nearby Galaxies**|Mansi Padave et.al.|[2407.16690v1](http://arxiv.org/abs/2407.16690v1)|null|
+|**2024-07-23**|**AutoRG-Brain: Grounded Report Generation for Brain MRI**|Jiayu Lei et.al.|[2407.16684v1](http://arxiv.org/abs/2407.16684v1)|null|
+|**2024-07-23**|**SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation**|Pengfei Chen et.al.|[2407.16682v1](http://arxiv.org/abs/2407.16682v1)|null|
+|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677v1](http://arxiv.org/abs/2407.16677v1)|null|
+|**2024-07-23**|**FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process**|Yuyan Bu et.al.|[2407.16670v1](http://arxiv.org/abs/2407.16670v1)|null|
+|**2024-07-23**|**Fluorescence Diffraction Tomography using Explicit Neural Fields**|Renzhi He et.al.|[2407.16657v1](http://arxiv.org/abs/2407.16657v1)|null|
+|**2024-07-23**|**Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models**|Maciej Chrabaszcz et.al.|[2407.16653v1](http://arxiv.org/abs/2407.16653v1)|[link](https://github.com/mi2datalab/agg2exp)|
+|**2024-07-23**|**Hints of planet formation signatures in a large-cavity disk studied in the AGE-PRO ALMA Large Program**|Anibal Sierra et.al.|[2407.16651v1](http://arxiv.org/abs/2407.16651v1)|null|
+|**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647v1](http://arxiv.org/abs/2407.16647v1)|null|
+|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636v1](http://arxiv.org/abs/2407.16636v1)|null|
+|**2024-07-23**|**A proof of the Mond conjecture for wave fronts**|C. Muñoz-Cabello et.al.|[2407.16635v1](http://arxiv.org/abs/2407.16635v1)|null|
+|**2024-07-23**|**Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses**|Haojun Yu et.al.|[2407.16634v1](http://arxiv.org/abs/2407.16634v1)|null|
+|**2024-07-23**|**Deep Bayesian segmentation for colon polyps: Well-calibrated predictions in medical imaging**|Daniela L. Ramos et.al.|[2407.16608v1](http://arxiv.org/abs/2407.16608v1)|null|
+|**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600v1](http://arxiv.org/abs/2407.16600v1)|null|
+|**2024-07-23**|**Timeliness-Fidelity Tradeoff in 3D Scene Representations**|Xiangmin Xu et.al.|[2407.16575v1](http://arxiv.org/abs/2407.16575v1)|null|
+|**2024-07-23**|**Correlating Stroke Risk with Non-Invasive Tracing of Brain Blood Dynamic via a Portable Speckle Contrast Optical Spectroscopy Laser Device**|Yu Xi Huang et.al.|[2407.16571v1](http://arxiv.org/abs/2407.16571v1)|null|
+|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552v1](http://arxiv.org/abs/2407.16552v1)|null|
+|**2024-07-23**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
+|**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541v1](http://arxiv.org/abs/2407.16541v1)|[link](https://github.com/keichitse/qpt-v2)|
+|**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526v1](http://arxiv.org/abs/2407.16526v1)|null|
+|**2024-07-23**|**An indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS**|A. Acharyya et.al.|[2407.16518v1](http://arxiv.org/abs/2407.16518v1)|null|
+|**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511v1](http://arxiv.org/abs/2407.16511v1)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
+|**2024-07-23**|**Chiral emission of vortex microlasers enabled by collective modes of guided resonances**|Ye Chen et.al.|[2407.16499v1](http://arxiv.org/abs/2407.16499v1)|null|
+|**2024-07-23**|**Complementary Speckle STED Microscopy**|Payvand Arjmand et.al.|[2407.16493v1](http://arxiv.org/abs/2407.16493v1)|null|
+|**2024-07-23**|**Spectroscopic analysis of the strongly lensed SN~Encore: Constraints on cosmic evolution of Type Ia supernovae**|S. Dhawan et.al.|[2407.16492v1](http://arxiv.org/abs/2407.16492v1)|null|
+|**2024-07-23**|**Design of diffractive neural networks solving different classification problems at different wavelengths**|Georgy A. Motz et.al.|[2407.16486v1](http://arxiv.org/abs/2407.16486v1)|null|
+
+### VQA
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
+|**2024-07-23**|**Automatic Equalization for Individual Instrument Tracks Using Convolutional Neural Networks**|Florian Mockenhaupt et.al.|[2407.16691v1](http://arxiv.org/abs/2407.16691v1)|null|
+|**2024-07-23**|**Robust Preference for Dynamical Dark Energy in DESI BAO and SN Measurements**|William Giarè et.al.|[2407.16689v1](http://arxiv.org/abs/2407.16689v1)|null|
+|**2024-07-23**|**6G at $\frac{1}{6}g$: The Future of Cislunar Communications**|Sahan Liyanaarachchi et.al.|[2407.16672v1](http://arxiv.org/abs/2407.16672v1)|null|
+|**2024-07-23**|**Joint Inference of Population, Cosmology, and Neutron Star Equation of State from Gravitational Waves of Dark Binary Neutron Stars**|Tathagata Ghosh et.al.|[2407.16669v1](http://arxiv.org/abs/2407.16669v1)|null|
+|**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665v1](http://arxiv.org/abs/2407.16665v1)|null|
+|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636v1](http://arxiv.org/abs/2407.16636v1)|null|
+|**2024-07-23**|**Time resolved quantum tomography in molecular spectroscopy by the Maximal Entropy Approach**|Varun Makhija et.al.|[2407.16630v1](http://arxiv.org/abs/2407.16630v1)|null|
+|**2024-07-23**|**Hardness of sampling solutions from the Symmetric Binary Perceptron**|Ahmed El Alaoui et.al.|[2407.16627v1](http://arxiv.org/abs/2407.16627v1)|null|
+|**2024-07-23**|**Semantic Change Characterization with LLMs using Rhetorics**|Jader Martins Camboim de Sá et.al.|[2407.16624v1](http://arxiv.org/abs/2407.16624v1)|null|
+|**2024-07-23**|**Inverse Particle and Ensemble Kalman Filters**|Himali Singh et.al.|[2407.16623v1](http://arxiv.org/abs/2407.16623v1)|null|
+|**2024-07-23**|**Data Mixture Inference: What do BPE Tokenizers Reveal about their Training Data?**|Jonathan Hayase et.al.|[2407.16607v1](http://arxiv.org/abs/2407.16607v1)|null|
+|**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604v1](http://arxiv.org/abs/2407.16604v1)|null|
+|**2024-07-23**|**Inference of rankings planted in random tournaments**|Dmitriy Kunisky et.al.|[2407.16597v1](http://arxiv.org/abs/2407.16597v1)|null|
+|**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557v1](http://arxiv.org/abs/2407.16557v1)|null|
+|**2024-07-23**|**A Kernel-Based Conditional Two-Sample Test Using Nearest Neighbors (with Applications to Calibration, Regression Curves, and Simulation-Based Inference)**|Anirban Chatterjee et.al.|[2407.16550v1](http://arxiv.org/abs/2407.16550v1)|null|
+|**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537v1](http://arxiv.org/abs/2407.16537v1)|null|
+|**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526v1](http://arxiv.org/abs/2407.16526v1)|null|
+|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521v1](http://arxiv.org/abs/2407.16521v1)|null|
+|**2024-07-23**|**Application of the Eddington inversion method to constrain the dark matter halo of galaxies using only observed surface brightness profiles**|Jorge Sanchez Almeida et.al.|[2407.16519v1](http://arxiv.org/abs/2407.16519v1)|null|
+|**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503v1](http://arxiv.org/abs/2407.16503v1)|null|
+|**2024-07-23**|**Neural information field filter**|Kairui Hao et.al.|[2407.16502v1](http://arxiv.org/abs/2407.16502v1)|null|
+|**2024-07-23**|**Unconventional Pressure Dependent Interorbital and Interlayer Doping in Superconducting Nickelates**|Y. N. Huang et.al.|[2407.16495v1](http://arxiv.org/abs/2407.16495v1)|null|
+|**2024-07-23**|**Spectroscopic analysis of the strongly lensed SN~Encore: Constraints on cosmic evolution of Type Ia supernovae**|S. Dhawan et.al.|[2407.16492v1](http://arxiv.org/abs/2407.16492v1)|null|
+|**2024-07-23**|**Learning General Continuous Constraint from Demonstrations via Positive-Unlabeled Learning**|Baiyu Peng et.al.|[2407.16485v1](http://arxiv.org/abs/2407.16485v1)|null|
+|**2024-07-23**|**Revisiting Empirical Solar Energetic Particle Scaling Relations II. Coronal Mass Ejections**|Athanasios Papaioannou et.al.|[2407.16479v1](http://arxiv.org/abs/2407.16479v1)|null|
+|**2024-07-23**|**qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**|Shishuai Wang et.al.|[2407.16477v1](http://arxiv.org/abs/2407.16477v1)|null|
+|**2024-07-23**|**Revisiting the dynamical masses of the transiting planets in the young AU Mic system: Potential AU Mic b inflation at $\sim$20 Myr**|M. Mallorquín et.al.|[2407.16461v1](http://arxiv.org/abs/2407.16461v1)|null|
+|**2024-07-23**|**Psychomatics -- A Multidisciplinary Framework for Understanding Artificial Minds**|Giuseppe Riva et.al.|[2407.16444v1](http://arxiv.org/abs/2407.16444v1)|null|
+|**2024-07-23**|**Multi-Industry Simplex 2.0 : Temporally-Evolving Probabilistic Industry Classification**|Maksim Papenkov et.al.|[2407.16437v1](http://arxiv.org/abs/2407.16437v1)|null|
+
 ## Few-shot Learning
 
-### Few-shot Learning
+### One-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
@@ -249,7 +249,7 @@
 |**2024-07-17**|**MAGIC-VFM: Meta-learning Adaptation for Ground Interaction Control with Visual Foundation Models**|Elena Sorina Lupu et.al.|[2407.12304v1](http://arxiv.org/abs/2407.12304v1)|null|
 |**2024-07-17**|**Information-Theoretic Foundations for Machine Learning**|Hong Jun Jeon et.al.|[2407.12288v2](http://arxiv.org/abs/2407.12288v2)|null|
 
-### One-shot Learning
+### Few-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-23**|**AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking**|Wenxuan Li et.al.|[2407.16697v1](http://arxiv.org/abs/2407.16697v1)|null|
