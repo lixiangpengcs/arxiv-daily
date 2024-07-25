@@ -31,4 +31,4 @@
 |**2024-07-23**|**Cluster Haptic Texture Database: Haptic Texture Database with Variety in Velocity and Direction of Sliding Contacts**|Michikuni Eguchi et.al.|[2407.16206v1](http://arxiv.org/abs/2407.16206v1)|null|
 |**2024-07-23**|**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction**|Liang Zhao et.al.|[2407.16204v1](http://arxiv.org/abs/2407.16204v1)|null|
 |**2024-07-23**|**LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**|Yukai Ma et.al.|[2407.16197v1](http://arxiv.org/abs/2407.16197v1)|null|
-|**2024-07-23**|**Learning Trimodal Relation for AVQA with Missing Modality**|Kyu Ri Park et.al.|[2407.16171v1](http://arxiv.org/abs/2407.16171v1)|[link](https://github.com/visualaikhu/missing-avqa)|
+|**2024-07-23**|**Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality**|Kyu Ri Park et.al.|[2407.16171v1](http://arxiv.org/abs/2407.16171v1)|[link](https://github.com/visualaikhu/missing-avqa)|
