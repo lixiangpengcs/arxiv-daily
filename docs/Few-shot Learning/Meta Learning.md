@@ -2,6 +2,10 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-24**|**Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation**|Lei Sang et.al.|[2407.17234v1](http://arxiv.org/abs/2407.17234v1)|[link](https://github.com/wangyu0627/ihgcl)|
+|**2024-07-24**|**AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications**|Yijie Guo et.al.|[2407.17086v1](http://arxiv.org/abs/2407.17086v1)|null|
+|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v1](http://arxiv.org/abs/2407.17075v1)|null|
+|**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|null|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667v1](http://arxiv.org/abs/2407.16667v1)|null|
 |**2024-07-23**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470v1](http://arxiv.org/abs/2407.16470v1)|null|
 |**2024-07-23**|**Deep Learning for Pancreas Segmentation: a Systematic Review**|Andrea Moglia et.al.|[2407.16313v1](http://arxiv.org/abs/2407.16313v1)|null|
@@ -28,7 +32,3 @@
 |**2024-07-18**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280v2](http://arxiv.org/abs/2407.13280v2)|null|
 |**2024-07-18**|**Adaptive Foundation Models for Online Decisions: HyperAgent with Fast Incremental Uncertainty Estimation**|Yingru Li et.al.|[2407.13195v2](http://arxiv.org/abs/2407.13195v2)|[link](https://github.com/szrlee/GPT-HyperAgent)|
 |**2024-07-17**|**An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection**|Amit Prasad et.al.|[2407.12724v1](http://arxiv.org/abs/2407.12724v1)|null|
-|**2024-07-17**|**Pulse-based variational quantum optimization and metalearning in superconducting circuits**|Yapeng Wang et.al.|[2407.12636v1](http://arxiv.org/abs/2407.12636v1)|null|
-|**2024-07-17**|**A Comprehensive Sustainable Framework for Machine Learning and Artificial Intelligence**|Roberto Pagliari et.al.|[2407.12445v1](http://arxiv.org/abs/2407.12445v1)|null|
-|**2024-07-17**|**MAGIC-VFM: Meta-learning Adaptation for Ground Interaction Control with Visual Foundation Models**|Elena Sorina Lupu et.al.|[2407.12304v1](http://arxiv.org/abs/2407.12304v1)|null|
-|**2024-07-17**|**Information-Theoretic Foundations for Machine Learning**|Hong Jun Jeon et.al.|[2407.12288v2](http://arxiv.org/abs/2407.12288v2)|null|
