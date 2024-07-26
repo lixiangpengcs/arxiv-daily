@@ -4,14 +4,14 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-24**|**MMRA: A Benchmark for Multi-granularity Multi-image Relational Association**|Siwei Wu et.al.|[2407.17379v1](http://arxiv.org/abs/2407.17379v1)|null|
 |**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274v1](http://arxiv.org/abs/2407.17274v1)|null|
-|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229v1](http://arxiv.org/abs/2407.17229v1)|null|
+|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229v2](http://arxiv.org/abs/2407.17229v2)|null|
 |**2024-07-24**|**Solving the Electrical Impedance Tomography Problem with a DeepONet Type Neural Network: Theory and Application**|Anuj Abhishek et.al.|[2407.17182v1](http://arxiv.org/abs/2407.17182v1)|null|
 |**2024-07-24**|**XMeCap: Meme Caption Generation with Sub-Image Adaptability**|Yuyan Chen et.al.|[2407.17152v1](http://arxiv.org/abs/2407.17152v1)|null|
 |**2024-07-24**|**High Efficiency Image Compression for Large Visual-Language Models**|Binzhe Li et.al.|[2407.17060v1](http://arxiv.org/abs/2407.17060v1)|null|
 |**2024-07-24**|**Q-Ground: Image Quality Grounding with Large Multi-modality Models**|Chaofeng Chen et.al.|[2407.17035v1](http://arxiv.org/abs/2407.17035v1)|null|
 |**2024-07-24**|**Selective Vision-Language Subspace Projection for Few-shot CLIP**|Xingyu Zhu et.al.|[2407.16977v1](http://arxiv.org/abs/2407.16977v1)|[link](https://github.com/zhuhsingyuu/ssp)|
 |**2024-07-23**|**Automated modal analysis of entanglement with bipartite self-configuring optics**|Charles Roques-Carmes et.al.|[2407.16849v1](http://arxiv.org/abs/2407.16849v1)|null|
-|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|null|
+|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822v1](http://arxiv.org/abs/2407.16822v1)|[link](https://github.com/ryan315/7pgd)|
 |**2024-07-23**|**Multimodal Machine Learning in Mental Health: A Survey of Data, Algorithms, and Challenges**|Zahraa Al Sahili et.al.|[2407.16804v1](http://arxiv.org/abs/2407.16804v1)|null|
 |**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803v1](http://arxiv.org/abs/2407.16803v1)|null|
 |**2024-07-23**|**FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process**|Yuyan Bu et.al.|[2407.16670v1](http://arxiv.org/abs/2407.16670v1)|null|

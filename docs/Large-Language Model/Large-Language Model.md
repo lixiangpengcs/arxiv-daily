@@ -20,7 +20,7 @@
 |**2024-07-24**|**Longitudinal Principal Manifold Estimation**|Robert Zielinski et.al.|[2407.17450v1](http://arxiv.org/abs/2407.17450v1)|null|
 |**2024-07-24**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449v1](http://arxiv.org/abs/2407.17449v1)|null|
 |**2024-07-24**|**Chiral-even twist-3 GPDs for the proton in a spectator diquark model**|Chentao Tan et.al.|[2407.17448v1](http://arxiv.org/abs/2407.17448v1)|null|
-|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447v1](http://arxiv.org/abs/2407.17447v1)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447v1](http://arxiv.org/abs/2407.17447v1)|[link](https://github.com/Confirm-Solutions/flrt)|
 |**2024-07-24**|**Unital k-Restricted Infinity-Operads**|Amartya Shekhar Dubey et.al.|[2407.17444v1](http://arxiv.org/abs/2407.17444v1)|null|
 |**2024-07-24**|**A soft-hard framework with exact four momentum conservation for small systems**|I. Soudi et.al.|[2407.17443v1](http://arxiv.org/abs/2407.17443v1)|null|
 |**2024-07-24**|**AHMF: Adaptive Hybrid-Memory-Fusion Model for Driver Attention Prediction**|Dongyang Xu et.al.|[2407.17442v1](http://arxiv.org/abs/2407.17442v1)|null|

@@ -11,7 +11,7 @@
 |**2024-07-24**|**Generation of Training Data from HD Maps in the Lanelet2 Framework**|Fabian Immel et.al.|[2407.17409v1](http://arxiv.org/abs/2407.17409v1)|[link](https://github.com/fzi-forschungszentrum-informatik/lanelet2)|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402v1](http://arxiv.org/abs/2407.17402v1)|null|
 |**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398v1](http://arxiv.org/abs/2407.17398v1)|null|
-|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|null|
+|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|[link](https://github.com/erg0dic/gnn-sg)|
 |**2024-07-24**|**CovScore: Evaluation of Multi-Document Abstractive Title Set Generation**|Itamar Trainin et.al.|[2407.17390v1](http://arxiv.org/abs/2407.17390v1)|null|
 |**2024-07-24**|**Causal modelling without counterfactuals and individualised effects**|Benedikt Höltgen et.al.|[2407.17385v1](http://arxiv.org/abs/2407.17385v1)|null|
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365v1](http://arxiv.org/abs/2407.17365v1)|null|
@@ -26,7 +26,7 @@
 |**2024-07-24**|**Automorphisms of Calabi-Yau threefolds from algebraic dynamics and the second Chern class**|Keiji Oguiso et.al.|[2407.17297v1](http://arxiv.org/abs/2407.17297v1)|null|
 |**2024-07-24**|**Enhanced SMC$^2$: Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296v1](http://arxiv.org/abs/2407.17296v1)|null|
 |**2024-07-24**|**Population-level Dark Energy Constraints from Strong Gravitational Lensing using Simulation-Based Inference**|Sreevani Jarugula et.al.|[2407.17292v1](http://arxiv.org/abs/2407.17292v1)|null|
-|**2024-07-24**|**Bridging Trust into the Blockchain: A Systematic Review on On-Chain Identity**|Awid Vaziry et.al.|[2407.17276v1](http://arxiv.org/abs/2407.17276v1)|null|
+|**2024-07-24**|**SoK: Bridging Trust into the Blockchain. A Systematic Review on On-Chain Identity**|Awid Vaziry et.al.|[2407.17276v2](http://arxiv.org/abs/2407.17276v2)|null|
 |**2024-07-24**|**M4: Multi-Proxy Multi-Gate Mixture of Experts Network for Multiple Instance Learning in Histopathology Image Analysis**|Junyu Li et.al.|[2407.17267v1](http://arxiv.org/abs/2407.17267v1)|[link](https://github.com/bigyehahaha/m4)|
 |**2024-07-24**|**Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation**|Hyunwoo Yu et.al.|[2407.17261v1](http://arxiv.org/abs/2407.17261v1)|[link](https://github.com/hyunwoo137/edaformer)|
 |**2024-07-24**|**Critical Infrastructure Security: Penetration Testing and Exploit Development Perspectives**|Papa Kobina Orleans-Bosomtwe et.al.|[2407.17256v1](http://arxiv.org/abs/2407.17256v1)|null|

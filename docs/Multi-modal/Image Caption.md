@@ -18,9 +18,9 @@
 |**2024-07-24**|**Preliminary study on artificial intelligence methods for cybersecurity threat detection in computer networks based on raw data packets**|Aleksander Ogonowski et.al.|[2407.17339v1](http://arxiv.org/abs/2407.17339v1)|null|
 |**2024-07-24**|**Multi-label Cluster Discrimination for Visual Representation Learning**|Xiang An et.al.|[2407.17331v1](http://arxiv.org/abs/2407.17331v1)|null|
 |**2024-07-24**|**DarSwin-Unet: Distortion Aware Encoder-Decoder Architecture**|Akshaya Athwale et.al.|[2407.17328v1](http://arxiv.org/abs/2407.17328v1)|null|
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v1](http://arxiv.org/abs/2407.17324v1)|null|
+|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324v2](http://arxiv.org/abs/2407.17324v2)|null|
 |**2024-07-24**|**Asymmetries in asymptotic giant branch stars and their winds. I. From 3D RHD models to synthetic observables**|Joachim Wiegert et.al.|[2407.17317v1](http://arxiv.org/abs/2407.17317v1)|null|
-|**2024-07-24**|**LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering**|Simon Boeder et.al.|[2407.17310v1](http://arxiv.org/abs/2407.17310v1)|null|
+|**2024-07-24**|**LangOcc: Self-Supervised Open Vocabulary Occupancy Estimation via Volume Rendering**|Simon Boeder et.al.|[2407.17310v2](http://arxiv.org/abs/2407.17310v2)|null|
 |**2024-07-24**|**Enhanced SMC$^2$: Leveraging Gradient Information from Differentiable Particle Filters Within Langevin Proposals**|Conor Rosato et.al.|[2407.17296v1](http://arxiv.org/abs/2407.17296v1)|null|
 |**2024-07-24**|**Population-level Dark Energy Constraints from Strong Gravitational Lensing using Simulation-Based Inference**|Sreevani Jarugula et.al.|[2407.17292v1](http://arxiv.org/abs/2407.17292v1)|null|
 |**2024-07-24**|**What is your favorite transient event? SOXS is almost ready to observe!**|Kalyan Kumar Radhakrishnan Santhakumari et.al.|[2407.17288v1](http://arxiv.org/abs/2407.17288v1)|null|
@@ -31,4 +31,4 @@
 |**2024-07-24**|**A second view on the X-ray polarization of NGC 4151 with IXPE**|V. E. Gianolli et.al.|[2407.17243v1](http://arxiv.org/abs/2407.17243v1)|null|
 |**2024-07-24**|**Walking with SOXS towards the transient sky**|P. Schipani et.al.|[2407.17241v1](http://arxiv.org/abs/2407.17241v1)|null|
 |**2024-07-24**|**Influence of surface relaxations on atomic-resolution imaging of a charge density wave material**|Nikhil S. Sivakumar et.al.|[2407.17231v1](http://arxiv.org/abs/2407.17231v1)|null|
-|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229v1](http://arxiv.org/abs/2407.17229v1)|null|
+|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229v2](http://arxiv.org/abs/2407.17229v2)|null|

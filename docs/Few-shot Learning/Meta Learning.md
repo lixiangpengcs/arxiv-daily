@@ -4,14 +4,14 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-24**|**Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation**|Lei Sang et.al.|[2407.17234v1](http://arxiv.org/abs/2407.17234v1)|[link](https://github.com/wangyu0627/ihgcl)|
 |**2024-07-24**|**AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications**|Yijie Guo et.al.|[2407.17086v1](http://arxiv.org/abs/2407.17086v1)|null|
-|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v1](http://arxiv.org/abs/2407.17075v1)|null|
-|**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|null|
+|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v2](http://arxiv.org/abs/2407.17075v2)|null|
+|**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|[link](https://github.com/ybseo-academy/TAALM)|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667v1](http://arxiv.org/abs/2407.16667v1)|null|
 |**2024-07-23**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470v1](http://arxiv.org/abs/2407.16470v1)|null|
 |**2024-07-23**|**Deep Learning for Pancreas Segmentation: a Systematic Review**|Andrea Moglia et.al.|[2407.16313v1](http://arxiv.org/abs/2407.16313v1)|null|
 |**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123v1](http://arxiv.org/abs/2407.16123v1)|null|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839v1](http://arxiv.org/abs/2407.15839v1)|null|
-|**2024-07-22**|**Predicting the Best of N Visual Trackers**|Basit Alawode et.al.|[2407.15707v1](http://arxiv.org/abs/2407.15707v1)|null|
+|**2024-07-22**|**Predicting the Best of N Visual Trackers**|Basit Alawode et.al.|[2407.15707v1](http://arxiv.org/abs/2407.15707v1)|[link](https://github.com/basitalawode/best_of_n_trackers)|
 |**2024-07-21**|**Privacy-Preserving Multi-Center Differential Protein Abundance Analysis with FedProt**|Yuliya Burankova et.al.|[2407.15220v1](http://arxiv.org/abs/2407.15220v1)|null|
 |**2024-07-21**|**Multi-Agent Causal Discovery Using Large Language Models**|Hao Duong Le et.al.|[2407.15073v1](http://arxiv.org/abs/2407.15073v1)|null|
 |**2024-07-21**|**Stacked Intelligent Metasurfaces for Task-Oriented Semantic Communications**|Guojun Huang et.al.|[2407.15053v1](http://arxiv.org/abs/2407.15053v1)|null|

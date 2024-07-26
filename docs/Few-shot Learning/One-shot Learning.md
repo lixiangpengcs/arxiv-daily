@@ -20,7 +20,7 @@
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404v1](http://arxiv.org/abs/2407.17404v1)|null|
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402v1](http://arxiv.org/abs/2407.17402v1)|null|
 |**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399v1](http://arxiv.org/abs/2407.17399v1)|null|
-|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|null|
+|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396v1](http://arxiv.org/abs/2407.17396v1)|[link](https://github.com/erg0dic/gnn-sg)|
 |**2024-07-24**|**Five reasons against assuming a data-generating distribution in Machine Learning**|Benedikt Höltgen et.al.|[2407.17395v1](http://arxiv.org/abs/2407.17395v1)|null|
 |**2024-07-24**|**Market Making with Exogenous Competition**|Robert Boyce et.al.|[2407.17393v1](http://arxiv.org/abs/2407.17393v1)|null|
 |**2024-07-24**|**Data-driven stellar intrinsic colors and dust reddenings for spectro-photometric data: From the blue-edge method to a machine-learning approach**|He Zhao et.al.|[2407.17386v1](http://arxiv.org/abs/2407.17386v1)|null|
