@@ -4,10 +4,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-24**|**Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation**|Lei Sang et.al.|[2407.17234v1](http://arxiv.org/abs/2407.17234v1)|[link](https://github.com/wangyu0627/ihgcl)|
 |**2024-07-24**|**AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications**|Yijie Guo et.al.|[2407.17086v1](http://arxiv.org/abs/2407.17086v1)|null|
-|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v2](http://arxiv.org/abs/2407.17075v2)|null|
+|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v2](http://arxiv.org/abs/2407.17075v2)|[link](https://github.com/gair-nlp/safety-j)|
 |**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|[link](https://github.com/ybseo-academy/TAALM)|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667v1](http://arxiv.org/abs/2407.16667v1)|null|
-|**2024-07-23**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470v1](http://arxiv.org/abs/2407.16470v1)|null|
+|**2024-07-23**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470v2](http://arxiv.org/abs/2407.16470v2)|null|
 |**2024-07-23**|**Deep Learning for Pancreas Segmentation: a Systematic Review**|Andrea Moglia et.al.|[2407.16313v1](http://arxiv.org/abs/2407.16313v1)|null|
 |**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123v1](http://arxiv.org/abs/2407.16123v1)|null|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839v1](http://arxiv.org/abs/2407.15839v1)|null|
@@ -21,7 +21,7 @@
 |**2024-07-19**|**Using Case Studies to Teach Responsible AI to Industry Practitioners**|Julia Stoyanovich et.al.|[2407.14686v2](http://arxiv.org/abs/2407.14686v2)|null|
 |**2024-07-19**|**Informational Health --Toward the Reduction of Risks in the Information Space**|Fujio Toriumi et.al.|[2407.14634v1](http://arxiv.org/abs/2407.14634v1)|null|
 |**2024-07-19**|**Adaptive Uncertainty Quantification for Scenario-based Control Using Meta-learning of Bayesian Neural Networks**|Yajie Bao et.al.|[2407.14492v1](http://arxiv.org/abs/2407.14492v1)|null|
-|**2024-07-19**|**Longhorn: State Space Models are Amortized Online Learners**|Bo Liu et.al.|[2407.14207v1](http://arxiv.org/abs/2407.14207v1)|[link](https://github.com/Cranial-XIX/longhorn)|
+|**2024-07-19**|**Longhorn: State Space Models are Amortized Online Learners**|Bo Liu et.al.|[2407.14207v2](http://arxiv.org/abs/2407.14207v2)|[link](https://github.com/Cranial-XIX/longhorn)|
 |**2024-07-19**|**SHS: Scorpion Hunting Strategy Swarm Algorithm**|Abhilash Singh et.al.|[2407.14202v1](http://arxiv.org/abs/2407.14202v1)|null|
 |**2024-07-19**|**Derandomized Truncated D-vine Copula Knockoffs with e-values to control the false discovery rate**|Alejandro Román Vásquez et.al.|[2407.14002v1](http://arxiv.org/abs/2407.14002v1)|null|
 |**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|

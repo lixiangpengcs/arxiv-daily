@@ -10,7 +10,7 @@
 |**2024-07-24**|**Hidden or Inferred: Fair Learning-To-Rank with Unknown Demographics**|Oluseun Olulana et.al.|[2407.17459v1](http://arxiv.org/abs/2407.17459v1)|[link](https://github.com/sewen007/hoiltr)|
 |**2024-07-24**|**EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**|Joana Reuss et.al.|[2407.17458v1](http://arxiv.org/abs/2407.17458v1)|null|
 |**2024-07-24**|**Automated Explanation Selection for Scientific Discovery**|Markus Iser et.al.|[2407.17454v1](http://arxiv.org/abs/2407.17454v1)|null|
-|**2024-07-24**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449v1](http://arxiv.org/abs/2407.17449v1)|null|
+|**2024-07-24**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449v2](http://arxiv.org/abs/2407.17449v2)|null|
 |**2024-07-24**|**Fractional signature: a generalisation of the signature inspired by fractional calculus**|José Manuel Corcuera et.al.|[2407.17446v1](http://arxiv.org/abs/2407.17446v1)|null|
 |**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438v1](http://arxiv.org/abs/2407.17438v1)|[link](https://github.com/zhenzhiwang/humanvid)|
 |**2024-07-24**|**Nerva: a Truly Sparse Implementation of Neural Networks**|Wieger Wesselink et.al.|[2407.17437v1](http://arxiv.org/abs/2407.17437v1)|[link](https://github.com/wiegerw/nerva)|
