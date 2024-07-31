@@ -10,7 +10,7 @@
 |**2024-07-29**|**Supertrust: Evolution-based superalignment strategy for safe coexistence**|James M. Mazzu et.al.|[2407.20208v1](http://arxiv.org/abs/2407.20208v1)|null|
 |**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203v1](http://arxiv.org/abs/2407.20203v1)|null|
 |**2024-07-29**|**Emergence in non-neural models: grokking modular arithmetic via average gradient outer product**|Neil Mallinar et.al.|[2407.20199v1](http://arxiv.org/abs/2407.20199v1)|null|
-|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v2](http://arxiv.org/abs/2407.20198v2)|null|
 |**2024-07-29**|**Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment**|Kazunori D Yamada et.al.|[2407.20197v1](http://arxiv.org/abs/2407.20197v1)|null|
 |**2024-07-29**|**The generator gradient estimator is an adjoint state method for stochastic differential equations**|Quentin Badolle et.al.|[2407.20196v1](http://arxiv.org/abs/2407.20196v1)|null|
 |**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192v1](http://arxiv.org/abs/2407.20192v1)|null|

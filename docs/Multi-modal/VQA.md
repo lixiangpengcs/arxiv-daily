@@ -11,7 +11,7 @@
 |**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183v1](http://arxiv.org/abs/2407.20183v1)|[link](https://github.com/internlm/mindsearch)|
 |**2024-07-29**|**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**|Xingchen Zeng et.al.|[2407.20174v1](http://arxiv.org/abs/2407.20174v1)|[link](https://github.com/zengxingchen/chartqa-mllm)|
 |**2024-07-29**|**On separability in discrete geometry**|Károly Bezdek et.al.|[2407.20169v1](http://arxiv.org/abs/2407.20169v1)|null|
-|**2024-07-29**|**Quantum group coproducts and universality under scalar extensions**|Alexandru Chirvasitu et.al.|[2407.20154v1](http://arxiv.org/abs/2407.20154v1)|null|
+|**2024-07-29**|**Quantum group coproducts and universality under scalar extensions**|Alexandru Chirvasitu et.al.|[2407.20154v2](http://arxiv.org/abs/2407.20154v2)|null|
 |**2024-07-29**|**$I$-Love-$Q$, and $δM$ too: The role of the mass in universal relations of compact stars**|Eneko Aranguren et.al.|[2407.20151v1](http://arxiv.org/abs/2407.20151v1)|null|
 |**2024-07-29**|**On the EFT of Dyon-Monopole Catalysis**|S. Bogojevic et.al.|[2407.20146v1](http://arxiv.org/abs/2407.20146v1)|null|
 |**2024-07-29**|**As Transparent as Possible, System Implementation Governance Using Process Mining**|Negin Maddah et.al.|[2407.20088v1](http://arxiv.org/abs/2407.20088v1)|null|
@@ -24,7 +24,7 @@
 |**2024-07-29**|**ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning**|Delyan Boychev et.al.|[2407.20020v1](http://arxiv.org/abs/2407.20020v1)|[link](https://github.com/delyan-boychev/imaginet)|
 |**2024-07-29**|**Do LLMs Really Adapt to Domains? An Ontology Learning Perspective**|Huu Tan Mai et.al.|[2407.19998v1](http://arxiv.org/abs/2407.19998v1)|[link](https://github.com/boschresearch/llm-vs-gibberish-ontologies)|
 |**2024-07-29**|**A Study on the Implementation Method of an Agent-Based Advanced RAG System Using Graph**|Cheonsu Jeong et.al.|[2407.19994v1](http://arxiv.org/abs/2407.19994v1)|null|
-|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985v1](http://arxiv.org/abs/2407.19985v1)|null|
+|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985v2](http://arxiv.org/abs/2407.19985v2)|null|
 |**2024-07-29**|**Inferring High-Dimensional Dynamic Networks Changing with Multiple Covariates**|Louis Dijkstra et.al.|[2407.19978v1](http://arxiv.org/abs/2407.19978v1)|null|
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965v1](http://arxiv.org/abs/2407.19965v1)|null|
 |**2024-07-29**|**Inference acceleration for large language models using "stairs" assisted greedy generation**|Domas Grigaliūnas et.al.|[2407.19947v1](http://arxiv.org/abs/2407.19947v1)|null|

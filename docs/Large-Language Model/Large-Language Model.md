@@ -22,7 +22,7 @@
 |**2024-07-29**|**Combined constraints for scalars and pseudoscalars from $\left(g-2\right)_l$ and $e^+e^-$ colliders**|Aleksandr Pustyntsev et.al.|[2407.20202v1](http://arxiv.org/abs/2407.20202v1)|null|
 |**2024-07-29**|**Methane Sensing via Unbalanced Nonlinear Interferometry using a CMOS Camera**|Jinghan Dong et.al.|[2407.20201v1](http://arxiv.org/abs/2407.20201v1)|null|
 |**2024-07-29**|**Emergence in non-neural models: grokking modular arithmetic via average gradient outer product**|Neil Mallinar et.al.|[2407.20199v1](http://arxiv.org/abs/2407.20199v1)|null|
-|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v2](http://arxiv.org/abs/2407.20198v2)|null|
 |**2024-07-29**|**Accelerated Primal-Dual Proximal Gradient Splitting Methods for Convex-Concave Saddle-Point Problems**|Hao Luo et.al.|[2407.20195v1](http://arxiv.org/abs/2407.20195v1)|null|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194v1](http://arxiv.org/abs/2407.20194v1)|null|
 |**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192v1](http://arxiv.org/abs/2407.20192v1)|null|

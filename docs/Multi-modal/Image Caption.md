@@ -7,7 +7,7 @@
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|[link](https://github.com/colmap/glomap)|
 |**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v2](http://arxiv.org/abs/2407.20218v2)|null|
 |**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak et.al.|[2407.20210v1](http://arxiv.org/abs/2407.20210v1)|null|
-|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v2](http://arxiv.org/abs/2407.20198v2)|null|
 |**2024-07-29**|**Prospects of using closure traces directly for imaging in Very Long Baseline Interferometry**|Hendrik Müller et.al.|[2407.20190v1](http://arxiv.org/abs/2407.20190v1)|null|
 |**2024-07-29**|**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**|Xingchen Zeng et.al.|[2407.20174v1](http://arxiv.org/abs/2407.20174v1)|[link](https://github.com/zengxingchen/chartqa-mllm)|
 |**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172v1](http://arxiv.org/abs/2407.20172v1)|[link](https://github.com/bugs-creator/latentartifusion)|
@@ -27,7 +27,7 @@
 |**2024-07-29**|**Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"**|Daniel Gallo Fernández et.al.|[2407.19996v1](http://arxiv.org/abs/2407.19996v1)|null|
 |**2024-07-29**|**More precise edge detections**|Hao Shu et.al.|[2407.19992v1](http://arxiv.org/abs/2407.19992v1)|null|
 |**2024-07-29**|**Classification of Alzheimer's Dementia vs. Healthy subjects by studying structural disparities in fMRI Time-Series of DMN**|Sneha Noble et.al.|[2407.19990v1](http://arxiv.org/abs/2407.19990v1)|null|
-|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985v1](http://arxiv.org/abs/2407.19985v1)|null|
+|**2024-07-29**|**Mixture of Nested Experts: Adaptive Processing of Visual Tokens**|Gagan Jain et.al.|[2407.19985v2](http://arxiv.org/abs/2407.19985v2)|null|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981v1](http://arxiv.org/abs/2407.19981v1)|null|
 |**2024-07-29**|**From Flat to Spatial: Comparison of 4 methods constructing 3D, 2 and 1/2D Models from 2D Plans with neural networks**|Jacob Sam et.al.|[2407.19970v1](http://arxiv.org/abs/2407.19970v1)|null|
 |**2024-07-29**|**FedDEO: Description-Enhanced One-Shot Federated Learning with Diffusion Models**|Mingzhao Yang et.al.|[2407.19953v1](http://arxiv.org/abs/2407.19953v1)|null|
