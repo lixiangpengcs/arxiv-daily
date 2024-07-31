@@ -5,7 +5,7 @@
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v1](http://arxiv.org/abs/2407.20171v1)|null|
 |**2024-07-29**|**FiCo-ITR: bridging fine-grained and coarse-grained image-text retrieval for comparative performance analysis**|Mikel Williams-Lekuona et.al.|[2407.20114v1](http://arxiv.org/abs/2407.20114v1)|null|
 |**2024-07-29**|**Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**|Liyuan Mao et.al.|[2407.20109v1](http://arxiv.org/abs/2407.20109v1)|null|
-|**2024-07-29**|**Classification of freshwater snails of the genus \emph{Radomaniola} with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013v1](http://arxiv.org/abs/2407.20013v1)|null|
+|**2024-07-29**|**Classification of freshwater snails of the genus Radomaniola with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013v2](http://arxiv.org/abs/2407.20013v2)|null|
 |**2024-07-29**|**HeadsetOff: Enabling Photorealistic Video Conferencing on Economical VR Headsets**|Yili Jin et.al.|[2407.19988v1](http://arxiv.org/abs/2407.19988v1)|null|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981v1](http://arxiv.org/abs/2407.19981v1)|null|
 |**2024-07-29**|**MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**|Chencan Fu et.al.|[2407.19976v1](http://arxiv.org/abs/2407.19976v1)|null|
@@ -20,7 +20,7 @@
 |**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714v1](http://arxiv.org/abs/2407.19714v1)|null|
 |**2024-07-29**|**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**|Shuaiyu Xie et.al.|[2407.19711v1](http://arxiv.org/abs/2407.19711v1)|null|
 |**2024-07-29**|**UNQA: Unified No-Reference Quality Assessment for Audio, Image, Video, and Audio-Visual Content**|Yuqin Cao et.al.|[2407.19704v1](http://arxiv.org/abs/2407.19704v1)|null|
-|**2024-07-29**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674v1](http://arxiv.org/abs/2407.19674v1)|null|
+|**2024-07-29**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674v2](http://arxiv.org/abs/2407.19674v2)|null|
 |**2024-07-29**|**Take A Step Back: Rethinking the Two Stages in Visual Reasoning**|Mingyu Zhang et.al.|[2407.19666v1](http://arxiv.org/abs/2407.19666v1)|null|
 |**2024-07-29**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Praveen Ravirathinam et.al.|[2407.19660v1](http://arxiv.org/abs/2407.19660v1)|null|
 |**2024-07-29**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651v1](http://arxiv.org/abs/2407.19651v1)|null|

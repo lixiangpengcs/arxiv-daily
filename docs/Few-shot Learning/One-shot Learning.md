@@ -28,7 +28,7 @@
 |**2024-07-29**|**Finite-Sample Guarantees for Best-Response Learning Dynamics in Zero-Sum Matrix Games**|Fathima Zarin Faizal et.al.|[2407.20128v1](http://arxiv.org/abs/2407.20128v1)|null|
 |**2024-07-29**|**Accuracy versus precision in boosted top tagging with the ATLAS detector**|ATLAS Collaboration et.al.|[2407.20127v1](http://arxiv.org/abs/2407.20127v1)|null|
 |**2024-07-29**|**Extreme time extrapolation capabilities and thermodynamic consistency of physics-inspired Neural Networks for the 3D microstructure evolution of materials**|Daniele Lanzoni et.al.|[2407.20126v1](http://arxiv.org/abs/2407.20126v1)|null|
-|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v1](http://arxiv.org/abs/2407.20124v1)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
+|**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v2](http://arxiv.org/abs/2407.20124v2)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
 |**2024-07-29**|**Context-Aware CSI Tracking and Path Loss Prediction Using Machine Learning and Dynamical Systems**|Anis Hamadouche et.al.|[2407.20123v1](http://arxiv.org/abs/2407.20123v1)|null|
 |**2024-07-29**|**Tightening the Evaluation of PAC Bounds Using Formal Verification Results**|Thomas Walker et.al.|[2407.20122v1](http://arxiv.org/abs/2407.20122v1)|null|
 |**2024-07-29**|**EXIT: An EXplicit Interest Transfer Framework for Cross-Domain Recommendation**|Lei Huang et.al.|[2407.20121v1](http://arxiv.org/abs/2407.20121v1)|null|

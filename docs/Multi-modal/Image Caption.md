@@ -5,7 +5,7 @@
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232v1](http://arxiv.org/abs/2407.20232v1)|null|
 |**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228v1](http://arxiv.org/abs/2407.20228v1)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|[link](https://github.com/colmap/glomap)|
-|**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v1](http://arxiv.org/abs/2407.20218v1)|null|
+|**2024-07-29**|**cDVAE: Multimodal Generative Conditional Diffusion Guided by Variational Autoencoder Latent Embedding for Virtual 6D Phase Space Diagnostics**|Alexander Scheinker et.al.|[2407.20218v2](http://arxiv.org/abs/2407.20218v2)|null|
 |**2024-07-29**|**An Adaptive Image-denoising Method Based on Jump Regression and Local Clustering**|Subhasish Basak et.al.|[2407.20210v1](http://arxiv.org/abs/2407.20210v1)|null|
 |**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198v1](http://arxiv.org/abs/2407.20198v1)|null|
 |**2024-07-29**|**Prospects of using closure traces directly for imaging in Very Long Baseline Interferometry**|Hendrik Müller et.al.|[2407.20190v1](http://arxiv.org/abs/2407.20190v1)|null|
@@ -23,7 +23,7 @@
 |**2024-07-29**|**Particle production as a function of charged-particle flattenicity in pp collisions at $\sqrt{s}$ = 13 TeV**|ALICE Collaboration et.al.|[2407.20037v1](http://arxiv.org/abs/2407.20037v1)|null|
 |**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034v1](http://arxiv.org/abs/2407.20034v1)|null|
 |**2024-07-29**|**ImagiNet: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning**|Delyan Boychev et.al.|[2407.20020v1](http://arxiv.org/abs/2407.20020v1)|[link](https://github.com/delyan-boychev/imaginet)|
-|**2024-07-29**|**Classification of freshwater snails of the genus \emph{Radomaniola} with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013v1](http://arxiv.org/abs/2407.20013v1)|null|
+|**2024-07-29**|**Classification of freshwater snails of the genus Radomaniola with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013v2](http://arxiv.org/abs/2407.20013v2)|null|
 |**2024-07-29**|**Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"**|Daniel Gallo Fernández et.al.|[2407.19996v1](http://arxiv.org/abs/2407.19996v1)|null|
 |**2024-07-29**|**More precise edge detections**|Hao Shu et.al.|[2407.19992v1](http://arxiv.org/abs/2407.19992v1)|null|
 |**2024-07-29**|**Classification of Alzheimer's Dementia vs. Healthy subjects by studying structural disparities in fMRI Time-Series of DMN**|Sneha Noble et.al.|[2407.19990v1](http://arxiv.org/abs/2407.19990v1)|null|
