@@ -2,6 +2,20 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-30**|**Are gene-by-environment interactions leveraged in multi-modality neural networks for breast cancer prediction?**|Monica Isgut et.al.|[2407.20978v1](http://arxiv.org/abs/2407.20978v1)|null|
+|**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975v1](http://arxiv.org/abs/2407.20975v1)|null|
+|**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962v1](http://arxiv.org/abs/2407.20962v1)|[link](https://github.com/litwellchi/mmtrail)|
+|**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920v1](http://arxiv.org/abs/2407.20920v1)|null|
+|**2024-07-30**|**HyperMM : Robust Multimodal Learning with Varying-sized Inputs**|Hava Chaptoukaev et.al.|[2407.20768v1](http://arxiv.org/abs/2407.20768v1)|null|
+|**2024-07-30**|**A Local Modal Outer-Product-Gradient Estimator for Dimension Reduction**|Zheng Li et.al.|[2407.20738v1](http://arxiv.org/abs/2407.20738v1)|null|
+|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710v1](http://arxiv.org/abs/2407.20710v1)|null|
+|**2024-07-30**|**A Case Study on Visual-Audio-Tactile Cross-Modal Retrieval**|Jagoda Wojcik et.al.|[2407.20709v1](http://arxiv.org/abs/2407.20709v1)|null|
+|**2024-07-30**|**Boosting Audio Visual Question Answering via Key Semantic-Aware Cues**|Guangyao Li et.al.|[2407.20693v1](http://arxiv.org/abs/2407.20693v1)|[link](https://github.com/gewu-lab/tspm)|
+|**2024-07-30**|**GPU-based data processing for speeding-up correlation plenoptic imaging**|Francesca Santoro et.al.|[2407.20692v1](http://arxiv.org/abs/2407.20692v1)|null|
+|**2024-07-30**|**Knowledge Fused Recognition: Fusing Hierarchical Knowledge for Image Recognition through Quantitative Relativity Modeling and Deep Metric Learning**|Yunfeng Zhao et.al.|[2407.20600v1](http://arxiv.org/abs/2407.20600v1)|null|
+|**2024-07-29**|**CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models**|Junda Wu et.al.|[2407.20454v1](http://arxiv.org/abs/2407.20454v1)|null|
+|**2024-07-29**|**MEVDT: Multi-Modal Event-Based Vehicle Detection and Tracking Dataset**|Zaid A. El Shair et.al.|[2407.20446v1](http://arxiv.org/abs/2407.20446v1)|null|
+|**2024-07-29**|**BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues**|Sara Sarto et.al.|[2407.20341v1](http://arxiv.org/abs/2407.20341v1)|[link](https://github.com/aimagelab/bridge-score)|
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v1](http://arxiv.org/abs/2407.20171v1)|null|
 |**2024-07-29**|**FiCo-ITR: bridging fine-grained and coarse-grained image-text retrieval for comparative performance analysis**|Mikel Williams-Lekuona et.al.|[2407.20114v1](http://arxiv.org/abs/2407.20114v1)|null|
 |**2024-07-29**|**Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**|Liyuan Mao et.al.|[2407.20109v1](http://arxiv.org/abs/2407.20109v1)|null|
@@ -18,17 +32,3 @@
 |**2024-07-29**|**Multimodal Large Language Models for Bioimage Analysis**|Shanghang Zhang et.al.|[2407.19778v1](http://arxiv.org/abs/2407.19778v1)|null|
 |**2024-07-29**|**PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality**|Xintong Zhang et.al.|[2407.19728v1](http://arxiv.org/abs/2407.19728v1)|null|
 |**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714v1](http://arxiv.org/abs/2407.19714v1)|null|
-|**2024-07-29**|**TVDiag: A Task-oriented and View-invariant Failure Diagnosis Framework with Multimodal Data**|Shuaiyu Xie et.al.|[2407.19711v1](http://arxiv.org/abs/2407.19711v1)|null|
-|**2024-07-29**|**UNQA: Unified No-Reference Quality Assessment for Audio, Image, Video, and Audio-Visual Content**|Yuqin Cao et.al.|[2407.19704v1](http://arxiv.org/abs/2407.19704v1)|null|
-|**2024-07-29**|**Advancing Prompt Learning through an External Layer**|Fangming Cui et.al.|[2407.19674v2](http://arxiv.org/abs/2407.19674v2)|null|
-|**2024-07-29**|**Take A Step Back: Rethinking the Two Stages in Visual Reasoning**|Mingyu Zhang et.al.|[2407.19666v1](http://arxiv.org/abs/2407.19666v1)|null|
-|**2024-07-29**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Praveen Ravirathinam et.al.|[2407.19660v1](http://arxiv.org/abs/2407.19660v1)|null|
-|**2024-07-29**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651v1](http://arxiv.org/abs/2407.19651v1)|null|
-|**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625v1](http://arxiv.org/abs/2407.19625v1)|null|
-|**2024-07-28**|**XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**|Biao Wu et.al.|[2407.19546v1](http://arxiv.org/abs/2407.19546v1)|[link](https://github.com/white65534/xlip)|
-|**2024-07-28**|**Pixel-Level GPS Localization and Denoising using Computer Vision and 6G Communication Beams**|Gouranga Charan et.al.|[2407.19541v1](http://arxiv.org/abs/2407.19541v1)|null|
-|**2024-07-28**|**Overcoming Uncertain Incompleteness for Robust Multimodal Sequential Diagnosis Prediction via Knowledge Distillation and Random Data Erasing**|Heejoon Koo et.al.|[2407.19540v1](http://arxiv.org/abs/2407.19540v1)|null|
-|**2024-07-28**|**Ego-VPA: Egocentric Video Understanding with Parameter-efficient Adaptation**|Tz-Ying Wu et.al.|[2407.19520v1](http://arxiv.org/abs/2407.19520v1)|null|
-|**2024-07-28**|**Detached and Interactive Multimodal Learning**|Yunfeng Fan et.al.|[2407.19514v1](http://arxiv.org/abs/2407.19514v1)|[link](https://github.com/fanyunfeng-bit/di-mml)|
-|**2024-07-28**|**WeCromCL: Weakly Supervised Cross-Modality Contrastive Learning for Transcription-only Supervised Text Spotting**|Jingjing Wu et.al.|[2407.19507v1](http://arxiv.org/abs/2407.19507v1)|null|
-|**2024-07-28**|**Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph**|Zhengcen Li et.al.|[2407.19497v1](http://arxiv.org/abs/2407.19497v1)|null|
