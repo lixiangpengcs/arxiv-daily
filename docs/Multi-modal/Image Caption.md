@@ -30,5 +30,5 @@
 |**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836v1](http://arxiv.org/abs/2407.20836v1)|null|
 |**2024-07-30**|**Exocomet orbital distribution around $β$ Pictoris**|René Heller et.al.|[2407.20829v1](http://arxiv.org/abs/2407.20829v1)|null|
 |**2024-07-30**|**SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting**|Yicheng Deng et.al.|[2407.20799v1](http://arxiv.org/abs/2407.20799v1)|null|
-|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v1](http://arxiv.org/abs/2407.20795v1)|null|
+|**2024-07-30**|**libEMMI_MGFD: A program of marine controlled-source electromagnetic modelling and inversion using frequency-domain multigrid solver**|Pengliang Yang et.al.|[2407.20795v2](http://arxiv.org/abs/2407.20795v2)|null|
 |**2024-07-30**|**Evaporation limited spreading of ethanol on rectangular porous strips: an experimental and theoretical investigation**|Rampally Srirama Chandra Murthy et.al.|[2407.20776v1](http://arxiv.org/abs/2407.20776v1)|null|
