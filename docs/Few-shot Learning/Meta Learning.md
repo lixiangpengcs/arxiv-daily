@@ -2,6 +2,11 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?**|Richard Ren et.al.|[2407.21792v1](http://arxiv.org/abs/2407.21792v1)|null|
+|**2024-07-31**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596v1](http://arxiv.org/abs/2407.21596v1)|null|
+|**2024-07-31**|**Black box meta-learning intrinsic rewards for sparse-reward environments**|Octavio Pappalardo et.al.|[2407.21546v1](http://arxiv.org/abs/2407.21546v1)|null|
+|**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467v1](http://arxiv.org/abs/2407.21467v1)|null|
+|**2024-07-31**|**Outlier Detection in Large Radiological Datasets using UMAP**|Mohammad Tariqul Islam et.al.|[2407.21263v1](http://arxiv.org/abs/2407.21263v1)|null|
 |**2024-07-30**|**$T\bar{a}laGen:$ A System for Automatic $T\bar{a}la$ Identification and Generation**|Rahul Bapusaheb Kodag et.al.|[2407.20935v1](http://arxiv.org/abs/2407.20935v1)|null|
 |**2024-07-30**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v2](http://arxiv.org/abs/2407.20708v2)|[link](https://github.com/biclab/spikeyolo)|
 |**2024-07-30**|**A Three Steps Methodological Approach to Legal Governance Validation**|Pompeu Casanovas et.al.|[2407.20691v1](http://arxiv.org/abs/2407.20691v1)|null|
@@ -27,8 +32,3 @@
 |**2024-07-25**|**Discursive Patinas: Anchoring Discussions in Data Visualizations**|Tobias Kauer et.al.|[2407.17994v1](http://arxiv.org/abs/2407.17994v1)|null|
 |**2024-07-25**|**Optimal Hessian/Jacobian-Free Nonconvex-PL Bilevel Optimization**|Feihu Huang et.al.|[2407.17823v1](http://arxiv.org/abs/2407.17823v1)|null|
 |**2024-07-25**|**TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models**|Shi-Shun Chen et.al.|[2407.18986v1](http://arxiv.org/abs/2407.18986v1)|null|
-|**2024-07-24**|**Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation**|Lei Sang et.al.|[2407.17234v2](http://arxiv.org/abs/2407.17234v2)|[link](https://github.com/wangyu0627/ihgcl)|
-|**2024-07-24**|**AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications**|Yijie Guo et.al.|[2407.17086v1](http://arxiv.org/abs/2407.17086v1)|null|
-|**2024-07-24**|**SAFETY-J: Evaluating Safety with Critique**|Yixiu Liu et.al.|[2407.17075v2](http://arxiv.org/abs/2407.17075v2)|[link](https://github.com/gair-nlp/safety-j)|
-|**2024-07-24**|**Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**|Yeongbin Seo et.al.|[2407.16920v1](http://arxiv.org/abs/2407.16920v1)|null|
-|**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667v1](http://arxiv.org/abs/2407.16667v1)|null|

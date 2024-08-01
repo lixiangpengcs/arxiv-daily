@@ -2,6 +2,23 @@
 ### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**|Shi Liu et.al.|[2407.21771v1](http://arxiv.org/abs/2407.21771v1)|null|
+|**2024-07-31**|**MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts**|Xi Victoria Lin et.al.|[2407.21770v1](http://arxiv.org/abs/2407.21770v1)|null|
+|**2024-07-31**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659v1](http://arxiv.org/abs/2407.21659v1)|null|
+|**2024-07-31**|**Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent**|Shanbo Cheng et.al.|[2407.21646v1](http://arxiv.org/abs/2407.21646v1)|null|
+|**2024-07-31**|**RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion**|Jianxin Huang et.al.|[2407.21631v1](http://arxiv.org/abs/2407.21631v1)|null|
+|**2024-07-31**|**Adaptive Mix for Semi-Supervised Medical Image Segmentation**|Zhiqiang Shen et.al.|[2407.21586v1](http://arxiv.org/abs/2407.21586v1)|null|
+|**2024-07-31**|**Tracing Intricate Cues in Dialogue: Joint Graph Structure and Sentiment Dynamics for Multimodal Emotion Recognition**|Jiang Li et.al.|[2407.21536v1](http://arxiv.org/abs/2407.21536v1)|null|
+|**2024-07-31**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491v1](http://arxiv.org/abs/2407.21491v1)|null|
+|**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490v1](http://arxiv.org/abs/2407.21490v1)|null|
+|**2024-07-31**|**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**|Zhanpeng Chen et.al.|[2407.21439v1](http://arxiv.org/abs/2407.21439v1)|null|
+|**2024-07-31**|**Enriching thermal point clouds of buildings using semantic 3D building modelsenriching thermal point clouds of buildings using semantic 3D building models**|Jingwei Zhu et.al.|[2407.21436v1](http://arxiv.org/abs/2407.21436v1)|null|
+|**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[2407.21293v1](http://arxiv.org/abs/2407.21293v1)|null|
+|**2024-07-31**|**Robust Box Prompt based SAM for Medical Image Segmentation**|Yuhao Huang et.al.|[2407.21284v1](http://arxiv.org/abs/2407.21284v1)|null|
+|**2024-07-31**|**Responsive ML inference in multi-tenanted environments using AQUA**|Abhishek Vijaya Kumar et.al.|[2407.21255v1](http://arxiv.org/abs/2407.21255v1)|null|
+|**2024-07-30**|**Advancing Vietnamese Visual Question Answering with Transformer and Convolutional Integration**|Ngoc Son Nguyen et.al.|[2407.21229v1](http://arxiv.org/abs/2407.21229v1)|null|
+|**2024-07-30**|**Adding Multi-modal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136v1](http://arxiv.org/abs/2407.21136v1)|null|
+|**2024-07-30**|**Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving**|Bernard Lange et.al.|[2407.21126v1](http://arxiv.org/abs/2407.21126v1)|null|
 |**2024-07-30**|**Are gene-by-environment interactions leveraged in multi-modality neural networks for breast cancer prediction?**|Monica Isgut et.al.|[2407.20978v1](http://arxiv.org/abs/2407.20978v1)|null|
 |**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975v1](http://arxiv.org/abs/2407.20975v1)|null|
 |**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962v1](http://arxiv.org/abs/2407.20962v1)|[link](https://github.com/litwellchi/mmtrail)|
@@ -15,20 +32,3 @@
 |**2024-07-30**|**Knowledge Fused Recognition: Fusing Hierarchical Knowledge for Image Recognition through Quantitative Relativity Modeling and Deep Metric Learning**|Yunfeng Zhao et.al.|[2407.20600v1](http://arxiv.org/abs/2407.20600v1)|null|
 |**2024-07-29**|**CoMMIT: Coordinated Instruction Tuning for Multimodal Large Language Models**|Junda Wu et.al.|[2407.20454v1](http://arxiv.org/abs/2407.20454v1)|null|
 |**2024-07-29**|**MEVDT: Multi-Modal Event-Based Vehicle Detection and Tracking Dataset**|Zaid A. El Shair et.al.|[2407.20446v1](http://arxiv.org/abs/2407.20446v1)|null|
-|**2024-07-29**|**BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues**|Sara Sarto et.al.|[2407.20341v1](http://arxiv.org/abs/2407.20341v1)|[link](https://github.com/aimagelab/bridge-score)|
-|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171v1](http://arxiv.org/abs/2407.20171v1)|null|
-|**2024-07-29**|**FiCo-ITR: bridging fine-grained and coarse-grained image-text retrieval for comparative performance analysis**|Mikel Williams-Lekuona et.al.|[2407.20114v1](http://arxiv.org/abs/2407.20114v1)|null|
-|**2024-07-29**|**Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**|Liyuan Mao et.al.|[2407.20109v1](http://arxiv.org/abs/2407.20109v1)|null|
-|**2024-07-29**|**Classification of freshwater snails of the genus Radomaniola with multimodal triplet networks**|Dennis Vetter et.al.|[2407.20013v2](http://arxiv.org/abs/2407.20013v2)|null|
-|**2024-07-29**|**HeadsetOff: Enabling Photorealistic Video Conferencing on Economical VR Headsets**|Yili Jin et.al.|[2407.19988v1](http://arxiv.org/abs/2407.19988v1)|null|
-|**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981v1](http://arxiv.org/abs/2407.19981v1)|null|
-|**2024-07-29**|**MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**|Chencan Fu et.al.|[2407.19976v1](http://arxiv.org/abs/2407.19976v1)|null|
-|**2024-07-29**|**Making Multi-Axis Gaussian Graphical Models Scalable to Millions of Samples and Features**|Bailey Andrew et.al.|[2407.19892v1](http://arxiv.org/abs/2407.19892v1)|null|
-|**2024-07-29**|**A Unified Graph Transformer for Overcoming Isolations in Multi-modal Recommendation**|Zixuan Yi et.al.|[2407.19886v1](http://arxiv.org/abs/2407.19886v1)|null|
-|**2024-07-29**|**ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**|Wenjun Huang et.al.|[2407.19832v1](http://arxiv.org/abs/2407.19832v1)|null|
-|**2024-07-29**|**ActivityCLIP: Enhancing Group Activity Recognition by Mining Complementary Information from Text to Supplement Image Modality**|Guoliang Xu et.al.|[2407.19820v1](http://arxiv.org/abs/2407.19820v1)|null|
-|**2024-07-29**|**Twins-PainViT: Towards a Modality-Agnostic Vision Transformer Framework for Multimodal Automatic Pain Assessment using Facial Videos and fNIRS**|Stefanos Gkikas et.al.|[2407.19809v1](http://arxiv.org/abs/2407.19809v1)|null|
-|**2024-07-29**|**Hashing based Contrastive Learning for Virtual Screening**|Jin Han et.al.|[2407.19790v1](http://arxiv.org/abs/2407.19790v1)|null|
-|**2024-07-29**|**Multimodal Large Language Models for Bioimage Analysis**|Shanghang Zhang et.al.|[2407.19778v1](http://arxiv.org/abs/2407.19778v1)|null|
-|**2024-07-29**|**PersonalityScanner: Exploring the Validity of Personality Assessment Based on Multimodal Signals in Virtual Reality**|Xintong Zhang et.al.|[2407.19728v1](http://arxiv.org/abs/2407.19728v1)|null|
-|**2024-07-29**|**Rethinking RGB-D Fusion for Semantic Segmentation in Surgical Datasets**|Muhammad Abdullah Jamal et.al.|[2407.19714v1](http://arxiv.org/abs/2407.19714v1)|null|
