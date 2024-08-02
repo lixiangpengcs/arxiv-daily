@@ -20,7 +20,7 @@
 |**2024-07-31**|**On odd powers of nonnegative polynomials that are not sums of squares**|Grigoriy Blekherman et.al.|[2407.21779v1](http://arxiv.org/abs/2407.21779v1)|null|
 |**2024-07-31**|**Lanczos for lattice QCD matrix elements**|Daniel C. Hackett et.al.|[2407.21777v1](http://arxiv.org/abs/2407.21777v1)|null|
 |**2024-07-31**|**Tulip Agent -- Enabling LLM-Based Agents to Solve Tasks Using Large Tool Libraries**|Felix Ocker et.al.|[2407.21778v1](http://arxiv.org/abs/2407.21778v1)|null|
-|**2024-07-31**|**Properties of Krylov state complexity in qubit dynamics**|Siddharth Seetharaman et.al.|[2407.21776v1](http://arxiv.org/abs/2407.21776v1)|null|
+|**2024-07-31**|**Properties of Krylov state complexity in qubit dynamics**|Siddharth Seetharaman et.al.|[2407.21776v2](http://arxiv.org/abs/2407.21776v2)|null|
 |**2024-07-31**|**Shadow Hamiltonian Simulation**|Rolando D. Somma et.al.|[2407.21775v1](http://arxiv.org/abs/2407.21775v1)|null|
 |**2024-07-31**|**Spurious Solar-Wind Effects on Acceleration Noise in LISA Pathfinder**|Arnold Yang et.al.|[2407.21774v1](http://arxiv.org/abs/2407.21774v1)|null|
 |**2024-07-31**|**RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**|Hongtao Wu et.al.|[2407.21773v1](http://arxiv.org/abs/2407.21773v1)|null|

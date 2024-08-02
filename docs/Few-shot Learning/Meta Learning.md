@@ -31,4 +31,4 @@
 |**2024-07-25**|**The Art of Refusal: A Survey of Abstention in Large Language Models**|Bingbing Wen et.al.|[2407.18418v1](http://arxiv.org/abs/2407.18418v1)|null|
 |**2024-07-25**|**Discursive Patinas: Anchoring Discussions in Data Visualizations**|Tobias Kauer et.al.|[2407.17994v1](http://arxiv.org/abs/2407.17994v1)|null|
 |**2024-07-25**|**Optimal Hessian/Jacobian-Free Nonconvex-PL Bilevel Optimization**|Feihu Huang et.al.|[2407.17823v1](http://arxiv.org/abs/2407.17823v1)|null|
-|**2024-07-25**|**TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models**|Shi-Shun Chen et.al.|[2407.18986v1](http://arxiv.org/abs/2407.18986v1)|null|
+|**2024-07-25**|**TERIME: An improved RIME algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models**|Shi-Shun Chen et.al.|[2407.18986v2](http://arxiv.org/abs/2407.18986v2)|null|

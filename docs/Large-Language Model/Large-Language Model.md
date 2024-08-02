@@ -25,7 +25,7 @@
 |**2024-07-31**|**Minimal Quantum Circuits for Simulating Fibonacci Anyons**|Sary Bseiso et.al.|[2407.21761v1](http://arxiv.org/abs/2407.21761v1)|null|
 |**2024-07-31**|**Optimal price signal generation for demand-side energy management**|Seyed Shahabaldin Tohidi et.al.|[2407.21759v1](http://arxiv.org/abs/2407.21759v1)|null|
 |**2024-07-31**|**Learning Video Context as Interleaved Multimodal Sequences**|Kevin Qinghong Lin et.al.|[2407.21757v1](http://arxiv.org/abs/2407.21757v1)|null|
-|**2024-07-31**|**Topological Woodward-Hoffmann classification for cycloadditions in polycyclic aromatic azomethine ylides**|Juan Li et.al.|[2407.21756v1](http://arxiv.org/abs/2407.21756v1)|null|
+|**2024-07-31**|**Topological Woodward-Hoffmann classification for cycloadditions in polycyclic aromatic azomethine ylides**|Juan Li et.al.|[2407.21756v2](http://arxiv.org/abs/2407.21756v2)|null|
 |**2024-07-31**|**Waveform resampling with LMN method**|Lino Gerlach et.al.|[2407.21750v1](http://arxiv.org/abs/2407.21750v1)|null|
 |**2024-07-31**|**Ge-based Clinopyroxene series: first principles and experimental local probe study**|Ricardo P. Moreira et.al.|[2407.21749v1](http://arxiv.org/abs/2407.21749v1)|null|
 |**2024-07-31**|**Diagnostic Runtime Monitoring with Martingales**|Ali Hindy et.al.|[2407.21748v1](http://arxiv.org/abs/2407.21748v1)|null|
