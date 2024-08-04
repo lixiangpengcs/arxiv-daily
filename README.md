@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-04 20:44:41 Asia/Shanghai
+ Automated deployment @ 2024-08-04 20:59:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Vision-Language
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Image Caption
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765v1](http://arxiv.org/abs/2408.00765v1)|null|
-|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
-|**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|
-|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
-|**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754v1](http://arxiv.org/abs/2408.00754v1)|null|
-|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|null|
-|**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744v1](http://arxiv.org/abs/2408.00744v1)|null|
-|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738v1](http://arxiv.org/abs/2408.00738v1)|null|
-|**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735v1](http://arxiv.org/abs/2408.00735v1)|null|
-|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
-|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707v1](http://arxiv.org/abs/2408.00707v1)|null|
-|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
-|**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701v1](http://arxiv.org/abs/2408.00701v1)|null|
-|**2024-08-01**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677v1](http://arxiv.org/abs/2408.00677v1)|null|
-|**2024-08-01**|**SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement**|Mark Boss et.al.|[2408.00653v1](http://arxiv.org/abs/2408.00653v1)|null|
-|**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640v1](http://arxiv.org/abs/2408.00640v1)|null|
-|**2024-08-01**|**Privacy-preserving datasets by capturing feature distributions with Conditional VAEs**|Francesco Di Salvo et.al.|[2408.00639v1](http://arxiv.org/abs/2408.00639v1)|null|
-|**2024-08-01**|**Deep Learning in Medical Image Classification from MRI-based Brain Tumor Images**|Xiaoyi Liu et.al.|[2408.00636v1](http://arxiv.org/abs/2408.00636v1)|null|
-|**2024-08-01**|**Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**|Michael Baur et.al.|[2408.00634v1](http://arxiv.org/abs/2408.00634v1)|null|
-|**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629v1](http://arxiv.org/abs/2408.00629v1)|null|
-|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
-|**2024-08-01**|**Discovery of Polarized X-Ray Emission from the Accreting Millisecond Pulsar SRGA J144459.2-604207**|Alessandro Papitto et.al.|[2408.00608v1](http://arxiv.org/abs/2408.00608v1)|null|
-|**2024-08-01**|**Relation between the geometric shape and rotation of Galactic globular clusters**|Mauricio Cruz Reyes et.al.|[2408.00605v1](http://arxiv.org/abs/2408.00605v1)|null|
-|**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599v1](http://arxiv.org/abs/2408.00599v1)|null|
-|**2024-08-01**|**Regional quality estimation for echocardiography using deep learning**|Gilles Van De Vyver et.al.|[2408.00591v1](http://arxiv.org/abs/2408.00591v1)|null|
-|**2024-08-01**|**Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses**|Gabriele Sarti et.al.|[2408.00584v1](http://arxiv.org/abs/2408.00584v1)|null|
-|**2024-08-01**|**Evaluation of Performance Measures for Qualifying Flood Models with Satellite Observations**|Jean-Paul Travert et.al.|[2408.00571v1](http://arxiv.org/abs/2408.00571v1)|null|
-|**2024-08-01**|**Lipschitz extensions from spaces of nonnegative curvature into CAT(1) spaces**|Sebastian Gietl et.al.|[2408.00564v1](http://arxiv.org/abs/2408.00564v1)|null|
-|**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555v1](http://arxiv.org/abs/2408.00555v1)|null|
-|**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550v1](http://arxiv.org/abs/2408.00550v1)|null|
 
 ### Multi-modal
 |Publish Date|Title|Authors|PDF|Code|
@@ -145,6 +111,40 @@
 |**2024-07-31**|**Adaptive Mix for Semi-Supervised Medical Image Segmentation**|Zhiqiang Shen et.al.|[2407.21586v1](http://arxiv.org/abs/2407.21586v1)|null|
 |**2024-07-31**|**Tracing Intricate Cues in Dialogue: Joint Graph Structure and Sentiment Dynamics for Multimodal Emotion Recognition**|Jiang Li et.al.|[2407.21536v1](http://arxiv.org/abs/2407.21536v1)|null|
 
+### Image Caption
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765v1](http://arxiv.org/abs/2408.00765v1)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
+|**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|
+|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
+|**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754v1](http://arxiv.org/abs/2408.00754v1)|null|
+|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|null|
+|**2024-08-01**|**Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation**|Siyu Jiao et.al.|[2408.00744v1](http://arxiv.org/abs/2408.00744v1)|null|
+|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738v1](http://arxiv.org/abs/2408.00738v1)|null|
+|**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735v1](http://arxiv.org/abs/2408.00735v1)|null|
+|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
+|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707v1](http://arxiv.org/abs/2408.00707v1)|null|
+|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
+|**2024-08-01**|**Joint Neural Networks for One-shot Object Recognition and Detection**|Camilo J. Vargas et.al.|[2408.00701v1](http://arxiv.org/abs/2408.00701v1)|null|
+|**2024-08-01**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677v1](http://arxiv.org/abs/2408.00677v1)|null|
+|**2024-08-01**|**SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement**|Mark Boss et.al.|[2408.00653v1](http://arxiv.org/abs/2408.00653v1)|null|
+|**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640v1](http://arxiv.org/abs/2408.00640v1)|null|
+|**2024-08-01**|**Privacy-preserving datasets by capturing feature distributions with Conditional VAEs**|Francesco Di Salvo et.al.|[2408.00639v1](http://arxiv.org/abs/2408.00639v1)|null|
+|**2024-08-01**|**Deep Learning in Medical Image Classification from MRI-based Brain Tumor Images**|Xiaoyi Liu et.al.|[2408.00636v1](http://arxiv.org/abs/2408.00636v1)|null|
+|**2024-08-01**|**Evaluation Metrics and Methods for Generative Models in the Wireless PHY Layer**|Michael Baur et.al.|[2408.00634v1](http://arxiv.org/abs/2408.00634v1)|null|
+|**2024-08-01**|**Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**|Wenzhe Tian et.al.|[2408.00629v1](http://arxiv.org/abs/2408.00629v1)|null|
+|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu et.al.|[2408.00624v1](http://arxiv.org/abs/2408.00624v1)|null|
+|**2024-08-01**|**Discovery of Polarized X-Ray Emission from the Accreting Millisecond Pulsar SRGA J144459.2-604207**|Alessandro Papitto et.al.|[2408.00608v1](http://arxiv.org/abs/2408.00608v1)|null|
+|**2024-08-01**|**Relation between the geometric shape and rotation of Galactic globular clusters**|Mauricio Cruz Reyes et.al.|[2408.00605v1](http://arxiv.org/abs/2408.00605v1)|null|
+|**2024-08-01**|**Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control**|Michael Rudolph et.al.|[2408.00599v1](http://arxiv.org/abs/2408.00599v1)|null|
+|**2024-08-01**|**Regional quality estimation for echocardiography using deep learning**|Gilles Van De Vyver et.al.|[2408.00591v1](http://arxiv.org/abs/2408.00591v1)|null|
+|**2024-08-01**|**Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses**|Gabriele Sarti et.al.|[2408.00584v1](http://arxiv.org/abs/2408.00584v1)|null|
+|**2024-08-01**|**Evaluation of Performance Measures for Qualifying Flood Models with Satellite Observations**|Jean-Paul Travert et.al.|[2408.00571v1](http://arxiv.org/abs/2408.00571v1)|null|
+|**2024-08-01**|**Lipschitz extensions from spaces of nonnegative curvature into CAT(1) spaces**|Sebastian Gietl et.al.|[2408.00564v1](http://arxiv.org/abs/2408.00564v1)|null|
+|**2024-08-01**|**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**|Xiaoye Qu et.al.|[2408.00555v1](http://arxiv.org/abs/2408.00555v1)|null|
+|**2024-08-01**|**Mitigating Multilingual Hallucination in Large Vision-Language Models**|Xiaoye Qu et.al.|[2408.00550v1](http://arxiv.org/abs/2408.00550v1)|null|
+
 ### Text and Image Generation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -181,40 +181,6 @@
 
 ## Few-shot Learning
 
-### Few-shot Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764v1](http://arxiv.org/abs/2408.00764v1)|null|
-|**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761v1](http://arxiv.org/abs/2408.00761v1)|null|
-|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
-|**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|
-|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
-|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755v1](http://arxiv.org/abs/2408.00755v1)|null|
-|**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754v1](http://arxiv.org/abs/2408.00754v1)|null|
-|**2024-08-01**|**A deep learning-enabled smart garment for versatile sleep behaviour monitoring**|Chenyu Tang et.al.|[2408.00753v1](http://arxiv.org/abs/2408.00753v1)|null|
-|**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751v1](http://arxiv.org/abs/2408.00751v1)|null|
-|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|null|
-|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738v1](http://arxiv.org/abs/2408.00738v1)|null|
-|**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728v1](http://arxiv.org/abs/2408.00728v1)|null|
-|**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716v1](http://arxiv.org/abs/2408.00716v1)|null|
-|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
-|**2024-08-01**|**Insurance Portfolio Pursuit with Reinforcement Learning**|Edward James Young et.al.|[2408.00713v1](http://arxiv.org/abs/2408.00713v1)|null|
-|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707v1](http://arxiv.org/abs/2408.00707v1)|null|
-|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
-|**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700v1](http://arxiv.org/abs/2408.00700v1)|null|
-|**2024-08-01**|**Granular-Balls based Fuzzy Twin Support Vector Machine for Classification**|Lixi Zhao et.al.|[2408.00699v1](http://arxiv.org/abs/2408.00699v1)|null|
-|**2024-08-01**|**Accelerating Full Waveform Inversion By Transfer Learning**|Divya Shyam Singh et.al.|[2408.00695v1](http://arxiv.org/abs/2408.00695v1)|null|
-|**2024-08-01**|**Learning in Multi-Objective Public Goods Games with Non-Linear Utilities**|Nicole Orzan et.al.|[2408.00682v1](http://arxiv.org/abs/2408.00682v1)|null|
-|**2024-08-01**|**Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification**|Soban Nasir Lone et.al.|[2408.00681v1](http://arxiv.org/abs/2408.00681v1)|null|
-|**2024-08-01**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677v1](http://arxiv.org/abs/2408.00677v1)|null|
-|**2024-08-01**|**An effect analysis of the balancing techniques on the counterfactual explanations of student success prediction models**|Mustafa Cavus et.al.|[2408.00676v1](http://arxiv.org/abs/2408.00676v1)|null|
-|**2024-08-01**|**Leveraging Entailment Judgements in Cross-Lingual Summarisation**|Huajian Zhang et.al.|[2408.00675v1](http://arxiv.org/abs/2408.00675v1)|null|
-|**2024-08-01**|**ChordSync: Conformer-Based Alignment of Chord Annotations to Music Audio**|Andrea Poltronieri et.al.|[2408.00674v1](http://arxiv.org/abs/2408.00674v1)|null|
-|**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672v1](http://arxiv.org/abs/2408.00672v1)|null|
-|**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665v1](http://arxiv.org/abs/2408.00665v1)|null|
-|**2024-08-01**|**Aligning Multiple Knowledge Graphs in a Single Pass**|Yaming Yang et.al.|[2408.00662v1](http://arxiv.org/abs/2408.00662v1)|null|
-|**2024-08-01**|**Refinement of genetic variants needs attention**|Omar Abdelwahab et.al.|[2408.00659v1](http://arxiv.org/abs/2408.00659v1)|null|
-
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -250,6 +216,40 @@
 |**2024-07-26**|**UniForensics: Face Forgery Detection via General Facial Representation**|Ziyuan Fang et.al.|[2407.19079v1](http://arxiv.org/abs/2407.19079v1)|null|
 
 ### One-shot Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764v1](http://arxiv.org/abs/2408.00764v1)|null|
+|**2024-08-01**|**Tamper-Resistant Safeguards for Open-Weight LLMs**|Rishub Tamirisa et.al.|[2408.00761v1](http://arxiv.org/abs/2408.00761v1)|null|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760v1](http://arxiv.org/abs/2408.00760v1)|null|
+|**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|
+|**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756v1](http://arxiv.org/abs/2408.00756v1)|null|
+|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755v1](http://arxiv.org/abs/2408.00755v1)|null|
+|**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754v1](http://arxiv.org/abs/2408.00754v1)|null|
+|**2024-08-01**|**A deep learning-enabled smart garment for versatile sleep behaviour monitoring**|Chenyu Tang et.al.|[2408.00753v1](http://arxiv.org/abs/2408.00753v1)|null|
+|**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751v1](http://arxiv.org/abs/2408.00751v1)|null|
+|**2024-08-01**|**Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer**|Venkat Margapuri et.al.|[2408.00749v1](http://arxiv.org/abs/2408.00749v1)|null|
+|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738v1](http://arxiv.org/abs/2408.00738v1)|null|
+|**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728v1](http://arxiv.org/abs/2408.00728v1)|null|
+|**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716v1](http://arxiv.org/abs/2408.00716v1)|null|
+|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714v1](http://arxiv.org/abs/2408.00714v1)|null|
+|**2024-08-01**|**Insurance Portfolio Pursuit with Reinforcement Learning**|Edward James Young et.al.|[2408.00713v1](http://arxiv.org/abs/2408.00713v1)|null|
+|**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707v1](http://arxiv.org/abs/2408.00707v1)|null|
+|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706v1](http://arxiv.org/abs/2408.00706v1)|null|
+|**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700v1](http://arxiv.org/abs/2408.00700v1)|null|
+|**2024-08-01**|**Granular-Balls based Fuzzy Twin Support Vector Machine for Classification**|Lixi Zhao et.al.|[2408.00699v1](http://arxiv.org/abs/2408.00699v1)|null|
+|**2024-08-01**|**Accelerating Full Waveform Inversion By Transfer Learning**|Divya Shyam Singh et.al.|[2408.00695v1](http://arxiv.org/abs/2408.00695v1)|null|
+|**2024-08-01**|**Learning in Multi-Objective Public Goods Games with Non-Linear Utilities**|Nicole Orzan et.al.|[2408.00682v1](http://arxiv.org/abs/2408.00682v1)|null|
+|**2024-08-01**|**Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification**|Soban Nasir Lone et.al.|[2408.00681v1](http://arxiv.org/abs/2408.00681v1)|null|
+|**2024-08-01**|**Scaling Backwards: Minimal Synthetic Pre-training?**|Ryo Nakamura et.al.|[2408.00677v1](http://arxiv.org/abs/2408.00677v1)|null|
+|**2024-08-01**|**An effect analysis of the balancing techniques on the counterfactual explanations of student success prediction models**|Mustafa Cavus et.al.|[2408.00676v1](http://arxiv.org/abs/2408.00676v1)|null|
+|**2024-08-01**|**Leveraging Entailment Judgements in Cross-Lingual Summarisation**|Huajian Zhang et.al.|[2408.00675v1](http://arxiv.org/abs/2408.00675v1)|null|
+|**2024-08-01**|**ChordSync: Conformer-Based Alignment of Chord Annotations to Music Audio**|Andrea Poltronieri et.al.|[2408.00674v1](http://arxiv.org/abs/2408.00674v1)|null|
+|**2024-08-01**|**ExpertAF: Expert Actionable Feedback from Video**|Kumar Ashutosh et.al.|[2408.00672v1](http://arxiv.org/abs/2408.00672v1)|null|
+|**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665v1](http://arxiv.org/abs/2408.00665v1)|null|
+|**2024-08-01**|**Aligning Multiple Knowledge Graphs in a Single Pass**|Yaming Yang et.al.|[2408.00662v1](http://arxiv.org/abs/2408.00662v1)|null|
+|**2024-08-01**|**Refinement of genetic variants needs attention**|Omar Abdelwahab et.al.|[2408.00659v1](http://arxiv.org/abs/2408.00659v1)|null|
+
+### Few-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-01**|**AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation**|Mengkang Hu et.al.|[2408.00764v1](http://arxiv.org/abs/2408.00764v1)|null|
