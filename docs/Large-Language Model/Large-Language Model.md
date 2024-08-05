@@ -22,13 +22,13 @@
 |**2024-08-01**|**DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency**|Jovan Stojkovic et.al.|[2408.00741v1](http://arxiv.org/abs/2408.00741v1)|null|
 |**2024-08-01**|**Investigating the role of nuclear parameters on oscillation modes in hot Neutron Stars**|Nilaksha Barman et.al.|[2408.00739v1](http://arxiv.org/abs/2408.00739v1)|null|
 |**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738v1](http://arxiv.org/abs/2408.00738v1)|null|
-|**2024-08-01**|**Whistler waves in the young solar wind: statistics of amplitude and propagation direction from Parker Solar Probe Encounters 1-11**|Kyung-Eun Choi et.al.|[2408.00736v1](http://arxiv.org/abs/2408.00736v1)|null|
+|**2024-08-01**|**Whistler waves in the young solar wind: statistics of amplitude and propagation direction from Parker Solar Probe Encounters 1-11**|Kyung-Eun Choi et.al.|[2408.00736v2](http://arxiv.org/abs/2408.00736v2)|null|
 |**2024-08-01**|**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models**|Gilad Deutch et.al.|[2408.00735v1](http://arxiv.org/abs/2408.00735v1)|null|
 |**2024-08-01**|**Litmus: Fair Pricing for Serverless Computing**|Qi Pei et.al.|[2408.00731v1](http://arxiv.org/abs/2408.00731v1)|null|
 |**2024-08-01**|**Free energy from forward scattering in 1+1d**|Daniel Schubring et.al.|[2408.00729v1](http://arxiv.org/abs/2408.00729v1)|null|
 |**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728v1](http://arxiv.org/abs/2408.00728v1)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727v1](http://arxiv.org/abs/2408.00727v1)|null|
 |**2024-08-01**|**Examining the local Universe isotropy with galaxy cluster velocity dispersion scaling relations**|A. Pandya et.al.|[2408.00726v1](http://arxiv.org/abs/2408.00726v1)|null|
-|**2024-08-01**|**SOLES XI. The Aligned Orbit of TOI-2533 b, a Transiting Brown Dwarf Orbiting an F8-type Star**|Thiago Ferreira et.al.|[2408.00725v1](http://arxiv.org/abs/2408.00725v1)|null|
+|**2024-08-01**|**SOLES XII. The Aligned Orbit of TOI-2533 b, a Transiting Brown Dwarf Orbiting an F8-type Star**|Thiago Ferreira et.al.|[2408.00725v2](http://arxiv.org/abs/2408.00725v2)|null|
 |**2024-08-01**|**An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**|Yangzhen Wu et.al.|[2408.00724v1](http://arxiv.org/abs/2408.00724v1)|null|
 |**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722v1](http://arxiv.org/abs/2408.00722v1)|null|
