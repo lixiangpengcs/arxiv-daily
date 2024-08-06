@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-06 20:18:23 Asia/Shanghai
+ Automated deployment @ 2024-08-06 20:48:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/weiningwei/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/weiningwei/arxiv-daily/blob/main/database/storage).
 
@@ -10,40 +10,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 ### Multi-modal
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595v1](http://arxiv.org/abs/2408.02595v1)|null|
-|**2024-08-05**|**Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs**|Ananya Pandey et.al.|[2408.02571v1](http://arxiv.org/abs/2408.02571v1)|null|
-|**2024-08-05**|**Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**|Paweł Zyblewski et.al.|[2408.02568v1](http://arxiv.org/abs/2408.02568v1)|null|
-|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503v1](http://arxiv.org/abs/2408.02503v1)|null|
-|**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484v1](http://arxiv.org/abs/2408.02484v1)|null|
-|**2024-08-05**|**Gain and Threshold Improvements of 1300 nm Lasers based on InGaAs/InAlGaAs Superlattice Active Regions**|Andrey Babichev et.al.|[2408.02469v1](http://arxiv.org/abs/2408.02469v1)|null|
-|**2024-08-05**|**TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments**|Daeun Song et.al.|[2408.02454v1](http://arxiv.org/abs/2408.02454v1)|null|
-|**2024-08-05**|**FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**|Yijin Huang et.al.|[2408.02426v1](http://arxiv.org/abs/2408.02426v1)|null|
-|**2024-08-05**|**FE-Adapter: Adapting Image-based Emotion Classifiers to Videos**|Shreyank N Gowda et.al.|[2408.02421v1](http://arxiv.org/abs/2408.02421v1)|null|
-|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
-|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
-|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
-|**2024-08-05**|**Machine Learning Applications in Medical Prognostics: A Comprehensive Review**|Michael Fascia et.al.|[2408.02344v1](http://arxiv.org/abs/2408.02344v1)|null|
-|**2024-08-05**|**Infusing Environmental Captions for Long-Form Video Language Grounding**|Hyogun Lee et.al.|[2408.02336v1](http://arxiv.org/abs/2408.02336v1)|null|
-|**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245v1](http://arxiv.org/abs/2408.02245v1)|null|
-|**2024-08-05**|**Cross-modulated Attention Transformer for RGBT Tracking**|Yun Xiao et.al.|[2408.02222v1](http://arxiv.org/abs/2408.02222v1)|null|
-|**2024-08-05**|**ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning**|Yuxuan Wang et.al.|[2408.02210v1](http://arxiv.org/abs/2408.02210v1)|null|
-|**2024-08-05**|**Unsupervised Domain Adaption Harnessing Vision-Language Pre-training**|Wenlve Zhou et.al.|[2408.02192v1](http://arxiv.org/abs/2408.02192v1)|null|
-|**2024-08-04**|**Non-invasive imaging assisted CFD simulation of 4D multi-modal fluid flow using In-situ adaptor**|Vaishali Sharma et.al.|[2408.02121v1](http://arxiv.org/abs/2408.02121v1)|null|
-|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088v1](http://arxiv.org/abs/2408.02088v1)|null|
-|**2024-08-04**|**Enhancing Human Action Recognition and Violence Detection Through Deep Learning Audiovisual Fusion**|Pooya Janani et.al.|[2408.02033v1](http://arxiv.org/abs/2408.02033v1)|null|
-|**2024-08-04**|**Contrastive Learning-based Chaining-Cluster for Multilingual Voice-Face Association**|Wuyang Chen et.al.|[2408.02025v1](http://arxiv.org/abs/2408.02025v1)|null|
-|**2024-08-04**|**What Happens Without Background? Constructing Foreground-Only Data for Fine-Grained Tasks**|Yuetian Wang et.al.|[2408.01998v1](http://arxiv.org/abs/2408.01998v1)|null|
-|**2024-08-04**|**CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization**|Xiang He et.al.|[2408.01952v1](http://arxiv.org/abs/2408.01952v1)|null|
-|**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843v1](http://arxiv.org/abs/2408.01843v1)|null|
-|**2024-08-03**|**GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer**|Yihong Lin et.al.|[2408.01826v1](http://arxiv.org/abs/2408.01826v1)|null|
-|**2024-08-03**|**MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition**|Ruoyu Wang et.al.|[2408.01766v1](http://arxiv.org/abs/2408.01766v1)|null|
-|**2024-08-03**|**The Drama Machine: Simulating Character Development with LLM Agents**|Liam Magee et.al.|[2408.01725v1](http://arxiv.org/abs/2408.01725v1)|null|
-|**2024-08-03**|**Probabilistic modeling reveals coordinated social interaction states and their multisensory bases**|Sarah Josephine Stednitz et.al.|[2408.01683v1](http://arxiv.org/abs/2408.01683v1)|null|
-|**2024-08-03**|**Multi-Frame Vision-Language Model for Long-form Reasoning in Driver Behavior Analysis**|Hiroshi Takato et.al.|[2408.01682v1](http://arxiv.org/abs/2408.01682v1)|null|
-
-### Alignment
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595v1](http://arxiv.org/abs/2408.02595v1)|null|
@@ -110,6 +76,40 @@
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
 |**2024-08-05**|**Exploiting Hankel-Toeplitz Structures for Fast Computation of Kernel Precision Matrices**|Frida Viset et.al.|[2408.02346v1](http://arxiv.org/abs/2408.02346v1)|null|
 |**2024-08-05**|**An approach to optimize inference of the DIART speaker diarization pipeline**|Roman Aperdannier et.al.|[2408.02341v1](http://arxiv.org/abs/2408.02341v1)|null|
+
+### Alignment
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595v1](http://arxiv.org/abs/2408.02595v1)|null|
+|**2024-08-05**|**Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs**|Ananya Pandey et.al.|[2408.02571v1](http://arxiv.org/abs/2408.02571v1)|null|
+|**2024-08-05**|**Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**|Paweł Zyblewski et.al.|[2408.02568v1](http://arxiv.org/abs/2408.02568v1)|null|
+|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503v1](http://arxiv.org/abs/2408.02503v1)|null|
+|**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484v1](http://arxiv.org/abs/2408.02484v1)|null|
+|**2024-08-05**|**Gain and Threshold Improvements of 1300 nm Lasers based on InGaAs/InAlGaAs Superlattice Active Regions**|Andrey Babichev et.al.|[2408.02469v1](http://arxiv.org/abs/2408.02469v1)|null|
+|**2024-08-05**|**TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments**|Daeun Song et.al.|[2408.02454v1](http://arxiv.org/abs/2408.02454v1)|null|
+|**2024-08-05**|**FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification**|Yijin Huang et.al.|[2408.02426v1](http://arxiv.org/abs/2408.02426v1)|null|
+|**2024-08-05**|**FE-Adapter: Adapting Image-based Emotion Classifiers to Videos**|Shreyank N Gowda et.al.|[2408.02421v1](http://arxiv.org/abs/2408.02421v1)|null|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
+|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
+|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
+|**2024-08-05**|**Machine Learning Applications in Medical Prognostics: A Comprehensive Review**|Michael Fascia et.al.|[2408.02344v1](http://arxiv.org/abs/2408.02344v1)|null|
+|**2024-08-05**|**Infusing Environmental Captions for Long-Form Video Language Grounding**|Hyogun Lee et.al.|[2408.02336v1](http://arxiv.org/abs/2408.02336v1)|null|
+|**2024-08-05**|**Curriculum learning based pre-training using Multi-Modal Contrastive Masked Autoencoders**|Muhammad Abdullah Jamal et.al.|[2408.02245v1](http://arxiv.org/abs/2408.02245v1)|null|
+|**2024-08-05**|**Cross-modulated Attention Transformer for RGBT Tracking**|Yun Xiao et.al.|[2408.02222v1](http://arxiv.org/abs/2408.02222v1)|null|
+|**2024-08-05**|**ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning**|Yuxuan Wang et.al.|[2408.02210v1](http://arxiv.org/abs/2408.02210v1)|null|
+|**2024-08-05**|**Unsupervised Domain Adaption Harnessing Vision-Language Pre-training**|Wenlve Zhou et.al.|[2408.02192v1](http://arxiv.org/abs/2408.02192v1)|null|
+|**2024-08-04**|**Non-invasive imaging assisted CFD simulation of 4D multi-modal fluid flow using In-situ adaptor**|Vaishali Sharma et.al.|[2408.02121v1](http://arxiv.org/abs/2408.02121v1)|null|
+|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088v1](http://arxiv.org/abs/2408.02088v1)|null|
+|**2024-08-04**|**Enhancing Human Action Recognition and Violence Detection Through Deep Learning Audiovisual Fusion**|Pooya Janani et.al.|[2408.02033v1](http://arxiv.org/abs/2408.02033v1)|null|
+|**2024-08-04**|**Contrastive Learning-based Chaining-Cluster for Multilingual Voice-Face Association**|Wuyang Chen et.al.|[2408.02025v1](http://arxiv.org/abs/2408.02025v1)|null|
+|**2024-08-04**|**What Happens Without Background? Constructing Foreground-Only Data for Fine-Grained Tasks**|Yuetian Wang et.al.|[2408.01998v1](http://arxiv.org/abs/2408.01998v1)|null|
+|**2024-08-04**|**CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization**|Xiang He et.al.|[2408.01952v1](http://arxiv.org/abs/2408.01952v1)|null|
+|**2024-08-03**|**Supervised Image Translation from Visible to Infrared Domain for Object Detection**|Prahlad Anand et.al.|[2408.01843v1](http://arxiv.org/abs/2408.01843v1)|null|
+|**2024-08-03**|**GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer**|Yihong Lin et.al.|[2408.01826v1](http://arxiv.org/abs/2408.01826v1)|null|
+|**2024-08-03**|**MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition**|Ruoyu Wang et.al.|[2408.01766v1](http://arxiv.org/abs/2408.01766v1)|null|
+|**2024-08-03**|**The Drama Machine: Simulating Character Development with LLM Agents**|Liam Magee et.al.|[2408.01725v1](http://arxiv.org/abs/2408.01725v1)|null|
+|**2024-08-03**|**Probabilistic modeling reveals coordinated social interaction states and their multisensory bases**|Sarah Josephine Stednitz et.al.|[2408.01683v1](http://arxiv.org/abs/2408.01683v1)|null|
+|**2024-08-03**|**Multi-Frame Vision-Language Model for Long-form Reasoning in Driver Behavior Analysis**|Hiroshi Takato et.al.|[2408.01682v1](http://arxiv.org/abs/2408.01682v1)|null|
 
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
@@ -181,40 +181,6 @@
 
 ## Few-shot Learning
 
-### Few-shot Learning
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672v1](http://arxiv.org/abs/2408.02672v1)|null|
-|**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667v1](http://arxiv.org/abs/2408.02667v1)|null|
-|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662v1](http://arxiv.org/abs/2408.02662v1)|null|
-|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661v1](http://arxiv.org/abs/2408.02661v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
-|**2024-08-05**|**On Using Quasirandom Sequences in Machine Learning for Model Weight Initialization**|Andriy Miranskyy et.al.|[2408.02654v1](http://arxiv.org/abs/2408.02654v1)|null|
-|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651v1](http://arxiv.org/abs/2408.02651v1)|null|
-|**2024-08-05**|**Detection of Compromised Functions in a Serverless Cloud Environment**|Danielle Lavi et.al.|[2408.02641v1](http://arxiv.org/abs/2408.02641v1)|null|
-|**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637v1](http://arxiv.org/abs/2408.02637v1)|null|
-|**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630v1](http://arxiv.org/abs/2408.02630v1)|null|
-|**2024-08-05**|**Language Model Can Listen While Speaking**|Ziyang Ma et.al.|[2408.02622v1](http://arxiv.org/abs/2408.02622v1)|null|
-|**2024-08-05**|**Mastering Agile Jumping Skills from Simple Practices with Iterative Learning Control**|Chuong Nguyen et.al.|[2408.02619v1](http://arxiv.org/abs/2408.02619v1)|null|
-|**2024-08-05**|**Backward explanations via redefinition of predicates**|Léo Saulières et.al.|[2408.02606v1](http://arxiv.org/abs/2408.02606v1)|null|
-|**2024-08-05**|**Learning rheological parameters of non-Newtonian fluids from velocimetry data**|Alexandros Kontogiannis et.al.|[2408.02604v1](http://arxiv.org/abs/2408.02604v1)|null|
-|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599v1](http://arxiv.org/abs/2408.02599v1)|null|
-|**2024-08-05**|**AI-Driven Strategies for Reducing Student Withdrawal -- A Study of EMU Student Stopout**|Yan Zhao et.al.|[2408.02598v1](http://arxiv.org/abs/2408.02598v1)|null|
-|**2024-08-05**|**Operational range bounding of spectroscopy models with anomaly detection**|Luís F. Simões et.al.|[2408.02581v1](http://arxiv.org/abs/2408.02581v1)|null|
-|**2024-08-05**|**Artificial Intelligence for Public Health Surveillance in Africa: Applications and Opportunities**|Jean Marie Tshimula et.al.|[2408.02575v1](http://arxiv.org/abs/2408.02575v1)|null|
-|**2024-08-05**|**Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs**|Ananya Pandey et.al.|[2408.02571v1](http://arxiv.org/abs/2408.02571v1)|null|
-|**2024-08-05**|**Whittle's index-based age-of-information minimization in multi-energy harvesting source networks**|Akanksha Jaiswal et.al.|[2408.02570v1](http://arxiv.org/abs/2408.02570v1)|null|
-|**2024-08-05**|**Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**|Paweł Zyblewski et.al.|[2408.02568v1](http://arxiv.org/abs/2408.02568v1)|null|
-|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559v1](http://arxiv.org/abs/2408.02559v1)|null|
-|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558v1](http://arxiv.org/abs/2408.02558v1)|null|
-|**2024-08-05**|**Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems**|Markus Grimm et.al.|[2408.02551v1](http://arxiv.org/abs/2408.02551v1)|null|
-|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549v1](http://arxiv.org/abs/2408.02549v1)|null|
-|**2024-08-05**|**The Role of Functional Muscle Networks in Improving Hand Gesture Perception for Human-Machine Interfaces**|Costanza Armanini et.al.|[2408.02547v1](http://arxiv.org/abs/2408.02547v1)|null|
-|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545v1](http://arxiv.org/abs/2408.02545v1)|null|
-|**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533v1](http://arxiv.org/abs/2408.02533v1)|null|
-|**2024-08-05**|**Counterfactual Shapley Values for Explaining Reinforcement Learning**|Yiwei Shi et.al.|[2408.02529v1](http://arxiv.org/abs/2408.02529v1)|null|
-|**2024-08-05**|**Single-tap Latency Reduction with Single- or Double- tap Prediction**|Naoto Nishida et.al.|[2408.02525v1](http://arxiv.org/abs/2408.02525v1)|null|
-
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -248,6 +214,40 @@
 |**2024-07-29**|**Designing Time-Series Models With Hypernetworks & Adversarial Portfolios**|Filip Staněk et.al.|[2407.20352v1](http://arxiv.org/abs/2407.20352v1)|null|
 |**2024-07-29**|**Meta-Learning for Adaptive Control with Automated Mirror Descent**|Sunbochen Tang et.al.|[2407.20165v1](http://arxiv.org/abs/2407.20165v1)|null|
 |**2024-07-29**|**Inferring High-Dimensional Dynamic Networks Changing with Multiple Covariates**|Louis Dijkstra et.al.|[2407.19978v1](http://arxiv.org/abs/2407.19978v1)|null|
+
+### Few-shot Learning
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672v1](http://arxiv.org/abs/2408.02672v1)|null|
+|**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667v1](http://arxiv.org/abs/2408.02667v1)|null|
+|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662v1](http://arxiv.org/abs/2408.02662v1)|null|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661v1](http://arxiv.org/abs/2408.02661v1)|null|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
+|**2024-08-05**|**On Using Quasirandom Sequences in Machine Learning for Model Weight Initialization**|Andriy Miranskyy et.al.|[2408.02654v1](http://arxiv.org/abs/2408.02654v1)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651v1](http://arxiv.org/abs/2408.02651v1)|null|
+|**2024-08-05**|**Detection of Compromised Functions in a Serverless Cloud Environment**|Danielle Lavi et.al.|[2408.02641v1](http://arxiv.org/abs/2408.02641v1)|null|
+|**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637v1](http://arxiv.org/abs/2408.02637v1)|null|
+|**2024-08-05**|**Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps**|Alessandro Della Pia et.al.|[2408.02630v1](http://arxiv.org/abs/2408.02630v1)|null|
+|**2024-08-05**|**Language Model Can Listen While Speaking**|Ziyang Ma et.al.|[2408.02622v1](http://arxiv.org/abs/2408.02622v1)|null|
+|**2024-08-05**|**Mastering Agile Jumping Skills from Simple Practices with Iterative Learning Control**|Chuong Nguyen et.al.|[2408.02619v1](http://arxiv.org/abs/2408.02619v1)|null|
+|**2024-08-05**|**Backward explanations via redefinition of predicates**|Léo Saulières et.al.|[2408.02606v1](http://arxiv.org/abs/2408.02606v1)|null|
+|**2024-08-05**|**Learning rheological parameters of non-Newtonian fluids from velocimetry data**|Alexandros Kontogiannis et.al.|[2408.02604v1](http://arxiv.org/abs/2408.02604v1)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599v1](http://arxiv.org/abs/2408.02599v1)|null|
+|**2024-08-05**|**AI-Driven Strategies for Reducing Student Withdrawal -- A Study of EMU Student Stopout**|Yan Zhao et.al.|[2408.02598v1](http://arxiv.org/abs/2408.02598v1)|null|
+|**2024-08-05**|**Operational range bounding of spectroscopy models with anomaly detection**|Luís F. Simões et.al.|[2408.02581v1](http://arxiv.org/abs/2408.02581v1)|null|
+|**2024-08-05**|**Artificial Intelligence for Public Health Surveillance in Africa: Applications and Opportunities**|Jean Marie Tshimula et.al.|[2408.02575v1](http://arxiv.org/abs/2408.02575v1)|null|
+|**2024-08-05**|**Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs**|Ananya Pandey et.al.|[2408.02571v1](http://arxiv.org/abs/2408.02571v1)|null|
+|**2024-08-05**|**Whittle's index-based age-of-information minimization in multi-energy harvesting source networks**|Akanksha Jaiswal et.al.|[2408.02570v1](http://arxiv.org/abs/2408.02570v1)|null|
+|**2024-08-05**|**Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification**|Paweł Zyblewski et.al.|[2408.02568v1](http://arxiv.org/abs/2408.02568v1)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559v1](http://arxiv.org/abs/2408.02559v1)|null|
+|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558v1](http://arxiv.org/abs/2408.02558v1)|null|
+|**2024-08-05**|**Process-constrained batch Bayesian approaches for yield optimization in multi-reactor systems**|Markus Grimm et.al.|[2408.02551v1](http://arxiv.org/abs/2408.02551v1)|null|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549v1](http://arxiv.org/abs/2408.02549v1)|null|
+|**2024-08-05**|**The Role of Functional Muscle Networks in Improving Hand Gesture Perception for Human-Machine Interfaces**|Costanza Armanini et.al.|[2408.02547v1](http://arxiv.org/abs/2408.02547v1)|null|
+|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545v1](http://arxiv.org/abs/2408.02545v1)|null|
+|**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533v1](http://arxiv.org/abs/2408.02533v1)|null|
+|**2024-08-05**|**Counterfactual Shapley Values for Explaining Reinforcement Learning**|Yiwei Shi et.al.|[2408.02529v1](http://arxiv.org/abs/2408.02529v1)|null|
+|**2024-08-05**|**Single-tap Latency Reduction with Single- or Double- tap Prediction**|Naoto Nishida et.al.|[2408.02525v1](http://arxiv.org/abs/2408.02525v1)|null|
 
 ### One-shot Learning
 |Publish Date|Title|Authors|PDF|Code|
