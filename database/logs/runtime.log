@@ -23427,3 +23427,13 @@ expected <block end>, but found '<block mapping start>'
 2024-08-06 20:48:29.032 | SUCCESS  | __main__:parse:182 - handle [8/10] | topic=`Few-shot Learning` subtopic=`One-shot Learning`
 2024-08-06 20:48:30.086 | SUCCESS  | __main__:parse:182 - handle [9/10] | topic=`Large-Language Model` subtopic=`Large-Language Model`
 2024-08-06 20:48:31.605 | SUCCESS  | __main__:parse:182 - handle [10/10] | topic=`Multi-modal` subtopic=`Text and Image Generation`
+2024-08-06 21:03:20.014 | SUCCESS  | __main__:parse:182 - handle [1/10] | topic=`Multi-modal` subtopic=`Vision-Language`
+2024-08-06 21:03:23.552 | SUCCESS  | __main__:parse:182 - handle [2/10] | topic=`Few-shot Learning` subtopic=`Meta Learning`
+2024-08-06 21:03:23.604 | SUCCESS  | __main__:parse:182 - handle [3/10] | topic=`Few-shot Learning` subtopic=`Few-shot Learning`
+2024-08-06 21:03:23.733 | SUCCESS  | __main__:parse:182 - handle [4/10] | topic=`Few-shot Learning` subtopic=`One-shot Learning`
+2024-08-06 21:03:23.735 | SUCCESS  | __main__:parse:182 - handle [5/10] | topic=`Multi-modal` subtopic=`Multi-modal`
+2024-08-06 21:03:23.829 | SUCCESS  | __main__:parse:182 - handle [6/10] | topic=`Multi-modal` subtopic=`Image Caption`
+2024-08-06 21:03:23.855 | SUCCESS  | __main__:parse:182 - handle [7/10] | topic=`Large-Language Model` subtopic=`Large-Language Model`
+2024-08-06 21:03:23.941 | SUCCESS  | __main__:parse:182 - handle [8/10] | topic=`Multi-modal` subtopic=`VQA`
+2024-08-06 21:03:25.960 | SUCCESS  | __main__:parse:182 - handle [9/10] | topic=`Multi-modal` subtopic=`Alignment`
+2024-08-06 21:03:27.943 | SUCCESS  | __main__:parse:182 - handle [10/10] | topic=`Multi-modal` subtopic=`Text and Image Generation`
