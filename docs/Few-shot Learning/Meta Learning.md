@@ -2,6 +2,14 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635v1](http://arxiv.org/abs/2408.02635v1)|null|
+|**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533v1](http://arxiv.org/abs/2408.02533v1)|null|
+|**2024-08-05**|**Meta-Modelling in Formal Concept Analysis**|Yingjian Wang et.al.|[2408.02435v1](http://arxiv.org/abs/2408.02435v1)|null|
+|**2024-08-05**|**The OpenCitations Index**|Ivan Heibi et.al.|[2408.02321v1](http://arxiv.org/abs/2408.02321v1)|null|
+|**2024-08-05**|**SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements**|Hou In Ivan Tam et.al.|[2408.02211v1](http://arxiv.org/abs/2408.02211v1)|null|
+|**2024-08-04**|**Graph-Enabled Fast MCMC Sampling with an Unknown High-Dimensional Prior Distribution**|Chenyang Zhong et.al.|[2408.02122v1](http://arxiv.org/abs/2408.02122v1)|null|
+|**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
+|**2024-08-03**|**Meta-Posterior Consistency for the Bayesian Inference of Metastable System**|Zachary P Adams et.al.|[2408.01868v1](http://arxiv.org/abs/2408.01868v1)|null|
 |**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402v1](http://arxiv.org/abs/2408.01402v1)|null|
 |**2024-08-02**|**A Backbone for Long-Horizon Robot Task Understanding**|Xiaoshuai Chen et.al.|[2408.01334v1](http://arxiv.org/abs/2408.01334v1)|null|
 |**2024-08-02**|**Metareasoning in uncertain environments: a meta-BAMDP framework**|Prakhar Godara et.al.|[2408.01253v1](http://arxiv.org/abs/2408.01253v1)|null|
@@ -24,11 +32,3 @@
 |**2024-07-29**|**Designing Time-Series Models With Hypernetworks & Adversarial Portfolios**|Filip Staněk et.al.|[2407.20352v1](http://arxiv.org/abs/2407.20352v1)|null|
 |**2024-07-29**|**Meta-Learning for Adaptive Control with Automated Mirror Descent**|Sunbochen Tang et.al.|[2407.20165v1](http://arxiv.org/abs/2407.20165v1)|null|
 |**2024-07-29**|**Inferring High-Dimensional Dynamic Networks Changing with Multiple Covariates**|Louis Dijkstra et.al.|[2407.19978v1](http://arxiv.org/abs/2407.19978v1)|null|
-|**2024-07-29**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944v1](http://arxiv.org/abs/2407.19944v1)|null|
-|**2024-07-29**|**"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence**|Brett Israelsen et.al.|[2407.19631v2](http://arxiv.org/abs/2407.19631v2)|null|
-|**2024-07-28**|**Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge**|Tianhao Wu et.al.|[2407.19594v2](http://arxiv.org/abs/2407.19594v2)|null|
-|**2024-07-28**|**The Future is Meta: Metadata, Formats and Perspectives towards Interactive and Personalized AV Content**|Alexander Weller et.al.|[2407.19590v1](http://arxiv.org/abs/2407.19590v1)|null|
-|**2024-07-28**|**Robust Fast Adaptation from Adversarially Explicit Task Distribution Generation**|Cheems Wang et.al.|[2407.19523v1](http://arxiv.org/abs/2407.19523v1)|null|
-|**2024-07-28**|**On the Evaluation Consistency of Attribution-based Explanations**|Jiarui Duan et.al.|[2407.19471v1](http://arxiv.org/abs/2407.19471v1)|null|
-|**2024-07-28**|**NAVIX: Scaling MiniGrid Environments with JAX**|Eduardo Pignatelli et.al.|[2407.19396v1](http://arxiv.org/abs/2407.19396v1)|null|
-|**2024-07-28**|**Learning to Select the Best Forecasting Tasks for Clinical Outcome Prediction**|Yuan Xue et.al.|[2407.19359v1](http://arxiv.org/abs/2407.19359v1)|null|
