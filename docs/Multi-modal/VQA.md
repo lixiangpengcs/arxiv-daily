@@ -2,33 +2,33 @@
 ### VQA
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-05**|**Evaluating and Utilizing Surrogate Outcomes in Covariate-Adjusted Response-Adaptive Designs**|Wenxin Zhang et.al.|[2408.02667v1](http://arxiv.org/abs/2408.02667v1)|null|
-|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657v1](http://arxiv.org/abs/2408.02657v1)|null|
-|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651v1](http://arxiv.org/abs/2408.02651v1)|null|
-|**2024-08-05**|**Towards refined curve counting on the Enriques surface II: Motivic refinements**|Georg Oberdieck et.al.|[2408.02616v1](http://arxiv.org/abs/2408.02616v1)|null|
-|**2024-08-05**|**Testing identifying assumptions in Tobit Models**|Santiago Acerenza et.al.|[2408.02573v1](http://arxiv.org/abs/2408.02573v1)|null|
-|**2024-08-05**|**Reasons to Doubt the Impact of AI Risk Evaluations**|Gabriel Mukobi et.al.|[2408.02565v1](http://arxiv.org/abs/2408.02565v1)|null|
-|**2024-08-05**|**The effect of quantum decoherence on inflationary gravitational waves**|Jessie de Kruijf et.al.|[2408.02563v1](http://arxiv.org/abs/2408.02563v1)|null|
-|**2024-08-05**|**Peer-induced Fairness: A Causal Approach to Reveal Algorithmic Unfairness in Credit Approval**|Shiqi Fang et.al.|[2408.02558v1](http://arxiv.org/abs/2408.02558v1)|null|
-|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549v1](http://arxiv.org/abs/2408.02549v1)|null|
-|**2024-08-05**|**Binding Energies and Vibrational Spectral Features of S$_n$ Species on Amorphous Water-ice Mantles: A Quantum Mechanical Study**|Jessica Perrero et.al.|[2408.02546v1](http://arxiv.org/abs/2408.02546v1)|null|
-|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545v1](http://arxiv.org/abs/2408.02545v1)|null|
-|**2024-08-05**|**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions**|Xinbei Ma et.al.|[2408.02544v1](http://arxiv.org/abs/2408.02544v1)|null|
-|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503v1](http://arxiv.org/abs/2408.02503v1)|null|
-|**2024-08-05**|**Flow with FlorDB: Incremental Context Maintenance for the Machine Learning Lifecycle**|Rolando Garcia et.al.|[2408.02498v1](http://arxiv.org/abs/2408.02498v1)|null|
-|**2024-08-05**|**A stochastic and analytical model of hierarchical fragmentation: The fragmentation of gas structures into young stellar objects in the interstellar medium**|Benjamin Thomasson et.al.|[2408.02472v1](http://arxiv.org/abs/2408.02472v1)|null|
-|**2024-08-05**|**Accelerated signal-to-noise ratio interpolation across the gravitational-wave signal manifold powered by artificial neural networks**|Ryan Magee et.al.|[2408.02470v1](http://arxiv.org/abs/2408.02470v1)|null|
-|**2024-08-05**|**Inferring firm-level supply chain networks with realistic systemic risk from industry sector-level data**|Massimiliano Fessina et.al.|[2408.02467v1](http://arxiv.org/abs/2408.02467v1)|null|
-|**2024-08-05**|**Traversing a thin lubricant film in finite time**|John Sebastian et.al.|[2408.02443v1](http://arxiv.org/abs/2408.02443v1)|null|
-|**2024-08-05**|**Steer-by-prior Editing of Symbolic Music Loops**|Nicolas Jonason et.al.|[2408.02434v1](http://arxiv.org/abs/2408.02434v1)|null|
-|**2024-08-05**|**Combinatorics of $q$-Mahonian numbers of type $B$ and log-concavity**|Ali Kessouri et.al.|[2408.02424v1](http://arxiv.org/abs/2408.02424v1)|null|
-|**2024-08-05**|**PENDRAM: Enabling High-Performance and Energy-Efficient Processing of Deep Neural Networks through a Generalized DRAM Data Mapping Policy**|Rachmad Vidya Wicaksana Putra et.al.|[2408.02412v1](http://arxiv.org/abs/2408.02412v1)|null|
-|**2024-08-05**|**Disproof of a conjecture by Erdős, Gimbel and Straight**|Raphael Steiner et.al.|[2408.02400v1](http://arxiv.org/abs/2408.02400v1)|null|
-|**2024-08-05**|**Graphical Modelling without Independence Assumptions for Uncentered Data**|Bailey Andrew et.al.|[2408.02393v1](http://arxiv.org/abs/2408.02393v1)|null|
-|**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
-|**2024-08-05**|**Non-parametric late-time expansion history reconstruction and implications for the Hubble tension in light of DESI**|Jun-Qian Jiang et.al.|[2408.02365v1](http://arxiv.org/abs/2408.02365v1)|null|
-|**2024-08-05**|**Potential Hessian Ascent: The Sherrington-Kirkpatrick Model**|David Jekel et.al.|[2408.02360v1](http://arxiv.org/abs/2408.02360v1)|null|
-|**2024-08-05**|**Quantile Regression using Random Forest Proximities**|Mingshu Li et.al.|[2408.02355v1](http://arxiv.org/abs/2408.02355v1)|null|
-|**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349v1](http://arxiv.org/abs/2408.02349v1)|null|
-|**2024-08-05**|**Exploiting Hankel-Toeplitz Structures for Fast Computation of Kernel Precision Matrices**|Frida Viset et.al.|[2408.02346v1](http://arxiv.org/abs/2408.02346v1)|null|
-|**2024-08-05**|**An approach to optimize inference of the DIART speaker diarization pipeline**|Roman Aperdannier et.al.|[2408.02341v1](http://arxiv.org/abs/2408.02341v1)|null|
+|**2024-08-06**|**Chasing cosmic inflation: constraints for inflationary models and reheating insights**|Mario Ballardini et.al.|[2408.03321v1](http://arxiv.org/abs/2408.03321v1)|null|
+|**2024-08-06**|**Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters**|Charlie Snell et.al.|[2408.03314v1](http://arxiv.org/abs/2408.03314v1)|null|
+|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312v1](http://arxiv.org/abs/2408.03312v1)|null|
+|**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307v1](http://arxiv.org/abs/2408.03307v1)|null|
+|**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290v1](http://arxiv.org/abs/2408.03290v1)|null|
+|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v1](http://arxiv.org/abs/2408.03287v1)|null|
+|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v1](http://arxiv.org/abs/2408.03281v1)|null|
+|**2024-08-06**|**Regression analysis of elliptically symmetric direction data**|Zehao Yu et.al.|[2408.03268v1](http://arxiv.org/abs/2408.03268v1)|null|
+|**2024-08-06**|**Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons**|Yifei Wang et.al.|[2408.03247v1](http://arxiv.org/abs/2408.03247v1)|null|
+|**2024-08-06**|**LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion**|Jinyu Zhang et.al.|[2408.03238v1](http://arxiv.org/abs/2408.03238v1)|null|
+|**2024-08-06**|**Red Type-1 Quasars after Cosmic Noon and Impact on $L_{\rm UV}$-related Quasar Statistics**|Yongjung Kim et.al.|[2408.03228v1](http://arxiv.org/abs/2408.03228v1)|null|
+|**2024-08-06**|**$\rm{SU}(3)_F$ sum rules for CP asymmetry of $D_{(s)}$ decays**|Syuhei Iguro et.al.|[2408.03227v1](http://arxiv.org/abs/2408.03227v1)|null|
+|**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223v1](http://arxiv.org/abs/2408.03223v1)|null|
+|**2024-08-06**|**Artinian groups of large cardinality**|Samuel M. Corson et.al.|[2408.03201v1](http://arxiv.org/abs/2408.03201v1)|null|
+|**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
+|**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
+|**2024-08-06**|**21 Balmer Jump Street: The Nebular Continuum at High Redshift and Implications for the Bright Galaxy Problem, UV Continuum Slopes, and Early Stellar Populations**|Harley Katz et.al.|[2408.03189v1](http://arxiv.org/abs/2408.03189v1)|null|
+|**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
+|**2024-08-06**|**SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection**|Blaž Rolih et.al.|[2408.03143v1](http://arxiv.org/abs/2408.03143v1)|null|
+|**2024-08-06**|**A Dust-Scattering Model for M1-92: A Revised Estimate of the Mass Distribution and Inclination**|Yun Qi Li et.al.|[2408.03136v1](http://arxiv.org/abs/2408.03136v1)|null|
+|**2024-08-06**|**Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations**|Leo Donisch et.al.|[2408.03130v1](http://arxiv.org/abs/2408.03130v1)|null|
+|**2024-08-06**|**Lisbon Computational Linguists at SemEval-2024 Task 2: Using A Mistral 7B Model and Data Augmentation**|Artur Guimarães et.al.|[2408.03127v1](http://arxiv.org/abs/2408.03127v1)|null|
+|**2024-08-06**|**High-dimensional quantum XYZ product codes for biased noise**|Zhipeng Liang et.al.|[2408.03123v1](http://arxiv.org/abs/2408.03123v1)|null|
+|**2024-08-06**|**Flexible Type-Based Resource Estimation in Quantum Circuit Description Languages**|Andrea Colledan et.al.|[2408.03121v1](http://arxiv.org/abs/2408.03121v1)|null|
+|**2024-08-06**|**Topic Modeling with Fine-tuning LLMs and Bag of Sentences**|Johannes Schneider et.al.|[2408.03099v1](http://arxiv.org/abs/2408.03099v1)|null|
+|**2024-08-06**|**500xCompressor: Generalized Prompt Compression for Large Language Models**|Zongqian Li et.al.|[2408.03094v1](http://arxiv.org/abs/2408.03094v1)|null|
+|**2024-08-06**|**More General Soliton Solution for Vectorial Bose-Einstein Condensate**|P. S. Vinayagam et.al.|[2408.03082v1](http://arxiv.org/abs/2408.03082v1)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
+|**2024-08-06**|**Valence Quark Distributions in Pions: Insights from Tsallis Entropy**|Jingxuan Chen et.al.|[2408.03068v1](http://arxiv.org/abs/2408.03068v1)|null|
+|**2024-08-06**|**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model**|Pegah Ramezani et.al.|[2408.03062v1](http://arxiv.org/abs/2408.03062v1)|null|
