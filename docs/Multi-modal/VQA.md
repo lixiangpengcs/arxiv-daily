@@ -7,18 +7,18 @@
 |**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312v1](http://arxiv.org/abs/2408.03312v1)|null|
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307v1](http://arxiv.org/abs/2408.03307v1)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290v1](http://arxiv.org/abs/2408.03290v1)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v1](http://arxiv.org/abs/2408.03287v1)|null|
-|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v1](http://arxiv.org/abs/2408.03281v1)|null|
+|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v2](http://arxiv.org/abs/2408.03287v2)|null|
+|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v2](http://arxiv.org/abs/2408.03281v2)|null|
 |**2024-08-06**|**Regression analysis of elliptically symmetric direction data**|Zehao Yu et.al.|[2408.03268v1](http://arxiv.org/abs/2408.03268v1)|null|
 |**2024-08-06**|**Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons**|Yifei Wang et.al.|[2408.03247v1](http://arxiv.org/abs/2408.03247v1)|null|
 |**2024-08-06**|**LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion**|Jinyu Zhang et.al.|[2408.03238v1](http://arxiv.org/abs/2408.03238v1)|null|
-|**2024-08-06**|**Red Type-1 Quasars after Cosmic Noon and Impact on $L_{\rm UV}$-related Quasar Statistics**|Yongjung Kim et.al.|[2408.03228v1](http://arxiv.org/abs/2408.03228v1)|null|
+|**2024-08-06**|**Red Type-1 Quasars after Cosmic Noon and Impact on $L_{\rm UV}$-related Quasar Statistics**|Yongjung Kim et.al.|[2408.03228v2](http://arxiv.org/abs/2408.03228v2)|null|
 |**2024-08-06**|**$\rm{SU}(3)_F$ sum rules for CP asymmetry of $D_{(s)}$ decays**|Syuhei Iguro et.al.|[2408.03227v1](http://arxiv.org/abs/2408.03227v1)|null|
 |**2024-08-06**|**Don't Think It Twice: Exploit Shift Invariance for Efficient Online Streaming Inference of CNNs**|Christodoulos Kechris et.al.|[2408.03223v1](http://arxiv.org/abs/2408.03223v1)|null|
 |**2024-08-06**|**Artinian groups of large cardinality**|Samuel M. Corson et.al.|[2408.03201v1](http://arxiv.org/abs/2408.03201v1)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
 |**2024-08-06**|**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**|Juuso Korhonen et.al.|[2408.03193v1](http://arxiv.org/abs/2408.03193v1)|null|
-|**2024-08-06**|**21 Balmer Jump Street: The Nebular Continuum at High Redshift and Implications for the Bright Galaxy Problem, UV Continuum Slopes, and Early Stellar Populations**|Harley Katz et.al.|[2408.03189v1](http://arxiv.org/abs/2408.03189v1)|null|
+|**2024-08-06**|**21 Balmer Jump Street: The Nebular Continuum at High Redshift and Implications for the Bright Galaxy Problem, UV Continuum Slopes, and Early Stellar Populations**|Harley Katz et.al.|[2408.03189v2](http://arxiv.org/abs/2408.03189v2)|null|
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
 |**2024-08-06**|**SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection**|Blaž Rolih et.al.|[2408.03143v1](http://arxiv.org/abs/2408.03143v1)|null|
 |**2024-08-06**|**A Dust-Scattering Model for M1-92: A Revised Estimate of the Mass Distribution and Inclination**|Yun Qi Li et.al.|[2408.03136v1](http://arxiv.org/abs/2408.03136v1)|null|

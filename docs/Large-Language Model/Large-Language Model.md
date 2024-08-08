@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326v1](http://arxiv.org/abs/2408.03326v1)|null|
 |**2024-08-06**|**CoverBench: A Challenging Benchmark for Complex Claim Verification**|Alon Jacovi et.al.|[2408.03325v1](http://arxiv.org/abs/2408.03325v1)|null|
-|**2024-08-06**|**Eddington Ratios of Dust-obscured Quasars at $z \lesssim 1$: Evidence Supporting Dust-obscured Quasars as Young Quasars**|Dohyeong Kim et.al.|[2408.03324v1](http://arxiv.org/abs/2408.03324v1)|null|
+|**2024-08-06**|**Eddington Ratios of Dust-obscured Quasars at $z \lesssim 1$: Evidence Supporting Dust-obscured Quasars as Young Quasars**|Dohyeong Kim et.al.|[2408.03324v2](http://arxiv.org/abs/2408.03324v2)|null|
 |**2024-08-06**|**ClassiFIM: An Unsupervised Method To Detect Phase Transitions**|Victor Kasatkin et.al.|[2408.03323v1](http://arxiv.org/abs/2408.03323v1)|null|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322v1](http://arxiv.org/abs/2408.03322v1)|null|
 |**2024-08-06**|**Chasing cosmic inflation: constraints for inflationary models and reheating insights**|Mario Ballardini et.al.|[2408.03321v1](http://arxiv.org/abs/2408.03321v1)|null|
@@ -28,7 +28,7 @@
 |**2024-08-06**|**Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability**|Lizi Zhang et.al.|[2408.03292v1](http://arxiv.org/abs/2408.03292v1)|null|
 |**2024-08-06**|**DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers**|Lianwei Yang et.al.|[2408.03291v1](http://arxiv.org/abs/2408.03291v1)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290v1](http://arxiv.org/abs/2408.03290v1)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v1](http://arxiv.org/abs/2408.03287v1)|null|
+|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v2](http://arxiv.org/abs/2408.03287v2)|null|
 |**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286v1](http://arxiv.org/abs/2408.03286v1)|null|
 |**2024-08-06**|**JetUnit: Rendering Diverse Force Feedback in Virtual Reality Using Water Jets**|Zining Zhang et.al.|[2408.03285v1](http://arxiv.org/abs/2408.03285v1)|null|
 |**2024-08-06**|**ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer**|Jiazhi Guan et.al.|[2408.03284v1](http://arxiv.org/abs/2408.03284v1)|null|

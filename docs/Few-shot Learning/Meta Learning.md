@@ -6,7 +6,7 @@
 |**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949v1](http://arxiv.org/abs/2408.02949v1)|null|
 |**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924v1](http://arxiv.org/abs/2408.02924v1)|null|
 |**2024-08-06**|**KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance**|Jingxian Lu et.al.|[2408.02912v1](http://arxiv.org/abs/2408.02912v1)|null|
-|**2024-08-05**|**Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation**|Mahei Manhai Li et.al.|[2408.02854v1](http://arxiv.org/abs/2408.02854v1)|null|
+|**2024-08-05**|**Wiping out the limitations of Large Language Models -- A Taxonomy for Retrieval Augmented Generation**|Mahei Manhai Li et.al.|[2408.02854v2](http://arxiv.org/abs/2408.02854v2)|null|
 |**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635v1](http://arxiv.org/abs/2408.02635v1)|null|
 |**2024-08-05**|**LMEMs for post-hoc analysis of HPO Benchmarking**|Anton Geburek et.al.|[2408.02533v1](http://arxiv.org/abs/2408.02533v1)|null|
 |**2024-08-05**|**Meta-Modelling in Formal Concept Analysis**|Yingjian Wang et.al.|[2408.02435v1](http://arxiv.org/abs/2408.02435v1)|null|
@@ -16,7 +16,7 @@
 |**2024-08-04**|**MetaWearS: A Shortcut in Wearable Systems Lifecycle with Only a Few Shots**|Alireza Amirshahi et.al.|[2408.01988v1](http://arxiv.org/abs/2408.01988v1)|null|
 |**2024-08-03**|**Meta-Posterior Consistency for the Bayesian Inference of Metastable System**|Zachary P Adams et.al.|[2408.01868v1](http://arxiv.org/abs/2408.01868v1)|null|
 |**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402v1](http://arxiv.org/abs/2408.01402v1)|null|
-|**2024-08-02**|**A Backbone for Long-Horizon Robot Task Understanding**|Xiaoshuai Chen et.al.|[2408.01334v1](http://arxiv.org/abs/2408.01334v1)|null|
+|**2024-08-02**|**A Backbone for Long-Horizon Robot Task Understanding**|Xiaoshuai Chen et.al.|[2408.01334v2](http://arxiv.org/abs/2408.01334v2)|null|
 |**2024-08-02**|**Metareasoning in uncertain environments: a meta-BAMDP framework**|Prakhar Godara et.al.|[2408.01253v1](http://arxiv.org/abs/2408.01253v1)|null|
 |**2024-08-02**|**META-ANOVA: Screening interactions for interpretable machine learning**|Yongchan Choi et.al.|[2408.00973v1](http://arxiv.org/abs/2408.00973v1)|null|
 |**2024-08-01**|**Enhancing Ethereum Fraud Detection via Generative and Contrastive Self-supervision**|Chenxiang Jin et.al.|[2408.00641v1](http://arxiv.org/abs/2408.00641v1)|null|

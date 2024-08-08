@@ -13,9 +13,9 @@
 |**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297v1](http://arxiv.org/abs/2408.03297v1)|null|
 |**2024-08-06**|**Left of Fab: Securing Design and Collaboration in the Semiconductor Value Chain**|John C. Hoag et.al.|[2408.03295v1](http://arxiv.org/abs/2408.03295v1)|null|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290v1](http://arxiv.org/abs/2408.03290v1)|null|
-|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v1](http://arxiv.org/abs/2408.03287v1)|null|
+|**2024-08-06**|**Malicious Internet Entity Detection Using Local Graph Inference**|Simon Mandlik et.al.|[2408.03287v2](http://arxiv.org/abs/2408.03287v2)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282v1](http://arxiv.org/abs/2408.03282v1)|null|
-|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v1](http://arxiv.org/abs/2408.03281v1)|null|
+|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281v2](http://arxiv.org/abs/2408.03281v2)|null|
 |**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274v1](http://arxiv.org/abs/2408.03274v1)|null|
 |**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265v1](http://arxiv.org/abs/2408.03265v1)|null|
 |**2024-08-06**|**Multiscale modeling framework of a constrained fluid with complex boundaries using twin neural networks**|Peiyuan Gao et.al.|[2408.03263v1](http://arxiv.org/abs/2408.03263v1)|null|
@@ -29,6 +29,6 @@
 |**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209v1](http://arxiv.org/abs/2408.03209v1)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
 |**2024-08-06**|**A Debiased Nearest Neighbors Framework for Multi-Label Text Classification**|Zifeng Cheng et.al.|[2408.03202v1](http://arxiv.org/abs/2408.03202v1)|null|
-|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200v1](http://arxiv.org/abs/2408.03200v1)|null|
+|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200v2](http://arxiv.org/abs/2408.03200v2)|null|
 |**2024-08-06**|**Convergence Conditions for Stochastic Line Search Based Optimization of Over-parametrized Models**|Matteo Lapucci et.al.|[2408.03199v1](http://arxiv.org/abs/2408.03199v1)|null|
 |**2024-08-06**|**Coercivity influence of nanostructure in SmCo-1:7 magnets: Machine learning of high-throughput micromagnetic data**|Yangyiwei Yang et.al.|[2408.03198v1](http://arxiv.org/abs/2408.03198v1)|null|
