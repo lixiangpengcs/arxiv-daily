@@ -2,6 +2,10 @@
 ### Meta Learning
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-07**|**Retrieval Augmentation via User Interest Clustering**|Hanjia Lyu et.al.|[2408.03886v1](http://arxiv.org/abs/2408.03886v1)|null|
+|**2024-08-07**|**A Blockchain-based Reliable Federated Meta-learning for Metaverse: A Dual Game Framework**|Emna Baccour et.al.|[2408.03694v1](http://arxiv.org/abs/2408.03694v1)|null|
+|**2024-08-07**|**Sensitivity analysis using the Metamodel of Optimal Prognosis**|Thomas Most et.al.|[2408.03590v1](http://arxiv.org/abs/2408.03590v1)|null|
+|**2024-08-07**|**Revisiting the Global Minimum Structure of the Pt5V Cluster**|P. L. Rodríguez-Kessler et.al.|[2408.03537v1](http://arxiv.org/abs/2408.03537v1)|null|
 |**2024-08-06**|**Learning to Learn without Forgetting using Attention**|Anna Vettoruzzo et.al.|[2408.03219v1](http://arxiv.org/abs/2408.03219v1)|null|
 |**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949v1](http://arxiv.org/abs/2408.02949v1)|null|
 |**2024-08-06**|**Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment**|Shijie Lian et.al.|[2408.02924v1](http://arxiv.org/abs/2408.02924v1)|[link](https://github.com/liamlian0727/underwatersam2eval)|
@@ -28,7 +32,3 @@
 |**2024-07-31**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038v1](http://arxiv.org/abs/2408.00038v1)|null|
 |**2024-07-31**|**Black box meta-learning intrinsic rewards for sparse-reward environments**|Octavio Pappalardo et.al.|[2407.21546v1](http://arxiv.org/abs/2407.21546v1)|null|
 |**2024-07-31**|**Deep Learning-Based Longitudinal Prediction of Childhood Myopia Progression Using Fundus Image Sequences and Baseline Refraction Data**|Mengtian Kang et.al.|[2407.21467v1](http://arxiv.org/abs/2407.21467v1)|null|
-|**2024-07-31**|**Outlier Detection in Large Radiological Datasets using UMAP**|Mohammad Tariqul Islam et.al.|[2407.21263v2](http://arxiv.org/abs/2407.21263v2)|null|
-|**2024-07-30**|**$T\bar{a}laGen:$ A System for Automatic $T\bar{a}la$ Identification and Generation**|Rahul Bapusaheb Kodag et.al.|[2407.20935v1](http://arxiv.org/abs/2407.20935v1)|null|
-|**2024-07-30**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v3](http://arxiv.org/abs/2407.20708v3)|[link](https://github.com/biclab/spikeyolo)|
-|**2024-07-30**|**A Three Steps Methodological Approach to Legal Governance Validation**|Pompeu Casanovas et.al.|[2407.20691v1](http://arxiv.org/abs/2407.20691v1)|null|

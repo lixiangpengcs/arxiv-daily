@@ -2,33 +2,33 @@
 ### Image Caption
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326v1](http://arxiv.org/abs/2408.03326v1)|null|
-|**2024-08-06**|**ClassiFIM: An Unsupervised Method To Detect Phase Transitions**|Victor Kasatkin et.al.|[2408.03323v1](http://arxiv.org/abs/2408.03323v1)|null|
-|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322v1](http://arxiv.org/abs/2408.03322v1)|null|
-|**2024-08-06**|**MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation**|Xiaofeng Mao et.al.|[2408.03312v1](http://arxiv.org/abs/2408.03312v1)|null|
-|**2024-08-06**|**Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations of the Globular Cluster Systems of 74 Ultra Diffuse Galaxies**|Francine R. Marleau et.al.|[2408.03311v1](http://arxiv.org/abs/2408.03311v1)|null|
-|**2024-08-06**|**Understanding How Blind Users Handle Object Recognition Errors: Strategies and Challenges**|Jonggi Hong et.al.|[2408.03303v1](http://arxiv.org/abs/2408.03303v1)|null|
-|**2024-08-06**|**Static IR Drop Prediction with Attention U-Net and Saliency-Based Explainability**|Lizi Zhang et.al.|[2408.03292v1](http://arxiv.org/abs/2408.03292v1)|null|
-|**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286v1](http://arxiv.org/abs/2408.03286v1)|null|
-|**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282v1](http://arxiv.org/abs/2408.03282v1)|null|
-|**2024-08-06**|**The characterisation of water ice in debris discs: implications for JWST scattered light observations**|Minjae Kim et.al.|[2408.03278v1](http://arxiv.org/abs/2408.03278v1)|null|
-|**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274v1](http://arxiv.org/abs/2408.03274v1)|null|
-|**2024-08-06**|**BVI-AOM: A New Training Dataset for Deep Video Compression Optimization**|Jakub Nawała et.al.|[2408.03265v2](http://arxiv.org/abs/2408.03265v2)|null|
-|**2024-08-06**|**Crab Pulsar: IXPE Observations Reveal Unified Polarization Properties Across Optical and Soft X-Ray Bands**|Denis González-Caniulef et.al.|[2408.03245v1](http://arxiv.org/abs/2408.03245v1)|null|
-|**2024-08-06**|**Event Horizon Telescope observations exclude compact objects in baseline mimetic gravity**|Mohsen Khodadi et.al.|[2408.03241v1](http://arxiv.org/abs/2408.03241v1)|null|
-|**2024-08-06**|**LAC-Net: Linear-Fusion Attention-Guided Convolutional Network for Accurate Robotic Grasping Under the Occlusion**|Jinyu Zhang et.al.|[2408.03238v1](http://arxiv.org/abs/2408.03238v1)|null|
-|**2024-08-06**|**Contrastive Learning for Image Complexity Representation**|Shipeng Liu et.al.|[2408.03230v1](http://arxiv.org/abs/2408.03230v1)|null|
-|**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|[link](https://github.com/zibin6/lopet)|
-|**2024-08-06**|**Image Quality Transfer of Diffusion MRI Guided By High-Resolution Structural MRI**|Alp G. Cicimen et.al.|[2408.03216v1](http://arxiv.org/abs/2408.03216v1)|null|
-|**2024-08-06**|**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**|Ciara Rowles et.al.|[2408.03209v1](http://arxiv.org/abs/2408.03209v1)|null|
-|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208v1](http://arxiv.org/abs/2408.03208v1)|null|
-|**2024-08-06**|**SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention**|Shaoming Zheng et.al.|[2408.03194v1](http://arxiv.org/abs/2408.03194v1)|null|
-|**2024-08-06**|**The interplay between disk wind and magnetospheric accretion mechanisms in the innermost environment of RU Lup**|J. A. Wojtczak et.al.|[2408.03186v1](http://arxiv.org/abs/2408.03186v1)|null|
-|**2024-08-06**|**An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion**|Xingguang Yan et.al.|[2408.03178v1](http://arxiv.org/abs/2408.03178v1)|null|
-|**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168v1](http://arxiv.org/abs/2408.03168v1)|null|
-|**2024-08-06**|**Stacking fault segregation imaging with analytical field ion microscopy**|F. F. Morgado et.al.|[2408.03167v1](http://arxiv.org/abs/2408.03167v1)|null|
-|**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156v1](http://arxiv.org/abs/2408.03156v1)|null|
-|**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149v1](http://arxiv.org/abs/2408.03149v1)|null|
-|**2024-08-06**|**SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection**|Blaž Rolih et.al.|[2408.03143v1](http://arxiv.org/abs/2408.03143v1)|[link](https://github.com/blaz-r/supersimplenet)|
-|**2024-08-06**|**A Dust-Scattering Model for M1-92: A Revised Estimate of the Mass Distribution and Inclination**|Yun Qi Li et.al.|[2408.03136v1](http://arxiv.org/abs/2408.03136v1)|null|
-|**2024-08-06**|**Benchmarking In-the-wild Multimodal Disease Recognition and A Versatile Baseline**|Tianqi Wei et.al.|[2408.03120v1](http://arxiv.org/abs/2408.03120v1)|null|
+|**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940v1](http://arxiv.org/abs/2408.03940v1)|null|
+|**2024-08-07**|**FMiFood: Multi-modal Contrastive Learning for Food Image Classification**|Xinyue Pan et.al.|[2408.03922v1](http://arxiv.org/abs/2408.03922v1)|null|
+|**2024-08-07**|**The UNCOVER Survey: First Release of Ultradeep JWST/NIRSpec PRISM spectra for ~700 galaxies from z~0.3-13 in Abell 2744**|Sedona H. Price et.al.|[2408.03920v1](http://arxiv.org/abs/2408.03920v1)|null|
+|**2024-08-07**|**AdapMTL: Adaptive Pruning Framework for Multitask Learning Model**|Mingcan Xiang et.al.|[2408.03913v1](http://arxiv.org/abs/2408.03913v1)|null|
+|**2024-08-07**|**Lightweight Video Denoising Using a Classic Bayesian Backbone**|Clément Bled et.al.|[2408.03904v1](http://arxiv.org/abs/2408.03904v1)|null|
+|**2024-08-07**|**HOLISMOKES -- XIV. Time-delay and differential dust extinction determination with lensed type II supernova color curves**|J. Grupa et.al.|[2408.03902v1](http://arxiv.org/abs/2408.03902v1)|null|
+|**2024-08-07**|**Planet Formation Imager (PFI): Project update and future directions**|John D. Monnier et.al.|[2408.03896v1](http://arxiv.org/abs/2408.03896v1)|null|
+|**2024-08-07**|**Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection**|Xinyue Liu et.al.|[2408.03888v1](http://arxiv.org/abs/2408.03888v1)|null|
+|**2024-08-07**|**Global-Local Progressive Integration Network for Blind Image Quality Assessment**|Xiaoqi Wang et.al.|[2408.03885v1](http://arxiv.org/abs/2408.03885v1)|null|
+|**2024-08-07**|**ImageSI: Semantic Interaction for Deep Learning Image Projections**|Jiayue Lin et.al.|[2408.03845v1](http://arxiv.org/abs/2408.03845v1)|null|
+|**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842v1](http://arxiv.org/abs/2408.03842v1)|null|
+|**2024-08-07**|**Target Prompting for Information Extraction with Vision Language Model**|Dipankar Medhi et.al.|[2408.03834v1](http://arxiv.org/abs/2408.03834v1)|null|
+|**2024-08-07**|**A direct reconstruction method for radiating sources in Maxwell's equations with single-frequency data**|Isaac Harris et.al.|[2408.03826v1](http://arxiv.org/abs/2408.03826v1)|null|
+|**2024-08-07**|**Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields**|Joo Chan Lee et.al.|[2408.03822v1](http://arxiv.org/abs/2408.03822v1)|null|
+|**2024-08-07**|**Trustworthy Image Semantic Communication with GenAI: Explainablity, Controllability, and Efficiency**|Xijun Wang et.al.|[2408.03806v1](http://arxiv.org/abs/2408.03806v1)|null|
+|**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[2408.03790v1](http://arxiv.org/abs/2408.03790v1)|null|
+|**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin et.al.|[2408.03789v1](http://arxiv.org/abs/2408.03789v1)|null|
+|**2024-08-07**|**MMSummary: Multimodal Summary Generation for Fetal Ultrasound Video**|Xiaoqing Guo et.al.|[2408.03761v1](http://arxiv.org/abs/2408.03761v1)|null|
+|**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748v1](http://arxiv.org/abs/2408.03748v1)|[link](https://github.com/lengmo1996/ECDM)|
+|**2024-08-07**|**Intuitionistic Fuzzy Cognitive Maps for Interpretable Image Classification**|Georgia Sovatzidi et.al.|[2408.03745v1](http://arxiv.org/abs/2408.03745v1)|null|
+|**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734v1](http://arxiv.org/abs/2408.03734v1)|null|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703v1](http://arxiv.org/abs/2408.03703v1)|[link](https://github.com/tianfang-zhang/cas-vit)|
+|**2024-08-07**|**Openstory++: A Large-scale Dataset and Benchmark for Instance-aware Open-domain Visual Storytelling**|Zilyu Ye et.al.|[2408.03695v1](http://arxiv.org/abs/2408.03695v1)|null|
+|**2024-08-07**|**Designing Extremely Memory-Efficient CNNs for On-device Vision Tasks**|Jaewook Lee et.al.|[2408.03663v1](http://arxiv.org/abs/2408.03663v1)|null|
+|**2024-08-07**|**PHOCUS: Physics-Based Deconvolution for Ultrasound Resolution Enhancement**|Felix Duelmer et.al.|[2408.03657v1](http://arxiv.org/abs/2408.03657v1)|null|
+|**2024-08-07**|**Unsupervised Detection of Fetal Brain Anomalies using Denoising Diffusion Models**|Markus Ditlev Sjøgren Olsen et.al.|[2408.03654v1](http://arxiv.org/abs/2408.03654v1)|null|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651v1](http://arxiv.org/abs/2408.03651v1)|[link](https://github.com/simzhangbest/sam2path)|
+|**2024-08-07**|**Goal-oriented Semantic Communication for the Metaverse Application**|Zhe Wang et.al.|[2408.03646v1](http://arxiv.org/abs/2408.03646v1)|null|
+|**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637v1](http://arxiv.org/abs/2408.03637v1)|null|
+|**2024-08-07**|**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**|Zebin Yao et.al.|[2408.03632v1](http://arxiv.org/abs/2408.03632v1)|null|
