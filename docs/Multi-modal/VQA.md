@@ -24,11 +24,11 @@
 |**2024-08-07**|**Local Topology Measures of Contextual Language Model Latent Spaces With Applications to Dialogue Term Extraction**|Benjamin Matthias Ruppik et.al.|[2408.03706v1](http://arxiv.org/abs/2408.03706v1)|null|
 |**2024-08-07**|**Prioritising Response-able IP Practices in Digitization of Electoral Processes in Africa**|Angella Ndaka et.al.|[2408.03690v1](http://arxiv.org/abs/2408.03690v1)|null|
 |**2024-08-07**|**Iterative Knowledge Distillation through Feedback-Driven Learning Cycles**|Yujia Chen et.al.|[2408.03680v1](http://arxiv.org/abs/2408.03680v1)|null|
-|**2024-08-07**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675v1](http://arxiv.org/abs/2408.03675v1)|[link](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)|
+|**2024-08-07**|**NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**|Yilong Chen et.al.|[2408.03675v2](http://arxiv.org/abs/2408.03675v2)|[link](https://github.com/PaddlePaddle/Research)|
 |**2024-08-07**|**Maximum Quantum Non-Locality is not always Sufficient for Device-Independent Randomness Generation**|Ravishankar Ramanathan et.al.|[2408.03665v1](http://arxiv.org/abs/2408.03665v1)|null|
 |**2024-08-07**|**HiQuE: Hierarchical Question Embedding Network for Multimodal Depression Detection**|Juho Jung et.al.|[2408.03648v1](http://arxiv.org/abs/2408.03648v1)|null|
 |**2024-08-07**|**Real-time Event Recognition of Long-distance Distributed Vibration Sensing with Knowledge Distillation and Hardware Acceleration**|Zhongyao Luo et.al.|[2408.03647v1](http://arxiv.org/abs/2408.03647v1)|null|
-|**2024-08-07**|**CARE: A Clue-guided Assistant for CSRs to Read User Manuals**|Weihong Du et.al.|[2408.03633v1](http://arxiv.org/abs/2408.03633v1)|null|
+|**2024-08-07**|**CARE: A Clue-guided Assistant for CSRs to Read User Manuals**|Weihong Du et.al.|[2408.03633v2](http://arxiv.org/abs/2408.03633v2)|null|
 |**2024-08-07**|**Is Child-Directed Speech Effective Training Data for Language Models?**|Steven Y. Feng et.al.|[2408.03617v1](http://arxiv.org/abs/2408.03617v1)|null|
 |**2024-08-07**|**Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation**|Feng Zhou et.al.|[2408.03616v1](http://arxiv.org/abs/2408.03616v1)|null|
 |**2024-08-07**|**JARViS: Detecting Actions in Video Using Unified Actor-Scene Context Relation Modeling**|Seok Hwan Lee et.al.|[2408.03612v1](http://arxiv.org/abs/2408.03612v1)|null|
